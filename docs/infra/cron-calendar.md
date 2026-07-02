@@ -16,12 +16,11 @@
 | Cron | ID | Horário (BRT) | Modelo | Frequência | Status |
 |------|----|--------------|--------|------------|--------|
 | Memory Dreaming Promotion | dec6d229 | **04:00** | default | diário | ✅ OK |
+| omega:git-autosave | 2f49e8ef | **08:50, 22:50** | glm-4.5-flash | 2x/dia | ✅ OK |
+| omega:docs-sync | 9a2fbf1d | **08:50, 22:50** | glm-4.5-flash | 2x/dia | ✅ NOVO |
 | omega:auto-melhoria | 59182433 | **Sáb 07:00** | glm-4.5-flash | semanal | ✅ OK |
 | omega:docs-review | 42711a59 | **Dom 07:00** | glm-4.5-flash | semanal | ✅ OK |
-| omega:security-audit | 0bf46e12 | **Dia 1/15 07:00** | glm-4.5-flash | quinzenal | ⚠️ Rate limit |
-| omega:git-autosave | 2f49e8ef | **08:50, 22:50** | glm-4.5-flash | 2x/dia | ⚠️ Timeout |
-| watchdog-crons | 789843c6 | **09:00** | glm-4.5-flash | diário | ❌ 3+ falhas |
-| atlas:git-autosave | aa6a53fe | 08:30, 22:30 | glm-4.5-flash | 2x/dia | ✅ OK |
+| omega:security-audit | 0bf46e12 | **Dia 1/15 07:00** | glm-4.5-flash | quinzenal | ✅ OK |
 
 ### Google Calendar — Omega Cron
 - **ID:** fbd4cbd83fc92f1ee6addb54333199f33342f9f23578ed27d53de7b8a85f5aa0@group.calendar.google.com
