@@ -1,0 +1,2665 @@
+1
+00:00:00,160 --> 00:00:02,470
+
+Olá, seja bem-vindo ao nosso minicurso.
+
+2
+00:00:02,470 --> 00:00:02,480
+Olá, seja bem-vindo ao nosso minicurso.
+ 
+
+3
+00:00:02,480 --> 00:00:04,630
+Olá, seja bem-vindo ao nosso minicurso.
+Que prazer te aqui. Eu sou Bruno Camoto
+
+4
+00:00:04,630 --> 00:00:04,640
+Que prazer te aqui. Eu sou Bruno Camoto
+ 
+
+5
+00:00:04,640 --> 00:00:06,430
+Que prazer te aqui. Eu sou Bruno Camoto
+e dentro desse minicurso, eu vou te
+
+6
+00:00:06,430 --> 00:00:06,440
+e dentro desse minicurso, eu vou te
+ 
+
+7
+00:00:06,440 --> 00:00:09,070
+e dentro desse minicurso, eu vou te
+ensinar a você montar o seu super agente
+
+8
+00:00:09,070 --> 00:00:09,080
+ensinar a você montar o seu super agente
+ 
+
+9
+00:00:09,080 --> 00:00:12,390
+ensinar a você montar o seu super agente
+e você ganhar super poderes. Eh, bizarro
+
+10
+00:00:12,390 --> 00:00:12,400
+e você ganhar super poderes. Eh, bizarro
+ 
+
+11
+00:00:12,400 --> 00:00:13,789
+e você ganhar super poderes. Eh, bizarro
+esse momento da história que a gente tá
+
+12
+00:00:13,789 --> 00:00:13,799
+esse momento da história que a gente tá
+ 
+
+13
+00:00:13,799 --> 00:00:16,310
+esse momento da história que a gente tá
+vivendo 2026 e a possibilidade de você
+
+14
+00:00:16,310 --> 00:00:16,320
+vivendo 2026 e a possibilidade de você
+ 
+
+15
+00:00:16,320 --> 00:00:18,510
+vivendo 2026 e a possibilidade de você
+ter um funcionário super inteligente, te
+
+16
+00:00:18,510 --> 00:00:18,520
+ter um funcionário super inteligente, te
+ 
+
+17
+00:00:18,520 --> 00:00:19,830
+ter um funcionário super inteligente, te
+ajudando em todas as esferas da sua
+
+18
+00:00:19,830 --> 00:00:19,840
+ajudando em todas as esferas da sua
+ 
+
+19
+00:00:19,840 --> 00:00:22,150
+ajudando em todas as esferas da sua
+vida, tanto pessoal como profissional.
+
+20
+00:00:22,150 --> 00:00:22,160
+vida, tanto pessoal como profissional.
+ 
+
+21
+00:00:22,160 --> 00:00:23,870
+vida, tanto pessoal como profissional.
+Esse minicurso ele vai te dar uma
+
+22
+00:00:23,870 --> 00:00:23,880
+Esse minicurso ele vai te dar uma
+ 
+
+23
+00:00:23,880 --> 00:00:26,349
+Esse minicurso ele vai te dar uma
+fundação muito sólida para você sair do
+
+24
+00:00:26,349 --> 00:00:26,359
+fundação muito sólida para você sair do
+ 
+
+25
+00:00:26,359 --> 00:00:28,029
+fundação muito sólida para você sair do
+zero. Então você não precisa ter um
+
+26
+00:00:28,029 --> 00:00:28,039
+zero. Então você não precisa ter um
+ 
+
+27
+00:00:28,039 --> 00:00:29,749
+zero. Então você não precisa ter um
+conhecimento técnico e se você tiver
+
+28
+00:00:29,749 --> 00:00:29,759
+conhecimento técnico e se você tiver
+ 
+
+29
+00:00:29,759 --> 00:00:32,150
+conhecimento técnico e se você tiver
+legal ainda, você vai ir mais rápido.
+
+30
+00:00:32,150 --> 00:00:32,160
+legal ainda, você vai ir mais rápido.
+ 
+
+31
+00:00:32,160 --> 00:00:34,030
+legal ainda, você vai ir mais rápido.
+Mas esse curso vai te dar uma fundação
+
+32
+00:00:34,030 --> 00:00:34,040
+Mas esse curso vai te dar uma fundação
+ 
+
+33
+00:00:34,040 --> 00:00:35,869
+Mas esse curso vai te dar uma fundação
+sólida para você aprender como
+
+34
+00:00:35,869 --> 00:00:35,879
+sólida para você aprender como
+ 
+
+35
+00:00:35,879 --> 00:00:37,709
+sólida para você aprender como
+configurar seu agente, como você criar
+
+36
+00:00:37,709 --> 00:00:37,719
+configurar seu agente, como você criar
+ 
+
+37
+00:00:37,719 --> 00:00:39,470
+configurar seu agente, como você criar
+uma personalidade, como você dar uma
+
+38
+00:00:39,470 --> 00:00:39,480
+uma personalidade, como você dar uma
+ 
+
+39
+00:00:39,480 --> 00:00:41,830
+uma personalidade, como você dar uma
+memória para ele, como você deixar ele
+
+40
+00:00:41,830 --> 00:00:41,840
+memória para ele, como você deixar ele
+ 
+
+41
+00:00:41,840 --> 00:00:43,869
+memória para ele, como você deixar ele
+seguro, como você blindar ele. Então eu
+
+42
+00:00:43,869 --> 00:00:43,879
+seguro, como você blindar ele. Então eu
+ 
+
+43
+00:00:43,879 --> 00:00:46,189
+seguro, como você blindar ele. Então eu
+vou te dar toda a base que você precisa.
+
+44
+00:00:46,189 --> 00:00:46,199
+vou te dar toda a base que você precisa.
+ 
+
+45
+00:00:46,199 --> 00:00:47,670
+vou te dar toda a base que você precisa.
+Então, antes da gente começar a
+
+46
+00:00:47,670 --> 00:00:47,680
+Então, antes da gente começar a
+ 
+
+47
+00:00:47,680 --> 00:00:49,510
+Então, antes da gente começar a
+mergulhar no conteúdo, deixa eu me
+
+48
+00:00:49,510 --> 00:00:49,520
+mergulhar no conteúdo, deixa eu me
+ 
+
+49
+00:00:49,520 --> 00:00:51,270
+mergulhar no conteúdo, deixa eu me
+apresentar rapidinho para vocês. Eu sou
+
+50
+00:00:51,270 --> 00:00:51,280
+apresentar rapidinho para vocês. Eu sou
+ 
+
+51
+00:00:51,280 --> 00:00:52,790
+apresentar rapidinho para vocês. Eu sou
+o Bruno Camoto. Eu sou um empreendedor
+
+52
+00:00:52,790 --> 00:00:52,800
+o Bruno Camoto. Eu sou um empreendedor
+ 
+
+53
+00:00:52,800 --> 00:00:55,150
+o Bruno Camoto. Eu sou um empreendedor
+há mais de uma década, já construí por
+
+54
+00:00:55,150 --> 00:00:55,160
+há mais de uma década, já construí por
+ 
+
+55
+00:00:55,160 --> 00:00:57,910
+há mais de uma década, já construí por
+muitos anos startups e agora eu tô numa
+
+56
+00:00:57,910 --> 00:00:57,920
+muitos anos startups e agora eu tô numa
+ 
+
+57
+00:00:57,920 --> 00:01:00,670
+muitos anos startups e agora eu tô numa
+jornada de construir outros negócios um
+
+58
+00:01:00,670 --> 00:01:00,680
+jornada de construir outros negócios um
+ 
+
+59
+00:01:00,680 --> 00:01:02,349
+jornada de construir outros negócios um
+pouco mais calmos e tranquilos. Então,
+
+60
+00:01:02,349 --> 00:01:02,359
+pouco mais calmos e tranquilos. Então,
+ 
+
+61
+00:01:02,359 --> 00:01:04,149
+pouco mais calmos e tranquilos. Então,
+eu tenho a minha empresa de infoproduto,
+
+62
+00:01:04,149 --> 00:01:04,159
+eu tenho a minha empresa de infoproduto,
+ 
+
+63
+00:01:04,159 --> 00:01:06,230
+eu tenho a minha empresa de infoproduto,
+que você tá aqui por causa dela. Eu
+
+64
+00:01:06,230 --> 00:01:06,240
+que você tá aqui por causa dela. Eu
+ 
+
+65
+00:01:06,240 --> 00:01:08,149
+que você tá aqui por causa dela. Eu
+também tenho os meus SAS e eu gosto
+
+66
+00:01:08,149 --> 00:01:08,159
+também tenho os meus SAS e eu gosto
+ 
+
+67
+00:01:08,159 --> 00:01:10,590
+também tenho os meus SAS e eu gosto
+muito de usar AI no meu dia a dia para
+
+68
+00:01:10,590 --> 00:01:10,600
+muito de usar AI no meu dia a dia para
+ 
+
+69
+00:01:10,600 --> 00:01:12,109
+muito de usar AI no meu dia a dia para
+melhorar a minha produtividade, para
+
+70
+00:01:12,109 --> 00:01:12,119
+melhorar a minha produtividade, para
+ 
+
+71
+00:01:12,119 --> 00:01:14,270
+melhorar a minha produtividade, para
+melhorar os meus negócios, até porque eu
+
+72
+00:01:14,270 --> 00:01:14,280
+melhorar os meus negócios, até porque eu
+ 
+
+73
+00:01:14,280 --> 00:01:16,230
+melhorar os meus negócios, até porque eu
+me sinto muito no meio de um hype, né?
+
+74
+00:01:16,230 --> 00:01:16,240
+me sinto muito no meio de um hype, né?
+ 
+
+75
+00:01:16,240 --> 00:01:17,830
+me sinto muito no meio de um hype, né?
+Eu tô na bolha de tech, então você tá
+
+76
+00:01:17,830 --> 00:01:17,840
+Eu tô na bolha de tech, então você tá
+ 
+
+77
+00:01:17,840 --> 00:01:19,270
+Eu tô na bolha de tech, então você tá
+aqui porque você também tá caindo nessa
+
+78
+00:01:19,270 --> 00:01:19,280
+aqui porque você também tá caindo nessa
+ 
+
+79
+00:01:19,280 --> 00:01:21,789
+aqui porque você também tá caindo nessa
+bolha de tech. E eu sei como você deve
+
+80
+00:01:21,789 --> 00:01:21,799
+bolha de tech. E eu sei como você deve
+ 
+
+81
+00:01:21,799 --> 00:01:24,069
+bolha de tech. E eu sei como você deve
+se sentir com essa questão de AI, de ter
+
+82
+00:01:24,069 --> 00:01:24,079
+se sentir com essa questão de AI, de ter
+ 
+
+83
+00:01:24,079 --> 00:01:26,069
+se sentir com essa questão de AI, de ter
+muitas ferramentas e tá todo mundo
+
+84
+00:01:26,069 --> 00:01:26,079
+muitas ferramentas e tá todo mundo
+ 
+
+85
+00:01:26,079 --> 00:01:27,670
+muitas ferramentas e tá todo mundo
+falando e cara, o que fazer, o que
+
+86
+00:01:27,670 --> 00:01:27,680
+falando e cara, o que fazer, o que
+ 
+
+87
+00:01:27,680 --> 00:01:30,190
+falando e cara, o que fazer, o que
+fazer. Mas a verdade é que assim, eu
+
+88
+00:01:30,190 --> 00:01:30,200
+fazer. Mas a verdade é que assim, eu
+ 
+
+89
+00:01:30,200 --> 00:01:31,710
+fazer. Mas a verdade é que assim, eu
+sinto que depois que eu conheci o
+
+90
+00:01:31,710 --> 00:01:31,720
+sinto que depois que eu conheci o
+ 
+
+91
+00:01:31,720 --> 00:01:33,230
+sinto que depois que eu conheci o
+OpenCla, que é o que eu vou te ensinar
+
+92
+00:01:33,230 --> 00:01:33,240
+OpenCla, que é o que eu vou te ensinar
+ 
+
+93
+00:01:33,240 --> 00:01:35,550
+OpenCla, que é o que eu vou te ensinar
+aqui, eu realmente consegui ter um pouco
+
+94
+00:01:35,550 --> 00:01:35,560
+aqui, eu realmente consegui ter um pouco
+ 
+
+95
+00:01:35,560 --> 00:01:37,469
+aqui, eu realmente consegui ter um pouco
+mais de foco. E eu acho que essa
+
+96
+00:01:37,469 --> 00:01:37,479
+mais de foco. E eu acho que essa
+ 
+
+97
+00:01:37,479 --> 00:01:38,950
+mais de foco. E eu acho que essa
+ferramenta ela é um grande divisor de
+
+98
+00:01:38,950 --> 00:01:38,960
+ferramenta ela é um grande divisor de
+ 
+
+99
+00:01:38,960 --> 00:01:41,190
+ferramenta ela é um grande divisor de
+águas, tá? Então, deixa eu te falar para
+
+100
+00:01:41,190 --> 00:01:41,200
+águas, tá? Então, deixa eu te falar para
+ 
+
+101
+00:01:41,200 --> 00:01:42,910
+águas, tá? Então, deixa eu te falar para
+você o que você vai alcançar aqui nesse
+
+102
+00:01:42,910 --> 00:01:42,920
+você o que você vai alcançar aqui nesse
+ 
+
+103
+00:01:42,920 --> 00:01:44,950
+você o que você vai alcançar aqui nesse
+minicurso e porque talvez essa seja a
+
+104
+00:01:44,950 --> 00:01:44,960
+minicurso e porque talvez essa seja a
+ 
+
+105
+00:01:44,960 --> 00:01:46,429
+minicurso e porque talvez essa seja a
+única aula que ela realmente importa
+
+106
+00:01:46,429 --> 00:01:46,439
+única aula que ela realmente importa
+ 
+
+107
+00:01:46,439 --> 00:01:48,469
+única aula que ela realmente importa
+para você. Dentro desse minicurso, eu
+
+108
+00:01:48,469 --> 00:01:48,479
+para você. Dentro desse minicurso, eu
+ 
+
+109
+00:01:48,479 --> 00:01:50,230
+para você. Dentro desse minicurso, eu
+vou te ensinar toda a parte de
+
+110
+00:01:50,230 --> 00:01:50,240
+vou te ensinar toda a parte de
+ 
+
+111
+00:01:50,240 --> 00:01:52,870
+vou te ensinar toda a parte de
+configurar uma VPS para você montar uma
+
+112
+00:01:52,870 --> 00:01:52,880
+configurar uma VPS para você montar uma
+ 
+
+113
+00:01:52,880 --> 00:01:55,030
+configurar uma VPS para você montar uma
+estrutura na nuvem. Inclusive, eu vou te
+
+114
+00:01:55,030 --> 00:01:55,040
+estrutura na nuvem. Inclusive, eu vou te
+ 
+
+115
+00:01:55,040 --> 00:01:56,550
+estrutura na nuvem. Inclusive, eu vou te
+explicar o porque eu não recomendo você
+
+116
+00:01:56,550 --> 00:01:56,560
+explicar o porque eu não recomendo você
+ 
+
+117
+00:01:56,560 --> 00:01:58,230
+explicar o porque eu não recomendo você
+ter um computador pessoal para isso, tá?
+
+118
+00:01:58,230 --> 00:01:58,240
+ter um computador pessoal para isso, tá?
+ 
+
+119
+00:01:58,240 --> 00:02:00,149
+ter um computador pessoal para isso, tá?
+Eu vou te ensinar toda a parte de
+
+120
+00:02:00,149 --> 00:02:00,159
+Eu vou te ensinar toda a parte de
+ 
+
+121
+00:02:00,159 --> 00:02:02,469
+Eu vou te ensinar toda a parte de
+configuração dessa VPS, como você
+
+122
+00:02:02,469 --> 00:02:02,479
+configuração dessa VPS, como você
+ 
+
+123
+00:02:02,479 --> 00:02:05,230
+configuração dessa VPS, como você
+blindar a seu o seu open, como você
+
+124
+00:02:05,230 --> 00:02:05,240
+blindar a seu o seu open, como você
+ 
+
+125
+00:02:05,240 --> 00:02:07,149
+blindar a seu o seu open, como você
+criar uma identidade para ele, como você
+
+126
+00:02:07,149 --> 00:02:07,159
+criar uma identidade para ele, como você
+ 
+
+127
+00:02:07,159 --> 00:02:08,669
+criar uma identidade para ele, como você
+estruturar a memória dele para que ele
+
+128
+00:02:08,669 --> 00:02:08,679
+estruturar a memória dele para que ele
+ 
+
+129
+00:02:08,679 --> 00:02:10,109
+estruturar a memória dele para que ele
+lembre das coisas e tenha essa memória
+
+130
+00:02:10,109 --> 00:02:10,119
+lembre das coisas e tenha essa memória
+ 
+
+131
+00:02:10,119 --> 00:02:12,430
+lembre das coisas e tenha essa memória
+persistente, como você integrar ele com
+
+132
+00:02:12,430 --> 00:02:12,440
+persistente, como você integrar ele com
+ 
+
+133
+00:02:12,440 --> 00:02:14,350
+persistente, como você integrar ele com
+outras ferramentas e criar agendamentos
+
+134
+00:02:14,350 --> 00:02:14,360
+outras ferramentas e criar agendamentos
+ 
+
+135
+00:02:14,360 --> 00:02:16,309
+outras ferramentas e criar agendamentos
+recorrentes, como você implementar
+
+136
+00:02:16,309 --> 00:02:16,319
+recorrentes, como você implementar
+ 
+
+137
+00:02:16,319 --> 00:02:18,309
+recorrentes, como você implementar
+skills, que são as super habilidades
+
+138
+00:02:18,309 --> 00:02:18,319
+skills, que são as super habilidades
+ 
+
+139
+00:02:18,319 --> 00:02:19,869
+skills, que são as super habilidades
+deles, né, que eles têm, como você
+
+140
+00:02:19,869 --> 00:02:19,879
+deles, né, que eles têm, como você
+ 
+
+141
+00:02:19,879 --> 00:02:21,150
+deles, né, que eles têm, como você
+transformar o seu agente num agente
+
+142
+00:02:21,150 --> 00:02:21,160
+transformar o seu agente num agente
+ 
+
+143
+00:02:21,160 --> 00:02:23,430
+transformar o seu agente num agente
+proativo. Como você criar um sistema de
+
+144
+00:02:23,430 --> 00:02:23,440
+proativo. Como você criar um sistema de
+ 
+
+145
+00:02:23,440 --> 00:02:25,430
+proativo. Como você criar um sistema de
+multiagentes, então você pegar esse seu
+
+146
+00:02:25,430 --> 00:02:25,440
+multiagentes, então você pegar esse seu
+ 
+
+147
+00:02:25,440 --> 00:02:26,830
+multiagentes, então você pegar esse seu
+agente que você construiu e replicar ele
+
+148
+00:02:26,830 --> 00:02:26,840
+agente que você construiu e replicar ele
+ 
+
+149
+00:02:26,840 --> 00:02:28,869
+agente que você construiu e replicar ele
+em vários agentes, como você construir
+
+150
+00:02:28,869 --> 00:02:28,879
+em vários agentes, como você construir
+ 
+
+151
+00:02:28,879 --> 00:02:30,509
+em vários agentes, como você construir
+um sistema de imunidade, então para ele
+
+152
+00:02:30,509 --> 00:02:30,519
+um sistema de imunidade, então para ele
+ 
+
+153
+00:02:30,519 --> 00:02:31,949
+um sistema de imunidade, então para ele
+se autoatualizar, para ele se
+
+154
+00:02:31,949 --> 00:02:31,959
+se autoatualizar, para ele se
+ 
+
+155
+00:02:31,959 --> 00:02:33,710
+se autoatualizar, para ele se
+regulamentar e se regularizar, é
+
+156
+00:02:33,710 --> 00:02:33,720
+regulamentar e se regularizar, é
+ 
+
+157
+00:02:33,720 --> 00:02:35,630
+regulamentar e se regularizar, é
+bizarro. Vou te ensinar a montar um
+
+158
+00:02:35,630 --> 00:02:35,640
+bizarro. Vou te ensinar a montar um
+ 
+
+159
+00:02:35,640 --> 00:02:38,150
+bizarro. Vou te ensinar a montar um
+controle de missão para você controlar
+
+160
+00:02:38,150 --> 00:02:38,160
+controle de missão para você controlar
+ 
+
+161
+00:02:38,160 --> 00:02:40,229
+controle de missão para você controlar
+eh um painel com tudo que tá acontecendo
+
+162
+00:02:40,229 --> 00:02:40,239
+eh um painel com tudo que tá acontecendo
+ 
+
+163
+00:02:40,239 --> 00:02:41,270
+eh um painel com tudo que tá acontecendo
+no seu agente, para você ter uma
+
+164
+00:02:41,270 --> 00:02:41,280
+no seu agente, para você ter uma
+ 
+
+165
+00:02:41,280 --> 00:02:43,110
+no seu agente, para você ter uma
+visualização em tempo real. E eu vou,
+
+166
+00:02:43,110 --> 00:02:43,120
+visualização em tempo real. E eu vou,
+ 
+
+167
+00:02:43,120 --> 00:02:44,630
+visualização em tempo real. E eu vou,
+claro, te ensinar a usar ele dentro do
+
+168
+00:02:44,630 --> 00:02:44,640
+claro, te ensinar a usar ele dentro do
+ 
+
+169
+00:02:44,640 --> 00:02:46,190
+claro, te ensinar a usar ele dentro do
+Telegram, que é o que eu uso e eu gosto
+
+170
+00:02:46,190 --> 00:02:46,200
+Telegram, que é o que eu uso e eu gosto
+ 
+
+171
+00:02:46,200 --> 00:02:48,190
+Telegram, que é o que eu uso e eu gosto
+muito também. Eu vou te ensinar a você
+
+172
+00:02:48,190 --> 00:02:48,200
+muito também. Eu vou te ensinar a você
+ 
+
+173
+00:02:48,200 --> 00:02:50,830
+muito também. Eu vou te ensinar a você
+usar skills e APIs, né? Então, de novo,
+
+174
+00:02:50,830 --> 00:02:50,840
+usar skills e APIs, né? Então, de novo,
+ 
+
+175
+00:02:50,840 --> 00:02:52,830
+usar skills e APIs, né? Então, de novo,
+eu vou reforçar mais uma aula de skills,
+
+176
+00:02:52,830 --> 00:02:52,840
+eu vou reforçar mais uma aula de skills,
+ 
+
+177
+00:02:52,840 --> 00:02:54,790
+eu vou reforçar mais uma aula de skills,
+vou falar sobre a parte de API e você
+
+178
+00:02:54,790 --> 00:02:54,800
+vou falar sobre a parte de API e você
+ 
+
+179
+00:02:54,800 --> 00:02:57,990
+vou falar sobre a parte de API e você
+também vai ter eh um monte de aulas de
+
+180
+00:02:57,990 --> 00:02:58,000
+também vai ter eh um monte de aulas de
+ 
+
+181
+00:02:58,000 --> 00:02:59,990
+também vai ter eh um monte de aulas de
+miniulas ali, né, para te ajudar a tirar
+
+182
+00:02:59,990 --> 00:03:00,000
+miniulas ali, né, para te ajudar a tirar
+ 
+
+183
+00:03:00,000 --> 00:03:01,710
+miniulas ali, né, para te ajudar a tirar
+dúvidas que normalmente surge ao decor
+
+184
+00:03:01,710 --> 00:03:01,720
+dúvidas que normalmente surge ao decor
+ 
+
+185
+00:03:01,720 --> 00:03:03,270
+dúvidas que normalmente surge ao decor
+do curso. Então eu ao longo do curso eu
+
+186
+00:03:03,270 --> 00:03:03,280
+do curso. Então eu ao longo do curso eu
+ 
+
+187
+00:03:03,280 --> 00:03:05,190
+do curso. Então eu ao longo do curso eu
+vim compilando várias dúvidas e vou
+
+188
+00:03:05,190 --> 00:03:05,200
+vim compilando várias dúvidas e vou
+ 
+
+189
+00:03:05,200 --> 00:03:06,470
+vim compilando várias dúvidas e vou
+gravando novas aulas e soltando para
+
+190
+00:03:06,470 --> 00:03:06,480
+gravando novas aulas e soltando para
+ 
+
+191
+00:03:06,480 --> 00:03:08,390
+gravando novas aulas e soltando para
+vocês, tá? Então por que que talvez essa
+
+192
+00:03:08,390 --> 00:03:08,400
+vocês, tá? Então por que que talvez essa
+ 
+
+193
+00:03:08,400 --> 00:03:09,550
+vocês, tá? Então por que que talvez essa
+seja a única aula que você precisa
+
+194
+00:03:09,550 --> 00:03:09,560
+seja a única aula que você precisa
+ 
+
+195
+00:03:09,560 --> 00:03:11,550
+seja a única aula que você precisa
+assistir? Porque a realidade é que
+
+196
+00:03:11,550 --> 00:03:11,560
+assistir? Porque a realidade é que
+ 
+
+197
+00:03:11,560 --> 00:03:14,350
+assistir? Porque a realidade é que
+depois que você configurar o seu open,
+
+198
+00:03:14,350 --> 00:03:14,360
+depois que você configurar o seu open,
+ 
+
+199
+00:03:14,360 --> 00:03:15,910
+depois que você configurar o seu open,
+você pode simplesmente pegar todo o
+
+200
+00:03:15,910 --> 00:03:15,920
+você pode simplesmente pegar todo o
+ 
+
+201
+00:03:15,920 --> 00:03:18,789
+você pode simplesmente pegar todo o
+conteúdo da aula e dar pro seu agente
+
+202
+00:03:18,789 --> 00:03:18,799
+conteúdo da aula e dar pro seu agente
+ 
+
+203
+00:03:18,799 --> 00:03:21,190
+conteúdo da aula e dar pro seu agente
+para ele simplesmente sair implementando
+
+204
+00:03:21,190 --> 00:03:21,200
+para ele simplesmente sair implementando
+ 
+
+205
+00:03:21,200 --> 00:03:23,589
+para ele simplesmente sair implementando
+tudo. Porém, eu não sei se eu recomendo
+
+206
+00:03:23,589 --> 00:03:23,599
+tudo. Porém, eu não sei se eu recomendo
+ 
+
+207
+00:03:23,599 --> 00:03:26,030
+tudo. Porém, eu não sei se eu recomendo
+100% esse caminho, porque é muito
+
+208
+00:03:26,030 --> 00:03:26,040
+100% esse caminho, porque é muito
+ 
+
+209
+00:03:26,040 --> 00:03:27,550
+100% esse caminho, porque é muito
+importante você dedicar um tempo para
+
+210
+00:03:27,550 --> 00:03:27,560
+importante você dedicar um tempo para
+ 
+
+211
+00:03:27,560 --> 00:03:28,830
+importante você dedicar um tempo para
+você criar uma personalidade pro seu
+
+212
+00:03:28,830 --> 00:03:28,840
+você criar uma personalidade pro seu
+ 
+
+213
+00:03:28,840 --> 00:03:30,750
+você criar uma personalidade pro seu
+agente, para você dar contexto para ele,
+
+214
+00:03:30,750 --> 00:03:30,760
+agente, para você dar contexto para ele,
+ 
+
+215
+00:03:30,760 --> 00:03:31,990
+agente, para você dar contexto para ele,
+para você treinar ele, porque no final
+
+216
+00:03:31,990 --> 00:03:32,000
+para você treinar ele, porque no final
+ 
+
+217
+00:03:32,000 --> 00:03:35,110
+para você treinar ele, porque no final
+do dia pensa que esse seu agente ele é
+
+218
+00:03:35,110 --> 00:03:35,120
+do dia pensa que esse seu agente ele é
+ 
+
+219
+00:03:35,120 --> 00:03:37,229
+do dia pensa que esse seu agente ele é
+um funcionário. E você não pode pegar
+
+220
+00:03:37,229 --> 00:03:37,239
+um funcionário. E você não pode pegar
+ 
+
+221
+00:03:37,239 --> 00:03:38,949
+um funcionário. E você não pode pegar
+esse seu funcionário e falar assim:
+
+222
+00:03:38,949 --> 00:03:38,959
+esse seu funcionário e falar assim:
+ 
+
+223
+00:03:38,959 --> 00:03:40,350
+esse seu funcionário e falar assim:
+"Não, tá aqui todas as ferramentas, se
+
+224
+00:03:40,350 --> 00:03:40,360
+"Não, tá aqui todas as ferramentas, se
+ 
+
+225
+00:03:40,360 --> 00:03:42,110
+"Não, tá aqui todas as ferramentas, se
+vira aí", cara. Você tem que
+
+226
+00:03:42,110 --> 00:03:42,120
+vira aí", cara. Você tem que
+ 
+
+227
+00:03:42,120 --> 00:03:44,710
+vira aí", cara. Você tem que
+literalmente pegar ele e ensinando ele,
+
+228
+00:03:44,710 --> 00:03:44,720
+literalmente pegar ele e ensinando ele,
+ 
+
+229
+00:03:44,720 --> 00:03:46,990
+literalmente pegar ele e ensinando ele,
+falar sobre empresa, falar sobre você e
+
+230
+00:03:46,990 --> 00:03:47,000
+falar sobre empresa, falar sobre você e
+ 
+
+231
+00:03:47,000 --> 00:03:48,470
+falar sobre empresa, falar sobre você e
+dando contexto, porque ele vai
+
+232
+00:03:48,470 --> 00:03:48,480
+dando contexto, porque ele vai
+ 
+
+233
+00:03:48,480 --> 00:03:49,990
+dando contexto, porque ele vai
+aprendendo e vai entendendo como
+
+234
+00:03:49,990 --> 00:03:50,000
+aprendendo e vai entendendo como
+ 
+
+235
+00:03:50,000 --> 00:03:52,110
+aprendendo e vai entendendo como
+conectar todos os pontos, tá? Então eu
+
+236
+00:03:52,110 --> 00:03:52,120
+conectar todos os pontos, tá? Então eu
+ 
+
+237
+00:03:52,120 --> 00:03:53,750
+conectar todos os pontos, tá? Então eu
+recomendo que você siga a jornada da
+
+238
+00:03:53,750 --> 00:03:53,760
+recomendo que você siga a jornada da
+ 
+
+239
+00:03:53,760 --> 00:03:55,470
+recomendo que você siga a jornada da
+aula, mas se você for ansioso,
+
+240
+00:03:55,470 --> 00:03:55,480
+aula, mas se você for ansioso,
+ 
+
+241
+00:03:55,480 --> 00:03:57,350
+aula, mas se você for ansioso,
+apressado, só vai lá e faz tudo isso, tá
+
+242
+00:03:57,350 --> 00:03:57,360
+apressado, só vai lá e faz tudo isso, tá
+ 
+
+243
+00:03:57,360 --> 00:03:58,949
+apressado, só vai lá e faz tudo isso, tá
+bom? É, deixa eu mostrar para vocês
+
+244
+00:03:58,949 --> 00:03:58,959
+bom? É, deixa eu mostrar para vocês
+ 
+
+245
+00:03:58,959 --> 00:04:00,470
+bom? É, deixa eu mostrar para vocês
+rapidinho como funciona a composição
+
+246
+00:04:00,470 --> 00:04:00,480
+rapidinho como funciona a composição
+ 
+
+247
+00:04:00,480 --> 00:04:02,550
+rapidinho como funciona a composição
+aqui da pasta de conteúdos do curso, tá?
+
+248
+00:04:02,550 --> 00:04:02,560
+aqui da pasta de conteúdos do curso, tá?
+ 
+
+249
+00:04:02,560 --> 00:04:03,670
+aqui da pasta de conteúdos do curso, tá?
+Então, ó, se você olhar aqui na minha
+
+250
+00:04:03,670 --> 00:04:03,680
+Então, ó, se você olhar aqui na minha
+ 
+
+251
+00:04:03,680 --> 00:04:05,949
+Então, ó, se você olhar aqui na minha
+tela, esse aqui é o Google Drive que vem
+
+252
+00:04:05,949 --> 00:04:05,959
+tela, esse aqui é o Google Drive que vem
+ 
+
+253
+00:04:05,959 --> 00:04:08,270
+tela, esse aqui é o Google Drive que vem
+todos os conteúdos do curso, tá? Então,
+
+254
+00:04:08,270 --> 00:04:08,280
+todos os conteúdos do curso, tá? Então,
+ 
+
+255
+00:04:08,280 --> 00:04:10,390
+todos os conteúdos do curso, tá? Então,
+se você tiver com uma versão, uma versão
+
+256
+00:04:10,390 --> 00:04:10,400
+se você tiver com uma versão, uma versão
+ 
+
+257
+00:04:10,400 --> 00:04:11,750
+se você tiver com uma versão, uma versão
+diferente do Google Drive, é porque
+
+258
+00:04:11,750 --> 00:04:11,760
+diferente do Google Drive, é porque
+ 
+
+259
+00:04:11,760 --> 00:04:13,350
+diferente do Google Drive, é porque
+provavelmente eu já atualizei o curso e
+
+260
+00:04:13,350 --> 00:04:13,360
+provavelmente eu já atualizei o curso e
+ 
+
+261
+00:04:13,360 --> 00:04:14,750
+provavelmente eu já atualizei o curso e
+já incluí mais materiais. Então, se
+
+262
+00:04:14,750 --> 00:04:14,760
+já incluí mais materiais. Então, se
+ 
+
+263
+00:04:14,760 --> 00:04:16,990
+já incluí mais materiais. Então, se
+tiver coisas a mais aqui, melhor, né?
+
+264
+00:04:16,990 --> 00:04:17,000
+tiver coisas a mais aqui, melhor, né?
+ 
+
+265
+00:04:17,000 --> 00:04:18,509
+tiver coisas a mais aqui, melhor, né?
+Significa que eu já coloquei mais
+
+266
+00:04:18,509 --> 00:04:18,519
+Significa que eu já coloquei mais
+ 
+
+267
+00:04:18,519 --> 00:04:20,150
+Significa que eu já coloquei mais
+materiais, tá? Então, a princípio, na
+
+268
+00:04:20,150 --> 00:04:20,160
+materiais, tá? Então, a princípio, na
+ 
+
+269
+00:04:20,160 --> 00:04:22,550
+materiais, tá? Então, a princípio, na
+data da gravação desse curso aqui, eu tô
+
+270
+00:04:22,550 --> 00:04:22,560
+data da gravação desse curso aqui, eu tô
+ 
+
+271
+00:04:22,560 --> 00:04:24,629
+data da gravação desse curso aqui, eu tô
+com essa composição aqui na pasta, tá?
+
+272
+00:04:24,629 --> 00:04:24,639
+com essa composição aqui na pasta, tá?
+ 
+
+273
+00:04:24,639 --> 00:04:26,230
+com essa composição aqui na pasta, tá?
+Então, basicamente, o que você tem que
+
+274
+00:04:26,230 --> 00:04:26,240
+Então, basicamente, o que você tem que
+ 
+
+275
+00:04:26,240 --> 00:04:28,590
+Então, basicamente, o que você tem que
+fazer é que em cada aula, você pode
+
+276
+00:04:28,590 --> 00:04:28,600
+fazer é que em cada aula, você pode
+ 
+
+277
+00:04:28,600 --> 00:04:30,550
+fazer é que em cada aula, você pode
+simplesmente abrir a aula aqui na pasta
+
+278
+00:04:30,550 --> 00:04:30,560
+simplesmente abrir a aula aqui na pasta
+ 
+
+279
+00:04:30,560 --> 00:04:33,590
+simplesmente abrir a aula aqui na pasta
+em paralelo e você pode eh acompanhando
+
+280
+00:04:33,590 --> 00:04:33,600
+em paralelo e você pode eh acompanhando
+ 
+
+281
+00:04:33,600 --> 00:04:35,510
+em paralelo e você pode eh acompanhando
+os materiais aqui, tá? Então, por
+
+282
+00:04:35,510 --> 00:04:35,520
+os materiais aqui, tá? Então, por
+ 
+
+283
+00:04:35,520 --> 00:04:37,430
+os materiais aqui, tá? Então, por
+exemplo, a aula de abertura, né, é onde
+
+284
+00:04:37,430 --> 00:04:37,440
+exemplo, a aula de abertura, né, é onde
+ 
+
+285
+00:04:37,440 --> 00:04:39,189
+exemplo, a aula de abertura, né, é onde
+eu falo aqui, né? Então, aqui, por
+
+286
+00:04:39,189 --> 00:04:39,199
+eu falo aqui, né? Então, aqui, por
+ 
+
+287
+00:04:39,199 --> 00:04:41,710
+eu falo aqui, né? Então, aqui, por
+exemplo, nessa aula de abertura, eu
+
+288
+00:04:41,710 --> 00:04:41,720
+exemplo, nessa aula de abertura, eu
+ 
+
+289
+00:04:41,720 --> 00:04:44,790
+exemplo, nessa aula de abertura, eu
+explico sobre como surgiu a minha
+
+290
+00:04:44,790 --> 00:04:44,800
+explico sobre como surgiu a minha
+ 
+
+291
+00:04:44,800 --> 00:04:46,390
+explico sobre como surgiu a minha
+agente, né? Então eu pedi para ela
+
+292
+00:04:46,390 --> 00:04:46,400
+agente, né? Então eu pedi para ela
+ 
+
+293
+00:04:46,400 --> 00:04:48,469
+agente, né? Então eu pedi para ela
+revisitar a memória de de quando ela foi
+
+294
+00:04:48,469 --> 00:04:48,479
+revisitar a memória de de quando ela foi
+ 
+
+295
+00:04:48,479 --> 00:04:50,830
+revisitar a memória de de quando ela foi
+criada até hoje e aí todas as coisas que
+
+296
+00:04:50,830 --> 00:04:50,840
+criada até hoje e aí todas as coisas que
+ 
+
+297
+00:04:50,840 --> 00:04:52,469
+criada até hoje e aí todas as coisas que
+a gente foi fazendo ao longo do tempo.
+
+298
+00:04:52,469 --> 00:04:52,479
+a gente foi fazendo ao longo do tempo.
+ 
+
+299
+00:04:52,479 --> 00:04:55,070
+a gente foi fazendo ao longo do tempo.
+Então para você entender que realmente é
+
+300
+00:04:55,070 --> 00:04:55,080
+Então para você entender que realmente é
+ 
+
+301
+00:04:55,080 --> 00:04:57,310
+Então para você entender que realmente é
+uma construção, né, você fazer o seu
+
+302
+00:04:57,310 --> 00:04:57,320
+uma construção, né, você fazer o seu
+ 
+
+303
+00:04:57,320 --> 00:04:59,390
+uma construção, né, você fazer o seu
+agente. Mas o legal de tudo é que eu
+
+304
+00:04:59,390 --> 00:04:59,400
+agente. Mas o legal de tudo é que eu
+ 
+
+305
+00:04:59,400 --> 00:05:00,870
+agente. Mas o legal de tudo é que eu
+estou condensando toda essa construção
+
+306
+00:05:00,870 --> 00:05:00,880
+estou condensando toda essa construção
+ 
+
+307
+00:05:00,880 --> 00:05:02,469
+estou condensando toda essa construção
+para você aqui em um par de horas e você
+
+308
+00:05:02,469 --> 00:05:02,479
+para você aqui em um par de horas e você
+ 
+
+309
+00:05:02,479 --> 00:05:05,029
+para você aqui em um par de horas e você
+vai economizar algumas boas horas e
+
+310
+00:05:05,029 --> 00:05:05,039
+vai economizar algumas boas horas e
+ 
+
+311
+00:05:05,039 --> 00:05:07,150
+vai economizar algumas boas horas e
+muitos tokens também fazendo isso, tá?
+
+312
+00:05:07,150 --> 00:05:07,160
+muitos tokens também fazendo isso, tá?
+ 
+
+313
+00:05:07,160 --> 00:05:08,790
+muitos tokens também fazendo isso, tá?
+Então você tem aqui as pastas, você pode
+
+314
+00:05:08,790 --> 00:05:08,800
+Então você tem aqui as pastas, você pode
+ 
+
+315
+00:05:08,800 --> 00:05:10,710
+Então você tem aqui as pastas, você pode
+ir acompanhando elas, né? Então todas as
+
+316
+00:05:10,710 --> 00:05:10,720
+ir acompanhando elas, né? Então todas as
+ 
+
+317
+00:05:10,720 --> 00:05:12,510
+ir acompanhando elas, né? Então todas as
+pastas você vai ter três tipos de
+
+318
+00:05:12,510 --> 00:05:12,520
+pastas você vai ter três tipos de
+ 
+
+319
+00:05:12,520 --> 00:05:14,270
+pastas você vai ter três tipos de
+arquivos, né? Então você vai ter o
+
+320
+00:05:14,270 --> 00:05:14,280
+arquivos, né? Então você vai ter o
+ 
+
+321
+00:05:14,280 --> 00:05:17,270
+arquivos, né? Então você vai ter o
+arquivo no formato de Excol. O Excol é
+
+322
+00:05:17,270 --> 00:05:17,280
+arquivo no formato de Excol. O Excol é
+ 
+
+323
+00:05:17,280 --> 00:05:19,230
+arquivo no formato de Excol. O Excol é
+um formato de desenho. Então você pode
+
+324
+00:05:19,230 --> 00:05:19,240
+um formato de desenho. Então você pode
+ 
+
+325
+00:05:19,240 --> 00:05:22,749
+um formato de desenho. Então você pode
+baixar ele. Se você usa o Excolar
+
+326
+00:05:22,749 --> 00:05:22,759
+baixar ele. Se você usa o Excolar
+ 
+
+327
+00:05:22,759 --> 00:05:25,070
+baixar ele. Se você usa o Excolar
+um desenho. Nesse arquivo não tem nada
+
+328
+00:05:25,070 --> 00:05:25,080
+um desenho. Nesse arquivo não tem nada
+ 
+
+329
+00:05:25,080 --> 00:05:27,430
+um desenho. Nesse arquivo não tem nada
+de diferente do que os outros arquivos.
+
+330
+00:05:27,430 --> 00:05:27,440
+de diferente do que os outros arquivos.
+ 
+
+331
+00:05:27,440 --> 00:05:29,150
+de diferente do que os outros arquivos.
+É só uma forma diferente de enxergar o
+
+332
+00:05:29,150 --> 00:05:29,160
+É só uma forma diferente de enxergar o
+ 
+
+333
+00:05:29,160 --> 00:05:30,830
+É só uma forma diferente de enxergar o
+conteúdo. Então se você não usa ocol
+
+334
+00:05:30,830 --> 00:05:30,840
+conteúdo. Então se você não usa ocol
+ 
+
+335
+00:05:30,840 --> 00:05:34,029
+conteúdo. Então se você não usa ocol
+draw, você pode abrir o HTML. Agora, se
+
+336
+00:05:34,029 --> 00:05:34,039
+draw, você pode abrir o HTML. Agora, se
+ 
+
+337
+00:05:34,039 --> 00:05:36,110
+draw, você pode abrir o HTML. Agora, se
+você não quer abrir o HTML, você pode
+
+338
+00:05:36,110 --> 00:05:36,120
+você não quer abrir o HTML, você pode
+ 
+
+339
+00:05:36,120 --> 00:05:38,029
+você não quer abrir o HTML, você pode
+abrir o PDF. Então todos eles vão te
+
+340
+00:05:38,029 --> 00:05:38,039
+abrir o PDF. Então todos eles vão te
+ 
+
+341
+00:05:38,039 --> 00:05:39,909
+abrir o PDF. Então todos eles vão te
+levar pro mesmo conteúdo, a mesma pauta,
+
+342
+00:05:39,909 --> 00:05:39,919
+levar pro mesmo conteúdo, a mesma pauta,
+ 
+
+343
+00:05:39,919 --> 00:05:41,629
+levar pro mesmo conteúdo, a mesma pauta,
+tá? Então não tem nenhum problema. Eh,
+
+344
+00:05:41,629 --> 00:05:41,639
+tá? Então não tem nenhum problema. Eh,
+ 
+
+345
+00:05:41,639 --> 00:05:43,110
+tá? Então não tem nenhum problema. Eh,
+por que que eu fiz três formatos de
+
+346
+00:05:43,110 --> 00:05:43,120
+por que que eu fiz três formatos de
+ 
+
+347
+00:05:43,120 --> 00:05:46,309
+por que que eu fiz três formatos de
+arquivos? Porque, por exemplo, o PDF ele
+
+348
+00:05:46,309 --> 00:05:46,319
+arquivos? Porque, por exemplo, o PDF ele
+ 
+
+349
+00:05:46,319 --> 00:05:47,749
+arquivos? Porque, por exemplo, o PDF ele
+quebra um pouco a experiência, né?
+
+350
+00:05:47,749 --> 00:05:47,759
+quebra um pouco a experiência, né?
+ 
+
+351
+00:05:47,759 --> 00:05:49,790
+quebra um pouco a experiência, né?
+Então, você vê aqui, ó, ele quebra aqui,
+
+352
+00:05:49,790 --> 00:05:49,800
+Então, você vê aqui, ó, ele quebra aqui,
+ 
+
+353
+00:05:49,800 --> 00:05:51,430
+Então, você vê aqui, ó, ele quebra aqui,
+fica um espaço em branco, ó, um espaço
+
+354
+00:05:51,430 --> 00:05:51,440
+fica um espaço em branco, ó, um espaço
+ 
+
+355
+00:05:51,440 --> 00:05:53,390
+fica um espaço em branco, ó, um espaço
+em branco e tal. Então, eu deixei ele
+
+356
+00:05:53,390 --> 00:05:53,400
+em branco e tal. Então, eu deixei ele
+ 
+
+357
+00:05:53,400 --> 00:05:55,629
+em branco e tal. Então, eu deixei ele
+aqui em HTML para você abrir ele também
+
+358
+00:05:55,629 --> 00:05:55,639
+aqui em HTML para você abrir ele também
+ 
+
+359
+00:05:55,639 --> 00:05:56,909
+aqui em HTML para você abrir ele também
+se você quiser ter uma experiência
+
+360
+00:05:56,909 --> 00:05:56,919
+se você quiser ter uma experiência
+ 
+
+361
+00:05:56,919 --> 00:05:59,270
+se você quiser ter uma experiência
+melhor. Mas o resultado é sempre o
+
+362
+00:05:59,270 --> 00:05:59,280
+melhor. Mas o resultado é sempre o
+ 
+
+363
+00:05:59,280 --> 00:06:02,390
+melhor. Mas o resultado é sempre o
+mesmo, tá? E aqui dentro de cada aula
+
+364
+00:06:02,390 --> 00:06:02,400
+mesmo, tá? E aqui dentro de cada aula
+ 
+
+365
+00:06:02,400 --> 00:06:04,510
+mesmo, tá? E aqui dentro de cada aula
+você vai ter duas pastas, grande maior
+
+366
+00:06:04,510 --> 00:06:04,520
+você vai ter duas pastas, grande maior
+ 
+
+367
+00:06:04,520 --> 00:06:06,150
+você vai ter duas pastas, grande maior
+parte das vezes, que é a pasta de
+
+368
+00:06:06,150 --> 00:06:06,160
+parte das vezes, que é a pasta de
+ 
+
+369
+00:06:06,160 --> 00:06:08,469
+parte das vezes, que é a pasta de
+prompts e a pasta de PRD. A pasta de
+
+370
+00:06:08,469 --> 00:06:08,479
+prompts e a pasta de PRD. A pasta de
+ 
+
+371
+00:06:08,479 --> 00:06:10,189
+prompts e a pasta de PRD. A pasta de
+prompt é o que você tem que pegar e
+
+372
+00:06:10,189 --> 00:06:10,199
+prompt é o que você tem que pegar e
+ 
+
+373
+00:06:10,199 --> 00:06:12,070
+prompt é o que você tem que pegar e
+passar pro seu agente, tá? Então é um
+
+374
+00:06:12,070 --> 00:06:12,080
+passar pro seu agente, tá? Então é um
+ 
+
+375
+00:06:12,080 --> 00:06:13,670
+passar pro seu agente, tá? Então é um
+prompt que você pode simplesmente copiar
+
+376
+00:06:13,670 --> 00:06:13,680
+prompt que você pode simplesmente copiar
+ 
+
+377
+00:06:13,680 --> 00:06:16,390
+prompt que você pode simplesmente copiar
+e mandar pro seu agente junto com PRD.
+
+378
+00:06:16,390 --> 00:06:16,400
+e mandar pro seu agente junto com PRD.
+ 
+
+379
+00:06:16,400 --> 00:06:19,550
+e mandar pro seu agente junto com PRD.
+Um PRD é um manualzinho que a gente
+
+380
+00:06:19,550 --> 00:06:19,560
+Um PRD é um manualzinho que a gente
+ 
+
+381
+00:06:19,560 --> 00:06:23,110
+Um PRD é um manualzinho que a gente
+monta para o seu eh seu agente ele
+
+382
+00:06:23,110 --> 00:06:23,120
+monta para o seu eh seu agente ele
+ 
+
+383
+00:06:23,120 --> 00:06:25,510
+monta para o seu eh seu agente ele
+seguir o passo a passo de como ele pode
+
+384
+00:06:25,510 --> 00:06:25,520
+seguir o passo a passo de como ele pode
+ 
+
+385
+00:06:25,520 --> 00:06:27,430
+seguir o passo a passo de como ele pode
+implementar isso, né? Então você tem o
+
+386
+00:06:27,430 --> 00:06:27,440
+implementar isso, né? Então você tem o
+ 
+
+387
+00:06:27,440 --> 00:06:29,029
+implementar isso, né? Então você tem o
+prompt, que você dá para ele uma
+
+388
+00:06:29,029 --> 00:06:29,039
+prompt, que você dá para ele uma
+ 
+
+389
+00:06:29,039 --> 00:06:30,550
+prompt, que você dá para ele uma
+fotografia do que que você quer fazer, o
+
+390
+00:06:30,550 --> 00:06:30,560
+fotografia do que que você quer fazer, o
+ 
+
+391
+00:06:30,560 --> 00:06:32,550
+fotografia do que que você quer fazer, o
+que que é, e você tem o PRD, que é esse
+
+392
+00:06:32,550 --> 00:06:32,560
+que que é, e você tem o PRD, que é esse
+ 
+
+393
+00:06:32,560 --> 00:06:34,670
+que que é, e você tem o PRD, que é esse
+passo a passo para você configurar, tá?
+
+394
+00:06:34,670 --> 00:06:34,680
+passo a passo para você configurar, tá?
+ 
+
+395
+00:06:34,680 --> 00:06:36,790
+passo a passo para você configurar, tá?
+Então, todas as aulas eles vão ter esse
+
+396
+00:06:36,790 --> 00:06:36,800
+Então, todas as aulas eles vão ter esse
+ 
+
+397
+00:06:36,800 --> 00:06:39,150
+Então, todas as aulas eles vão ter esse
+PRD, esse prompt aqui. Então, de novo,
+
+398
+00:06:39,150 --> 00:06:39,160
+PRD, esse prompt aqui. Então, de novo,
+ 
+
+399
+00:06:39,160 --> 00:06:41,150
+PRD, esse prompt aqui. Então, de novo,
+né, você tem aqui os três arquivos, você
+
+400
+00:06:41,150 --> 00:06:41,160
+né, você tem aqui os três arquivos, você
+ 
+
+401
+00:06:41,160 --> 00:06:42,430
+né, você tem aqui os três arquivos, você
+pode abrir qualquer um dos três. Dos
+
+402
+00:06:42,430 --> 00:06:42,440
+pode abrir qualquer um dos três. Dos
+ 
+
+403
+00:06:42,440 --> 00:06:44,469
+pode abrir qualquer um dos três. Dos
+três, de novo, é o mesmo conteúdo. Você
+
+404
+00:06:44,469 --> 00:06:44,479
+três, de novo, é o mesmo conteúdo. Você
+ 
+
+405
+00:06:44,479 --> 00:06:46,830
+três, de novo, é o mesmo conteúdo. Você
+tem aqui templates, né? Então aqui é um
+
+406
+00:06:46,830 --> 00:06:46,840
+tem aqui templates, né? Então aqui é um
+ 
+
+407
+00:06:46,840 --> 00:06:49,309
+tem aqui templates, né? Então aqui é um
+template, por exemplo, de como foi. Eh,
+
+408
+00:06:49,309 --> 00:06:49,319
+template, por exemplo, de como foi. Eh,
+ 
+
+409
+00:06:49,319 --> 00:06:50,710
+template, por exemplo, de como foi. Eh,
+e aqui, por exemplo, aqui é um template
+
+410
+00:06:50,710 --> 00:06:50,720
+e aqui, por exemplo, aqui é um template
+ 
+
+411
+00:06:50,720 --> 00:06:52,230
+e aqui, por exemplo, aqui é um template
+da minha memória, né? E aqui é um
+
+412
+00:06:52,230 --> 00:06:52,240
+da minha memória, né? E aqui é um
+ 
+
+413
+00:06:52,240 --> 00:06:53,670
+da minha memória, né? E aqui é um
+template, por exemplo, do como foi a
+
+414
+00:06:53,670 --> 00:06:53,680
+template, por exemplo, do como foi a
+ 
+
+415
+00:06:53,680 --> 00:06:55,990
+template, por exemplo, do como foi a
+evolução da minha memória. Então, aqui
+
+416
+00:06:55,990 --> 00:06:56,000
+evolução da minha memória. Então, aqui
+ 
+
+417
+00:06:56,000 --> 00:06:58,950
+evolução da minha memória. Então, aqui
+eu mostro todos os cenários que foi de
+
+418
+00:06:58,950 --> 00:06:58,960
+eu mostro todos os cenários que foi de
+ 
+
+419
+00:06:58,960 --> 00:07:00,749
+eu mostro todos os cenários que foi de
+eu fui treinando e criando essa
+
+420
+00:07:00,749 --> 00:07:00,759
+eu fui treinando e criando essa
+ 
+
+421
+00:07:00,759 --> 00:07:02,469
+eu fui treinando e criando essa
+estrutura que você vai implementar com
+
+422
+00:07:02,469 --> 00:07:02,479
+estrutura que você vai implementar com
+ 
+
+423
+00:07:02,479 --> 00:07:04,230
+estrutura que você vai implementar com
+Prompt, né? Então, primeiro meu agente
+
+424
+00:07:04,230 --> 00:07:04,240
+Prompt, né? Então, primeiro meu agente
+ 
+
+425
+00:07:04,240 --> 00:07:06,710
+Prompt, né? Então, primeiro meu agente
+nasceu sem memória, depois ele foi eh
+
+426
+00:07:06,710 --> 00:07:06,720
+nasceu sem memória, depois ele foi eh
+ 
+
+427
+00:07:06,720 --> 00:07:08,710
+nasceu sem memória, depois ele foi eh
+contextos manuais, depois eu criei topic
+
+428
+00:07:08,710 --> 00:07:08,720
+contextos manuais, depois eu criei topic
+ 
+
+429
+00:07:08,720 --> 00:07:10,430
+contextos manuais, depois eu criei topic
+files, depois a gente tem o sistema
+
+430
+00:07:10,430 --> 00:07:10,440
+files, depois a gente tem o sistema
+ 
+
+431
+00:07:10,440 --> 00:07:12,390
+files, depois a gente tem o sistema
+atual de memória inteligente, né? E aí
+
+432
+00:07:12,390 --> 00:07:12,400
+atual de memória inteligente, né? E aí
+ 
+
+433
+00:07:12,400 --> 00:07:14,070
+atual de memória inteligente, né? E aí
+aqui mostra as fases que eu fiz, tudo
+
+434
+00:07:14,070 --> 00:07:14,080
+aqui mostra as fases que eu fiz, tudo
+ 
+
+435
+00:07:14,080 --> 00:07:16,110
+aqui mostra as fases que eu fiz, tudo
+que foi acontecendo. Então aqui eu deixo
+
+436
+00:07:16,110 --> 00:07:16,120
+que foi acontecendo. Então aqui eu deixo
+ 
+
+437
+00:07:16,120 --> 00:07:17,670
+que foi acontecendo. Então aqui eu deixo
+templates para vocês verem o que que
+
+438
+00:07:17,670 --> 00:07:17,680
+templates para vocês verem o que que
+ 
+
+439
+00:07:17,680 --> 00:07:19,589
+templates para vocês verem o que que
+aconteceu e tudo mais. Às vezes você
+
+440
+00:07:19,589 --> 00:07:19,599
+aconteceu e tudo mais. Às vezes você
+ 
+
+441
+00:07:19,599 --> 00:07:20,869
+aconteceu e tudo mais. Às vezes você
+pode pegar esse template, mandar pro seu
+
+442
+00:07:20,869 --> 00:07:20,879
+pode pegar esse template, mandar pro seu
+ 
+
+443
+00:07:20,879 --> 00:07:23,350
+pode pegar esse template, mandar pro seu
+agente e falar assim: "Ah, compare eh a
+
+444
+00:07:23,350 --> 00:07:23,360
+agente e falar assim: "Ah, compare eh a
+ 
+
+445
+00:07:23,360 --> 00:07:24,830
+agente e falar assim: "Ah, compare eh a
+memória que a gente construiu com a
+
+446
+00:07:24,830 --> 00:07:24,840
+memória que a gente construiu com a
+ 
+
+447
+00:07:24,840 --> 00:07:26,350
+memória que a gente construiu com a
+memória do Bruno". E aí ele pode também
+
+448
+00:07:26,350 --> 00:07:26,360
+memória do Bruno". E aí ele pode também
+ 
+
+449
+00:07:26,360 --> 00:07:28,309
+memória do Bruno". E aí ele pode também
+comparar o template. Então assim,
+
+450
+00:07:28,309 --> 00:07:28,319
+comparar o template. Então assim,
+ 
+
+451
+00:07:28,319 --> 00:07:30,430
+comparar o template. Então assim,
+funciona bem simples, né? Aqui eu deixei
+
+452
+00:07:30,430 --> 00:07:30,440
+funciona bem simples, né? Aqui eu deixei
+ 
+
+453
+00:07:30,440 --> 00:07:31,790
+funciona bem simples, né? Aqui eu deixei
+esse Lam, tá? Então ele é muito
+
+454
+00:07:31,790 --> 00:07:31,800
+esse Lam, tá? Então ele é muito
+ 
+
+455
+00:07:31,800 --> 00:07:32,830
+esse Lam, tá? Então ele é muito
+importante, onde estão todas as
+
+456
+00:07:32,830 --> 00:07:32,840
+importante, onde estão todas as
+ 
+
+457
+00:07:32,840 --> 00:07:34,830
+importante, onde estão todas as
+informações principais aqui do curso.
+
+458
+00:07:34,830 --> 00:07:34,840
+informações principais aqui do curso.
+ 
+
+459
+00:07:34,840 --> 00:07:36,990
+informações principais aqui do curso.
+Então é onde tá aqui o cupom de desconto
+
+460
+00:07:36,990 --> 00:07:37,000
+Então é onde tá aqui o cupom de desconto
+ 
+
+461
+00:07:37,000 --> 00:07:39,629
+Então é onde tá aqui o cupom de desconto
+para você usar na Hostinger. Aqui tá um
+
+462
+00:07:39,629 --> 00:07:39,639
+para você usar na Hostinger. Aqui tá um
+ 
+
+463
+00:07:39,639 --> 00:07:41,350
+para você usar na Hostinger. Aqui tá um
+us case aqui de casos que a gente pode
+
+464
+00:07:41,350 --> 00:07:41,360
+us case aqui de casos que a gente pode
+ 
+
+465
+00:07:41,360 --> 00:07:43,589
+us case aqui de casos que a gente pode
+usar. Aqui tá o link do grupo de
+
+466
+00:07:43,589 --> 00:07:43,599
+usar. Aqui tá o link do grupo de
+ 
+
+467
+00:07:43,599 --> 00:07:45,589
+usar. Aqui tá o link do grupo de
+WhatsApp. Aqui tá o repositório do
+
+468
+00:07:45,589 --> 00:07:45,599
+WhatsApp. Aqui tá o repositório do
+ 
+
+469
+00:07:45,599 --> 00:07:48,430
+WhatsApp. Aqui tá o repositório do
+GitHub. Aqui tá diretório de skills, né,
+
+470
+00:07:48,430 --> 00:07:48,440
+GitHub. Aqui tá diretório de skills, né,
+ 
+
+471
+00:07:48,440 --> 00:07:50,629
+GitHub. Aqui tá diretório de skills, né,
+curados pela nossa comunidade. E aqui tá
+
+472
+00:07:50,629 --> 00:07:50,639
+curados pela nossa comunidade. E aqui tá
+ 
+
+473
+00:07:50,639 --> 00:07:52,830
+curados pela nossa comunidade. E aqui tá
+um sheit sheet que eu coloquei aqui, né,
+
+474
+00:07:52,830 --> 00:07:52,840
+um sheit sheet que eu coloquei aqui, né,
+ 
+
+475
+00:07:52,840 --> 00:07:54,830
+um sheit sheet que eu coloquei aqui, né,
+que são vários prompts que você pode
+
+476
+00:07:54,830 --> 00:07:54,840
+que são vários prompts que você pode
+ 
+
+477
+00:07:54,840 --> 00:07:56,670
+que são vários prompts que você pode
+usar dentro do Open Claw, né? Então, se
+
+478
+00:07:56,670 --> 00:07:56,680
+usar dentro do Open Claw, né? Então, se
+ 
+
+479
+00:07:56,680 --> 00:07:58,390
+usar dentro do Open Claw, né? Então, se
+você quiser, você pode acessar aqui esse
+
+480
+00:07:58,390 --> 00:07:58,400
+você quiser, você pode acessar aqui esse
+ 
+
+481
+00:07:58,400 --> 00:08:01,110
+você quiser, você pode acessar aqui esse
+documento. Ele tem aqui vários eh vários
+
+482
+00:08:01,110 --> 00:08:01,120
+documento. Ele tem aqui vários eh vários
+ 
+
+483
+00:08:01,120 --> 00:08:03,430
+documento. Ele tem aqui vários eh vários
+e vários comandos que você pode usar no
+
+484
+00:08:03,430 --> 00:08:03,440
+e vários comandos que você pode usar no
+ 
+
+485
+00:08:03,440 --> 00:08:05,070
+e vários comandos que você pode usar no
+seu OpenCl. Então, esse aqui ele é um
+
+486
+00:08:05,070 --> 00:08:05,080
+seu OpenCl. Então, esse aqui ele é um
+ 
+
+487
+00:08:05,080 --> 00:08:07,149
+seu OpenCl. Então, esse aqui ele é um
+pouquinho mais avançado, mas você pode
+
+488
+00:08:07,149 --> 00:08:07,159
+pouquinho mais avançado, mas você pode
+ 
+
+489
+00:08:07,159 --> 00:08:08,950
+pouquinho mais avançado, mas você pode
+usar ele também de referência para você
+
+490
+00:08:08,950 --> 00:08:08,960
+usar ele também de referência para você
+ 
+
+491
+00:08:08,960 --> 00:08:10,950
+usar ele também de referência para você
+colocar comandos dentro do terminal ou
+
+492
+00:08:10,950 --> 00:08:10,960
+colocar comandos dentro do terminal ou
+ 
+
+493
+00:08:10,960 --> 00:08:12,350
+colocar comandos dentro do terminal ou
+passar esses comandos pro seu agente,
+
+494
+00:08:12,350 --> 00:08:12,360
+passar esses comandos pro seu agente,
+ 
+
+495
+00:08:12,360 --> 00:08:14,110
+passar esses comandos pro seu agente,
+tá? Então não se preocupe se você abrir
+
+496
+00:08:14,110 --> 00:08:14,120
+tá? Então não se preocupe se você abrir
+ 
+
+497
+00:08:14,120 --> 00:08:15,390
+tá? Então não se preocupe se você abrir
+esse arquivo e não entender picunha
+
+498
+00:08:15,390 --> 00:08:15,400
+esse arquivo e não entender picunha
+ 
+
+499
+00:08:15,400 --> 00:08:17,149
+esse arquivo e não entender picunha
+nenhuma, porque eventualmente ao longo
+
+500
+00:08:17,149 --> 00:08:17,159
+nenhuma, porque eventualmente ao longo
+ 
+
+501
+00:08:17,159 --> 00:08:18,749
+nenhuma, porque eventualmente ao longo
+do curso você vai entendendo para que
+
+502
+00:08:18,749 --> 00:08:18,759
+do curso você vai entendendo para que
+ 
+
+503
+00:08:18,759 --> 00:08:21,670
+do curso você vai entendendo para que
+que serve essas coisas, tá? Então, eh,
+
+504
+00:08:21,670 --> 00:08:21,680
+que serve essas coisas, tá? Então, eh,
+ 
+
+505
+00:08:21,680 --> 00:08:23,390
+que serve essas coisas, tá? Então, eh,
+outro ponto pra gente concluir a s a não
+
+506
+00:08:23,390 --> 00:08:23,400
+outro ponto pra gente concluir a s a não
+ 
+
+507
+00:08:23,400 --> 00:08:25,149
+outro ponto pra gente concluir a s a não
+me estender muito, eu quero reforçar que
+
+508
+00:08:25,149 --> 00:08:25,159
+me estender muito, eu quero reforçar que
+ 
+
+509
+00:08:25,159 --> 00:08:26,670
+me estender muito, eu quero reforçar que
+é muito importante você também dar o seu
+
+510
+00:08:26,670 --> 00:08:26,680
+é muito importante você também dar o seu
+ 
+
+511
+00:08:26,680 --> 00:08:28,869
+é muito importante você também dar o seu
+feedback para mim. Então, assim, avalie
+
+512
+00:08:28,869 --> 00:08:28,879
+feedback para mim. Então, assim, avalie
+ 
+
+513
+00:08:28,879 --> 00:08:30,909
+feedback para mim. Então, assim, avalie
+o curso para eu saber se a gente tá indo
+
+514
+00:08:30,909 --> 00:08:30,919
+o curso para eu saber se a gente tá indo
+ 
+
+515
+00:08:30,919 --> 00:08:32,469
+o curso para eu saber se a gente tá indo
+para uma direção certa, se ele tá
+
+516
+00:08:32,469 --> 00:08:32,479
+para uma direção certa, se ele tá
+ 
+
+517
+00:08:32,479 --> 00:08:34,829
+para uma direção certa, se ele tá
+simples e se ele tá e de uma forma que
+
+518
+00:08:34,829 --> 00:08:34,839
+simples e se ele tá e de uma forma que
+ 
+
+519
+00:08:34,839 --> 00:08:36,190
+simples e se ele tá e de uma forma que
+você consiga entender, tá? É muito
+
+520
+00:08:36,190 --> 00:08:36,200
+você consiga entender, tá? É muito
+ 
+
+521
+00:08:36,200 --> 00:08:37,469
+você consiga entender, tá? É muito
+importante esse feedback para mim, tá
+
+522
+00:08:37,469 --> 00:08:37,479
+importante esse feedback para mim, tá
+ 
+
+523
+00:08:37,479 --> 00:08:39,709
+importante esse feedback para mim, tá
+bom? Então, eu te desejo um excelente
+
+524
+00:08:39,709 --> 00:08:39,719
+bom? Então, eu te desejo um excelente
+ 
+
+525
+00:08:39,719 --> 00:08:41,870
+bom? Então, eu te desejo um excelente
+curso, assista as aulas, garanto para
+
+526
+00:08:41,870 --> 00:08:41,880
+curso, assista as aulas, garanto para
+ 
+
+527
+00:08:41,880 --> 00:08:43,630
+curso, assista as aulas, garanto para
+você que você vai aproveitar e eu te
+
+528
+00:08:43,630 --> 00:08:43,640
+você que você vai aproveitar e eu te
+ 
+
+529
+00:08:43,640 --> 00:08:45,670
+você que você vai aproveitar e eu te
+vejo no final quando você tiver o seu
+
+530
+00:08:45,670 --> 00:08:45,680
+vejo no final quando você tiver o seu
+ 
+
+531
+00:08:45,680 --> 00:08:47,110
+vejo no final quando você tiver o seu
+agente funcionando lá no nosso grupo do
+
+532
+00:08:47,110 --> 00:08:47,120
+agente funcionando lá no nosso grupo do
+ 
+
+533
+00:08:47,120 --> 00:08:49,959
+agente funcionando lá no nosso grupo do
+WhatsApp. Até mais.
+

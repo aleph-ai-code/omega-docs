@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard - Cadastro de Lideranças</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0f172a; color: #e2e8f0; padding: 20px; }
+h1 { text-align: center; color: #f8fafc; margin-bottom: 5px; font-size: 1.8em; }
+.subtitle { text-align: center; color: #94a3b8; margin-bottom: 30px; font-size: 0.9em; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-bottom: 30px; }
+.card { background: #1e293b; border-radius: 12px; padding: 20px; text-align: center; }
+.card .value { font-size: 2.2em; font-weight: 700; color: #38bdf8; }
+.card .label { font-size: 0.85em; color: #94a3b8; margin-top: 5px; }
+.card.green .value { color: #4ade80; }
+.card.yellow .value { color: #facc15; }
+.card.purple .value { color: #a78bfa; }
+.card.pink .value { color: #f472b6; }
+.section { background: #1e293b; border-radius: 12px; padding: 25px; margin-bottom: 20px; }
+.section h2 { color: #f8fafc; margin-bottom: 20px; font-size: 1.2em; border-bottom: 1px solid #334155; padding-bottom: 10px; }
+.charts { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.chart-box { background: #0f172a; border-radius: 8px; padding: 15px; }
+table { width: 100%; border-collapse: collapse; font-size: 0.85em; }
+th, td { padding: 8px 12px; text-align: left; border-bottom: 1px solid #334155; }
+th { color: #38bdf8; font-weight: 600; }
+tr:hover { background: #334155; }
+.bar { height: 8px; border-radius: 4px; background: #334155; min-width: 60px; }
+.bar-fill { height: 100%; border-radius: 4px; }
+.blue .bar-fill { background: #38bdf8; }
+.green .bar-fill { background: #4ade80; }
+.yellow .bar-fill { background: #facc15; }
+@media (max-width: 768px) { .charts { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<h1>📊 Dashboard de Lideranças</h1>
+<p class="subtitle">Atualizado em 17/05/2026 23:00 · 357 lideranças · 184 municípios</p>
+
+<div class="grid">
+  <div class="card">
+    <div class="value">357</div>
+    <div class="label">Total Lideranças</div>
+  </div>
+  <div class="card green">
+    <div class="value">142</div>
+    <div class="label">Fechados (39%)</div>
+  </div>
+  <div class="card yellow">
+    <div class="value">198</div>
+    <div class="label">A Cobrar (55%)</div>
+  </div>
+  <div class="card purple">
+    <div class="value">67,852</div>
+    <div class="label">Votos Dayany</div>
+  </div>
+  <div class="card pink">
+    <div class="value">5,030</div>
+    <div class="label">Votos Reginauro</div>
+  </div>
+</div>
+
+<div class="section">
+<h2>📈 Visão Geral</h2>
+<div class="charts">
+  <div class="chart-box"><canvas id="chartStatus"></canvas></div>
+  <div class="chart-box"><canvas id="chartResponsavel"></canvas></div>
+  <div class="chart-box"><canvas id="chartTipo"></canvas></div>
+  <div class="chart-box"><canvas id="chartVotosResp"></canvas></div>
+</div>
+</div>
+
+<div class="section">
+<h2>🏙️ Top 20 Municípios por Votos Dayany</h2>
+<table>
+<tr><th>#</th><th>Município</th><th>Lideranças</th><th>Votos Dayany</th><th>Votos Reginauro</th><th>% do Total</th></tr>
+<tr><td>1</td><td>PACAJUS</td><td>1</td><td>9,000</td><td>0</td><td>13%</td></tr><tr><td>2</td><td>JUAZEIRO DO NORTE</td><td>3</td><td>5,350</td><td>0</td><td>7%</td></tr><tr><td>3</td><td>NOVA OLINDA</td><td>2</td><td>2,500</td><td>0</td><td>3%</td></tr><tr><td>4</td><td>RUSSAS</td><td>18</td><td>2,194</td><td>1,000</td><td>3%</td></tr><tr><td>5</td><td>MARACANAÚ</td><td>7</td><td>2,100</td><td>800</td><td>3%</td></tr><tr><td>6</td><td>CANINDÉ</td><td>3</td><td>2,001</td><td>0</td><td>2%</td></tr><tr><td>7</td><td>HORIZONTE</td><td>5</td><td>2,000</td><td>0</td><td>2%</td></tr><tr><td>8</td><td>PACATUBA</td><td>4</td><td>2,000</td><td>0</td><td>2%</td></tr><tr><td>9</td><td>CASCAVEL</td><td>4</td><td>2,000</td><td>500</td><td>2%</td></tr><tr><td>10</td><td>MARANGUAPE</td><td>4</td><td>1,800</td><td>300</td><td>2%</td></tr><tr><td>11</td><td>IGUATU</td><td>4</td><td>1,500</td><td>0</td><td>2%</td></tr><tr><td>12</td><td>CAUCAIA</td><td>3</td><td>1,500</td><td>0</td><td>2%</td></tr><tr><td>13</td><td>PEDRA BRANCA</td><td>2</td><td>1,200</td><td>0</td><td>1%</td></tr><tr><td>14</td><td>JAGUARUANA</td><td>3</td><td>1,200</td><td>0</td><td>1%</td></tr><tr><td>15</td><td>CARIRIAÇU</td><td>3</td><td>1,100</td><td>0</td><td>1%</td></tr><tr><td>16</td><td>URUOCA</td><td>3</td><td>1,002</td><td>0</td><td>1%</td></tr><tr><td>17</td><td>ICÓ</td><td>7</td><td>1,002</td><td>0</td><td>1%</td></tr><tr><td>18</td><td>CATUNDA</td><td>1</td><td>1,000</td><td>0</td><td>1%</td></tr><tr><td>19</td><td>ACARAPE</td><td>1</td><td>1,000</td><td>0</td><td>1%</td></tr><tr><td>20</td><td>UBAJARA</td><td>1</td><td>1,000</td><td>0</td><td>1%</td></tr></table></div>
+
+<div class="section">
+<h2>👥 Top 20 Municípios por Lideranças</h2>
+<table>
+<tr><th>#</th><th>Município</th><th>Lideranças</th><th>Votos Dayany</th><th>Votos Reginauro</th></tr>
+<tr><td>1</td><td>RUSSAS</td><td>18</td><td>2,194</td><td>1,000</td></tr><tr><td>2</td><td>MARACANAÚ</td><td>7</td><td>2,100</td><td>800</td></tr><tr><td>3</td><td>ICÓ</td><td>7</td><td>1,002</td><td>0</td></tr><tr><td>4</td><td>QUIXADÁ</td><td>6</td><td>1,000</td><td>0</td></tr><tr><td>5</td><td>QUIXERAMOBIM</td><td>6</td><td>0</td><td>0</td></tr><tr><td>6</td><td>SOBRAL</td><td>5</td><td>550</td><td>550</td></tr><tr><td>7</td><td>ACOPIARA</td><td>5</td><td>150</td><td>0</td></tr><tr><td>8</td><td>HORIZONTE</td><td>5</td><td>2,000</td><td>0</td></tr><tr><td>9</td><td>CRATEÚS</td><td>5</td><td>230</td><td>0</td></tr><tr><td>10</td><td>BARBALHA</td><td>4</td><td>0</td><td>0</td></tr><tr><td>11</td><td>MISSÃO VELHA</td><td>4</td><td>0</td><td>0</td></tr><tr><td>12</td><td>BATURITÉ</td><td>4</td><td>300</td><td>0</td></tr><tr><td>13</td><td>JAGUARIBE</td><td>4</td><td>50</td><td>0</td></tr><tr><td>14</td><td>NOVO ORIENTE</td><td>4</td><td>500</td><td>0</td></tr><tr><td>15</td><td>IGUATU</td><td>4</td><td>1,500</td><td>0</td></tr><tr><td>16</td><td>PACATUBA</td><td>4</td><td>2,000</td><td>0</td></tr><tr><td>17</td><td>ITAPIPOCA</td><td>4</td><td>0</td><td>0</td></tr><tr><td>18</td><td>CASCAVEL</td><td>4</td><td>2,000</td><td>500</td></tr><tr><td>19</td><td>CRATO</td><td>4</td><td>400</td><td>100</td></tr><tr><td>20</td><td>CAMOCIM</td><td>4</td><td>500</td><td>0</td></tr></table></div>
+
+<div class="section">
+<h2>📋 Detalhamento por Responsável</h2>
+<table>
+<tr><th>Responsável</th><th>Lideranças</th><th>Votos Dayany</th><th>Votos Reginauro</th><th>% do Total</th></tr>
+<tr><td>JUSSARA</td><td>171</td><td>20,525</td><td>1,330</td><td>47%</td></tr><tr><td>RUDI</td><td>147</td><td>31,527</td><td>3,000</td><td>41%</td></tr><tr><td>CAPITÃO</td><td>36</td><td>15,600</td><td>500</td><td>10%</td></tr><tr><td>IGOR</td><td>2</td><td>200</td><td>200</td><td>0%</td></tr><tr><td>None</td><td>1</td><td>0</td><td>0</td><td>0%</td></tr></table></div>
+
+<div class="section">
+<h2>📊 Detalhamento por Status</h2>
+<table>
+<tr><th>Status</th><th>Lideranças</th><th>Votos Dayany</th><th>Votos Reginauro</th></tr>
+<tr><td>COBRAR</td><td>198</td><td>12,008</td><td>200</td></tr><tr><td>FECHADO</td><td>142</td><td>54,894</td><td>4,830</td></tr><tr><td>None</td><td>15</td><td>950</td><td>0</td></tr><tr><td>SEM ACORDO</td><td>2</td><td>0</td><td>0</td></tr></table></div>
+
+<div class="section">
+<h2>🏆 Votos por Tipo de Liderança</h2>
+<table>
+<tr><th>Tipo</th><th>Qtd</th><th>Votos Dayany</th><th>Votos Reginauro</th></tr>
+<tr><td>(não definido)</td><td>222</td><td>33,800</td><td>1,980</td></tr><tr><td>PREFEITO</td><td>12</td><td>12,400</td><td>500</td></tr><tr><td>VEREADOR</td><td>26</td><td>9,434</td><td>0</td></tr><tr><td>LIDERANÇA MILITAR</td><td>34</td><td>4,454</td><td>900</td></tr><tr><td>SUPLENTE DE VEREADOR</td><td>19</td><td>2,644</td><td>300</td></tr><tr><td>EX PREFEITO</td><td>11</td><td>1,700</td><td>500</td></tr><tr><td>EX VEREADOR</td><td>5</td><td>800</td><td>0</td></tr><tr><td>LIDERANÇA COMUNITÁRIA</td><td>2</td><td>600</td><td>200</td></tr><tr><td>CONSELHEIRO TUTELAR</td><td>4</td><td>520</td><td>300</td></tr><tr><td>VICE PREFEITO</td><td>1</td><td>500</td><td>0</td></tr><tr><td>LIDERANÇA ECLESIÁSTICA</td><td>8</td><td>300</td><td>0</td></tr><tr><td>EMPRESÁRIO</td><td>3</td><td>300</td><td>0</td></tr><tr><td>AGENTE DE SAÚDE</td><td>1</td><td>200</td><td>200</td></tr><tr><td>EX CONSELHEIRO TUTELAR</td><td>1</td><td>150</td><td>150</td></tr><tr><td>PRESIDENTE DE ASSOCIAÇÃO</td><td>1</td><td>50</td><td>0</td></tr><tr><td>EX SECRETÁRIO</td><td>1</td><td>0</td><td>0</td></tr><tr><td>ASSESSOR CW</td><td>5</td><td>0</td><td>0</td></tr><tr><td>SECRETÁRIO</td><td>1</td><td>0</td><td>0</td></tr></table></div>
+
+<script>
+const colors = ['#38bdf8','#4ade80','#facc15','#f472b6','#a78bfa','#fb923c','#2dd4bf','#818cf8'];
+
+new Chart(document.getElementById('chartStatus'), {
+  type: 'doughnut',
+  data: {
+    labels: ["COBRAR", "(sem status)", "FECHADO", "SEM ACORDO"],
+    datasets: [{ data: [198, 15, 142, 2], backgroundColor: ['#4ade80','#facc15','#38bdf8','#ef4444'] }]
+  },
+  options: { plugins: { title: { display: true, text: 'Por Status', color: '#f8fafc' } } }
+});
+
+new Chart(document.getElementById('chartResponsavel'), {
+  type: 'bar',
+  data: {
+    labels: ["JUSSARA", "RUDI", "CAPITÃO", "IGOR", "None"],
+    datasets: [
+      { label: 'Lideranças', data: [171, 147, 36, 2, 1], backgroundColor: '#38bdf8' },
+      { label: 'Votos Dayany', data: [20525, 31527, 15600, 200, 0], backgroundColor: '#a78bfa' }
+    ]
+  },
+  options: { plugins: { title: { display: true, text: 'Por Responsável', color: '#f8fafc' } }, scales: { y: { ticks: { color: '#94a3b8' } }, x: { ticks: { color: '#94a3b8' } } } }
+});
+
+new Chart(document.getElementById('chartTipo'), {
+  type: 'bar',
+  data: {
+    labels: ["(não definido)", "LIDERANÇA MILITAR", "VEREADOR", "SUPLENTE DE VEREADOR", "PREFEITO", "EX PREFEITO", "LIDERANÇA ECLESIÁSTICA", "ASSESSOR CW", "EX VEREADOR", "CONSELHEIRO TUTELAR", "EMPRESÁRIO", "LIDERANÇA COMUNITÁRIA"],
+    datasets: [{ label: 'Lideranças', data: [222, 34, 26, 19, 12, 11, 8, 5, 5, 4, 3, 2], backgroundColor: colors.concat(colors) }]
+  },
+  options: { indexAxis: 'y', plugins: { title: { display: true, text: 'Por Tipo de Liderança', color: '#f8fafc' } }, scales: { y: { ticks: { color: '#94a3b8' } }, x: { ticks: { color: '#94a3b8' } } } }
+});
+
+new Chart(document.getElementById('chartVotosResp'), {
+  type: 'bar',
+  data: {
+    labels: ["JUSSARA", "RUDI", "CAPITÃO", "IGOR", "None"],
+    datasets: [
+      { label: 'Dayany', data: [20525, 31527, 15600, 200, 0], backgroundColor: '#f472b6' },
+      { label: 'Reginauro', data: [1330, 3000, 500, 200, 0], backgroundColor: '#2dd4bf' }
+    ]
+  },
+  options: { plugins: { title: { display: true, text: 'Votos por Responsável', color: '#f8fafc' } }, scales: { y: { ticks: { color: '#94a3b8' } }, x: { ticks: { color: '#94a3b8' } } } }
+});
+</script>
+</body></html>

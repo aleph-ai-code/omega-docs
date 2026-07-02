@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  database:
+    image: postgres:15-alpine
+    container_name: hedgedoc-db
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=hedgedoc
+      - POSTGRES_PASSWORD=hedgedoc-password
+      - POSTGRES_DB=hedgedoc
+    volumes:
+      - /root/data/hedgedoc/db:/var/lib/postgresql/data
+    networks:
+      - dokploy-network
+
+  hedgedoc:
+    image: quay.io/hedgedoc/hedgedoc:latest
+    container_name: hedgedoc
+    restart: unless-stopped
+    depends_on:
+      - database
+    environment:
+      - CMD_DBURL=postgres://hedgedoc:hedgedoc-password@database:5432/hedgedoc
+      - CMD_DOMAIN=172.23.39.241:3001
+      - CMD_PROTOCOL_USESSL=false
+      - CMD_ALLOW_ORIGIN=*
+    ports:
+      - "3001:3001"
+    volumes:
+      - /root/data/hedgedoc/uploads:/hedgedoc/public/uploads
+    networks:
+      - dokploy-network
+
+networks:
+  dokploy-network:
+    external: true

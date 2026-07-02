@@ -1,0 +1,9975 @@
+1
+00:00:00,000 --> 00:00:01,670
+
+Eu vou te falar uma coisa e eu tenho
+
+2
+00:00:01,670 --> 00:00:01,680
+Eu vou te falar uma coisa e eu tenho
+ 
+
+3
+00:00:01,680 --> 00:00:03,470
+Eu vou te falar uma coisa e eu tenho
+certeza que você simpatiza com ela. Olha
+
+4
+00:00:03,470 --> 00:00:03,480
+certeza que você simpatiza com ela. Olha
+ 
+
+5
+00:00:03,480 --> 00:00:06,309
+certeza que você simpatiza com ela. Olha
+só, todo lugar que eu vou ou pessoas que
+
+6
+00:00:06,309 --> 00:00:06,319
+só, todo lugar que eu vou ou pessoas que
+ 
+
+7
+00:00:06,319 --> 00:00:09,070
+só, todo lugar que eu vou ou pessoas que
+eu converso ou notícias que eu leio ou o
+
+8
+00:00:09,070 --> 00:00:09,080
+eu converso ou notícias que eu leio ou o
+ 
+
+9
+00:00:09,080 --> 00:00:10,470
+eu converso ou notícias que eu leio ou o
+meu próprio Instagram, que devia ser uma
+
+10
+00:00:10,470 --> 00:00:10,480
+meu próprio Instagram, que devia ser uma
+ 
+
+11
+00:00:10,480 --> 00:00:12,830
+meu próprio Instagram, que devia ser uma
+área de lazer, eu tenho crise de
+
+12
+00:00:12,830 --> 00:00:12,840
+área de lazer, eu tenho crise de
+ 
+
+13
+00:00:12,840 --> 00:00:15,150
+área de lazer, eu tenho crise de
+ansiedade, porque toda hora eu estou
+
+14
+00:00:15,150 --> 00:00:15,160
+ansiedade, porque toda hora eu estou
+ 
+
+15
+00:00:15,160 --> 00:00:18,150
+ansiedade, porque toda hora eu estou
+sendo bombardeado por IA. Ia para cá, ia
+
+16
+00:00:18,150 --> 00:00:18,160
+sendo bombardeado por IA. Ia para cá, ia
+ 
+
+17
+00:00:18,160 --> 00:00:20,269
+sendo bombardeado por IA. Ia para cá, ia
+para lá, gente. SAS morreu, OpenCla
+
+18
+00:00:20,269 --> 00:00:20,279
+para lá, gente. SAS morreu, OpenCla
+ 
+
+19
+00:00:20,279 --> 00:00:22,109
+para lá, gente. SAS morreu, OpenCla
+morreu, Cláudio morreu, o chat PT
+
+20
+00:00:22,109 --> 00:00:22,119
+morreu, Cláudio morreu, o chat PT
+ 
+
+21
+00:00:22,119 --> 00:00:23,710
+morreu, Cláudio morreu, o chat PT
+morreu, meu Deus, todo mundo tá
+
+22
+00:00:23,710 --> 00:00:23,720
+morreu, meu Deus, todo mundo tá
+ 
+
+23
+00:00:23,720 --> 00:00:25,670
+morreu, meu Deus, todo mundo tá
+morrendo. E eu sinto que eu não sei o
+
+24
+00:00:25,670 --> 00:00:25,680
+morrendo. E eu sinto que eu não sei o
+ 
+
+25
+00:00:25,680 --> 00:00:27,509
+morrendo. E eu sinto que eu não sei o
+que fazer com toda essa informação, com
+
+26
+00:00:27,509 --> 00:00:27,519
+que fazer com toda essa informação, com
+ 
+
+27
+00:00:27,519 --> 00:00:28,950
+que fazer com toda essa informação, com
+tanta coisa nova acontecendo, tanta
+
+28
+00:00:28,950 --> 00:00:28,960
+tanta coisa nova acontecendo, tanta
+ 
+
+29
+00:00:28,960 --> 00:00:31,310
+tanta coisa nova acontecendo, tanta
+empresa morrendo e com essa velocidade
+
+30
+00:00:31,310 --> 00:00:31,320
+empresa morrendo e com essa velocidade
+ 
+
+31
+00:00:31,320 --> 00:00:34,110
+empresa morrendo e com essa velocidade
+maluca que deixa a gente tendo gastrite
+
+32
+00:00:34,110 --> 00:00:34,120
+maluca que deixa a gente tendo gastrite
+ 
+
+33
+00:00:34,120 --> 00:00:36,310
+maluca que deixa a gente tendo gastrite
+tempo inteiro de ansiedade. Mas eu tenho
+
+34
+00:00:36,310 --> 00:00:36,320
+tempo inteiro de ansiedade. Mas eu tenho
+ 
+
+35
+00:00:36,320 --> 00:00:38,030
+tempo inteiro de ansiedade. Mas eu tenho
+uma boa notícia para você. Assim, o que
+
+36
+00:00:38,030 --> 00:00:38,040
+uma boa notícia para você. Assim, o que
+ 
+
+37
+00:00:38,040 --> 00:00:40,389
+uma boa notícia para você. Assim, o que
+acontece de na prática é que entre idas
+
+38
+00:00:40,389 --> 00:00:40,399
+acontece de na prática é que entre idas
+ 
+
+39
+00:00:40,399 --> 00:00:43,069
+acontece de na prática é que entre idas
+e vindas de centenas de empresas e
+
+40
+00:00:43,069 --> 00:00:43,079
+e vindas de centenas de empresas e
+ 
+
+41
+00:00:43,079 --> 00:00:45,750
+e vindas de centenas de empresas e
+ferramentas, uma coisa persiste, que é a
+
+42
+00:00:45,750 --> 00:00:45,760
+ferramentas, uma coisa persiste, que é a
+ 
+
+43
+00:00:45,760 --> 00:00:47,790
+ferramentas, uma coisa persiste, que é a
+coisa que você vai aprendendo aqui nesse
+
+44
+00:00:47,790 --> 00:00:47,800
+coisa que você vai aprendendo aqui nesse
+ 
+
+45
+00:00:47,800 --> 00:00:50,029
+coisa que você vai aprendendo aqui nesse
+vídeo, que é sobre os agentes. Então, no
+
+46
+00:00:50,029 --> 00:00:50,039
+vídeo, que é sobre os agentes. Então, no
+ 
+
+47
+00:00:50,039 --> 00:00:51,670
+vídeo, que é sobre os agentes. Então, no
+vídeo de hoje, eu quero falar para vocês
+
+48
+00:00:51,670 --> 00:00:51,680
+vídeo de hoje, eu quero falar para vocês
+ 
+
+49
+00:00:51,680 --> 00:00:54,189
+vídeo de hoje, eu quero falar para vocês
+a minha visão completa sobre o que é um
+
+50
+00:00:54,189 --> 00:00:54,199
+a minha visão completa sobre o que é um
+ 
+
+51
+00:00:54,199 --> 00:00:56,670
+a minha visão completa sobre o que é um
+agente em 2026. Então eu vou explicar
+
+52
+00:00:56,670 --> 00:00:56,680
+agente em 2026. Então eu vou explicar
+ 
+
+53
+00:00:56,680 --> 00:00:59,029
+agente em 2026. Então eu vou explicar
+para vocês sobre o que que é um agente,
+
+54
+00:00:59,029 --> 00:00:59,039
+para vocês sobre o que que é um agente,
+ 
+
+55
+00:00:59,039 --> 00:01:01,189
+para vocês sobre o que que é um agente,
+sobre como que um agente funciona, sobre
+
+56
+00:01:01,189 --> 00:01:01,199
+sobre como que um agente funciona, sobre
+ 
+
+57
+00:01:01,199 --> 00:01:03,310
+sobre como que um agente funciona, sobre
+os três pilares de um agente, que
+
+58
+00:01:03,310 --> 00:01:03,320
+os três pilares de um agente, que
+ 
+
+59
+00:01:03,320 --> 00:01:05,229
+os três pilares de um agente, que
+basicamente é rontina, contexto e
+
+60
+00:01:05,229 --> 00:01:05,239
+basicamente é rontina, contexto e
+ 
+
+61
+00:01:05,239 --> 00:01:07,070
+basicamente é rontina, contexto e
+skills. Vou falar para vocês também um
+
+62
+00:01:07,070 --> 00:01:07,080
+skills. Vou falar para vocês também um
+ 
+
+63
+00:01:07,080 --> 00:01:09,149
+skills. Vou falar para vocês também um
+pouco sobre o erro que a maioria das
+
+64
+00:01:09,149 --> 00:01:09,159
+pouco sobre o erro que a maioria das
+ 
+
+65
+00:01:09,159 --> 00:01:10,910
+pouco sobre o erro que a maioria das
+pessoas cometem a construir os seus
+
+66
+00:01:10,910 --> 00:01:10,920
+pessoas cometem a construir os seus
+ 
+
+67
+00:01:10,920 --> 00:01:13,469
+pessoas cometem a construir os seus
+agentes. Vou explicar também o loop que
+
+68
+00:01:13,469 --> 00:01:13,479
+agentes. Vou explicar também o loop que
+ 
+
+69
+00:01:13,479 --> 00:01:15,270
+agentes. Vou explicar também o loop que
+você precisa saber para você testar com
+
+70
+00:01:15,270 --> 00:01:15,280
+você precisa saber para você testar com
+ 
+
+71
+00:01:15,280 --> 00:01:16,990
+você precisa saber para você testar com
+seus agentes e vou te dar algumas
+
+72
+00:01:16,990 --> 00:01:17,000
+seus agentes e vou te dar algumas
+ 
+
+73
+00:01:17,000 --> 00:01:19,109
+seus agentes e vou te dar algumas
+pequenas dicas no decorrer desse vídeo
+
+74
+00:01:19,109 --> 00:01:19,119
+pequenas dicas no decorrer desse vídeo
+ 
+
+75
+00:01:19,119 --> 00:01:21,749
+pequenas dicas no decorrer desse vídeo
+para te dar uma boa base para você
+
+76
+00:01:21,749 --> 00:01:21,759
+para te dar uma boa base para você
+ 
+
+77
+00:01:21,759 --> 00:01:23,469
+para te dar uma boa base para você
+construir o seu primeiro agente. Então
+
+78
+00:01:23,469 --> 00:01:23,479
+construir o seu primeiro agente. Então
+ 
+
+79
+00:01:23,479 --> 00:01:25,550
+construir o seu primeiro agente. Então
+não importa se você vai fazer isso com
+
+80
+00:01:25,550 --> 00:01:25,560
+não importa se você vai fazer isso com
+ 
+
+81
+00:01:25,560 --> 00:01:27,910
+não importa se você vai fazer isso com
+OpenCla, com Cloud, com Chat GPT, tanto
+
+82
+00:01:27,910 --> 00:01:27,920
+OpenCla, com Cloud, com Chat GPT, tanto
+ 
+
+83
+00:01:27,920 --> 00:01:30,149
+OpenCla, com Cloud, com Chat GPT, tanto
+faz. O que importa é você entender a
+
+84
+00:01:30,149 --> 00:01:30,159
+faz. O que importa é você entender a
+ 
+
+85
+00:01:30,159 --> 00:01:32,510
+faz. O que importa é você entender a
+lógica do que é ter um agente e como
+
+86
+00:01:32,510 --> 00:01:32,520
+lógica do que é ter um agente e como
+ 
+
+87
+00:01:32,520 --> 00:01:35,190
+lógica do que é ter um agente e como
+operar um agente para você surfar a
+
+88
+00:01:35,190 --> 00:01:35,200
+operar um agente para você surfar a
+ 
+
+89
+00:01:35,200 --> 00:01:37,510
+operar um agente para você surfar a
+tecnologia na sua mais pura essência, tá
+
+90
+00:01:37,510 --> 00:01:37,520
+tecnologia na sua mais pura essência, tá
+ 
+
+91
+00:01:37,520 --> 00:01:41,149
+tecnologia na sua mais pura essência, tá
+bom? Então, parti o vídeo de hoje.
+
+92
+00:01:41,149 --> 00:01:41,159
+bom? Então, parti o vídeo de hoje.
+ 
+
+93
+00:01:41,159 --> 00:01:42,670
+bom? Então, parti o vídeo de hoje.
+Bom, se você é novo aqui no meu canal,
+
+94
+00:01:42,670 --> 00:01:42,680
+Bom, se você é novo aqui no meu canal,
+ 
+
+95
+00:01:42,680 --> 00:01:44,389
+Bom, se você é novo aqui no meu canal,
+antes de qualquer coisa, muito bem-vindo
+
+96
+00:01:44,389 --> 00:01:44,399
+antes de qualquer coisa, muito bem-vindo
+ 
+
+97
+00:01:44,399 --> 00:01:45,990
+antes de qualquer coisa, muito bem-vindo
+ou muito bem-vinda. Eu sou o Bruno
+
+98
+00:01:45,990 --> 00:01:46,000
+ou muito bem-vinda. Eu sou o Bruno
+ 
+
+99
+00:01:46,000 --> 00:01:48,190
+ou muito bem-vinda. Eu sou o Bruno
+Camoto e é um prazer inenarrável te ter
+
+100
+00:01:48,190 --> 00:01:48,200
+Camoto e é um prazer inenarrável te ter
+ 
+
+101
+00:01:48,200 --> 00:01:49,830
+Camoto e é um prazer inenarrável te ter
+aqui comigo. Aqui no meu canal eu falo
+
+102
+00:01:49,830 --> 00:01:49,840
+aqui comigo. Aqui no meu canal eu falo
+ 
+
+103
+00:01:49,840 --> 00:01:52,389
+aqui comigo. Aqui no meu canal eu falo
+muito sobre SAS, sobre microOSASS, sobre
+
+104
+00:01:52,389 --> 00:01:52,399
+muito sobre SAS, sobre microOSASS, sobre
+ 
+
+105
+00:01:52,399 --> 00:01:54,510
+muito sobre SAS, sobre microOSASS, sobre
+IA, sobre empreendedorismo no geral e eu
+
+106
+00:01:54,510 --> 00:01:54,520
+IA, sobre empreendedorismo no geral e eu
+ 
+
+107
+00:01:54,520 --> 00:01:56,910
+IA, sobre empreendedorismo no geral e eu
+curto muito fazer vídeos para tirar uma
+
+108
+00:01:56,910 --> 00:01:56,920
+curto muito fazer vídeos para tirar uma
+ 
+
+109
+00:01:56,920 --> 00:01:58,950
+curto muito fazer vídeos para tirar uma
+pira e falar de pautas que eu gosto
+
+110
+00:01:58,950 --> 00:01:58,960
+pira e falar de pautas que eu gosto
+ 
+
+111
+00:01:58,960 --> 00:02:00,990
+pira e falar de pautas que eu gosto
+muito e de mostrar o que eu faço, porque
+
+112
+00:02:00,990 --> 00:02:01,000
+muito e de mostrar o que eu faço, porque
+ 
+
+113
+00:02:01,000 --> 00:02:02,429
+muito e de mostrar o que eu faço, porque
+também não adianta eu só ficar falando
+
+114
+00:02:02,429 --> 00:02:02,439
+também não adianta eu só ficar falando
+ 
+
+115
+00:02:02,439 --> 00:02:03,990
+também não adianta eu só ficar falando
+de a aqui, porque senão eu vou ser só
+
+116
+00:02:03,990 --> 00:02:04,000
+de a aqui, porque senão eu vou ser só
+ 
+
+117
+00:02:04,000 --> 00:02:05,910
+de a aqui, porque senão eu vou ser só
+mais um youtuber falando de ah, olha que
+
+118
+00:02:05,910 --> 00:02:05,920
+mais um youtuber falando de ah, olha que
+ 
+
+119
+00:02:05,920 --> 00:02:07,550
+mais um youtuber falando de ah, olha que
+legal essas novidades de cloud, mas não,
+
+120
+00:02:07,550 --> 00:02:07,560
+legal essas novidades de cloud, mas não,
+ 
+
+121
+00:02:07,560 --> 00:02:09,350
+legal essas novidades de cloud, mas não,
+eu quero trazer para vocês o que é IA
+
+122
+00:02:09,350 --> 00:02:09,360
+eu quero trazer para vocês o que é IA
+ 
+
+123
+00:02:09,360 --> 00:02:11,309
+eu quero trazer para vocês o que é IA
+aplicado para negócios na prática, como
+
+124
+00:02:11,309 --> 00:02:11,319
+aplicado para negócios na prática, como
+ 
+
+125
+00:02:11,319 --> 00:02:13,229
+aplicado para negócios na prática, como
+a gente usa, como a gente escala, como a
+
+126
+00:02:13,229 --> 00:02:13,239
+a gente usa, como a gente escala, como a
+ 
+
+127
+00:02:13,239 --> 00:02:14,550
+a gente usa, como a gente escala, como a
+gente testa. Então, no vídeo de hoje, eu
+
+128
+00:02:14,550 --> 00:02:14,560
+gente testa. Então, no vídeo de hoje, eu
+ 
+
+129
+00:02:14,560 --> 00:02:16,910
+gente testa. Então, no vídeo de hoje, eu
+quero entrar nessa caixa aqui de novo da
+
+130
+00:02:16,910 --> 00:02:16,920
+quero entrar nessa caixa aqui de novo da
+ 
+
+131
+00:02:16,920 --> 00:02:18,869
+quero entrar nessa caixa aqui de novo da
+minha visão sobre para negócios e
+
+132
+00:02:18,869 --> 00:02:18,879
+minha visão sobre para negócios e
+ 
+
+133
+00:02:18,879 --> 00:02:20,630
+minha visão sobre para negócios e
+mostrar pra vocês um pouco do que que é
+
+134
+00:02:20,630 --> 00:02:20,640
+mostrar pra vocês um pouco do que que é
+ 
+
+135
+00:02:20,640 --> 00:02:22,430
+mostrar pra vocês um pouco do que que é
+um agente e a gente fazer esse
+
+136
+00:02:22,430 --> 00:02:22,440
+um agente e a gente fazer esse
+ 
+
+137
+00:02:22,440 --> 00:02:25,030
+um agente e a gente fazer esse
+breakdown, ou seja, a gente destrinchar
+
+138
+00:02:25,030 --> 00:02:25,040
+breakdown, ou seja, a gente destrinchar
+ 
+
+139
+00:02:25,040 --> 00:02:26,990
+breakdown, ou seja, a gente destrinchar
+esse papo de agentes hoje, tá bom?
+
+140
+00:02:26,990 --> 00:02:27,000
+esse papo de agentes hoje, tá bom?
+ 
+
+141
+00:02:27,000 --> 00:02:28,750
+esse papo de agentes hoje, tá bom?
+Então, vamos começar aqui o vídeo. Esse
+
+142
+00:02:28,750 --> 00:02:28,760
+Então, vamos começar aqui o vídeo. Esse
+ 
+
+143
+00:02:28,760 --> 00:02:31,229
+Então, vamos começar aqui o vídeo. Esse
+aqui é a minha colinha que eu fiz, na
+
+144
+00:02:31,229 --> 00:02:31,239
+aqui é a minha colinha que eu fiz, na
+ 
+
+145
+00:02:31,239 --> 00:02:33,710
+aqui é a minha colinha que eu fiz, na
+verdade foi a Amora que fez aqui no meu
+
+146
+00:02:33,710 --> 00:02:33,720
+verdade foi a Amora que fez aqui no meu
+ 
+
+147
+00:02:33,720 --> 00:02:35,710
+verdade foi a Amora que fez aqui no meu
+WhatsApp, né? Tava fazendo aqui a
+
+148
+00:02:35,710 --> 00:02:35,720
+WhatsApp, né? Tava fazendo aqui a
+ 
+
+149
+00:02:35,720 --> 00:02:37,910
+WhatsApp, né? Tava fazendo aqui a
+colinha com ela e aí ficou bem legal
+
+150
+00:02:37,910 --> 00:02:37,920
+colinha com ela e aí ficou bem legal
+ 
+
+151
+00:02:37,920 --> 00:02:39,550
+colinha com ela e aí ficou bem legal
+aqui essa colinha. Então eu simplesmente
+
+152
+00:02:39,550 --> 00:02:39,560
+aqui essa colinha. Então eu simplesmente
+ 
+
+153
+00:02:39,560 --> 00:02:42,229
+aqui essa colinha. Então eu simplesmente
+colei aqui e a gente vai seguir ela, tá?
+
+154
+00:02:42,229 --> 00:02:42,239
+colei aqui e a gente vai seguir ela, tá?
+ 
+
+155
+00:02:42,239 --> 00:02:44,110
+colei aqui e a gente vai seguir ela, tá?
+Então vamos falar primeiro sobre o
+
+156
+00:02:44,110 --> 00:02:44,120
+Então vamos falar primeiro sobre o
+ 
+
+157
+00:02:44,120 --> 00:02:46,350
+Então vamos falar primeiro sobre o
+primeiro bloco. O mercado entendeu
+
+158
+00:02:46,350 --> 00:02:46,360
+primeiro bloco. O mercado entendeu
+ 
+
+159
+00:02:46,360 --> 00:02:48,790
+primeiro bloco. O mercado entendeu
+agentes errado, né? Então por que que a
+
+160
+00:02:48,790 --> 00:02:48,800
+agentes errado, né? Então por que que a
+ 
+
+161
+00:02:48,800 --> 00:02:51,509
+agentes errado, né? Então por que que a
+Amora falou e sugeriu que a maioria das
+
+162
+00:02:51,509 --> 00:02:51,519
+Amora falou e sugeriu que a maioria das
+ 
+
+163
+00:02:51,519 --> 00:02:54,350
+Amora falou e sugeriu que a maioria das
+pessoas tratam agentes errado? Tá bom?
+
+164
+00:02:54,350 --> 00:02:54,360
+pessoas tratam agentes errado? Tá bom?
+ 
+
+165
+00:02:54,360 --> 00:02:56,309
+pessoas tratam agentes errado? Tá bom?
+Então o que que acontece? Eu vou dar um
+
+166
+00:02:56,309 --> 00:02:56,319
+Então o que que acontece? Eu vou dar um
+ 
+
+167
+00:02:56,319 --> 00:02:57,710
+Então o que que acontece? Eu vou dar um
+exemplo para vocês, porque você sabe que
+
+168
+00:02:57,710 --> 00:02:57,720
+exemplo para vocês, porque você sabe que
+ 
+
+169
+00:02:57,720 --> 00:02:59,589
+exemplo para vocês, porque você sabe que
+eu gosto de desenhar para caramba. Então
+
+170
+00:02:59,589 --> 00:02:59,599
+eu gosto de desenhar para caramba. Então
+ 
+
+171
+00:02:59,599 --> 00:03:01,750
+eu gosto de desenhar para caramba. Então
+o que que eu vejo nas minhas
+
+172
+00:03:01,750 --> 00:03:01,760
+o que que eu vejo nas minhas
+ 
+
+173
+00:03:01,760 --> 00:03:04,789
+o que que eu vejo nas minhas
+comunidades? Eh, hoje, atualmente, eu
+
+174
+00:03:04,789 --> 00:03:04,799
+comunidades? Eh, hoje, atualmente, eu
+ 
+
+175
+00:03:04,799 --> 00:03:06,670
+comunidades? Eh, hoje, atualmente, eu
+tenho três ou quatro grandes comunidades
+
+176
+00:03:06,670 --> 00:03:06,680
+tenho três ou quatro grandes comunidades
+ 
+
+177
+00:03:06,680 --> 00:03:10,030
+tenho três ou quatro grandes comunidades
+que somadas eu devo ter cerca de meus 20
+
+178
+00:03:10,030 --> 00:03:10,040
+que somadas eu devo ter cerca de meus 20
+ 
+
+179
+00:03:10,040 --> 00:03:13,229
+que somadas eu devo ter cerca de meus 20
+e 20 e poucos milos aí que falam de AI,
+
+180
+00:03:13,229 --> 00:03:13,239
+e 20 e poucos milos aí que falam de AI,
+ 
+
+181
+00:03:13,239 --> 00:03:15,710
+e 20 e poucos milos aí que falam de AI,
+falam de OpenCall, falam de tudo. E eu,
+
+182
+00:03:15,710 --> 00:03:15,720
+falam de OpenCall, falam de tudo. E eu,
+ 
+
+183
+00:03:15,720 --> 00:03:17,110
+falam de OpenCall, falam de tudo. E eu,
+óbvio que eu tô todos os dias
+
+184
+00:03:17,110 --> 00:03:17,120
+óbvio que eu tô todos os dias
+ 
+
+185
+00:03:17,120 --> 00:03:18,390
+óbvio que eu tô todos os dias
+acompanhando todas as minhas
+
+186
+00:03:18,390 --> 00:03:18,400
+acompanhando todas as minhas
+ 
+
+187
+00:03:18,400 --> 00:03:20,509
+acompanhando todas as minhas
+comunidades, eu tô sempre participando,
+
+188
+00:03:20,509 --> 00:03:20,519
+comunidades, eu tô sempre participando,
+ 
+
+189
+00:03:20,519 --> 00:03:23,949
+comunidades, eu tô sempre participando,
+lendo, entendendo e desse de certa forma
+
+190
+00:03:23,949 --> 00:03:23,959
+lendo, entendendo e desse de certa forma
+ 
+
+191
+00:03:23,959 --> 00:03:26,270
+lendo, entendendo e desse de certa forma
+os a visão das pessoas, o que elas
+
+192
+00:03:26,270 --> 00:03:26,280
+os a visão das pessoas, o que elas
+ 
+
+193
+00:03:26,280 --> 00:03:27,509
+os a visão das pessoas, o que elas
+trazem, como elas trazem e tudo mais.
+
+194
+00:03:27,509 --> 00:03:27,519
+trazem, como elas trazem e tudo mais.
+ 
+
+195
+00:03:27,519 --> 00:03:29,910
+trazem, como elas trazem e tudo mais.
+Então, o grande erro que eu vejo em 2026
+
+196
+00:03:29,910 --> 00:03:29,920
+Então, o grande erro que eu vejo em 2026
+ 
+
+197
+00:03:29,920 --> 00:03:33,869
+Então, o grande erro que eu vejo em 2026
+é que muita gente trata agentes como uma
+
+198
+00:03:33,869 --> 00:03:33,879
+é que muita gente trata agentes como uma
+ 
+
+199
+00:03:33,879 --> 00:03:37,110
+é que muita gente trata agentes como uma
+coisa sexy. Tipo assim, pô, é sexy, né?
+
+200
+00:03:37,110 --> 00:03:37,120
+coisa sexy. Tipo assim, pô, é sexy, né?
+ 
+
+201
+00:03:37,120 --> 00:03:40,229
+coisa sexy. Tipo assim, pô, é sexy, né?
+Você falar assim: "Ah, tenho hoje 18
+
+202
+00:03:40,229 --> 00:03:40,239
+Você falar assim: "Ah, tenho hoje 18
+ 
+
+203
+00:03:40,239 --> 00:03:42,550
+Você falar assim: "Ah, tenho hoje 18
+agentes trabalhando para mim". Nossa,
+
+204
+00:03:42,550 --> 00:03:42,560
+agentes trabalhando para mim". Nossa,
+ 
+
+205
+00:03:42,560 --> 00:03:44,869
+agentes trabalhando para mim". Nossa,
+que incrível, né? Então assim, hoje eu
+
+206
+00:03:44,869 --> 00:03:44,879
+que incrível, né? Então assim, hoje eu
+ 
+
+207
+00:03:44,879 --> 00:03:47,390
+que incrível, né? Então assim, hoje eu
+vejo muito influenciador pequeno, não no
+
+208
+00:03:47,390 --> 00:03:47,400
+vejo muito influenciador pequeno, não no
+ 
+
+209
+00:03:47,400 --> 00:03:49,110
+vejo muito influenciador pequeno, não no
+sentido de pequeno número de seguidores,
+
+210
+00:03:49,110 --> 00:03:49,120
+sentido de pequeno número de seguidores,
+ 
+
+211
+00:03:49,120 --> 00:03:51,350
+sentido de pequeno número de seguidores,
+mas pequeno a nível de conhecimento
+
+212
+00:03:51,350 --> 00:03:51,360
+mas pequeno a nível de conhecimento
+ 
+
+213
+00:03:51,360 --> 00:03:53,869
+mas pequeno a nível de conhecimento
+prático de agentes, onde as pessoas
+
+214
+00:03:53,869 --> 00:03:53,879
+prático de agentes, onde as pessoas
+ 
+
+215
+00:03:53,879 --> 00:03:57,030
+prático de agentes, onde as pessoas
+ficam se gabando quanto é sexy você ter
+
+216
+00:03:57,030 --> 00:03:57,040
+ficam se gabando quanto é sexy você ter
+ 
+
+217
+00:03:57,040 --> 00:03:59,550
+ficam se gabando quanto é sexy você ter
+múltiplos agentes para você operar no
+
+218
+00:03:59,550 --> 00:03:59,560
+múltiplos agentes para você operar no
+ 
+
+219
+00:03:59,560 --> 00:04:01,350
+múltiplos agentes para você operar no
+seu negócio e para você escalar eles.
+
+220
+00:04:01,350 --> 00:04:01,360
+seu negócio e para você escalar eles.
+ 
+
+221
+00:04:01,360 --> 00:04:03,710
+seu negócio e para você escalar eles.
+Mas o que as pessoas não sabem que é um
+
+222
+00:04:03,710 --> 00:04:03,720
+Mas o que as pessoas não sabem que é um
+ 
+
+223
+00:04:03,720 --> 00:04:05,789
+Mas o que as pessoas não sabem que é um
+desafio gigantesco quando você tem
+
+224
+00:04:05,789 --> 00:04:05,799
+desafio gigantesco quando você tem
+ 
+
+225
+00:04:05,799 --> 00:04:09,069
+desafio gigantesco quando você tem
+múltiplos agentes, é que, cara, dá muito
+
+226
+00:04:09,069 --> 00:04:09,079
+múltiplos agentes, é que, cara, dá muito
+ 
+
+227
+00:04:09,079 --> 00:04:11,429
+múltiplos agentes, é que, cara, dá muito
+trabalho fazer a gestão. Então você tem
+
+228
+00:04:11,429 --> 00:04:11,439
+trabalho fazer a gestão. Então você tem
+ 
+
+229
+00:04:11,439 --> 00:04:13,390
+trabalho fazer a gestão. Então você tem
+uma governança
+
+230
+00:04:13,390 --> 00:04:13,400
+uma governança
+ 
+
+231
+00:04:13,400 --> 00:04:17,310
+uma governança
+difícil com tantos agentes. Então você
+
+232
+00:04:17,310 --> 00:04:17,320
+difícil com tantos agentes. Então você
+ 
+
+233
+00:04:17,320 --> 00:04:19,430
+difícil com tantos agentes. Então você
+fazer a gestão de múltiplos agentes é um
+
+234
+00:04:19,430 --> 00:04:19,440
+fazer a gestão de múltiplos agentes é um
+ 
+
+235
+00:04:19,440 --> 00:04:21,629
+fazer a gestão de múltiplos agentes é um
+negócio, cara, que eles começam a
+
+236
+00:04:21,629 --> 00:04:21,639
+negócio, cara, que eles começam a
+ 
+
+237
+00:04:21,639 --> 00:04:23,430
+negócio, cara, que eles começam a
+quebrar, eles começam a dar problema,
+
+238
+00:04:23,430 --> 00:04:23,440
+quebrar, eles começam a dar problema,
+ 
+
+239
+00:04:23,440 --> 00:04:25,430
+quebrar, eles começam a dar problema,
+eles precisam de manutenção, eles dão
+
+240
+00:04:25,430 --> 00:04:25,440
+eles precisam de manutenção, eles dão
+ 
+
+241
+00:04:25,440 --> 00:04:26,990
+eles precisam de manutenção, eles dão
+erro. Então, para você ter uma ideia,
+
+242
+00:04:26,990 --> 00:04:27,000
+erro. Então, para você ter uma ideia,
+ 
+
+243
+00:04:27,000 --> 00:04:29,270
+erro. Então, para você ter uma ideia,
+agora mesmo, eu tava aqui no cloud code
+
+244
+00:04:29,270 --> 00:04:29,280
+agora mesmo, eu tava aqui no cloud code
+ 
+
+245
+00:04:29,280 --> 00:04:31,710
+agora mesmo, eu tava aqui no cloud code
+aqui destrinchando porque o meu agente
+
+246
+00:04:31,710 --> 00:04:31,720
+aqui destrinchando porque o meu agente
+ 
+
+247
+00:04:31,720 --> 00:04:34,029
+aqui destrinchando porque o meu agente
+quebrou, né? Tava aqui, ó, por que o meu
+
+248
+00:04:34,029 --> 00:04:34,039
+quebrou, né? Tava aqui, ó, por que o meu
+ 
+
+249
+00:04:34,039 --> 00:04:36,390
+quebrou, né? Tava aqui, ó, por que o meu
+gator morreu? E aí, de repente o meu
+
+250
+00:04:36,390 --> 00:04:36,400
+gator morreu? E aí, de repente o meu
+ 
+
+251
+00:04:36,400 --> 00:04:38,550
+gator morreu? E aí, de repente o meu
+agente parou de funcionar. Então assim,
+
+252
+00:04:38,550 --> 00:04:38,560
+agente parou de funcionar. Então assim,
+ 
+
+253
+00:04:38,560 --> 00:04:40,430
+agente parou de funcionar. Então assim,
+você ter múltiplos agentes é muito
+
+254
+00:04:40,430 --> 00:04:40,440
+você ter múltiplos agentes é muito
+ 
+
+255
+00:04:40,440 --> 00:04:42,310
+você ter múltiplos agentes é muito
+difícil. Uma segunda coisa que as
+
+256
+00:04:42,310 --> 00:04:42,320
+difícil. Uma segunda coisa que as
+ 
+
+257
+00:04:42,320 --> 00:04:44,029
+difícil. Uma segunda coisa que as
+pessoas erram muito também quando a
+
+258
+00:04:44,029 --> 00:04:44,039
+pessoas erram muito também quando a
+ 
+
+259
+00:04:44,039 --> 00:04:45,950
+pessoas erram muito também quando a
+gente fala de múltiplos agentes, que
+
+260
+00:04:45,950 --> 00:04:45,960
+gente fala de múltiplos agentes, que
+ 
+
+261
+00:04:45,960 --> 00:04:48,070
+gente fala de múltiplos agentes, que
+leva também a esse caminho de frustração
+
+262
+00:04:48,070 --> 00:04:48,080
+leva também a esse caminho de frustração
+ 
+
+263
+00:04:48,080 --> 00:04:49,749
+leva também a esse caminho de frustração
+aqui, vamos colocar aqui, é que as
+
+264
+00:04:49,749 --> 00:04:49,759
+aqui, vamos colocar aqui, é que as
+ 
+
+265
+00:04:49,759 --> 00:04:53,670
+aqui, vamos colocar aqui, é que as
+pessoas elas criam agentes e não criam
+
+266
+00:04:53,670 --> 00:04:53,680
+pessoas elas criam agentes e não criam
+ 
+
+267
+00:04:53,680 --> 00:04:58,390
+pessoas elas criam agentes e não criam
+processos, processos de inteligência
+
+268
+00:04:58,390 --> 00:04:58,400
+processos, processos de inteligência
+ 
+
+269
+00:04:58,400 --> 00:05:00,590
+processos, processos de inteligência
+para esse agente. Então o que acontece é
+
+270
+00:05:00,590 --> 00:05:00,600
+para esse agente. Então o que acontece é
+ 
+
+271
+00:05:00,600 --> 00:05:02,230
+para esse agente. Então o que acontece é
+que as pessoas elas ficam criando
+
+272
+00:05:02,230 --> 00:05:02,240
+que as pessoas elas ficam criando
+ 
+
+273
+00:05:02,240 --> 00:05:04,469
+que as pessoas elas ficam criando
+múltiplos agentes e esses agentes eles
+
+274
+00:05:04,469 --> 00:05:04,479
+múltiplos agentes e esses agentes eles
+ 
+
+275
+00:05:04,479 --> 00:05:06,350
+múltiplos agentes e esses agentes eles
+não evoluem, eles não aprendem, eles não
+
+276
+00:05:06,350 --> 00:05:06,360
+não evoluem, eles não aprendem, eles não
+ 
+
+277
+00:05:06,360 --> 00:05:08,510
+não evoluem, eles não aprendem, eles não
+fazem as coisas corretamente. Então,
+
+278
+00:05:08,510 --> 00:05:08,520
+fazem as coisas corretamente. Então,
+ 
+
+279
+00:05:08,520 --> 00:05:11,110
+fazem as coisas corretamente. Então,
+quando você tem múltiplos agentes e você
+
+280
+00:05:11,110 --> 00:05:11,120
+quando você tem múltiplos agentes e você
+ 
+
+281
+00:05:11,120 --> 00:05:13,110
+quando você tem múltiplos agentes e você
+simplesmente pega para um agente e pede
+
+282
+00:05:13,110 --> 00:05:13,120
+simplesmente pega para um agente e pede
+ 
+
+283
+00:05:13,120 --> 00:05:15,070
+simplesmente pega para um agente e pede
+para ele executar alguma coisa, você
+
+284
+00:05:15,070 --> 00:05:15,080
+para ele executar alguma coisa, você
+ 
+
+285
+00:05:15,080 --> 00:05:16,950
+para ele executar alguma coisa, você
+está criando promptes. Então, quando
+
+286
+00:05:16,950 --> 00:05:16,960
+está criando promptes. Então, quando
+ 
+
+287
+00:05:16,960 --> 00:05:19,309
+está criando promptes. Então, quando
+você fala para um agente, olha, executa
+
+288
+00:05:19,309 --> 00:05:19,319
+você fala para um agente, olha, executa
+ 
+
+289
+00:05:19,319 --> 00:05:20,870
+você fala para um agente, olha, executa
+isso aqui a gente tá falando de uma
+
+290
+00:05:20,870 --> 00:05:20,880
+isso aqui a gente tá falando de uma
+ 
+
+291
+00:05:20,880 --> 00:05:23,230
+isso aqui a gente tá falando de uma
+camada de um prompt. Então, quando você
+
+292
+00:05:23,230 --> 00:05:23,240
+camada de um prompt. Então, quando você
+ 
+
+293
+00:05:23,240 --> 00:05:25,390
+camada de um prompt. Então, quando você
+tem 18 agentes que você fala: "Ah, um
+
+294
+00:05:25,390 --> 00:05:25,400
+tem 18 agentes que você fala: "Ah, um
+ 
+
+295
+00:05:25,400 --> 00:05:27,870
+tem 18 agentes que você fala: "Ah, um
+agente meu ele entra e faz ABC, outro
+
+296
+00:05:27,870 --> 00:05:27,880
+agente meu ele entra e faz ABC, outro
+ 
+
+297
+00:05:27,880 --> 00:05:29,590
+agente meu ele entra e faz ABC, outro
+agente entra e faz ABC, o que seus
+
+298
+00:05:29,590 --> 00:05:29,600
+agente entra e faz ABC, o que seus
+ 
+
+299
+00:05:29,600 --> 00:05:31,150
+agente entra e faz ABC, o que seus
+agentes estão fazendo são executando
+
+300
+00:05:31,150 --> 00:05:31,160
+agentes estão fazendo são executando
+ 
+
+301
+00:05:31,160 --> 00:05:32,990
+agentes estão fazendo são executando
+promptes." Então, o que acontece é que a
+
+302
+00:05:32,990 --> 00:05:33,000
+promptes." Então, o que acontece é que a
+ 
+
+303
+00:05:33,000 --> 00:05:34,390
+promptes." Então, o que acontece é que a
+maioria das pessoas quando elas começam
+
+304
+00:05:34,390 --> 00:05:34,400
+maioria das pessoas quando elas começam
+ 
+
+305
+00:05:34,400 --> 00:05:37,150
+maioria das pessoas quando elas começam
+a criar múltiplos agentes, elas criam eh
+
+306
+00:05:37,150 --> 00:05:37,160
+a criar múltiplos agentes, elas criam eh
+ 
+
+307
+00:05:37,160 --> 00:05:39,350
+a criar múltiplos agentes, elas criam eh
+promptes, ou seja, comando para esses
+
+308
+00:05:39,350 --> 00:05:39,360
+promptes, ou seja, comando para esses
+ 
+
+309
+00:05:39,360 --> 00:05:41,670
+promptes, ou seja, comando para esses
+agentes executarem as tarefas. E aí,
+
+310
+00:05:41,670 --> 00:05:41,680
+agentes executarem as tarefas. E aí,
+ 
+
+311
+00:05:41,680 --> 00:05:43,909
+agentes executarem as tarefas. E aí,
+cara, esses comandos, como eles eh não
+
+312
+00:05:43,909 --> 00:05:43,919
+cara, esses comandos, como eles eh não
+ 
+
+313
+00:05:43,919 --> 00:05:46,909
+cara, esses comandos, como eles eh não
+são e outputs, que eles são sempre os
+
+314
+00:05:46,909 --> 00:05:46,919
+são e outputs, que eles são sempre os
+ 
+
+315
+00:05:46,919 --> 00:05:48,430
+são e outputs, que eles são sempre os
+mesmos, eles mudam, porque no final do
+
+316
+00:05:48,430 --> 00:05:48,440
+mesmos, eles mudam, porque no final do
+ 
+
+317
+00:05:48,440 --> 00:05:50,670
+mesmos, eles mudam, porque no final do
+dia a interpretação da IA ela muda de
+
+318
+00:05:50,670 --> 00:05:50,680
+dia a interpretação da IA ela muda de
+ 
+
+319
+00:05:50,680 --> 00:05:52,270
+dia a interpretação da IA ela muda de
+acordo com a forma como você fala com
+
+320
+00:05:52,270 --> 00:05:52,280
+acordo com a forma como você fala com
+ 
+
+321
+00:05:52,280 --> 00:05:53,749
+acordo com a forma como você fala com
+ela e o contexto que ela tá, esses
+
+322
+00:05:53,749 --> 00:05:53,759
+ela e o contexto que ela tá, esses
+ 
+
+323
+00:05:53,759 --> 00:05:55,629
+ela e o contexto que ela tá, esses
+promptes acabam quebrando e aí de novo
+
+324
+00:05:55,629 --> 00:05:55,639
+promptes acabam quebrando e aí de novo
+ 
+
+325
+00:05:55,639 --> 00:05:57,790
+promptes acabam quebrando e aí de novo
+você volta pra governança difícil. Então
+
+326
+00:05:57,790 --> 00:05:57,800
+você volta pra governança difícil. Então
+ 
+
+327
+00:05:57,800 --> 00:06:00,110
+você volta pra governança difícil. Então
+nós estamos num ano que o mercado ainda
+
+328
+00:06:00,110 --> 00:06:00,120
+nós estamos num ano que o mercado ainda
+ 
+
+329
+00:06:00,120 --> 00:06:02,670
+nós estamos num ano que o mercado ainda
+trata agentes como um promptóoide, né? E
+
+330
+00:06:02,670 --> 00:06:02,680
+trata agentes como um promptóoide, né? E
+ 
+
+331
+00:06:02,680 --> 00:06:05,550
+trata agentes como um promptóoide, né? E
+que 2026 no o diferencial não é mais
+
+332
+00:06:05,550 --> 00:06:05,560
+que 2026 no o diferencial não é mais
+ 
+
+333
+00:06:05,560 --> 00:06:07,589
+que 2026 no o diferencial não é mais
+modelo. O grande diferencial agora de
+
+334
+00:06:07,589 --> 00:06:07,599
+modelo. O grande diferencial agora de
+ 
+
+335
+00:06:07,599 --> 00:06:10,189
+modelo. O grande diferencial agora de
+desse ano, né, de 2026, é a arquitetura
+
+336
+00:06:10,189 --> 00:06:10,199
+desse ano, né, de 2026, é a arquitetura
+ 
+
+337
+00:06:10,199 --> 00:06:11,270
+desse ano, né, de 2026, é a arquitetura
+operacional. Então, quando a gente fala
+
+338
+00:06:11,270 --> 00:06:11,280
+operacional. Então, quando a gente fala
+ 
+
+339
+00:06:11,280 --> 00:06:13,270
+operacional. Então, quando a gente fala
+de arquitetura operacional, a gente fala
+
+340
+00:06:13,270 --> 00:06:13,280
+de arquitetura operacional, a gente fala
+ 
+
+341
+00:06:13,280 --> 00:06:15,790
+de arquitetura operacional, a gente fala
+sobre como você construir um agente e
+
+342
+00:06:15,790 --> 00:06:15,800
+sobre como você construir um agente e
+ 
+
+343
+00:06:15,800 --> 00:06:17,990
+sobre como você construir um agente e
+deixar ele evoluindo e ficando cada vez
+
+344
+00:06:17,990 --> 00:06:18,000
+deixar ele evoluindo e ficando cada vez
+ 
+
+345
+00:06:18,000 --> 00:06:20,710
+deixar ele evoluindo e ficando cada vez
+mais inteligente e também conectado com
+
+346
+00:06:20,710 --> 00:06:20,720
+mais inteligente e também conectado com
+ 
+
+347
+00:06:20,720 --> 00:06:23,270
+mais inteligente e também conectado com
+um cérebro, que é basicamente essa
+
+348
+00:06:23,270 --> 00:06:23,280
+um cérebro, que é basicamente essa
+ 
+
+349
+00:06:23,280 --> 00:06:25,870
+um cérebro, que é basicamente essa
+estrutura aqui que nós vamos falar hoje,
+
+350
+00:06:25,870 --> 00:06:25,880
+estrutura aqui que nós vamos falar hoje,
+ 
+
+351
+00:06:25,880 --> 00:06:28,029
+estrutura aqui que nós vamos falar hoje,
+tá? Então vamos seguir aqui a nossa
+
+352
+00:06:28,029 --> 00:06:28,039
+tá? Então vamos seguir aqui a nossa
+ 
+
+353
+00:06:28,039 --> 00:06:30,189
+tá? Então vamos seguir aqui a nossa
+colinha. Então, o que que realmente é um
+
+354
+00:06:30,189 --> 00:06:30,199
+colinha. Então, o que que realmente é um
+ 
+
+355
+00:06:30,199 --> 00:06:32,029
+colinha. Então, o que que realmente é um
+agente, tá? Eu vou dar um espaço maior
+
+356
+00:06:32,029 --> 00:06:32,039
+agente, tá? Eu vou dar um espaço maior
+ 
+
+357
+00:06:32,039 --> 00:06:33,390
+agente, tá? Eu vou dar um espaço maior
+porque senão vocês vão ficar lendo aqui
+
+358
+00:06:33,390 --> 00:06:33,400
+porque senão vocês vão ficar lendo aqui
+ 
+
+359
+00:06:33,400 --> 00:06:35,749
+porque senão vocês vão ficar lendo aqui
+os coisas de baixo e aí estraga a
+
+360
+00:06:35,749 --> 00:06:35,759
+os coisas de baixo e aí estraga a
+ 
+
+361
+00:06:35,759 --> 00:06:37,909
+os coisas de baixo e aí estraga a
+experiência, né? Então, vamos lá. O que
+
+362
+00:06:37,909 --> 00:06:37,919
+experiência, né? Então, vamos lá. O que
+ 
+
+363
+00:06:37,919 --> 00:06:40,270
+experiência, né? Então, vamos lá. O que
+que um agente ele realmente é? Então, o
+
+364
+00:06:40,270 --> 00:06:40,280
+que um agente ele realmente é? Então, o
+ 
+
+365
+00:06:40,280 --> 00:06:43,309
+que um agente ele realmente é? Então, o
+agente ele nada mais é do que ele é um
+
+366
+00:06:43,309 --> 00:06:43,319
+agente ele nada mais é do que ele é um
+ 
+
+367
+00:06:43,319 --> 00:06:47,390
+agente ele nada mais é do que ele é um
+bote que ele fica 247 eh acordado
+
+368
+00:06:47,390 --> 00:06:47,400
+bote que ele fica 247 eh acordado
+ 
+
+369
+00:06:47,400 --> 00:06:49,430
+bote que ele fica 247 eh acordado
+fazendo algo para você. Mas Bruno, como
+
+370
+00:06:49,430 --> 00:06:49,440
+fazendo algo para você. Mas Bruno, como
+ 
+
+371
+00:06:49,440 --> 00:06:53,550
+fazendo algo para você. Mas Bruno, como
+que um agente ele fica acordado? É, é
+
+372
+00:06:53,550 --> 00:06:53,560
+que um agente ele fica acordado? É, é
+ 
+
+373
+00:06:53,560 --> 00:06:55,110
+que um agente ele fica acordado? É, é
+até curioso, né? Como que o agente fica
+
+374
+00:06:55,110 --> 00:06:55,120
+até curioso, né? Como que o agente fica
+ 
+
+375
+00:06:55,120 --> 00:06:56,990
+até curioso, né? Como que o agente fica
+acordado? Eu vou vou desenhar isso aqui
+
+376
+00:06:56,990 --> 00:06:57,000
+acordado? Eu vou vou desenhar isso aqui
+ 
+
+377
+00:06:57,000 --> 00:06:58,430
+acordado? Eu vou vou desenhar isso aqui
+para vocês, que essa é uma pergunta que
+
+378
+00:06:58,430 --> 00:06:58,440
+para vocês, que essa é uma pergunta que
+ 
+
+379
+00:06:58,440 --> 00:07:00,270
+para vocês, que essa é uma pergunta que
+me fazem bastante. Então, vamos falar o
+
+380
+00:07:00,270 --> 00:07:00,280
+me fazem bastante. Então, vamos falar o
+ 
+
+381
+00:07:00,280 --> 00:07:02,070
+me fazem bastante. Então, vamos falar o
+que que é um agente ficar acordado? Um
+
+382
+00:07:02,070 --> 00:07:02,080
+que que é um agente ficar acordado? Um
+ 
+
+383
+00:07:02,080 --> 00:07:04,309
+que que é um agente ficar acordado? Um
+agente ficar acordado basicamente é o
+
+384
+00:07:04,309 --> 00:07:04,319
+agente ficar acordado basicamente é o
+ 
+
+385
+00:07:04,319 --> 00:07:06,830
+agente ficar acordado basicamente é o
+seguinte. No caso, eu vou fazer uma
+
+386
+00:07:06,830 --> 00:07:06,840
+seguinte. No caso, eu vou fazer uma
+ 
+
+387
+00:07:06,840 --> 00:07:09,629
+seguinte. No caso, eu vou fazer uma
+simulação com dois tipos de agentes
+
+388
+00:07:09,629 --> 00:07:09,639
+simulação com dois tipos de agentes
+ 
+
+389
+00:07:09,639 --> 00:07:11,589
+simulação com dois tipos de agentes
+aqui. Então, eu vou falar sobre o cloud
+
+390
+00:07:11,589 --> 00:07:11,599
+aqui. Então, eu vou falar sobre o cloud
+ 
+
+391
+00:07:11,599 --> 00:07:14,469
+aqui. Então, eu vou falar sobre o cloud
+e vou falar aqui sobre o OpenCall.
+
+392
+00:07:14,469 --> 00:07:14,479
+e vou falar aqui sobre o OpenCall.
+ 
+
+393
+00:07:14,479 --> 00:07:18,309
+e vou falar aqui sobre o OpenCall.
+Então, vamos pegar aqui e open. Então, o
+
+394
+00:07:18,309 --> 00:07:18,319
+Então, vamos pegar aqui e open. Então, o
+ 
+
+395
+00:07:18,319 --> 00:07:20,390
+Então, vamos pegar aqui e open. Então, o
+que que é o agente ficar acordado? No
+
+396
+00:07:20,390 --> 00:07:20,400
+que que é o agente ficar acordado? No
+ 
+
+397
+00:07:20,400 --> 00:07:23,110
+que que é o agente ficar acordado? No
+caso do cloud e do OpenCla, funciona da
+
+398
+00:07:23,110 --> 00:07:23,120
+caso do cloud e do OpenCla, funciona da
+ 
+
+399
+00:07:23,120 --> 00:07:25,070
+caso do cloud e do OpenCla, funciona da
+seguinte forma. O open claw para ele
+
+400
+00:07:25,070 --> 00:07:25,080
+seguinte forma. O open claw para ele
+ 
+
+401
+00:07:25,080 --> 00:07:28,230
+seguinte forma. O open claw para ele
+trabalhar 247, ele tem uma coisa que se
+
+402
+00:07:28,230 --> 00:07:28,240
+trabalhar 247, ele tem uma coisa que se
+ 
+
+403
+00:07:28,240 --> 00:07:31,909
+trabalhar 247, ele tem uma coisa que se
+chama aqui heart bits e chrons. Então o
+
+404
+00:07:31,909 --> 00:07:31,919
+chama aqui heart bits e chrons. Então o
+ 
+
+405
+00:07:31,919 --> 00:07:35,110
+chama aqui heart bits e chrons. Então o
+hard bit do open nada mais é do que é um
+
+406
+00:07:35,110 --> 00:07:35,120
+hard bit do open nada mais é do que é um
+ 
+
+407
+00:07:35,120 --> 00:07:37,390
+hard bit do open nada mais é do que é um
+coração dele batendo. Então a cada uma
+
+408
+00:07:37,390 --> 00:07:37,400
+coração dele batendo. Então a cada uma
+ 
+
+409
+00:07:37,400 --> 00:07:40,029
+coração dele batendo. Então a cada uma
+hora o coração dele bate. Já um Chrome,
+
+410
+00:07:40,029 --> 00:07:40,039
+hora o coração dele bate. Já um Chrome,
+ 
+
+411
+00:07:40,039 --> 00:07:43,189
+hora o coração dele bate. Já um Chrome,
+ele é basicamente um agendamento de uma
+
+412
+00:07:43,189 --> 00:07:43,199
+ele é basicamente um agendamento de uma
+ 
+
+413
+00:07:43,199 --> 00:07:45,270
+ele é basicamente um agendamento de uma
+tarefa. Então você vem aqui e você
+
+414
+00:07:45,270 --> 00:07:45,280
+tarefa. Então você vem aqui e você
+ 
+
+415
+00:07:45,280 --> 00:07:47,670
+tarefa. Então você vem aqui e você
+agenda uma tarefa repetitiva, seja ela
+
+416
+00:07:47,670 --> 00:07:47,680
+agenda uma tarefa repetitiva, seja ela
+ 
+
+417
+00:07:47,680 --> 00:07:49,390
+agenda uma tarefa repetitiva, seja ela
+uma skill, seja um prompt, tanto faz,
+
+418
+00:07:49,390 --> 00:07:49,400
+uma skill, seja um prompt, tanto faz,
+ 
+
+419
+00:07:49,400 --> 00:07:52,189
+uma skill, seja um prompt, tanto faz,
+né? Agora o cloud ele tem algo parecido
+
+420
+00:07:52,189 --> 00:07:52,199
+né? Agora o cloud ele tem algo parecido
+ 
+
+421
+00:07:52,199 --> 00:07:54,270
+né? Agora o cloud ele tem algo parecido
+aqui dentro da estrutura dele que a
+
+422
+00:07:54,270 --> 00:07:54,280
+aqui dentro da estrutura dele que a
+ 
+
+423
+00:07:54,280 --> 00:07:55,990
+aqui dentro da estrutura dele que a
+gente pode carregar. Então aqui eu tô
+
+424
+00:07:55,990 --> 00:07:56,000
+gente pode carregar. Então aqui eu tô
+ 
+
+425
+00:07:56,000 --> 00:07:57,869
+gente pode carregar. Então aqui eu tô
+usando no cloud o cloud code, né? Então
+
+426
+00:07:57,869 --> 00:07:57,879
+usando no cloud o cloud code, né? Então
+ 
+
+427
+00:07:57,879 --> 00:07:59,550
+usando no cloud o cloud code, né? Então
+você tem aqui o cloud chat, você tem o
+
+428
+00:07:59,550 --> 00:07:59,560
+você tem aqui o cloud chat, você tem o
+ 
+
+429
+00:07:59,560 --> 00:08:02,189
+você tem aqui o cloud chat, você tem o
+cloudork e você tem aqui o cloud code.
+
+430
+00:08:02,189 --> 00:08:02,199
+cloudork e você tem aqui o cloud code.
+ 
+
+431
+00:08:02,199 --> 00:08:04,350
+cloudork e você tem aqui o cloud code.
+Todos eles têm aqui essa opção de
+
+432
+00:08:04,350 --> 00:08:04,360
+Todos eles têm aqui essa opção de
+ 
+
+433
+00:08:04,360 --> 00:08:06,309
+Todos eles têm aqui essa opção de
+schedule, né? Então você pode vir aqui e
+
+434
+00:08:06,309 --> 00:08:06,319
+schedule, né? Então você pode vir aqui e
+ 
+
+435
+00:08:06,319 --> 00:08:09,189
+schedule, né? Então você pode vir aqui e
+agendar tarefas. A diferença é que aqui,
+
+436
+00:08:09,189 --> 00:08:09,199
+agendar tarefas. A diferença é que aqui,
+ 
+
+437
+00:08:09,199 --> 00:08:11,309
+agendar tarefas. A diferença é que aqui,
+por exemplo, a tarefa do Cloud Cork, ele
+
+438
+00:08:11,309 --> 00:08:11,319
+por exemplo, a tarefa do Cloud Cork, ele
+ 
+
+439
+00:08:11,319 --> 00:08:13,430
+por exemplo, a tarefa do Cloud Cork, ele
+é uma tarefa local, então ele demanda
+
+440
+00:08:13,430 --> 00:08:13,440
+é uma tarefa local, então ele demanda
+ 
+
+441
+00:08:13,440 --> 00:08:15,110
+é uma tarefa local, então ele demanda
+que o computador esteja ligado, né? Mas
+
+442
+00:08:15,110 --> 00:08:15,120
+que o computador esteja ligado, né? Mas
+ 
+
+443
+00:08:15,120 --> 00:08:17,430
+que o computador esteja ligado, né? Mas
+nada impede de você colocar ele numa VPS
+
+444
+00:08:17,430 --> 00:08:17,440
+nada impede de você colocar ele numa VPS
+ 
+
+445
+00:08:17,440 --> 00:08:20,350
+nada impede de você colocar ele numa VPS
+e ele funcionar 247. Já o Cloud Code,
+
+446
+00:08:20,350 --> 00:08:20,360
+e ele funcionar 247. Já o Cloud Code,
+ 
+
+447
+00:08:20,360 --> 00:08:22,149
+e ele funcionar 247. Já o Cloud Code,
+ele tem aqui as rotinas. Então, quando
+
+448
+00:08:22,149 --> 00:08:22,159
+ele tem aqui as rotinas. Então, quando
+ 
+
+449
+00:08:22,159 --> 00:08:23,589
+ele tem aqui as rotinas. Então, quando
+você vai aqui em rotina, você tem a
+
+450
+00:08:23,589 --> 00:08:23,599
+você vai aqui em rotina, você tem a
+ 
+
+451
+00:08:23,599 --> 00:08:25,430
+você vai aqui em rotina, você tem a
+opção de criar uma rotina remota. Então,
+
+452
+00:08:25,430 --> 00:08:25,440
+opção de criar uma rotina remota. Então,
+ 
+
+453
+00:08:25,440 --> 00:08:27,790
+opção de criar uma rotina remota. Então,
+essa rotina remota, você coloca aqui o
+
+454
+00:08:27,790 --> 00:08:27,800
+essa rotina remota, você coloca aqui o
+ 
+
+455
+00:08:27,800 --> 00:08:30,070
+essa rotina remota, você coloca aqui o
+que você quer que ele faz e você coloca
+
+456
+00:08:30,070 --> 00:08:30,080
+que você quer que ele faz e você coloca
+ 
+
+457
+00:08:30,080 --> 00:08:31,749
+que você quer que ele faz e você coloca
+o repositório. Se você for trabalhar com
+
+458
+00:08:31,749 --> 00:08:31,759
+o repositório. Se você for trabalhar com
+ 
+
+459
+00:08:31,759 --> 00:08:34,829
+o repositório. Se você for trabalhar com
+GitHub, você pode agendar e definir o
+
+460
+00:08:34,829 --> 00:08:34,839
+GitHub, você pode agendar e definir o
+ 
+
+461
+00:08:34,839 --> 00:08:36,909
+GitHub, você pode agendar e definir o
+MCP, né, que são os conectores, que
+
+462
+00:08:36,909 --> 00:08:36,919
+MCP, né, que são os conectores, que
+ 
+
+463
+00:08:36,919 --> 00:08:38,509
+MCP, né, que são os conectores, que
+basicamente permite acessar essas
+
+464
+00:08:38,509 --> 00:08:38,519
+basicamente permite acessar essas
+ 
+
+465
+00:08:38,519 --> 00:08:40,190
+basicamente permite acessar essas
+ferramentas aqui, né? Então, o MCP ele
+
+466
+00:08:40,190 --> 00:08:40,200
+ferramentas aqui, né? Então, o MCP ele
+ 
+
+467
+00:08:40,200 --> 00:08:41,670
+ferramentas aqui, né? Então, o MCP ele
+fala que o cloud pode acessar o meu
+
+468
+00:08:41,670 --> 00:08:41,680
+fala que o cloud pode acessar o meu
+ 
+
+469
+00:08:41,680 --> 00:08:43,350
+fala que o cloud pode acessar o meu
+calendar, pode acessar o X draw e assim
+
+470
+00:08:43,350 --> 00:08:43,360
+calendar, pode acessar o X draw e assim
+ 
+
+471
+00:08:43,360 --> 00:08:45,350
+calendar, pode acessar o X draw e assim
+por diante. E você tem as permissões.
+
+472
+00:08:45,350 --> 00:08:45,360
+por diante. E você tem as permissões.
+ 
+
+473
+00:08:45,360 --> 00:08:48,030
+por diante. E você tem as permissões.
+Então você cria aqui essa rotina, né? E
+
+474
+00:08:48,030 --> 00:08:48,040
+Então você cria aqui essa rotina, né? E
+ 
+
+475
+00:08:48,040 --> 00:08:50,509
+Então você cria aqui essa rotina, né? E
+aí o cloud ele também trabalha nesses
+
+476
+00:08:50,509 --> 00:08:50,519
+aí o cloud ele também trabalha nesses
+ 
+
+477
+00:08:50,519 --> 00:08:52,389
+aí o cloud ele também trabalha nesses
+horários agendados, né? Então vamos
+
+478
+00:08:52,389 --> 00:08:52,399
+horários agendados, né? Então vamos
+ 
+
+479
+00:08:52,399 --> 00:08:55,870
+horários agendados, né? Então vamos
+colocar aqui nesse meu
+
+480
+00:08:55,870 --> 00:08:55,880
+colocar aqui nesse meu
+ 
+
+481
+00:08:55,880 --> 00:08:57,509
+colocar aqui nesse meu
+desenho aqui que parece um do meu filho
+
+482
+00:08:57,509 --> 00:08:57,519
+desenho aqui que parece um do meu filho
+ 
+
+483
+00:08:57,519 --> 00:08:59,790
+desenho aqui que parece um do meu filho
+de 6 anos desenhando, colocando setinha
+
+484
+00:08:59,790 --> 00:08:59,800
+de 6 anos desenhando, colocando setinha
+ 
+
+485
+00:08:59,800 --> 00:09:01,150
+de 6 anos desenhando, colocando setinha
+e apontando para todos os lados. Então a
+
+486
+00:09:01,150 --> 00:09:01,160
+e apontando para todos os lados. Então a
+ 
+
+487
+00:09:01,160 --> 00:09:03,150
+e apontando para todos os lados. Então a
+gente tem aqui a rotina que nada mais é
+
+488
+00:09:03,150 --> 00:09:03,160
+gente tem aqui a rotina que nada mais é
+ 
+
+489
+00:09:03,160 --> 00:09:06,269
+gente tem aqui a rotina que nada mais é
+do que é um agendamento de tarefa
+
+490
+00:09:06,269 --> 00:09:06,279
+do que é um agendamento de tarefa
+ 
+
+491
+00:09:06,279 --> 00:09:09,030
+do que é um agendamento de tarefa
+também, tá? Então a diferença principal
+
+492
+00:09:09,030 --> 00:09:09,040
+também, tá? Então a diferença principal
+ 
+
+493
+00:09:09,040 --> 00:09:11,110
+também, tá? Então a diferença principal
+do OpenCall principalmente é que o
+
+494
+00:09:11,110 --> 00:09:11,120
+do OpenCall principalmente é que o
+ 
+
+495
+00:09:11,120 --> 00:09:13,310
+do OpenCall principalmente é que o
+openla ele tem essa capacidade aqui de
+
+496
+00:09:13,310 --> 00:09:13,320
+openla ele tem essa capacidade aqui de
+ 
+
+497
+00:09:13,320 --> 00:09:16,030
+openla ele tem essa capacidade aqui de
+ter esses heartits rodando a cada uma
+
+498
+00:09:16,030 --> 00:09:16,040
+ter esses heartits rodando a cada uma
+ 
+
+499
+00:09:16,040 --> 00:09:19,030
+ter esses heartits rodando a cada uma
+hora. Então, é o que dá autonomia pro
+
+500
+00:09:19,030 --> 00:09:19,040
+hora. Então, é o que dá autonomia pro
+ 
+
+501
+00:09:19,040 --> 00:09:20,829
+hora. Então, é o que dá autonomia pro
+agente, é o que faz o agente ele
+
+502
+00:09:20,829 --> 00:09:20,839
+agente, é o que faz o agente ele
+ 
+
+503
+00:09:20,839 --> 00:09:22,750
+agente, é o que faz o agente ele
+acordar, ele falar assim: "Ah, tem uma
+
+504
+00:09:22,750 --> 00:09:22,760
+acordar, ele falar assim: "Ah, tem uma
+ 
+
+505
+00:09:22,760 --> 00:09:24,910
+acordar, ele falar assim: "Ah, tem uma
+nova tarefa. Ah, outro agente me mandou
+
+506
+00:09:24,910 --> 00:09:24,920
+nova tarefa. Ah, outro agente me mandou
+ 
+
+507
+00:09:24,920 --> 00:09:27,550
+nova tarefa. Ah, outro agente me mandou
+uma tarefa. Ah, eu não li isso aqui. Ah,
+
+508
+00:09:27,550 --> 00:09:27,560
+uma tarefa. Ah, eu não li isso aqui. Ah,
+ 
+
+509
+00:09:27,560 --> 00:09:29,030
+uma tarefa. Ah, eu não li isso aqui. Ah,
+eu preciso receber isso. Ah, o Bruno
+
+510
+00:09:29,030 --> 00:09:29,040
+eu preciso receber isso. Ah, o Bruno
+ 
+
+511
+00:09:29,040 --> 00:09:30,670
+eu preciso receber isso. Ah, o Bruno
+recebeu um novo e-mail. Ah, um novo
+
+512
+00:09:30,670 --> 00:09:30,680
+recebeu um novo e-mail. Ah, um novo
+ 
+
+513
+00:09:30,680 --> 00:09:32,150
+recebeu um novo e-mail. Ah, um novo
+evento no calendário. Então ele tá toda
+
+514
+00:09:32,150 --> 00:09:32,160
+evento no calendário. Então ele tá toda
+ 
+
+515
+00:09:32,160 --> 00:09:34,829
+evento no calendário. Então ele tá toda
+hora acordando e falando: "Ah, entendi.
+
+516
+00:09:34,829 --> 00:09:34,839
+hora acordando e falando: "Ah, entendi.
+ 
+
+517
+00:09:34,839 --> 00:09:36,790
+hora acordando e falando: "Ah, entendi.
+Aconteceu algo, preciso fazer algo".
+
+518
+00:09:36,790 --> 00:09:36,800
+Aconteceu algo, preciso fazer algo".
+ 
+
+519
+00:09:36,800 --> 00:09:39,750
+Aconteceu algo, preciso fazer algo".
+Entendeu? Então esse aqui é o coração do
+
+520
+00:09:39,750 --> 00:09:39,760
+Entendeu? Então esse aqui é o coração do
+ 
+
+521
+00:09:39,760 --> 00:09:41,030
+Entendeu? Então esse aqui é o coração do
+OpenCall que cria esses agentes de
+
+522
+00:09:41,030 --> 00:09:41,040
+OpenCall que cria esses agentes de
+ 
+
+523
+00:09:41,040 --> 00:09:43,310
+OpenCall que cria esses agentes de
+autônomos. Então, quando a gente fala de
+
+524
+00:09:43,310 --> 00:09:43,320
+autônomos. Então, quando a gente fala de
+ 
+
+525
+00:09:43,320 --> 00:09:46,590
+autônomos. Então, quando a gente fala de
+um agente, nós estamos falando de um
+
+526
+00:09:46,590 --> 00:09:46,600
+um agente, nós estamos falando de um
+ 
+
+527
+00:09:46,600 --> 00:09:49,230
+um agente, nós estamos falando de um
+robô, né, um bote, que ele tem o modelo
+
+528
+00:09:49,230 --> 00:09:49,240
+robô, né, um bote, que ele tem o modelo
+ 
+
+529
+00:09:49,240 --> 00:09:51,910
+robô, né, um bote, que ele tem o modelo
+dele. E aí você tem Antropic, você tem
+
+530
+00:09:51,910 --> 00:09:51,920
+dele. E aí você tem Antropic, você tem
+ 
+
+531
+00:09:51,920 --> 00:09:55,269
+dele. E aí você tem Antropic, você tem
+Open AI, você tem e Deepsic, você tem
+
+532
+00:09:55,269 --> 00:09:55,279
+Open AI, você tem e Deepsic, você tem
+ 
+
+533
+00:09:55,279 --> 00:09:57,509
+Open AI, você tem e Deepsic, você tem
+milhões de modelos. Aí é o contexto.
+
+534
+00:09:57,509 --> 00:09:57,519
+milhões de modelos. Aí é o contexto.
+ 
+
+535
+00:09:57,519 --> 00:09:59,870
+milhões de modelos. Aí é o contexto.
+Então, no caso é as informações que você
+
+536
+00:09:59,870 --> 00:09:59,880
+Então, no caso é as informações que você
+ 
+
+537
+00:09:59,880 --> 00:10:02,269
+Então, no caso é as informações que você
+mune pro agente que dão contexto do que
+
+538
+00:10:02,269 --> 00:10:02,279
+mune pro agente que dão contexto do que
+ 
+
+539
+00:10:02,279 --> 00:10:03,990
+mune pro agente que dão contexto do que
+ele precisa saber para executar aquelas
+
+540
+00:10:03,990 --> 00:10:04,000
+ele precisa saber para executar aquelas
+ 
+
+541
+00:10:04,000 --> 00:10:06,430
+ele precisa saber para executar aquelas
+tarefas. Você tem as ferramentas. Então,
+
+542
+00:10:06,430 --> 00:10:06,440
+tarefas. Você tem as ferramentas. Então,
+ 
+
+543
+00:10:06,440 --> 00:10:08,710
+tarefas. Você tem as ferramentas. Então,
+no caso, por exemplo, do Cloud Code, a
+
+544
+00:10:08,710 --> 00:10:08,720
+no caso, por exemplo, do Cloud Code, a
+ 
+
+545
+00:10:08,720 --> 00:10:10,110
+no caso, por exemplo, do Cloud Code, a
+gente tá falando aqui dessas ferramentas
+
+546
+00:10:10,110 --> 00:10:10,120
+gente tá falando aqui dessas ferramentas
+ 
+
+547
+00:10:10,120 --> 00:10:12,630
+gente tá falando aqui dessas ferramentas
+que é o MCP, que no caso são os
+
+548
+00:10:12,630 --> 00:10:12,640
+que é o MCP, que no caso são os
+ 
+
+549
+00:10:12,640 --> 00:10:14,550
+que é o MCP, que no caso são os
+conectores. Já no OpenCla, eles se
+
+550
+00:10:14,550 --> 00:10:14,560
+conectores. Já no OpenCla, eles se
+ 
+
+551
+00:10:14,560 --> 00:10:16,750
+conectores. Já no OpenCla, eles se
+conectam nativamente, né? Então você não
+
+552
+00:10:16,750 --> 00:10:16,760
+conectam nativamente, né? Então você não
+ 
+
+553
+00:10:16,760 --> 00:10:18,590
+conectam nativamente, né? Então você não
+precisaria do MCP ali, você tem os
+
+554
+00:10:18,590 --> 00:10:18,600
+precisaria do MCP ali, você tem os
+ 
+
+555
+00:10:18,600 --> 00:10:21,470
+precisaria do MCP ali, você tem os
+tools, é a memória dele. Então o que ele
+
+556
+00:10:21,470 --> 00:10:21,480
+tools, é a memória dele. Então o que ele
+ 
+
+557
+00:10:21,480 --> 00:10:23,389
+tools, é a memória dele. Então o que ele
+aprende executando, como ele aprende, o
+
+558
+00:10:23,389 --> 00:10:23,399
+aprende executando, como ele aprende, o
+ 
+
+559
+00:10:23,399 --> 00:10:24,430
+aprende executando, como ele aprende, o
+que que ele fez de certo, o que ele fez
+
+560
+00:10:24,430 --> 00:10:24,440
+que que ele fez de certo, o que ele fez
+ 
+
+561
+00:10:24,440 --> 00:10:25,630
+que que ele fez de certo, o que ele fez
+de errado, o que que ele tira de lição
+
+562
+00:10:25,630 --> 00:10:25,640
+de errado, o que que ele tira de lição
+ 
+
+563
+00:10:25,640 --> 00:10:27,949
+de errado, o que que ele tira de lição
+disso, as skills, que é o que garante
+
+564
+00:10:27,949 --> 00:10:27,959
+disso, as skills, que é o que garante
+ 
+
+565
+00:10:27,959 --> 00:10:29,870
+disso, as skills, que é o que garante
+que um trabalho saia repetido com o
+
+566
+00:10:29,870 --> 00:10:29,880
+que um trabalho saia repetido com o
+ 
+
+567
+00:10:29,880 --> 00:10:31,910
+que um trabalho saia repetido com o
+mesmo resultado todas as vezes, e o seu
+
+568
+00:10:31,910 --> 00:10:31,920
+mesmo resultado todas as vezes, e o seu
+ 
+
+569
+00:10:31,920 --> 00:10:34,750
+mesmo resultado todas as vezes, e o seu
+runtime, tá? Então o chatbot nada mais é
+
+570
+00:10:34,750 --> 00:10:34,760
+runtime, tá? Então o chatbot nada mais é
+ 
+
+571
+00:10:34,760 --> 00:10:36,190
+runtime, tá? Então o chatbot nada mais é
+que era a primeira versão que a gente
+
+572
+00:10:36,190 --> 00:10:36,200
+que era a primeira versão que a gente
+ 
+
+573
+00:10:36,200 --> 00:10:38,030
+que era a primeira versão que a gente
+vivia até então. Então quando o Cloud
+
+574
+00:10:38,030 --> 00:10:38,040
+vivia até então. Então quando o Cloud
+ 
+
+575
+00:10:38,040 --> 00:10:39,829
+vivia até então. Então quando o Cloud
+nasceu, o Cloud e ele era uma ferramenta
+
+576
+00:10:39,829 --> 00:10:39,839
+nasceu, o Cloud e ele era uma ferramenta
+ 
+
+577
+00:10:39,839 --> 00:10:41,550
+nasceu, o Cloud e ele era uma ferramenta
+de chat igual essa aqui, assim como o
+
+578
+00:10:41,550 --> 00:10:41,560
+de chat igual essa aqui, assim como o
+ 
+
+579
+00:10:41,560 --> 00:10:43,710
+de chat igual essa aqui, assim como o
+chat GPT, uma ferramenta de chat que
+
+580
+00:10:43,710 --> 00:10:43,720
+chat GPT, uma ferramenta de chat que
+ 
+
+581
+00:10:43,720 --> 00:10:45,310
+chat GPT, uma ferramenta de chat que
+apenas fazia isso. E o Cloud começou a
+
+582
+00:10:45,310 --> 00:10:45,320
+apenas fazia isso. E o Cloud começou a
+ 
+
+583
+00:10:45,320 --> 00:10:46,949
+apenas fazia isso. E o Cloud começou a
+evoluir, começou a colocar habilidades e
+
+584
+00:10:46,949 --> 00:10:46,959
+evoluir, começou a colocar habilidades e
+ 
+
+585
+00:10:46,959 --> 00:10:48,550
+evoluir, começou a colocar habilidades e
+conectores para você conseguir não só
+
+586
+00:10:48,550 --> 00:10:48,560
+conectores para você conseguir não só
+ 
+
+587
+00:10:48,560 --> 00:10:49,870
+conectores para você conseguir não só
+ser uma ferramenta de chat, mas para ele
+
+588
+00:10:49,870 --> 00:10:49,880
+ser uma ferramenta de chat, mas para ele
+ 
+
+589
+00:10:49,880 --> 00:10:51,829
+ser uma ferramenta de chat, mas para ele
+conseguir executar as tarefas para você.
+
+590
+00:10:51,829 --> 00:10:51,839
+conseguir executar as tarefas para você.
+ 
+
+591
+00:10:51,839 --> 00:10:53,790
+conseguir executar as tarefas para você.
+E aí o Cloud Cork nasceu com essa grande
+
+592
+00:10:53,790 --> 00:10:53,800
+E aí o Cloud Cork nasceu com essa grande
+ 
+
+593
+00:10:53,800 --> 00:10:55,990
+E aí o Cloud Cork nasceu com essa grande
+proposta de poder trabalhar com um
+
+594
+00:10:55,990 --> 00:10:56,000
+proposta de poder trabalhar com um
+ 
+
+595
+00:10:56,000 --> 00:10:58,069
+proposta de poder trabalhar com um
+projeto dentro de uma pasta. Então você
+
+596
+00:10:58,069 --> 00:10:58,079
+projeto dentro de uma pasta. Então você
+ 
+
+597
+00:10:58,079 --> 00:11:00,590
+projeto dentro de uma pasta. Então você
+trabalha eh proativamente dentro de um
+
+598
+00:11:00,590 --> 00:11:00,600
+trabalha eh proativamente dentro de um
+ 
+
+599
+00:11:00,600 --> 00:11:02,550
+trabalha eh proativamente dentro de um
+projeto no seu computador e aí o Cloud
+
+600
+00:11:02,550 --> 00:11:02,560
+projeto no seu computador e aí o Cloud
+ 
+
+601
+00:11:02,560 --> 00:11:04,710
+projeto no seu computador e aí o Cloud
+Code nasceu com essa estrutura mais
+
+602
+00:11:04,710 --> 00:11:04,720
+Code nasceu com essa estrutura mais
+ 
+
+603
+00:11:04,720 --> 00:11:07,470
+Code nasceu com essa estrutura mais
+avançada de você não só trabalhar como
+
+604
+00:11:07,470 --> 00:11:07,480
+avançada de você não só trabalhar como
+ 
+
+605
+00:11:07,480 --> 00:11:09,710
+avançada de você não só trabalhar como
+você criar código, executar e construir
+
+606
+00:11:09,710 --> 00:11:09,720
+você criar código, executar e construir
+ 
+
+607
+00:11:09,720 --> 00:11:11,509
+você criar código, executar e construir
+coisas. E aí o que o Cloud fez foi que
+
+608
+00:11:11,509 --> 00:11:11,519
+coisas. E aí o que o Cloud fez foi que
+ 
+
+609
+00:11:11,519 --> 00:11:13,750
+coisas. E aí o que o Cloud fez foi que
+ele foi juntando todas as coisas juntas
+
+610
+00:11:13,750 --> 00:11:13,760
+ele foi juntando todas as coisas juntas
+ 
+
+611
+00:11:13,760 --> 00:11:15,110
+ele foi juntando todas as coisas juntas
+para tentar chegar perto de uma
+
+612
+00:11:15,110 --> 00:11:15,120
+para tentar chegar perto de uma
+ 
+
+613
+00:11:15,120 --> 00:11:18,150
+para tentar chegar perto de uma
+estrutura de um agente. Porém, o cloud
+
+614
+00:11:18,150 --> 00:11:18,160
+estrutura de um agente. Porém, o cloud
+ 
+
+615
+00:11:18,160 --> 00:11:19,430
+estrutura de um agente. Porém, o cloud
+não é um agente. Isso aqui é uma
+
+616
+00:11:19,430 --> 00:11:19,440
+não é um agente. Isso aqui é uma
+ 
+
+617
+00:11:19,440 --> 00:11:21,190
+não é um agente. Isso aqui é uma
+informação importante para deixar
+
+618
+00:11:21,190 --> 00:11:21,200
+informação importante para deixar
+ 
+
+619
+00:11:21,200 --> 00:11:23,470
+informação importante para deixar
+registrado para vocês aqui, tá? No caso,
+
+620
+00:11:23,470 --> 00:11:23,480
+registrado para vocês aqui, tá? No caso,
+ 
+
+621
+00:11:23,480 --> 00:11:26,509
+registrado para vocês aqui, tá? No caso,
+o cloud ele é um orquestrador de
+
+622
+00:11:26,509 --> 00:11:26,519
+o cloud ele é um orquestrador de
+ 
+
+623
+00:11:26,519 --> 00:11:29,430
+o cloud ele é um orquestrador de
+agentes, tá? Então o papel do cloud ele
+
+624
+00:11:29,430 --> 00:11:29,440
+agentes, tá? Então o papel do cloud ele
+ 
+
+625
+00:11:29,440 --> 00:11:32,269
+agentes, tá? Então o papel do cloud ele
+não é ser um agente autônomo. Então o
+
+626
+00:11:32,269 --> 00:11:32,279
+não é ser um agente autônomo. Então o
+ 
+
+627
+00:11:32,279 --> 00:11:34,590
+não é ser um agente autônomo. Então o
+cloud ele nunca vai operar igual o
+
+628
+00:11:34,590 --> 00:11:34,600
+cloud ele nunca vai operar igual o
+ 
+
+629
+00:11:34,600 --> 00:11:36,550
+cloud ele nunca vai operar igual o
+openla, inclusive porque o openla é
+
+630
+00:11:36,550 --> 00:11:36,560
+openla, inclusive porque o openla é
+ 
+
+631
+00:11:36,560 --> 00:11:38,629
+openla, inclusive porque o openla é
+perigoso. Então o openla ele tem
+
+632
+00:11:38,629 --> 00:11:38,639
+perigoso. Então o openla ele tem
+ 
+
+633
+00:11:38,639 --> 00:11:40,230
+perigoso. Então o openla ele tem
+autonomia para ir lá e fazer executar as
+
+634
+00:11:40,230 --> 00:11:40,240
+autonomia para ir lá e fazer executar as
+ 
+
+635
+00:11:40,240 --> 00:11:42,670
+autonomia para ir lá e fazer executar as
+coisas. Se o Cloud liga esse botãozinho
+
+636
+00:11:42,670 --> 00:11:42,680
+coisas. Se o Cloud liga esse botãozinho
+ 
+
+637
+00:11:42,680 --> 00:11:44,870
+coisas. Se o Cloud liga esse botãozinho
+de [\h__\h] louca ali, ele, cara, a maioria
+
+638
+00:11:44,870 --> 00:11:44,880
+de [\h__\h] louca ali, ele, cara, a maioria
+ 
+
+639
+00:11:44,880 --> 00:11:46,350
+de [\h__\h] louca ali, ele, cara, a maioria
+dos clientes deles é B2B, então ele não
+
+640
+00:11:46,350 --> 00:11:46,360
+dos clientes deles é B2B, então ele não
+ 
+
+641
+00:11:46,360 --> 00:11:48,550
+dos clientes deles é B2B, então ele não
+pode, ele vai a falência, porque os
+
+642
+00:11:48,550 --> 00:11:48,560
+pode, ele vai a falência, porque os
+ 
+
+643
+00:11:48,560 --> 00:11:50,190
+pode, ele vai a falência, porque os
+agentes dele vão sair deletando coisas
+
+644
+00:11:50,190 --> 00:11:50,200
+agentes dele vão sair deletando coisas
+ 
+
+645
+00:11:50,200 --> 00:11:51,870
+agentes dele vão sair deletando coisas
+que não pode. Então o Cloud ele é um
+
+646
+00:11:51,870 --> 00:11:51,880
+que não pode. Então o Cloud ele é um
+ 
+
+647
+00:11:51,880 --> 00:11:53,949
+que não pode. Então o Cloud ele é um
+orquestrador de agente. Então o Cloud
+
+648
+00:11:53,949 --> 00:11:53,959
+orquestrador de agente. Então o Cloud
+ 
+
+649
+00:11:53,959 --> 00:11:56,190
+orquestrador de agente. Então o Cloud
+ele tem agentes que executam tarefas
+
+650
+00:11:56,190 --> 00:11:56,200
+ele tem agentes que executam tarefas
+ 
+
+651
+00:11:56,200 --> 00:11:58,110
+ele tem agentes que executam tarefas
+pontuais, igual aquele lá que a gente
+
+652
+00:11:58,110 --> 00:11:58,120
+pontuais, igual aquele lá que a gente
+ 
+
+653
+00:11:58,120 --> 00:12:00,949
+pontuais, igual aquele lá que a gente
+viu do Manage agents, né, que o Cloud
+
+654
+00:12:00,949 --> 00:12:00,959
+viu do Manage agents, né, que o Cloud
+ 
+
+655
+00:12:00,959 --> 00:12:03,110
+viu do Manage agents, né, que o Cloud
+lançou, que é também de novo um
+
+656
+00:12:03,110 --> 00:12:03,120
+lançou, que é também de novo um
+ 
+
+657
+00:12:03,120 --> 00:12:05,670
+lançou, que é também de novo um
+dispatcher de agentes, né? Então o Cloud
+
+658
+00:12:05,670 --> 00:12:05,680
+dispatcher de agentes, né? Então o Cloud
+ 
+
+659
+00:12:05,680 --> 00:12:09,030
+dispatcher de agentes, né? Então o Cloud
+ele saiu de uma evolução de chatbot para
+
+660
+00:12:09,030 --> 00:12:09,040
+ele saiu de uma evolução de chatbot para
+ 
+
+661
+00:12:09,040 --> 00:12:10,990
+ele saiu de uma evolução de chatbot para
+um orquestrador de agentes e no caso
+
+662
+00:12:10,990 --> 00:12:11,000
+um orquestrador de agentes e no caso
+ 
+
+663
+00:12:11,000 --> 00:12:12,590
+um orquestrador de agentes e no caso
+OpenCall. E aí a gente tem várias outras
+
+664
+00:12:12,590 --> 00:12:12,600
+OpenCall. E aí a gente tem várias outras
+ 
+
+665
+00:12:12,600 --> 00:12:14,189
+OpenCall. E aí a gente tem várias outras
+ferramentas de agente. A gente tem o
+
+666
+00:12:14,189 --> 00:12:14,199
+ferramentas de agente. A gente tem o
+ 
+
+667
+00:12:14,199 --> 00:12:16,310
+ferramentas de agente. A gente tem o
+Hermes, por exemplo, que é uma excelente
+
+668
+00:12:16,310 --> 00:12:16,320
+Hermes, por exemplo, que é uma excelente
+ 
+
+669
+00:12:16,320 --> 00:12:18,790
+Hermes, por exemplo, que é uma excelente
+ferramenta de agente, funciona muito bem
+
+670
+00:12:18,790 --> 00:12:18,800
+ferramenta de agente, funciona muito bem
+ 
+
+671
+00:12:18,800 --> 00:12:20,990
+ferramenta de agente, funciona muito bem
+também. A gente tem o paper clip, que no
+
+672
+00:12:20,990 --> 00:12:21,000
+também. A gente tem o paper clip, que no
+ 
+
+673
+00:12:21,000 --> 00:12:23,430
+também. A gente tem o paper clip, que no
+caso o Paper Clip não é uma ferramenta
+
+674
+00:12:23,430 --> 00:12:23,440
+caso o Paper Clip não é uma ferramenta
+ 
+
+675
+00:12:23,440 --> 00:12:25,790
+caso o Paper Clip não é uma ferramenta
+de agentes de, né? O paper clip ele é
+
+676
+00:12:25,790 --> 00:12:25,800
+de agentes de, né? O paper clip ele é
+ 
+
+677
+00:12:25,800 --> 00:12:27,750
+de agentes de, né? O paper clip ele é
+uma ferramenta de orquestração de
+
+678
+00:12:27,750 --> 00:12:27,760
+uma ferramenta de orquestração de
+ 
+
+679
+00:12:27,760 --> 00:12:29,870
+uma ferramenta de orquestração de
+agentes também. Então de novo, não é a
+
+680
+00:12:29,870 --> 00:12:29,880
+agentes também. Então de novo, não é a
+ 
+
+681
+00:12:29,880 --> 00:12:31,990
+agentes também. Então de novo, não é a
+mesma coisa, tá? Porque eu vejo que as
+
+682
+00:12:31,990 --> 00:12:32,000
+mesma coisa, tá? Porque eu vejo que as
+ 
+
+683
+00:12:32,000 --> 00:12:33,590
+mesma coisa, tá? Porque eu vejo que as
+pessoas confundem muito o que que é um
+
+684
+00:12:33,590 --> 00:12:33,600
+pessoas confundem muito o que que é um
+ 
+
+685
+00:12:33,600 --> 00:12:35,389
+pessoas confundem muito o que que é um
+orquestrador de agentes com o que que é
+
+686
+00:12:35,389 --> 00:12:35,399
+orquestrador de agentes com o que que é
+ 
+
+687
+00:12:35,399 --> 00:12:37,629
+orquestrador de agentes com o que que é
+um agente, né? Um agente eh ele vai lá e
+
+688
+00:12:37,629 --> 00:12:37,639
+um agente, né? Um agente eh ele vai lá e
+ 
+
+689
+00:12:37,639 --> 00:12:39,590
+um agente, né? Um agente eh ele vai lá e
+ele executa e ele faz as coisas e ele
+
+690
+00:12:39,590 --> 00:12:39,600
+ele executa e ele faz as coisas e ele
+ 
+
+691
+00:12:39,600 --> 00:12:40,710
+ele executa e ele faz as coisas e ele
+aprende, ele vai ficando cada vez mais
+
+692
+00:12:40,710 --> 00:12:40,720
+aprende, ele vai ficando cada vez mais
+ 
+
+693
+00:12:40,720 --> 00:12:42,670
+aprende, ele vai ficando cada vez mais
+inteligente. Um orquestrador de agentes
+
+694
+00:12:42,670 --> 00:12:42,680
+inteligente. Um orquestrador de agentes
+ 
+
+695
+00:12:42,680 --> 00:12:44,870
+inteligente. Um orquestrador de agentes
+éonde você orquestra agentes para
+
+696
+00:12:44,870 --> 00:12:44,880
+éonde você orquestra agentes para
+ 
+
+697
+00:12:44,880 --> 00:12:47,310
+éonde você orquestra agentes para
+executarem tarefas específicas, tá?
+
+698
+00:12:47,310 --> 00:12:47,320
+executarem tarefas específicas, tá?
+ 
+
+699
+00:12:47,320 --> 00:12:49,629
+executarem tarefas específicas, tá?
+Então é isso, galera. uma rápida pausa
+
+700
+00:12:49,629 --> 00:12:49,639
+Então é isso, galera. uma rápida pausa
+ 
+
+701
+00:12:49,639 --> 00:12:50,949
+Então é isso, galera. uma rápida pausa
+para falar do Crispy, que é o nosso
+
+702
+00:12:50,949 --> 00:12:50,959
+para falar do Crispy, que é o nosso
+ 
+
+703
+00:12:50,959 --> 00:12:52,629
+para falar do Crispy, que é o nosso
+patrocinador do vídeo de hoje. O Crisp é
+
+704
+00:12:52,629 --> 00:12:52,639
+patrocinador do vídeo de hoje. O Crisp é
+ 
+
+705
+00:12:52,639 --> 00:12:54,310
+patrocinador do vídeo de hoje. O Crisp é
+uma ferramenta mini channel que ela plug
+
+706
+00:12:54,310 --> 00:12:54,320
+uma ferramenta mini channel que ela plug
+ 
+
+707
+00:12:54,320 --> 00:12:56,790
+uma ferramenta mini channel que ela plug
+em todas as redes sociais e cria um chat
+
+708
+00:12:56,790 --> 00:12:56,800
+em todas as redes sociais e cria um chat
+ 
+
+709
+00:12:56,800 --> 00:12:58,310
+em todas as redes sociais e cria um chat
+para você conversar com qualquer um dos
+
+710
+00:12:58,310 --> 00:12:58,320
+para você conversar com qualquer um dos
+ 
+
+711
+00:12:58,320 --> 00:12:59,949
+para você conversar com qualquer um dos
+seus clientes, fazer suporte, vendas,
+
+712
+00:12:59,949 --> 00:12:59,959
+seus clientes, fazer suporte, vendas,
+ 
+
+713
+00:12:59,959 --> 00:13:01,470
+seus clientes, fazer suporte, vendas,
+marketing, tudo que você precisa. Eu uso
+
+714
+00:13:01,470 --> 00:13:01,480
+marketing, tudo que você precisa. Eu uso
+ 
+
+715
+00:13:01,480 --> 00:13:03,590
+marketing, tudo que você precisa. Eu uso
+Crispar
+
+716
+00:13:03,590 --> 00:13:03,600
+Crispar
+ 
+
+717
+00:13:03,600 --> 00:13:05,189
+Crispar
+todas as minhas redes sociais e todos os
+
+718
+00:13:05,189 --> 00:13:05,199
+todas as minhas redes sociais e todos os
+ 
+
+719
+00:13:05,199 --> 00:13:06,750
+todas as minhas redes sociais e todos os
+meus micros de uma única vez. Se você
+
+720
+00:13:06,750 --> 00:13:06,760
+meus micros de uma única vez. Se você
+ 
+
+721
+00:13:06,760 --> 00:13:08,189
+meus micros de uma única vez. Se você
+tem múltiplos projetos, deixa eu te
+
+722
+00:13:08,189 --> 00:13:08,199
+tem múltiplos projetos, deixa eu te
+ 
+
+723
+00:13:08,199 --> 00:13:09,829
+tem múltiplos projetos, deixa eu te
+mostrar como o Crisp pode te ajudar. Ao
+
+724
+00:13:09,829 --> 00:13:09,839
+mostrar como o Crisp pode te ajudar. Ao
+ 
+
+725
+00:13:09,839 --> 00:13:11,910
+mostrar como o Crisp pode te ajudar. Ao
+acessar o site do Crisp, vocês conseguem
+
+726
+00:13:11,910 --> 00:13:11,920
+acessar o site do Crisp, vocês conseguem
+ 
+
+727
+00:13:11,920 --> 00:13:14,430
+acessar o site do Crisp, vocês conseguem
+ir aqui em extensões, envio de mensagens
+
+728
+00:13:14,430 --> 00:13:14,440
+ir aqui em extensões, envio de mensagens
+ 
+
+729
+00:13:14,440 --> 00:13:16,430
+ir aqui em extensões, envio de mensagens
+e vocês têm várias redes sociais que
+
+730
+00:13:16,430 --> 00:13:16,440
+e vocês têm várias redes sociais que
+ 
+
+731
+00:13:16,440 --> 00:13:18,310
+e vocês têm várias redes sociais que
+vocês podem conectar, como WhatsApp,
+
+732
+00:13:18,310 --> 00:13:18,320
+vocês podem conectar, como WhatsApp,
+ 
+
+733
+00:13:18,320 --> 00:13:20,829
+vocês podem conectar, como WhatsApp,
+Instagram, o Messenger, Twitter e assim
+
+734
+00:13:20,829 --> 00:13:20,839
+Instagram, o Messenger, Twitter e assim
+ 
+
+735
+00:13:20,839 --> 00:13:22,750
+Instagram, o Messenger, Twitter e assim
+por diante. Você pode conectar múltiplas
+
+736
+00:13:22,750 --> 00:13:22,760
+por diante. Você pode conectar múltiplas
+ 
+
+737
+00:13:22,760 --> 00:13:24,790
+por diante. Você pode conectar múltiplas
+redes sociais e inclusive você pode ter
+
+738
+00:13:24,790 --> 00:13:24,800
+redes sociais e inclusive você pode ter
+ 
+
+739
+00:13:24,800 --> 00:13:27,389
+redes sociais e inclusive você pode ter
+esse iconezinho de site aqui em todos os
+
+740
+00:13:27,389 --> 00:13:27,399
+esse iconezinho de site aqui em todos os
+ 
+
+741
+00:13:27,399 --> 00:13:29,110
+esse iconezinho de site aqui em todos os
+seus sites. Hoje eu tenho o Crispy
+
+742
+00:13:29,110 --> 00:13:29,120
+seus sites. Hoje eu tenho o Crispy
+ 
+
+743
+00:13:29,120 --> 00:13:30,949
+seus sites. Hoje eu tenho o Crispy
+plugado em mais de cinco sites
+
+744
+00:13:30,949 --> 00:13:30,959
+plugado em mais de cinco sites
+ 
+
+745
+00:13:30,959 --> 00:13:32,710
+plugado em mais de cinco sites
+diferentes, dois microsas, todas as
+
+746
+00:13:32,710 --> 00:13:32,720
+diferentes, dois microsas, todas as
+ 
+
+747
+00:13:32,720 --> 00:13:34,230
+diferentes, dois microsas, todas as
+minhas redes sociais e assim por diante.
+
+748
+00:13:34,230 --> 00:13:34,240
+minhas redes sociais e assim por diante.
+ 
+
+749
+00:13:34,240 --> 00:13:35,990
+minhas redes sociais e assim por diante.
+E facilitou demais a minha vida. Há mais
+
+750
+00:13:35,990 --> 00:13:36,000
+E facilitou demais a minha vida. Há mais
+ 
+
+751
+00:13:36,000 --> 00:13:37,470
+E facilitou demais a minha vida. Há mais
+de um ano eu uso e super recomendo.
+
+752
+00:13:37,470 --> 00:13:37,480
+de um ano eu uso e super recomendo.
+ 
+
+753
+00:13:37,480 --> 00:13:38,550
+de um ano eu uso e super recomendo.
+Então eu te convido para conhecer o
+
+754
+00:13:38,550 --> 00:13:38,560
+Então eu te convido para conhecer o
+ 
+
+755
+00:13:38,560 --> 00:13:40,389
+Então eu te convido para conhecer o
+Crisp, se você tem essa dor. Beleza? De
+
+756
+00:13:40,389 --> 00:13:40,399
+Crisp, se você tem essa dor. Beleza? De
+ 
+
+757
+00:13:40,399 --> 00:13:41,790
+Crisp, se você tem essa dor. Beleza? De
+volta pro vídeo de hoje galera, vamos
+
+758
+00:13:41,790 --> 00:13:41,800
+volta pro vídeo de hoje galera, vamos
+ 
+
+759
+00:13:41,800 --> 00:13:43,910
+volta pro vídeo de hoje galera, vamos
+falar agora do ponto três, né? E esse
+
+760
+00:13:43,910 --> 00:13:43,920
+falar agora do ponto três, né? E esse
+ 
+
+761
+00:13:43,920 --> 00:13:45,350
+falar agora do ponto três, né? E esse
+take aqui do ponto três eu peguei de um
+
+762
+00:13:45,350 --> 00:13:45,360
+take aqui do ponto três eu peguei de um
+ 
+
+763
+00:13:45,360 --> 00:13:47,750
+take aqui do ponto três eu peguei de um
+vídeo do Greg bem bacana, do Greg
+
+764
+00:13:47,750 --> 00:13:47,760
+vídeo do Greg bem bacana, do Greg
+ 
+
+765
+00:13:47,760 --> 00:13:49,310
+vídeo do Greg bem bacana, do Greg
+Eisenberg, que eu inclusive recomendo o
+
+766
+00:13:49,310 --> 00:13:49,320
+Eisenberg, que eu inclusive recomendo o
+ 
+
+767
+00:13:49,320 --> 00:13:51,509
+Eisenberg, que eu inclusive recomendo o
+canal dele. Então o Greg ele fala, né,
+
+768
+00:13:51,509 --> 00:13:51,519
+canal dele. Então o Greg ele fala, né,
+ 
+
+769
+00:13:51,519 --> 00:13:54,710
+canal dele. Então o Greg ele fala, né,
+que a gente já chegou no modelo de AI,
+
+770
+00:13:54,710 --> 00:13:54,720
+que a gente já chegou no modelo de AI,
+ 
+
+771
+00:13:54,720 --> 00:13:57,030
+que a gente já chegou no modelo de AI,
+que já tá excelente, que o gargalo agora
+
+772
+00:13:57,030 --> 00:13:57,040
+que já tá excelente, que o gargalo agora
+ 
+
+773
+00:13:57,040 --> 00:13:59,790
+que já tá excelente, que o gargalo agora
+ele é muito mais operacional do que ele
+
+774
+00:13:59,790 --> 00:13:59,800
+ele é muito mais operacional do que ele
+ 
+
+775
+00:13:59,800 --> 00:14:02,069
+ele é muito mais operacional do que ele
+é a nível de IA. Então, tipo assim,
+
+776
+00:14:02,069 --> 00:14:02,079
+é a nível de IA. Então, tipo assim,
+ 
+
+777
+00:14:02,079 --> 00:14:04,310
+é a nível de IA. Então, tipo assim,
+quando a gente falava de 2020, 2021, que
+
+778
+00:14:04,310 --> 00:14:04,320
+quando a gente falava de 2020, 2021, que
+ 
+
+779
+00:14:04,320 --> 00:14:07,389
+quando a gente falava de 2020, 2021, que
+o Chat GPT surgiu, o modelo era ruim,
+
+780
+00:14:07,389 --> 00:14:07,399
+o Chat GPT surgiu, o modelo era ruim,
+ 
+
+781
+00:14:07,399 --> 00:14:09,310
+o Chat GPT surgiu, o modelo era ruim,
+mas hoje a gente já tem uns modelos que
+
+782
+00:14:09,310 --> 00:14:09,320
+mas hoje a gente já tem uns modelos que
+ 
+
+783
+00:14:09,320 --> 00:14:11,790
+mas hoje a gente já tem uns modelos que
+são muito, muito inteligentes e muito
+
+784
+00:14:11,790 --> 00:14:11,800
+são muito, muito inteligentes e muito
+ 
+
+785
+00:14:11,800 --> 00:14:14,310
+são muito, muito inteligentes e muito
+bons. Então, sinceramente, a gente já tá
+
+786
+00:14:14,310 --> 00:14:14,320
+bons. Então, sinceramente, a gente já tá
+ 
+
+787
+00:14:14,320 --> 00:14:16,629
+bons. Então, sinceramente, a gente já tá
+num ponto que você tem múltiplas
+
+788
+00:14:16,629 --> 00:14:16,639
+num ponto que você tem múltiplas
+ 
+
+789
+00:14:16,639 --> 00:14:18,590
+num ponto que você tem múltiplas
+escolhas de modelos. Então, hoje você
+
+790
+00:14:18,590 --> 00:14:18,600
+escolhas de modelos. Então, hoje você
+ 
+
+791
+00:14:18,600 --> 00:14:21,670
+escolhas de modelos. Então, hoje você
+tem o Opus, por exemplo, que saiu 4.7
+
+792
+00:14:21,670 --> 00:14:21,680
+tem o Opus, por exemplo, que saiu 4.7
+ 
+
+793
+00:14:21,680 --> 00:14:24,350
+tem o Opus, por exemplo, que saiu 4.7
+agora, que é um modelo excelente. Você
+
+794
+00:14:24,350 --> 00:14:24,360
+agora, que é um modelo excelente. Você
+ 
+
+795
+00:14:24,360 --> 00:14:26,870
+agora, que é um modelo excelente. Você
+também tem agora um novo modelo que saiu
+
+796
+00:14:26,870 --> 00:14:26,880
+também tem agora um novo modelo que saiu
+ 
+
+797
+00:14:26,880 --> 00:14:28,829
+também tem agora um novo modelo que saiu
+aqui com minhas habilidades artísticas,
+
+798
+00:14:28,829 --> 00:14:28,839
+aqui com minhas habilidades artísticas,
+ 
+
+799
+00:14:28,839 --> 00:14:31,949
+aqui com minhas habilidades artísticas,
+que é o Kim 2.6 também. que na data da
+
+800
+00:14:31,949 --> 00:14:31,959
+que é o Kim 2.6 também. que na data da
+ 
+
+801
+00:14:31,959 --> 00:14:33,389
+que é o Kim 2.6 também. que na data da
+gravação desse vídeo já deve você deve
+
+802
+00:14:33,389 --> 00:14:33,399
+gravação desse vídeo já deve você deve
+ 
+
+803
+00:14:33,399 --> 00:14:36,150
+gravação desse vídeo já deve você deve
+assistir, já deve est o Kim 25 já. Eh,
+
+804
+00:14:36,150 --> 00:14:36,160
+assistir, já deve est o Kim 25 já. Eh,
+ 
+
+805
+00:14:36,160 --> 00:14:38,389
+assistir, já deve est o Kim 25 já. Eh,
+então a gente tem outros modelos aqui
+
+806
+00:14:38,389 --> 00:14:38,399
+então a gente tem outros modelos aqui
+ 
+
+807
+00:14:38,399 --> 00:14:39,790
+então a gente tem outros modelos aqui
+que estão funcionando muito bem pro
+
+808
+00:14:39,790 --> 00:14:39,800
+que estão funcionando muito bem pro
+ 
+
+809
+00:14:39,800 --> 00:14:42,069
+que estão funcionando muito bem pro
+OpenCall também, que é o chat GPT, que
+
+810
+00:14:42,069 --> 00:14:42,079
+OpenCall também, que é o chat GPT, que
+ 
+
+811
+00:14:42,079 --> 00:14:44,269
+OpenCall também, que é o chat GPT, que
+tá todos os dias cada vez melhor para
+
+812
+00:14:44,269 --> 00:14:44,279
+tá todos os dias cada vez melhor para
+ 
+
+813
+00:14:44,279 --> 00:14:46,150
+tá todos os dias cada vez melhor para
+usar com OpenCall. Então assim, você já
+
+814
+00:14:46,150 --> 00:14:46,160
+usar com OpenCall. Então assim, você já
+ 
+
+815
+00:14:46,160 --> 00:14:48,110
+usar com OpenCall. Então assim, você já
+tem modelos que eles estão operando
+
+816
+00:14:48,110 --> 00:14:48,120
+tem modelos que eles estão operando
+ 
+
+817
+00:14:48,120 --> 00:14:50,509
+tem modelos que eles estão operando
+muito bom. Óbvio que cada um tem um
+
+818
+00:14:50,509 --> 00:14:50,519
+muito bom. Óbvio que cada um tem um
+ 
+
+819
+00:14:50,519 --> 00:14:53,230
+muito bom. Óbvio que cada um tem um
+pouco dos seus pró e contras em diversos
+
+820
+00:14:53,230 --> 00:14:53,240
+pouco dos seus pró e contras em diversos
+ 
+
+821
+00:14:53,240 --> 00:14:56,509
+pouco dos seus pró e contras em diversos
+níveis, né? Ah, muito caro. Ah, muito
+
+822
+00:14:56,509 --> 00:14:56,519
+níveis, né? Ah, muito caro. Ah, muito
+ 
+
+823
+00:14:56,519 --> 00:14:59,509
+níveis, né? Ah, muito caro. Ah, muito
+novo. Ah, uma porcaria, porque ele é
+
+824
+00:14:59,509 --> 00:14:59,519
+novo. Ah, uma porcaria, porque ele é
+ 
+
+825
+00:14:59,519 --> 00:15:01,590
+novo. Ah, uma porcaria, porque ele é
+muito charilatão. Ah, não faz. Então,
+
+826
+00:15:01,590 --> 00:15:01,600
+muito charilatão. Ah, não faz. Então,
+ 
+
+827
+00:15:01,600 --> 00:15:04,230
+muito charilatão. Ah, não faz. Então,
+assim, todos eles têm prós e contras,
+
+828
+00:15:04,230 --> 00:15:04,240
+assim, todos eles têm prós e contras,
+ 
+
+829
+00:15:04,240 --> 00:15:06,430
+assim, todos eles têm prós e contras,
+mas a real é que todas as empresas elas
+
+830
+00:15:06,430 --> 00:15:06,440
+mas a real é que todas as empresas elas
+ 
+
+831
+00:15:06,440 --> 00:15:09,910
+mas a real é que todas as empresas elas
+em 2026 elas estão buscando construir
+
+832
+00:15:09,910 --> 00:15:09,920
+em 2026 elas estão buscando construir
+ 
+
+833
+00:15:09,920 --> 00:15:12,030
+em 2026 elas estão buscando construir
+agentes que executam. Então, a corrida
+
+834
+00:15:12,030 --> 00:15:12,040
+agentes que executam. Então, a corrida
+ 
+
+835
+00:15:12,040 --> 00:15:15,069
+agentes que executam. Então, a corrida
+de 2026 não é mais tanto o modelo,
+
+836
+00:15:15,069 --> 00:15:15,079
+de 2026 não é mais tanto o modelo,
+ 
+
+837
+00:15:15,079 --> 00:15:16,629
+de 2026 não é mais tanto o modelo,
+porque pensa comigo, o modelo meio que
+
+838
+00:15:16,629 --> 00:15:16,639
+porque pensa comigo, o modelo meio que
+ 
+
+839
+00:15:16,639 --> 00:15:19,230
+porque pensa comigo, o modelo meio que
+já bateu num teto aonde a gente tá e
+
+840
+00:15:19,230 --> 00:15:19,240
+já bateu num teto aonde a gente tá e
+ 
+
+841
+00:15:19,240 --> 00:15:21,069
+já bateu num teto aonde a gente tá e
+sofrendo por conta de infraestrutura. A
+
+842
+00:15:21,069 --> 00:15:21,079
+sofrendo por conta de infraestrutura. A
+ 
+
+843
+00:15:21,079 --> 00:15:22,350
+sofrendo por conta de infraestrutura. A
+gente não tem água o suficiente, a gente
+
+844
+00:15:22,350 --> 00:15:22,360
+gente não tem água o suficiente, a gente
+ 
+
+845
+00:15:22,360 --> 00:15:23,629
+gente não tem água o suficiente, a gente
+não tem data center, a gente não tem
+
+846
+00:15:23,629 --> 00:15:23,639
+não tem data center, a gente não tem
+ 
+
+847
+00:15:23,639 --> 00:15:25,150
+não tem data center, a gente não tem
+energia elétrica o suficiente, memória
+
+848
+00:15:25,150 --> 00:15:25,160
+energia elétrica o suficiente, memória
+ 
+
+849
+00:15:25,160 --> 00:15:27,949
+energia elétrica o suficiente, memória
+RAM, né? O Elon Musk considera criar e
+
+850
+00:15:27,949 --> 00:15:27,959
+RAM, né? O Elon Musk considera criar e
+ 
+
+851
+00:15:27,959 --> 00:15:30,470
+RAM, né? O Elon Musk considera criar e
+lançar satélites que vão lançar data
+
+852
+00:15:30,470 --> 00:15:30,480
+lançar satélites que vão lançar data
+ 
+
+853
+00:15:30,480 --> 00:15:32,110
+lançar satélites que vão lançar data
+centers no espaço, porque lá dá para
+
+854
+00:15:32,110 --> 00:15:32,120
+centers no espaço, porque lá dá para
+ 
+
+855
+00:15:32,120 --> 00:15:34,269
+centers no espaço, porque lá dá para
+esfriar mais rápido as coisas para
+
+856
+00:15:34,269 --> 00:15:34,279
+esfriar mais rápido as coisas para
+ 
+
+857
+00:15:34,279 --> 00:15:36,030
+esfriar mais rápido as coisas para
+treinar mais IA. Então, em questão de
+
+858
+00:15:36,030 --> 00:15:36,040
+treinar mais IA. Então, em questão de
+ 
+
+859
+00:15:36,040 --> 00:15:38,749
+treinar mais IA. Então, em questão de
+nível de A, tipo, a gente já tá num
+
+860
+00:15:38,749 --> 00:15:38,759
+nível de A, tipo, a gente já tá num
+ 
+
+861
+00:15:38,759 --> 00:15:40,470
+nível de A, tipo, a gente já tá num
+ponto bom, né? Isso que assim, eu não tô
+
+862
+00:15:40,470 --> 00:15:40,480
+ponto bom, né? Isso que assim, eu não tô
+ 
+
+863
+00:15:40,480 --> 00:15:43,189
+ponto bom, né? Isso que assim, eu não tô
+falando do mitos, né? Da Opos lá, que tá
+
+864
+00:15:43,189 --> 00:15:43,199
+falando do mitos, né? Da Opos lá, que tá
+ 
+
+865
+00:15:43,199 --> 00:15:44,870
+falando do mitos, né? Da Opos lá, que tá
+fazendo todo esse barulho, mas assim, o
+
+866
+00:15:44,870 --> 00:15:44,880
+fazendo todo esse barulho, mas assim, o
+ 
+
+867
+00:15:44,880 --> 00:15:46,550
+fazendo todo esse barulho, mas assim, o
+que a gente já tem funciona muito bem.
+
+868
+00:15:46,550 --> 00:15:46,560
+que a gente já tem funciona muito bem.
+ 
+
+869
+00:15:46,560 --> 00:15:48,189
+que a gente já tem funciona muito bem.
+Então, gargalo agora é muito mais como a
+
+870
+00:15:48,189 --> 00:15:48,199
+Então, gargalo agora é muito mais como a
+ 
+
+871
+00:15:48,199 --> 00:15:50,069
+Então, gargalo agora é muito mais como a
+gente operacionaliza isso, né? Então a
+
+872
+00:15:50,069 --> 00:15:50,079
+gente operacionaliza isso, né? Então a
+ 
+
+873
+00:15:50,079 --> 00:15:52,949
+gente operacionaliza isso, né? Então a
+pergunta não é mais qual a usar, né, mas
+
+874
+00:15:52,949 --> 00:15:52,959
+pergunta não é mais qual a usar, né, mas
+ 
+
+875
+00:15:52,959 --> 00:15:55,790
+pergunta não é mais qual a usar, né, mas
+é como você monta o seu sistema em volta
+
+876
+00:15:55,790 --> 00:15:55,800
+é como você monta o seu sistema em volta
+ 
+
+877
+00:15:55,800 --> 00:15:57,470
+é como você monta o seu sistema em volta
+dela, tá bom? Então eu vou falar para
+
+878
+00:15:57,470 --> 00:15:57,480
+dela, tá bom? Então eu vou falar para
+ 
+
+879
+00:15:57,480 --> 00:15:59,829
+dela, tá bom? Então eu vou falar para
+vocês agora sobre esses pontos aqui que
+
+880
+00:15:59,829 --> 00:15:59,839
+vocês agora sobre esses pontos aqui que
+ 
+
+881
+00:15:59,839 --> 00:16:02,870
+vocês agora sobre esses pontos aqui que
+é contexto, skills e rotinas. Então eu
+
+882
+00:16:02,870 --> 00:16:02,880
+é contexto, skills e rotinas. Então eu
+ 
+
+883
+00:16:02,880 --> 00:16:04,670
+é contexto, skills e rotinas. Então eu
+vou deixar minha colinha de lado aqui e
+
+884
+00:16:04,670 --> 00:16:04,680
+vou deixar minha colinha de lado aqui e
+ 
+
+885
+00:16:04,680 --> 00:16:06,790
+vou deixar minha colinha de lado aqui e
+vou pro meu desenho aqui pra gente falar
+
+886
+00:16:06,790 --> 00:16:06,800
+vou pro meu desenho aqui pra gente falar
+ 
+
+887
+00:16:06,800 --> 00:16:09,389
+vou pro meu desenho aqui pra gente falar
+sobre isso, tá bom? Então o que que é um
+
+888
+00:16:09,389 --> 00:16:09,399
+sobre isso, tá bom? Então o que que é um
+ 
+
+889
+00:16:09,399 --> 00:16:12,790
+sobre isso, tá bom? Então o que que é um
+agente em 2026? Agora que a gente já deu
+
+890
+00:16:12,790 --> 00:16:12,800
+agente em 2026? Agora que a gente já deu
+ 
+
+891
+00:16:12,800 --> 00:16:14,910
+agente em 2026? Agora que a gente já deu
+essa entrada aqui, vamos explorar um
+
+892
+00:16:14,910 --> 00:16:14,920
+essa entrada aqui, vamos explorar um
+ 
+
+893
+00:16:14,920 --> 00:16:17,269
+essa entrada aqui, vamos explorar um
+pouquinho sobre esse modelo, tá? Eh, um
+
+894
+00:16:17,269 --> 00:16:17,279
+pouquinho sobre esse modelo, tá? Eh, um
+ 
+
+895
+00:16:17,279 --> 00:16:20,949
+pouquinho sobre esse modelo, tá? Eh, um
+agente ele é um bote, né? Então,
+
+896
+00:16:20,949 --> 00:16:20,959
+agente ele é um bote, né? Então,
+ 
+
+897
+00:16:20,959 --> 00:16:23,110
+agente ele é um bote, né? Então,
+normalmente esse agente ele tem que
+
+898
+00:16:23,110 --> 00:16:23,120
+normalmente esse agente ele tem que
+ 
+
+899
+00:16:23,120 --> 00:16:25,870
+normalmente esse agente ele tem que
+ficar para ele rodar 247, ele tem que
+
+900
+00:16:25,870 --> 00:16:25,880
+ficar para ele rodar 247, ele tem que
+ 
+
+901
+00:16:25,880 --> 00:16:28,870
+ficar para ele rodar 247, ele tem que
+ficar numa VPS. Então, ou você coloca o
+
+902
+00:16:28,870 --> 00:16:28,880
+ficar numa VPS. Então, ou você coloca o
+ 
+
+903
+00:16:28,880 --> 00:16:31,230
+ficar numa VPS. Então, ou você coloca o
+seu agente numa VPS. Então, no meu caso,
+
+904
+00:16:31,230 --> 00:16:31,240
+seu agente numa VPS. Então, no meu caso,
+ 
+
+905
+00:16:31,240 --> 00:16:33,309
+seu agente numa VPS. Então, no meu caso,
+eu uso a Hostinger, tá? Eu uso a
+
+906
+00:16:33,309 --> 00:16:33,319
+eu uso a Hostinger, tá? Eu uso a
+ 
+
+907
+00:16:33,319 --> 00:16:36,110
+eu uso a Hostinger, tá? Eu uso a
+Hostinger porque eu acho a Hostinger uma
+
+908
+00:16:36,110 --> 00:16:36,120
+Hostinger porque eu acho a Hostinger uma
+ 
+
+909
+00:16:36,120 --> 00:16:39,309
+Hostinger porque eu acho a Hostinger uma
+boa é plataforma. Eu acho o preço OK, R$
+
+910
+00:16:39,309 --> 00:16:39,319
+boa é plataforma. Eu acho o preço OK, R$
+ 
+
+911
+00:16:39,319 --> 00:16:42,509
+boa é plataforma. Eu acho o preço OK, R$
+40 por mês, tipo, OK. E e o que eles
+
+912
+00:16:42,509 --> 00:16:42,519
+40 por mês, tipo, OK. E e o que eles
+ 
+
+913
+00:16:42,519 --> 00:16:44,749
+40 por mês, tipo, OK. E e o que eles
+entregam, 8 GB de RAM, funciona bem.
+
+914
+00:16:44,749 --> 00:16:44,759
+entregam, 8 GB de RAM, funciona bem.
+ 
+
+915
+00:16:44,759 --> 00:16:46,430
+entregam, 8 GB de RAM, funciona bem.
+Então, no caso do OpenCall, por exemplo,
+
+916
+00:16:46,430 --> 00:16:46,440
+Então, no caso do OpenCall, por exemplo,
+ 
+
+917
+00:16:46,440 --> 00:16:48,749
+Então, no caso do OpenCall, por exemplo,
+cada OpenCl operando ali consome entre
+
+918
+00:16:48,749 --> 00:16:48,759
+cada OpenCl operando ali consome entre
+ 
+
+919
+00:16:48,759 --> 00:16:50,870
+cada OpenCl operando ali consome entre
+30 e 35% de memória RAM. Então, dá para
+
+920
+00:16:50,870 --> 00:16:50,880
+30 e 35% de memória RAM. Então, dá para
+ 
+
+921
+00:16:50,880 --> 00:16:53,269
+30 e 35% de memória RAM. Então, dá para
+você ter dois, três agentes no máximo
+
+922
+00:16:53,269 --> 00:16:53,279
+você ter dois, três agentes no máximo
+ 
+
+923
+00:16:53,279 --> 00:16:55,470
+você ter dois, três agentes no máximo
+ali numa VPS. Então, você gastando R$ 50
+
+924
+00:16:55,470 --> 00:16:55,480
+ali numa VPS. Então, você gastando R$ 50
+ 
+
+925
+00:16:55,480 --> 00:16:57,350
+ali numa VPS. Então, você gastando R$ 50
+por mês para você rodar múltiplos
+
+926
+00:16:57,350 --> 00:16:57,360
+por mês para você rodar múltiplos
+ 
+
+927
+00:16:57,360 --> 00:16:59,910
+por mês para você rodar múltiplos
+agentes, OK, bom preço. Então, você tem
+
+928
+00:16:59,910 --> 00:16:59,920
+agentes, OK, bom preço. Então, você tem
+ 
+
+929
+00:16:59,920 --> 00:17:02,629
+agentes, OK, bom preço. Então, você tem
+o caminho de você ter a VPS, como você
+
+930
+00:17:02,629 --> 00:17:02,639
+o caminho de você ter a VPS, como você
+ 
+
+931
+00:17:02,639 --> 00:17:05,470
+o caminho de você ter a VPS, como você
+também tem o caminho de você poder ter
+
+932
+00:17:05,470 --> 00:17:05,480
+também tem o caminho de você poder ter
+ 
+
+933
+00:17:05,480 --> 00:17:08,590
+também tem o caminho de você poder ter
+um PC local. Então você pode deixar um
+
+934
+00:17:08,590 --> 00:17:08,600
+um PC local. Então você pode deixar um
+ 
+
+935
+00:17:08,600 --> 00:17:10,150
+um PC local. Então você pode deixar um
+PC local ali. Então, por exemplo, no
+
+936
+00:17:10,150 --> 00:17:10,160
+PC local ali. Então, por exemplo, no
+ 
+
+937
+00:17:10,160 --> 00:17:11,750
+PC local ali. Então, por exemplo, no
+caso do cloud, que a gente viu aqui no
+
+938
+00:17:11,750 --> 00:17:11,760
+caso do cloud, que a gente viu aqui no
+ 
+
+939
+00:17:11,760 --> 00:17:13,710
+caso do cloud, que a gente viu aqui no
+cloud Cork, você pode vir aqui em
+
+940
+00:17:13,710 --> 00:17:13,720
+cloud Cork, você pode vir aqui em
+ 
+
+941
+00:17:13,720 --> 00:17:15,390
+cloud Cork, você pode vir aqui em
+schedule, você tem aqui a opção de
+
+942
+00:17:15,390 --> 00:17:15,400
+schedule, você tem aqui a opção de
+ 
+
+943
+00:17:15,400 --> 00:17:17,029
+schedule, você tem aqui a opção de
+manter o computador ativo. Então você
+
+944
+00:17:17,029 --> 00:17:17,039
+manter o computador ativo. Então você
+ 
+
+945
+00:17:17,039 --> 00:17:18,630
+manter o computador ativo. Então você
+pode deixar o seu computador ativo
+
+946
+00:17:18,630 --> 00:17:18,640
+pode deixar o seu computador ativo
+ 
+
+947
+00:17:18,640 --> 00:17:20,909
+pode deixar o seu computador ativo
+trabalhando o dia inteiro ali no seu
+
+948
+00:17:20,909 --> 00:17:20,919
+trabalhando o dia inteiro ali no seu
+ 
+
+949
+00:17:20,919 --> 00:17:23,029
+trabalhando o dia inteiro ali no seu
+negócio, tá? Quando você pluga esse seu
+
+950
+00:17:23,029 --> 00:17:23,039
+negócio, tá? Quando você pluga esse seu
+ 
+
+951
+00:17:23,039 --> 00:17:24,990
+negócio, tá? Quando você pluga esse seu
+agente, você tem múltiplas ferramentas
+
+952
+00:17:24,990 --> 00:17:25,000
+agente, você tem múltiplas ferramentas
+ 
+
+953
+00:17:25,000 --> 00:17:27,549
+agente, você tem múltiplas ferramentas
+para você usar este agente aqui. Então,
+
+954
+00:17:27,549 --> 00:17:27,559
+para você usar este agente aqui. Então,
+ 
+
+955
+00:17:27,559 --> 00:17:30,190
+para você usar este agente aqui. Então,
+no caso, você tem, você pode pegar aqui
+
+956
+00:17:30,190 --> 00:17:30,200
+no caso, você tem, você pode pegar aqui
+ 
+
+957
+00:17:30,200 --> 00:17:32,990
+no caso, você tem, você pode pegar aqui
+esse agente e você vai selecionar um
+
+958
+00:17:32,990 --> 00:17:33,000
+esse agente e você vai selecionar um
+ 
+
+959
+00:17:33,000 --> 00:17:35,789
+esse agente e você vai selecionar um
+modelo, né? Esse modelo ele pode vir
+
+960
+00:17:35,789 --> 00:17:35,799
+modelo, né? Esse modelo ele pode vir
+ 
+
+961
+00:17:35,799 --> 00:17:37,830
+modelo, né? Esse modelo ele pode vir
+dentro de múltiplas ferramentas, tá?
+
+962
+00:17:37,830 --> 00:17:37,840
+dentro de múltiplas ferramentas, tá?
+ 
+
+963
+00:17:37,840 --> 00:17:40,150
+dentro de múltiplas ferramentas, tá?
+Então eu vou, na verdade eu vou trocar
+
+964
+00:17:40,150 --> 00:17:40,160
+Então eu vou, na verdade eu vou trocar
+ 
+
+965
+00:17:40,160 --> 00:17:42,909
+Então eu vou, na verdade eu vou trocar
+esse aqui, vou colocar esse aqui. Então
+
+966
+00:17:42,909 --> 00:17:42,919
+esse aqui, vou colocar esse aqui. Então
+ 
+
+967
+00:17:42,919 --> 00:17:45,590
+esse aqui, vou colocar esse aqui. Então
+você tem o modelo de LLM e você tem
+
+968
+00:17:45,590 --> 00:17:45,600
+você tem o modelo de LLM e você tem
+ 
+
+969
+00:17:45,600 --> 00:17:47,990
+você tem o modelo de LLM e você tem
+múltiplas ferramentas que você pode
+
+970
+00:17:47,990 --> 00:17:48,000
+múltiplas ferramentas que você pode
+ 
+
+971
+00:17:48,000 --> 00:17:51,150
+múltiplas ferramentas que você pode
+escolher desse modelo. Então você tem o
+
+972
+00:17:51,150 --> 00:17:51,160
+escolher desse modelo. Então você tem o
+ 
+
+973
+00:17:51,160 --> 00:17:55,549
+escolher desse modelo. Então você tem o
+Cloud, você tem o OpenCla, você tem o
+
+974
+00:17:55,549 --> 00:17:55,559
+Cloud, você tem o OpenCla, você tem o
+ 
+
+975
+00:17:55,559 --> 00:17:58,310
+Cloud, você tem o OpenCla, você tem o
+Hermes, você tem o Paper Clip. Eu tô
+
+976
+00:17:58,310 --> 00:17:58,320
+Hermes, você tem o Paper Clip. Eu tô
+ 
+
+977
+00:17:58,320 --> 00:18:00,029
+Hermes, você tem o Paper Clip. Eu tô
+pegando assim, sei lá, as mais óbvias
+
+978
+00:18:00,029 --> 00:18:00,039
+pegando assim, sei lá, as mais óbvias
+ 
+
+979
+00:18:00,039 --> 00:18:01,430
+pegando assim, sei lá, as mais óbvias
+aqui, né? Então assim, você tem
+
+980
+00:18:01,430 --> 00:18:01,440
+aqui, né? Então assim, você tem
+ 
+
+981
+00:18:01,440 --> 00:18:03,549
+aqui, né? Então assim, você tem
+múltiplas ferramentas que vocês podem
+
+982
+00:18:03,549 --> 00:18:03,559
+múltiplas ferramentas que vocês podem
+ 
+
+983
+00:18:03,559 --> 00:18:05,630
+múltiplas ferramentas que vocês podem
+pôr múltiplos modelos, tá? Então o que
+
+984
+00:18:05,630 --> 00:18:05,640
+pôr múltiplos modelos, tá? Então o que
+ 
+
+985
+00:18:05,640 --> 00:18:07,710
+pôr múltiplos modelos, tá? Então o que
+que é pôr múltiplos modelos aqui? Vocês
+
+986
+00:18:07,710 --> 00:18:07,720
+que é pôr múltiplos modelos aqui? Vocês
+ 
+
+987
+00:18:07,720 --> 00:18:11,590
+que é pôr múltiplos modelos aqui? Vocês
+também podem escolher aqui eh GPT, eh eh
+
+988
+00:18:11,590 --> 00:18:11,600
+também podem escolher aqui eh GPT, eh eh
+ 
+
+989
+00:18:11,600 --> 00:18:16,549
+também podem escolher aqui eh GPT, eh eh
+Cloud, Minimax eh Kim. Aí você tem eh
+
+990
+00:18:16,549 --> 00:18:16,559
+Cloud, Minimax eh Kim. Aí você tem eh
+ 
+
+991
+00:18:16,559 --> 00:18:19,270
+Cloud, Minimax eh Kim. Aí você tem eh
+Mimo, GLM, cara, você tem infinitos
+
+992
+00:18:19,270 --> 00:18:19,280
+Mimo, GLM, cara, você tem infinitos
+ 
+
+993
+00:18:19,280 --> 00:18:21,270
+Mimo, GLM, cara, você tem infinitos
+modelos que você pode escolher para
+
+994
+00:18:21,270 --> 00:18:21,280
+modelos que você pode escolher para
+ 
+
+995
+00:18:21,280 --> 00:18:22,950
+modelos que você pode escolher para
+rodar com infinitas ferramentas, tá?
+
+996
+00:18:22,950 --> 00:18:22,960
+rodar com infinitas ferramentas, tá?
+ 
+
+997
+00:18:22,960 --> 00:18:24,630
+rodar com infinitas ferramentas, tá?
+Então todas essas ferramentas elas vão
+
+998
+00:18:24,630 --> 00:18:24,640
+Então todas essas ferramentas elas vão
+ 
+
+999
+00:18:24,640 --> 00:18:26,830
+Então todas essas ferramentas elas vão
+te levar para algum lugar. De novo, a
+
+1000
+00:18:26,830 --> 00:18:26,840
+te levar para algum lugar. De novo, a
+ 
+
+1001
+00:18:26,840 --> 00:18:29,669
+te levar para algum lugar. De novo, a
+minha favorita ainda é OpenCall e Cloud.
+
+1002
+00:18:29,669 --> 00:18:29,679
+minha favorita ainda é OpenCall e Cloud.
+ 
+
+1003
+00:18:29,679 --> 00:18:31,430
+minha favorita ainda é OpenCall e Cloud.
+Então, para mim, essas duas aqui são
+
+1004
+00:18:31,430 --> 00:18:31,440
+Então, para mim, essas duas aqui são
+ 
+
+1005
+00:18:31,440 --> 00:18:33,029
+Então, para mim, essas duas aqui são
+matadoras, tá? Essas aqui são
+
+1006
+00:18:33,029 --> 00:18:33,039
+matadoras, tá? Essas aqui são
+ 
+
+1007
+00:18:33,039 --> 00:18:34,950
+matadoras, tá? Essas aqui são
+excelentes, mas eu vou dedicar um vídeo
+
+1008
+00:18:34,950 --> 00:18:34,960
+excelentes, mas eu vou dedicar um vídeo
+ 
+
+1009
+00:18:34,960 --> 00:18:36,310
+excelentes, mas eu vou dedicar um vídeo
+para falar sobre elas depois. Então,
+
+1010
+00:18:36,310 --> 00:18:36,320
+para falar sobre elas depois. Então,
+ 
+
+1011
+00:18:36,320 --> 00:18:39,110
+para falar sobre elas depois. Então,
+você escolheu esse modelo, a sua LM.
+
+1012
+00:18:39,110 --> 00:18:39,120
+você escolheu esse modelo, a sua LM.
+ 
+
+1013
+00:18:39,120 --> 00:18:41,470
+você escolheu esse modelo, a sua LM.
+Agora, o que que faz, como você constrói
+
+1014
+00:18:41,470 --> 00:18:41,480
+Agora, o que que faz, como você constrói
+ 
+
+1015
+00:18:41,480 --> 00:18:43,750
+Agora, o que que faz, como você constrói
+um agente de fato, tá? Então, um agente
+
+1016
+00:18:43,750 --> 00:18:43,760
+um agente de fato, tá? Então, um agente
+ 
+
+1017
+00:18:43,760 --> 00:18:45,950
+um agente de fato, tá? Então, um agente
+ele é composto desses pilares aqui,
+
+1018
+00:18:45,950 --> 00:18:45,960
+ele é composto desses pilares aqui,
+ 
+
+1019
+00:18:45,960 --> 00:18:47,630
+ele é composto desses pilares aqui,
+principalmente. Então, a gente vai
+
+1020
+00:18:47,630 --> 00:18:47,640
+principalmente. Então, a gente vai
+ 
+
+1021
+00:18:47,640 --> 00:18:49,230
+principalmente. Então, a gente vai
+trabalhar com esses pilares aqui. Então,
+
+1022
+00:18:49,230 --> 00:18:49,240
+trabalhar com esses pilares aqui. Então,
+ 
+
+1023
+00:18:49,240 --> 00:18:51,990
+trabalhar com esses pilares aqui. Então,
+o que que é contexto, cara? O contexto é
+
+1024
+00:18:51,990 --> 00:18:52,000
+o que que é contexto, cara? O contexto é
+ 
+
+1025
+00:18:52,000 --> 00:18:54,669
+o que que é contexto, cara? O contexto é
+tudo que você explica pro seu agente,
+
+1026
+00:18:54,669 --> 00:18:54,679
+tudo que você explica pro seu agente,
+ 
+
+1027
+00:18:54,679 --> 00:18:56,590
+tudo que você explica pro seu agente,
+tá? Deixa eu só apagar isso aqui para
+
+1028
+00:18:56,590 --> 00:18:56,600
+tá? Deixa eu só apagar isso aqui para
+ 
+
+1029
+00:18:56,600 --> 00:18:59,110
+tá? Deixa eu só apagar isso aqui para
+não confundir vocês. Então, um contexto
+
+1030
+00:18:59,110 --> 00:18:59,120
+não confundir vocês. Então, um contexto
+ 
+
+1031
+00:18:59,120 --> 00:19:02,510
+não confundir vocês. Então, um contexto
+nada mais é do que informações sobre
+
+1032
+00:19:02,510 --> 00:19:02,520
+nada mais é do que informações sobre
+ 
+
+1033
+00:19:02,520 --> 00:19:05,430
+nada mais é do que informações sobre
+tudo que seu agente precisa saber.
+
+1034
+00:19:05,430 --> 00:19:05,440
+tudo que seu agente precisa saber.
+ 
+
+1035
+00:19:05,440 --> 00:19:08,029
+tudo que seu agente precisa saber.
+Então, o contexto ele pode ser várias
+
+1036
+00:19:08,029 --> 00:19:08,039
+Então, o contexto ele pode ser várias
+ 
+
+1037
+00:19:08,039 --> 00:19:10,110
+Então, o contexto ele pode ser várias
+coisas. Então, você pode, por exemplo,
+
+1038
+00:19:10,110 --> 00:19:10,120
+coisas. Então, você pode, por exemplo,
+ 
+
+1039
+00:19:10,120 --> 00:19:11,029
+coisas. Então, você pode, por exemplo,
+que nem eu vou abrir aqui meu
+
+1040
+00:19:11,029 --> 00:19:11,039
+que nem eu vou abrir aqui meu
+ 
+
+1041
+00:19:11,039 --> 00:19:12,590
+que nem eu vou abrir aqui meu
+computador, eu tenho uma pasta aqui
+
+1042
+00:19:12,590 --> 00:19:12,600
+computador, eu tenho uma pasta aqui
+ 
+
+1043
+00:19:12,600 --> 00:19:15,350
+computador, eu tenho uma pasta aqui
+chamado Cloud Code Projetos. Então aqui
+
+1044
+00:19:15,350 --> 00:19:15,360
+chamado Cloud Code Projetos. Então aqui
+ 
+
+1045
+00:19:15,360 --> 00:19:17,630
+chamado Cloud Code Projetos. Então aqui
+eu tenho aqui meus cursos que o cloud
+
+1046
+00:19:17,630 --> 00:19:17,640
+eu tenho aqui meus cursos que o cloud
+ 
+
+1047
+00:19:17,640 --> 00:19:20,070
+eu tenho aqui meus cursos que o cloud
+acessa, eu tenho conteúdos que eu faço,
+
+1048
+00:19:20,070 --> 00:19:20,080
+acessa, eu tenho conteúdos que eu faço,
+ 
+
+1049
+00:19:20,080 --> 00:19:22,029
+acessa, eu tenho conteúdos que eu faço,
+meus planejamentos de conteúdo,
+
+1050
+00:19:22,029 --> 00:19:22,039
+meus planejamentos de conteúdo,
+ 
+
+1051
+00:19:22,039 --> 00:19:23,909
+meus planejamentos de conteúdo,
+documentos que eu montei, eh,
+
+1052
+00:19:23,909 --> 00:19:23,919
+documentos que eu montei, eh,
+ 
+
+1053
+00:19:23,919 --> 00:19:26,350
+documentos que eu montei, eh,
+trainingira, eu tenho eh minhas empresas
+
+1054
+00:19:26,350 --> 00:19:26,360
+trainingira, eu tenho eh minhas empresas
+ 
+
+1055
+00:19:26,360 --> 00:19:28,310
+trainingira, eu tenho eh minhas empresas
+autônomas que eu testei com PERClip, eu
+
+1056
+00:19:28,310 --> 00:19:28,320
+autônomas que eu testei com PERClip, eu
+ 
+
+1057
+00:19:28,320 --> 00:19:30,950
+autônomas que eu testei com PERClip, eu
+tenho Landing Pages, eu tenho MGM, meu
+
+1058
+00:19:30,950 --> 00:19:30,960
+tenho Landing Pages, eu tenho MGM, meu
+ 
+
+1059
+00:19:30,960 --> 00:19:32,870
+tenho Landing Pages, eu tenho MGM, meu
+SAS, eu tenho um monte de coisa aqui
+
+1060
+00:19:32,870 --> 00:19:32,880
+SAS, eu tenho um monte de coisa aqui
+ 
+
+1061
+00:19:32,880 --> 00:19:34,870
+SAS, eu tenho um monte de coisa aqui
+rodando, inclusive meu Secon Brain.
+
+1062
+00:19:34,870 --> 00:19:34,880
+rodando, inclusive meu Secon Brain.
+ 
+
+1063
+00:19:34,880 --> 00:19:37,470
+rodando, inclusive meu Secon Brain.
+Então tudo isso aqui é são pastas.
+
+1064
+00:19:37,470 --> 00:19:37,480
+Então tudo isso aqui é são pastas.
+ 
+
+1065
+00:19:37,480 --> 00:19:40,110
+Então tudo isso aqui é são pastas.
+Dentro de cada pasta eu tenho um mapa.
+
+1066
+00:19:40,110 --> 00:19:40,120
+Dentro de cada pasta eu tenho um mapa.
+ 
+
+1067
+00:19:40,120 --> 00:19:41,549
+Dentro de cada pasta eu tenho um mapa.
+Então, dentro de cada pasta, então, por
+
+1068
+00:19:41,549 --> 00:19:41,559
+Então, dentro de cada pasta, então, por
+ 
+
+1069
+00:19:41,559 --> 00:19:43,830
+Então, dentro de cada pasta, então, por
+exemplo, aqui eu tenho a pasta de cloud
+
+1070
+00:19:43,830 --> 00:19:43,840
+exemplo, aqui eu tenho a pasta de cloud
+ 
+
+1071
+00:19:43,840 --> 00:19:45,870
+exemplo, aqui eu tenho a pasta de cloud
+code projetos. Então, dentro da pasta de
+
+1072
+00:19:45,870 --> 00:19:45,880
+code projetos. Então, dentro da pasta de
+ 
+
+1073
+00:19:45,880 --> 00:19:48,070
+code projetos. Então, dentro da pasta de
+cloud code projetos, eu tenho um mapa
+
+1074
+00:19:48,070 --> 00:19:48,080
+cloud code projetos, eu tenho um mapa
+ 
+
+1075
+00:19:48,080 --> 00:19:50,390
+cloud code projetos, eu tenho um mapa
+explicando o que que é cada projeto, o
+
+1076
+00:19:50,390 --> 00:19:50,400
+explicando o que que é cada projeto, o
+ 
+
+1077
+00:19:50,400 --> 00:19:52,230
+explicando o que que é cada projeto, o
+que que tem dentro de cada pasta, o que
+
+1078
+00:19:52,230 --> 00:19:52,240
+que que tem dentro de cada pasta, o que
+ 
+
+1079
+00:19:52,240 --> 00:19:54,190
+que que tem dentro de cada pasta, o que
+que faz cada coisa. Então, dessa forma,
+
+1080
+00:19:54,190 --> 00:19:54,200
+que faz cada coisa. Então, dessa forma,
+ 
+
+1081
+00:19:54,200 --> 00:19:56,830
+que faz cada coisa. Então, dessa forma,
+eu crio um mapa para o meu agente
+
+1082
+00:19:56,830 --> 00:19:56,840
+eu crio um mapa para o meu agente
+ 
+
+1083
+00:19:56,840 --> 00:19:59,590
+eu crio um mapa para o meu agente
+entender. Então, o contexto ele tem que
+
+1084
+00:19:59,590 --> 00:19:59,600
+entender. Então, o contexto ele tem que
+ 
+
+1085
+00:19:59,600 --> 00:20:02,830
+entender. Então, o contexto ele tem que
+ser em forma de mapas. Então, você pode
+
+1086
+00:20:02,830 --> 00:20:02,840
+ser em forma de mapas. Então, você pode
+ 
+
+1087
+00:20:02,840 --> 00:20:04,909
+ser em forma de mapas. Então, você pode
+criar pastas, por exemplo, né? Então
+
+1088
+00:20:04,909 --> 00:20:04,919
+criar pastas, por exemplo, né? Então
+ 
+
+1089
+00:20:04,919 --> 00:20:09,029
+criar pastas, por exemplo, né? Então
+você pode ter pastas com mapas que têm
+
+1090
+00:20:09,029 --> 00:20:09,039
+você pode ter pastas com mapas que têm
+ 
+
+1091
+00:20:09,039 --> 00:20:12,470
+você pode ter pastas com mapas que têm
+contextos específicos. Então isso pode
+
+1092
+00:20:12,470 --> 00:20:12,480
+contextos específicos. Então isso pode
+ 
+
+1093
+00:20:12,480 --> 00:20:14,029
+contextos específicos. Então isso pode
+ser qualquer coisa. Então se você tem
+
+1094
+00:20:14,029 --> 00:20:14,039
+ser qualquer coisa. Então se você tem
+ 
+
+1095
+00:20:14,039 --> 00:20:16,390
+ser qualquer coisa. Então se você tem
+uma empresa, você pode criar uma pasta
+
+1096
+00:20:16,390 --> 00:20:16,400
+uma empresa, você pode criar uma pasta
+ 
+
+1097
+00:20:16,400 --> 00:20:19,510
+uma empresa, você pode criar uma pasta
+chamado empresa X. E dentro dessa pasta
+
+1098
+00:20:19,510 --> 00:20:19,520
+chamado empresa X. E dentro dessa pasta
+ 
+
+1099
+00:20:19,520 --> 00:20:23,149
+chamado empresa X. E dentro dessa pasta
+da empresa você cria uma subpasta geral,
+
+1100
+00:20:23,149 --> 00:20:23,159
+da empresa você cria uma subpasta geral,
+ 
+
+1101
+00:20:23,159 --> 00:20:24,630
+da empresa você cria uma subpasta geral,
+onde você põe todo o contexto da
+
+1102
+00:20:24,630 --> 00:20:24,640
+onde você põe todo o contexto da
+ 
+
+1103
+00:20:24,640 --> 00:20:26,750
+onde você põe todo o contexto da
+empresa, né? Então você pode criar aqui,
+
+1104
+00:20:26,750 --> 00:20:26,760
+empresa, né? Então você pode criar aqui,
+ 
+
+1105
+00:20:26,760 --> 00:20:28,149
+empresa, né? Então você pode criar aqui,
+vamos pegar esse exemplo que eu tô dando
+
+1106
+00:20:28,149 --> 00:20:28,159
+vamos pegar esse exemplo que eu tô dando
+ 
+
+1107
+00:20:28,159 --> 00:20:30,390
+vamos pegar esse exemplo que eu tô dando
+aqui, né? Então você pode criar aqui,
+
+1108
+00:20:30,390 --> 00:20:30,400
+aqui, né? Então você pode criar aqui,
+ 
+
+1109
+00:20:30,400 --> 00:20:33,430
+aqui, né? Então você pode criar aqui,
+exemplo, então você pode criar uma pasta
+
+1110
+00:20:33,430 --> 00:20:33,440
+exemplo, então você pode criar uma pasta
+ 
+
+1111
+00:20:33,440 --> 00:20:35,990
+exemplo, então você pode criar uma pasta
+da empresa X. Dentro da pasta da empresa
+
+1112
+00:20:35,990 --> 00:20:36,000
+da empresa X. Dentro da pasta da empresa
+ 
+
+1113
+00:20:36,000 --> 00:20:38,430
+da empresa X. Dentro da pasta da empresa
+X, você pode colocar aqui dentro que
+
+1114
+00:20:38,430 --> 00:20:38,440
+X, você pode colocar aqui dentro que
+ 
+
+1115
+00:20:38,440 --> 00:20:42,110
+X, você pode colocar aqui dentro que
+você eh tem o geral, então que vai ser o
+
+1116
+00:20:42,110 --> 00:20:42,120
+você eh tem o geral, então que vai ser o
+ 
+
+1117
+00:20:42,120 --> 00:20:46,230
+você eh tem o geral, então que vai ser o
+que é a empresa, Kpis, metas,
+
+1118
+00:20:46,230 --> 00:20:46,240
+que é a empresa, Kpis, metas,
+ 
+
+1119
+00:20:46,240 --> 00:20:49,270
+que é a empresa, Kpis, metas,
+ferramentas que vocês usam, etc. Você
+
+1120
+00:20:49,270 --> 00:20:49,280
+ferramentas que vocês usam, etc. Você
+ 
+
+1121
+00:20:49,280 --> 00:20:51,590
+ferramentas que vocês usam, etc. Você
+dentro dessa pasta aqui, você vai ter a
+
+1122
+00:20:51,590 --> 00:20:51,600
+dentro dessa pasta aqui, você vai ter a
+ 
+
+1123
+00:20:51,600 --> 00:20:54,710
+dentro dessa pasta aqui, você vai ter a
+pasta de áreas. Então, o que é cada
+
+1124
+00:20:54,710 --> 00:20:54,720
+pasta de áreas. Então, o que é cada
+ 
+
+1125
+00:20:54,720 --> 00:20:57,549
+pasta de áreas. Então, o que é cada
+área, né? O que que é a área? Quais as
+
+1126
+00:20:57,549 --> 00:20:57,559
+área, né? O que que é a área? Quais as
+ 
+
+1127
+00:20:57,559 --> 00:21:00,909
+área, né? O que que é a área? Quais as
+KPIs, quais as ferramentas, eh quais são
+
+1128
+00:21:00,909 --> 00:21:00,919
+KPIs, quais as ferramentas, eh quais são
+ 
+
+1129
+00:21:00,919 --> 00:21:04,230
+KPIs, quais as ferramentas, eh quais são
+as pessoas, responsabilidades e tal.
+
+1130
+00:21:04,230 --> 00:21:04,240
+as pessoas, responsabilidades e tal.
+ 
+
+1131
+00:21:04,240 --> 00:21:05,830
+as pessoas, responsabilidades e tal.
+Então você pode pôr esse dado aqui
+
+1132
+00:21:05,830 --> 00:21:05,840
+Então você pode pôr esse dado aqui
+ 
+
+1133
+00:21:05,840 --> 00:21:08,190
+Então você pode pôr esse dado aqui
+dentro e aí você tem uma outra pasta
+
+1134
+00:21:08,190 --> 00:21:08,200
+dentro e aí você tem uma outra pasta
+ 
+
+1135
+00:21:08,200 --> 00:21:10,029
+dentro e aí você tem uma outra pasta
+aqui que você pode colocar aqui, por
+
+1136
+00:21:10,029 --> 00:21:10,039
+aqui que você pode colocar aqui, por
+ 
+
+1137
+00:21:10,039 --> 00:21:13,830
+aqui que você pode colocar aqui, por
+exemplo, como eh eh skills ou rotinas,
+
+1138
+00:21:13,830 --> 00:21:13,840
+exemplo, como eh eh skills ou rotinas,
+ 
+
+1139
+00:21:13,840 --> 00:21:15,350
+exemplo, como eh eh skills ou rotinas,
+mas acho que enfim, não precisa. Você
+
+1140
+00:21:15,350 --> 00:21:15,360
+mas acho que enfim, não precisa. Você
+ 
+
+1141
+00:21:15,360 --> 00:21:16,950
+mas acho que enfim, não precisa. Você
+pode deixar essas duas pastas aqui, por
+
+1142
+00:21:16,950 --> 00:21:16,960
+pode deixar essas duas pastas aqui, por
+ 
+
+1143
+00:21:16,960 --> 00:21:18,990
+pode deixar essas duas pastas aqui, por
+exemplo, que já é o suficiente para você
+
+1144
+00:21:18,990 --> 00:21:19,000
+exemplo, que já é o suficiente para você
+ 
+
+1145
+00:21:19,000 --> 00:21:21,430
+exemplo, que já é o suficiente para você
+dar um contexto. Então, tudo isso aqui,
+
+1146
+00:21:21,430 --> 00:21:21,440
+dar um contexto. Então, tudo isso aqui,
+ 
+
+1147
+00:21:21,440 --> 00:21:23,669
+dar um contexto. Então, tudo isso aqui,
+o que você acaba gerando pro seu agente
+
+1148
+00:21:23,669 --> 00:21:23,679
+o que você acaba gerando pro seu agente
+ 
+
+1149
+00:21:23,679 --> 00:21:26,909
+o que você acaba gerando pro seu agente
+é um contexto da sua empresa. Ah, mas
+
+1150
+00:21:26,909 --> 00:21:26,919
+é um contexto da sua empresa. Ah, mas
+ 
+
+1151
+00:21:26,919 --> 00:21:30,830
+é um contexto da sua empresa. Ah, mas
+Bruno, isso aqui é um absurdo. Ah,
+
+1152
+00:21:30,830 --> 00:21:30,840
+Bruno, isso aqui é um absurdo. Ah,
+ 
+
+1153
+00:21:30,840 --> 00:21:32,870
+Bruno, isso aqui é um absurdo. Ah,
+Antropic vai ter todos os acessos da
+
+1154
+00:21:32,870 --> 00:21:32,880
+Antropic vai ter todos os acessos da
+ 
+
+1155
+00:21:32,880 --> 00:21:34,590
+Antropic vai ter todos os acessos da
+minha empresa, meu amigo. Assim, eu não
+
+1156
+00:21:34,590 --> 00:21:34,600
+minha empresa, meu amigo. Assim, eu não
+ 
+
+1157
+00:21:34,600 --> 00:21:37,470
+minha empresa, meu amigo. Assim, eu não
+sei em que ano que você vive que você
+
+1158
+00:21:37,470 --> 00:21:37,480
+sei em que ano que você vive que você
+ 
+
+1159
+00:21:37,480 --> 00:21:39,590
+sei em que ano que você vive que você
+quer usar IA e não dar seus dados para
+
+1160
+00:21:39,590 --> 00:21:39,600
+quer usar IA e não dar seus dados para
+ 
+
+1161
+00:21:39,600 --> 00:21:41,750
+quer usar IA e não dar seus dados para
+Iá. É impossível. Até sua geladeira com
+
+1162
+00:21:41,750 --> 00:21:41,760
+Iá. É impossível. Até sua geladeira com
+ 
+
+1163
+00:21:41,760 --> 00:21:43,630
+Iá. É impossível. Até sua geladeira com
+IA vai ter dados da sua comida, seu
+
+1164
+00:21:43,630 --> 00:21:43,640
+IA vai ter dados da sua comida, seu
+ 
+
+1165
+00:21:43,640 --> 00:21:45,750
+IA vai ter dados da sua comida, seu
+relógio, você tá dando dados pra Apple.
+
+1166
+00:21:45,750 --> 00:21:45,760
+relógio, você tá dando dados pra Apple.
+ 
+
+1167
+00:21:45,760 --> 00:21:47,549
+relógio, você tá dando dados pra Apple.
+Então assim, é mais uma empresa que está
+
+1168
+00:21:47,549 --> 00:21:47,559
+Então assim, é mais uma empresa que está
+ 
+
+1169
+00:21:47,559 --> 00:21:49,909
+Então assim, é mais uma empresa que está
+dando dados, né? Pô, isso é ruim, é
+
+1170
+00:21:49,909 --> 00:21:49,919
+dando dados, né? Pô, isso é ruim, é
+ 
+
+1171
+00:21:49,919 --> 00:21:53,269
+dando dados, né? Pô, isso é ruim, é
+ruim, né? Mas é é o preço que você tem
+
+1172
+00:21:53,269 --> 00:21:53,279
+ruim, né? Mas é é o preço que você tem
+ 
+
+1173
+00:21:53,279 --> 00:21:56,029
+ruim, né? Mas é é o preço que você tem
+que pagar para você usar IA e você
+
+1174
+00:21:56,029 --> 00:21:56,039
+que pagar para você usar IA e você
+ 
+
+1175
+00:21:56,039 --> 00:21:57,510
+que pagar para você usar IA e você
+escalar os seus negócios e reduzir
+
+1176
+00:21:57,510 --> 00:21:57,520
+escalar os seus negócios e reduzir
+ 
+
+1177
+00:21:57,520 --> 00:22:00,230
+escalar os seus negócios e reduzir
+custo. Então, Iris, suarriz, né? Então
+
+1178
+00:22:00,230 --> 00:22:00,240
+custo. Então, Iris, suarriz, né? Então
+ 
+
+1179
+00:22:00,240 --> 00:22:02,669
+custo. Então, Iris, suarriz, né? Então
+vamos seguir aqui. E aí a gente tem aqui
+
+1180
+00:22:02,669 --> 00:22:02,679
+vamos seguir aqui. E aí a gente tem aqui
+ 
+
+1181
+00:22:02,679 --> 00:22:05,070
+vamos seguir aqui. E aí a gente tem aqui
+então as pastas, a gente tem aqui o
+
+1182
+00:22:05,070 --> 00:22:05,080
+então as pastas, a gente tem aqui o
+ 
+
+1183
+00:22:05,080 --> 00:22:07,950
+então as pastas, a gente tem aqui o
+exemplo, né, da pasta e aqui dentro você
+
+1184
+00:22:07,950 --> 00:22:07,960
+exemplo, né, da pasta e aqui dentro você
+ 
+
+1185
+00:22:07,960 --> 00:22:09,470
+exemplo, né, da pasta e aqui dentro você
+cria. Então o que que a gente fez aqui
+
+1186
+00:22:09,470 --> 00:22:09,480
+cria. Então o que que a gente fez aqui
+ 
+
+1187
+00:22:09,480 --> 00:22:11,549
+cria. Então o que que a gente fez aqui
+foi que a gente criou um contexto, por
+
+1188
+00:22:11,549 --> 00:22:11,559
+foi que a gente criou um contexto, por
+ 
+
+1189
+00:22:11,559 --> 00:22:13,870
+foi que a gente criou um contexto, por
+exemplo. Então todas as pastas t o mapa,
+
+1190
+00:22:13,870 --> 00:22:13,880
+exemplo. Então todas as pastas t o mapa,
+ 
+
+1191
+00:22:13,880 --> 00:22:15,630
+exemplo. Então todas as pastas t o mapa,
+né? Então a pasta geral tem o mapa
+
+1192
+00:22:15,630 --> 00:22:15,640
+né? Então a pasta geral tem o mapa
+ 
+
+1193
+00:22:15,640 --> 00:22:18,110
+né? Então a pasta geral tem o mapa
+falando eh o que que é empresa, KI, tal.
+
+1194
+00:22:18,110 --> 00:22:18,120
+falando eh o que que é empresa, KI, tal.
+ 
+
+1195
+00:22:18,120 --> 00:22:19,830
+falando eh o que que é empresa, KI, tal.
+Então dentro do mapa, ele explica o que
+
+1196
+00:22:19,830 --> 00:22:19,840
+Então dentro do mapa, ele explica o que
+ 
+
+1197
+00:22:19,840 --> 00:22:22,149
+Então dentro do mapa, ele explica o que
+que é cada arquivo, né, brevemente para
+
+1198
+00:22:22,149 --> 00:22:22,159
+que é cada arquivo, né, brevemente para
+ 
+
+1199
+00:22:22,159 --> 00:22:23,950
+que é cada arquivo, né, brevemente para
+apontar para falar que existe um arquivo
+
+1200
+00:22:23,950 --> 00:22:23,960
+apontar para falar que existe um arquivo
+ 
+
+1201
+00:22:23,960 --> 00:22:25,870
+apontar para falar que existe um arquivo
+e você tem as pastas com as áreas. Então
+
+1202
+00:22:25,870 --> 00:22:25,880
+e você tem as pastas com as áreas. Então
+ 
+
+1203
+00:22:25,880 --> 00:22:28,669
+e você tem as pastas com as áreas. Então
+dentro das áreas você também tem as três
+
+1204
+00:22:28,669 --> 00:22:28,679
+dentro das áreas você também tem as três
+ 
+
+1205
+00:22:28,679 --> 00:22:30,190
+dentro das áreas você também tem as três
+categorias. Então, dentro de cada área
+
+1206
+00:22:30,190 --> 00:22:30,200
+categorias. Então, dentro de cada área
+ 
+
+1207
+00:22:30,200 --> 00:22:33,230
+categorias. Então, dentro de cada área
+você tem skills, rotina, contexto.
+
+1208
+00:22:33,230 --> 00:22:33,240
+você tem skills, rotina, contexto.
+ 
+
+1209
+00:22:33,240 --> 00:22:35,909
+você tem skills, rotina, contexto.
+Então, toda pasta você tem skills,
+
+1210
+00:22:35,909 --> 00:22:35,919
+Então, toda pasta você tem skills,
+ 
+
+1211
+00:22:35,919 --> 00:22:37,750
+Então, toda pasta você tem skills,
+rotina, contexto. Então, de novo, o que
+
+1212
+00:22:37,750 --> 00:22:37,760
+rotina, contexto. Então, de novo, o que
+ 
+
+1213
+00:22:37,760 --> 00:22:40,390
+rotina, contexto. Então, de novo, o que
+você tem que ter aqui sempre é um mapa,
+
+1214
+00:22:40,390 --> 00:22:40,400
+você tem que ter aqui sempre é um mapa,
+ 
+
+1215
+00:22:40,400 --> 00:22:44,669
+você tem que ter aqui sempre é um mapa,
+né? Então, contexto da sua empresa,
+
+1216
+00:22:44,669 --> 00:22:44,679
+né? Então, contexto da sua empresa,
+ 
+
+1217
+00:22:44,679 --> 00:22:46,430
+né? Então, contexto da sua empresa,
+mais
+
+1218
+00:22:46,430 --> 00:22:46,440
+mais
+ 
+
+1219
+00:22:46,440 --> 00:22:48,870
+mais
+mapas. Gente, desculpa, minhas skills
+
+1220
+00:22:48,870 --> 00:22:48,880
+mapas. Gente, desculpa, minhas skills
+ 
+
+1221
+00:22:48,880 --> 00:22:51,750
+mapas. Gente, desculpa, minhas skills
+artísticas aqui ficam devendo, né? Aí
+
+1222
+00:22:51,750 --> 00:22:51,760
+artísticas aqui ficam devendo, né? Aí
+ 
+
+1223
+00:22:51,760 --> 00:22:55,110
+artísticas aqui ficam devendo, né? Aí
+você tem aqui a parte de skills. Então
+
+1224
+00:22:55,110 --> 00:22:55,120
+você tem aqui a parte de skills. Então
+ 
+
+1225
+00:22:55,120 --> 00:22:58,750
+você tem aqui a parte de skills. Então
+vamos falar de skills. Então skills, o
+
+1226
+00:22:58,750 --> 00:22:58,760
+vamos falar de skills. Então skills, o
+ 
+
+1227
+00:22:58,760 --> 00:23:00,710
+vamos falar de skills. Então skills, o
+que que é? Qual que é a diferença de uma
+
+1228
+00:23:00,710 --> 00:23:00,720
+que que é? Qual que é a diferença de uma
+ 
+
+1229
+00:23:00,720 --> 00:23:03,510
+que que é? Qual que é a diferença de uma
+skill e de um chrom? Tá? Então eu vou
+
+1230
+00:23:03,510 --> 00:23:03,520
+skill e de um chrom? Tá? Então eu vou
+ 
+
+1231
+00:23:03,520 --> 00:23:06,590
+skill e de um chrom? Tá? Então eu vou
+puxar aqui uma setinha aqui. Então então
+
+1232
+00:23:06,590 --> 00:23:06,600
+puxar aqui uma setinha aqui. Então então
+ 
+
+1233
+00:23:06,600 --> 00:23:08,750
+puxar aqui uma setinha aqui. Então então
+qual que é a diferença de uma skill
+
+1234
+00:23:08,750 --> 00:23:08,760
+qual que é a diferença de uma skill
+ 
+
+1235
+00:23:08,760 --> 00:23:12,549
+qual que é a diferença de uma skill
+versus um prompt, tá? Uma skill, ela
+
+1236
+00:23:12,549 --> 00:23:12,559
+versus um prompt, tá? Uma skill, ela
+ 
+
+1237
+00:23:12,559 --> 00:23:15,269
+versus um prompt, tá? Uma skill, ela
+exige o mesmo resultado. Então, no caso
+
+1238
+00:23:15,269 --> 00:23:15,279
+exige o mesmo resultado. Então, no caso
+ 
+
+1239
+00:23:15,279 --> 00:23:17,390
+exige o mesmo resultado. Então, no caso
+de uma skill, sempre que você criar uma
+
+1240
+00:23:17,390 --> 00:23:17,400
+de uma skill, sempre que você criar uma
+ 
+
+1241
+00:23:17,400 --> 00:23:19,710
+de uma skill, sempre que você criar uma
+skill, você consegue ter o mesmo
+
+1242
+00:23:19,710 --> 00:23:19,720
+skill, você consegue ter o mesmo
+ 
+
+1243
+00:23:19,720 --> 00:23:21,789
+skill, você consegue ter o mesmo
+resultado. Um prompt, ele tem um
+
+1244
+00:23:21,789 --> 00:23:21,799
+resultado. Um prompt, ele tem um
+ 
+
+1245
+00:23:21,799 --> 00:23:23,950
+resultado. Um prompt, ele tem um
+resultado variável. Então, vamos supor
+
+1246
+00:23:23,950 --> 00:23:23,960
+resultado variável. Então, vamos supor
+ 
+
+1247
+00:23:23,960 --> 00:23:26,350
+resultado variável. Então, vamos supor
+que você quer fazer uma análise, tá? Eu
+
+1248
+00:23:26,350 --> 00:23:26,360
+que você quer fazer uma análise, tá? Eu
+ 
+
+1249
+00:23:26,360 --> 00:23:28,750
+que você quer fazer uma análise, tá? Eu
+vou pegar um exemplo aqui. Então, você,
+
+1250
+00:23:28,750 --> 00:23:28,760
+vou pegar um exemplo aqui. Então, você,
+ 
+
+1251
+00:23:28,760 --> 00:23:32,590
+vou pegar um exemplo aqui. Então, você,
+vamos fazer exemplo. Você quer fazer uma
+
+1252
+00:23:32,590 --> 00:23:32,600
+vamos fazer exemplo. Você quer fazer uma
+ 
+
+1253
+00:23:32,600 --> 00:23:35,710
+vamos fazer exemplo. Você quer fazer uma
+análise financeira, então você, primeiro
+
+1254
+00:23:35,710 --> 00:23:35,720
+análise financeira, então você, primeiro
+ 
+
+1255
+00:23:35,720 --> 00:23:39,590
+análise financeira, então você, primeiro
+passo, vai passar a planilha para seu
+
+1256
+00:23:39,590 --> 00:23:39,600
+passo, vai passar a planilha para seu
+ 
+
+1257
+00:23:39,600 --> 00:23:41,830
+passo, vai passar a planilha para seu
+agente, ou pode ser pro cloud, tanto
+
+1258
+00:23:41,830 --> 00:23:41,840
+agente, ou pode ser pro cloud, tanto
+ 
+
+1259
+00:23:41,840 --> 00:23:45,990
+agente, ou pode ser pro cloud, tanto
+faz, ou pro chat GPT. Aí você vai pedir
+
+1260
+00:23:45,990 --> 00:23:46,000
+faz, ou pro chat GPT. Aí você vai pedir
+ 
+
+1261
+00:23:46,000 --> 00:23:51,710
+faz, ou pro chat GPT. Aí você vai pedir
+para ele ler a planilha e você vai pedir
+
+1262
+00:23:51,710 --> 00:23:51,720
+para ele ler a planilha e você vai pedir
+ 
+
+1263
+00:23:51,720 --> 00:23:55,669
+para ele ler a planilha e você vai pedir
+para ele somar ou tomar uma ação em cima
+
+1264
+00:23:55,669 --> 00:23:55,679
+para ele somar ou tomar uma ação em cima
+ 
+
+1265
+00:23:55,679 --> 00:23:59,269
+para ele somar ou tomar uma ação em cima
+de alguns dados. Depois você vai refinar
+
+1266
+00:23:59,269 --> 00:23:59,279
+de alguns dados. Depois você vai refinar
+ 
+
+1267
+00:23:59,279 --> 00:24:03,549
+de alguns dados. Depois você vai refinar
+os dados que ele te passou até acertar.
+
+1268
+00:24:03,549 --> 00:24:03,559
+os dados que ele te passou até acertar.
+ 
+
+1269
+00:24:03,559 --> 00:24:05,590
+os dados que ele te passou até acertar.
+Depois, quando você acertar, você vai
+
+1270
+00:24:05,590 --> 00:24:05,600
+Depois, quando você acertar, você vai
+ 
+
+1271
+00:24:05,600 --> 00:24:07,789
+Depois, quando você acertar, você vai
+falar para ele: "Pô, legal." Então, você
+
+1272
+00:24:07,789 --> 00:24:07,799
+falar para ele: "Pô, legal." Então, você
+ 
+
+1273
+00:24:07,799 --> 00:24:09,230
+falar para ele: "Pô, legal." Então, você
+entendeu qual é a planilha? Você
+
+1274
+00:24:09,230 --> 00:24:09,240
+entendeu qual é a planilha? Você
+ 
+
+1275
+00:24:09,240 --> 00:24:10,669
+entendeu qual é a planilha? Você
+entendeu onde estão os dados? Você
+
+1276
+00:24:10,669 --> 00:24:10,679
+entendeu onde estão os dados? Você
+ 
+
+1277
+00:24:10,679 --> 00:24:13,190
+entendeu onde estão os dados? Você
+entendeu como interpretar os dados? você
+
+1278
+00:24:13,190 --> 00:24:13,200
+entendeu como interpretar os dados? você
+ 
+
+1279
+00:24:13,200 --> 00:24:15,909
+entendeu como interpretar os dados? você
+entendeu como criar o que eu preciso com
+
+1280
+00:24:15,909 --> 00:24:15,919
+entendeu como criar o que eu preciso com
+ 
+
+1281
+00:24:15,919 --> 00:24:17,830
+entendeu como criar o que eu preciso com
+esses dados. Então, o que você vai fazer
+
+1282
+00:24:17,830 --> 00:24:17,840
+esses dados. Então, o que você vai fazer
+ 
+
+1283
+00:24:17,840 --> 00:24:22,630
+esses dados. Então, o que você vai fazer
+aqui nesse caso é preciso que você salve
+
+1284
+00:24:22,630 --> 00:24:22,640
+aqui nesse caso é preciso que você salve
+ 
+
+1285
+00:24:22,640 --> 00:24:26,190
+aqui nesse caso é preciso que você salve
+todo esse processo como uma skill
+
+1286
+00:24:26,190 --> 00:24:26,200
+todo esse processo como uma skill
+ 
+
+1287
+00:24:26,200 --> 00:24:30,750
+todo esse processo como uma skill
+chamada report financeiro. Então, toda
+
+1288
+00:24:30,750 --> 00:24:30,760
+chamada report financeiro. Então, toda
+ 
+
+1289
+00:24:30,760 --> 00:24:34,870
+chamada report financeiro. Então, toda
+vez que você quer um resultado igual,
+
+1290
+00:24:34,870 --> 00:24:34,880
+vez que você quer um resultado igual,
+ 
+
+1291
+00:24:34,880 --> 00:24:36,149
+vez que você quer um resultado igual,
+você tem que transformar isso numa
+
+1292
+00:24:36,149 --> 00:24:36,159
+você tem que transformar isso numa
+ 
+
+1293
+00:24:36,159 --> 00:24:39,389
+você tem que transformar isso numa
+skill, tá? Já no caso de um prompt, o
+
+1294
+00:24:39,389 --> 00:24:39,399
+skill, tá? Já no caso de um prompt, o
+ 
+
+1295
+00:24:39,399 --> 00:24:42,510
+skill, tá? Já no caso de um prompt, o
+que acontece é que o prompt você sempre
+
+1296
+00:24:42,510 --> 00:24:42,520
+que acontece é que o prompt você sempre
+ 
+
+1297
+00:24:42,520 --> 00:24:44,070
+que acontece é que o prompt você sempre
+vai ter que ficar explicando a mesma
+
+1298
+00:24:44,070 --> 00:24:44,080
+vai ter que ficar explicando a mesma
+ 
+
+1299
+00:24:44,080 --> 00:24:48,909
+vai ter que ficar explicando a mesma
+coisa. Então o prompt ele funciona bem
+
+1300
+00:24:48,909 --> 00:24:48,919
+coisa. Então o prompt ele funciona bem
+ 
+
+1301
+00:24:48,919 --> 00:24:51,470
+coisa. Então o prompt ele funciona bem
+quando são coisas mais simples. Então,
+
+1302
+00:24:51,470 --> 00:24:51,480
+quando são coisas mais simples. Então,
+ 
+
+1303
+00:24:51,480 --> 00:24:53,669
+quando são coisas mais simples. Então,
+por exemplo, ah, eu preciso que você
+
+1304
+00:24:53,669 --> 00:24:53,679
+por exemplo, ah, eu preciso que você
+ 
+
+1305
+00:24:53,679 --> 00:24:55,310
+por exemplo, ah, eu preciso que você
+leia meus e-mails. Cara, não precisa
+
+1306
+00:24:55,310 --> 00:24:55,320
+leia meus e-mails. Cara, não precisa
+ 
+
+1307
+00:24:55,320 --> 00:24:57,950
+leia meus e-mails. Cara, não precisa
+criar uma skill para isso. A não ser que
+
+1308
+00:24:57,950 --> 00:24:57,960
+criar uma skill para isso. A não ser que
+ 
+
+1309
+00:24:57,960 --> 00:25:00,029
+criar uma skill para isso. A não ser que
+você precisa criar uma skill para
+
+1310
+00:25:00,029 --> 00:25:00,039
+você precisa criar uma skill para
+ 
+
+1311
+00:25:00,039 --> 00:25:01,870
+você precisa criar uma skill para
+ensinar o seu agente como acessar o seu
+
+1312
+00:25:01,870 --> 00:25:01,880
+ensinar o seu agente como acessar o seu
+ 
+
+1313
+00:25:01,880 --> 00:25:04,269
+ensinar o seu agente como acessar o seu
+Gmail. Então, pô, ele não consegue
+
+1314
+00:25:04,269 --> 00:25:04,279
+Gmail. Então, pô, ele não consegue
+ 
+
+1315
+00:25:04,279 --> 00:25:05,430
+Gmail. Então, pô, ele não consegue
+acessar o Gmail. Então você tem que
+
+1316
+00:25:05,430 --> 00:25:05,440
+acessar o Gmail. Então você tem que
+ 
+
+1317
+00:25:05,440 --> 00:25:07,310
+acessar o Gmail. Então você tem que
+acessar o Gmail, explicar como ele loga,
+
+1318
+00:25:07,310 --> 00:25:07,320
+acessar o Gmail, explicar como ele loga,
+ 
+
+1319
+00:25:07,320 --> 00:25:08,870
+acessar o Gmail, explicar como ele loga,
+login sem tal, você criar uma skill, mas
+
+1320
+00:25:08,870 --> 00:25:08,880
+login sem tal, você criar uma skill, mas
+ 
+
+1321
+00:25:08,880 --> 00:25:10,990
+login sem tal, você criar uma skill, mas
+já tem skills prontas que fazem isso,
+
+1322
+00:25:10,990 --> 00:25:11,000
+já tem skills prontas que fazem isso,
+ 
+
+1323
+00:25:11,000 --> 00:25:14,789
+já tem skills prontas que fazem isso,
+tá? Então você pode usar uma skill para
+
+1324
+00:25:14,789 --> 00:25:14,799
+tá? Então você pode usar uma skill para
+ 
+
+1325
+00:25:14,799 --> 00:25:16,950
+tá? Então você pode usar uma skill para
+sempre ter o mesmo resultado, como você
+
+1326
+00:25:16,950 --> 00:25:16,960
+sempre ter o mesmo resultado, como você
+ 
+
+1327
+00:25:16,960 --> 00:25:21,149
+sempre ter o mesmo resultado, como você
+pode usar um promptado
+
+1328
+00:25:21,149 --> 00:25:21,159
+
+ 
+
+1329
+00:25:21,159 --> 00:25:23,750
+
+constantemente. Então mais um exemplo de
+
+1330
+00:25:23,750 --> 00:25:23,760
+constantemente. Então mais um exemplo de
+ 
+
+1331
+00:25:23,760 --> 00:25:25,549
+constantemente. Então mais um exemplo de
+criação de skill. Então você, por
+
+1332
+00:25:25,549 --> 00:25:25,559
+criação de skill. Então você, por
+ 
+
+1333
+00:25:25,559 --> 00:25:29,549
+criação de skill. Então você, por
+exemplo, precisa que o seu agente ele
+
+1334
+00:25:29,549 --> 00:25:29,559
+exemplo, precisa que o seu agente ele
+ 
+
+1335
+00:25:29,559 --> 00:25:31,630
+exemplo, precisa que o seu agente ele
+envie um contrato pra assinatura. Então
+
+1336
+00:25:31,630 --> 00:25:31,640
+envie um contrato pra assinatura. Então
+ 
+
+1337
+00:25:31,640 --> 00:25:33,710
+envie um contrato pra assinatura. Então
+o que que você faz? Você pega de pro seu
+
+1338
+00:25:33,710 --> 00:25:33,720
+o que que você faz? Você pega de pro seu
+ 
+
+1339
+00:25:33,720 --> 00:25:37,110
+o que que você faz? Você pega de pro seu
+agente para ele acessar o site ou a PI.
+
+1340
+00:25:37,110 --> 00:25:37,120
+agente para ele acessar o site ou a PI.
+ 
+
+1341
+00:25:37,120 --> 00:25:38,669
+agente para ele acessar o site ou a PI.
+Aí você manda a documentação da PI,
+
+1342
+00:25:38,669 --> 00:25:38,679
+Aí você manda a documentação da PI,
+ 
+
+1343
+00:25:38,679 --> 00:25:40,350
+Aí você manda a documentação da PI,
+fala: "Ó, assim que a PI funciona". Aí
+
+1344
+00:25:40,350 --> 00:25:40,360
+fala: "Ó, assim que a PI funciona". Aí
+ 
+
+1345
+00:25:40,360 --> 00:25:42,430
+fala: "Ó, assim que a PI funciona". Aí
+você fala: "Olha, acessa o site agora
+
+1346
+00:25:42,430 --> 00:25:42,440
+você fala: "Olha, acessa o site agora
+ 
+
+1347
+00:25:42,440 --> 00:25:43,990
+você fala: "Olha, acessa o site agora
+tenta enviar um contrato de teste". Aí
+
+1348
+00:25:43,990 --> 00:25:44,000
+tenta enviar um contrato de teste". Aí
+ 
+
+1349
+00:25:44,000 --> 00:25:45,549
+tenta enviar um contrato de teste". Aí
+vai enviar um contrato de teste, aí você
+
+1350
+00:25:45,549 --> 00:25:45,559
+vai enviar um contrato de teste, aí você
+ 
+
+1351
+00:25:45,559 --> 00:25:47,310
+vai enviar um contrato de teste, aí você
+fala: "Olha, agora ajusta isso, faz
+
+1352
+00:25:47,310 --> 00:25:47,320
+fala: "Olha, agora ajusta isso, faz
+ 
+
+1353
+00:25:47,320 --> 00:25:48,870
+fala: "Olha, agora ajusta isso, faz
+isso". Aí, beleza? Aí você vai lá no seu
+
+1354
+00:25:48,870 --> 00:25:48,880
+isso". Aí, beleza? Aí você vai lá no seu
+ 
+
+1355
+00:25:48,880 --> 00:25:51,029
+isso". Aí, beleza? Aí você vai lá no seu
+agente ou no cloud e você salva como
+
+1356
+00:25:51,029 --> 00:25:51,039
+agente ou no cloud e você salva como
+ 
+
+1357
+00:25:51,039 --> 00:25:53,510
+agente ou no cloud e você salva como
+enviar e contrato. E aí você cria uma
+
+1358
+00:25:53,510 --> 00:25:53,520
+enviar e contrato. E aí você cria uma
+ 
+
+1359
+00:25:53,520 --> 00:25:55,269
+enviar e contrato. E aí você cria uma
+skill porque a skill sempre vai
+
+1360
+00:25:55,269 --> 00:25:55,279
+skill porque a skill sempre vai
+ 
+
+1361
+00:25:55,279 --> 00:25:57,029
+skill porque a skill sempre vai
+executar, sempre vai ter o mesmo
+
+1362
+00:25:57,029 --> 00:25:57,039
+executar, sempre vai ter o mesmo
+ 
+
+1363
+00:25:57,039 --> 00:25:59,389
+executar, sempre vai ter o mesmo
+resultado. E o mais legal de tudo é que
+
+1364
+00:25:59,389 --> 00:25:59,399
+resultado. E o mais legal de tudo é que
+ 
+
+1365
+00:25:59,399 --> 00:26:01,590
+resultado. E o mais legal de tudo é que
+você também pode criar uma orquestração
+
+1366
+00:26:01,590 --> 00:26:01,600
+você também pode criar uma orquestração
+ 
+
+1367
+00:26:01,600 --> 00:26:04,430
+você também pode criar uma orquestração
+de skills. Então aqui embaixo, com esse
+
+1368
+00:26:04,430 --> 00:26:04,440
+de skills. Então aqui embaixo, com esse
+ 
+
+1369
+00:26:04,440 --> 00:26:06,190
+de skills. Então aqui embaixo, com esse
+meu minha habilidade artística
+
+1370
+00:26:06,190 --> 00:26:06,200
+meu minha habilidade artística
+ 
+
+1371
+00:26:06,200 --> 00:26:09,789
+meu minha habilidade artística
+maravilhosa, você pode criar uma
+
+1372
+00:26:09,789 --> 00:26:09,799
+maravilhosa, você pode criar uma
+ 
+
+1373
+00:26:09,799 --> 00:26:12,950
+maravilhosa, você pode criar uma
+orquestração de skills. Então você pode
+
+1374
+00:26:12,950 --> 00:26:12,960
+orquestração de skills. Então você pode
+ 
+
+1375
+00:26:12,960 --> 00:26:15,310
+orquestração de skills. Então você pode
+ter uma skill que ativa skills. Então
+
+1376
+00:26:15,310 --> 00:26:15,320
+ter uma skill que ativa skills. Então
+ 
+
+1377
+00:26:15,320 --> 00:26:17,110
+ter uma skill que ativa skills. Então
+você pode ter uma skill, por exemplo,
+
+1378
+00:26:17,110 --> 00:26:17,120
+você pode ter uma skill, por exemplo,
+ 
+
+1379
+00:26:17,120 --> 00:26:19,389
+você pode ter uma skill, por exemplo,
+que toda vez que você quer uma ação
+
+1380
+00:26:19,389 --> 00:26:19,399
+que toda vez que você quer uma ação
+ 
+
+1381
+00:26:19,399 --> 00:26:21,830
+que toda vez que você quer uma ação
+específica e essa ação ela demanda
+
+1382
+00:26:21,830 --> 00:26:21,840
+específica e essa ação ela demanda
+ 
+
+1383
+00:26:21,840 --> 00:26:24,750
+específica e essa ação ela demanda
+múltiplas ferramentas ou múltiplos
+
+1384
+00:26:24,750 --> 00:26:24,760
+múltiplas ferramentas ou múltiplos
+ 
+
+1385
+00:26:24,760 --> 00:26:26,909
+múltiplas ferramentas ou múltiplos
+etapas, né, múltiplas etapas, você vai
+
+1386
+00:26:26,909 --> 00:26:26,919
+etapas, né, múltiplas etapas, você vai
+ 
+
+1387
+00:26:26,919 --> 00:26:28,950
+etapas, né, múltiplas etapas, você vai
+lá e pede pro seu agente acionar uma
+
+1388
+00:26:28,950 --> 00:26:28,960
+lá e pede pro seu agente acionar uma
+ 
+
+1389
+00:26:28,960 --> 00:26:31,590
+lá e pede pro seu agente acionar uma
+skill que concateia para novas skills.
+
+1390
+00:26:31,590 --> 00:26:31,600
+skill que concateia para novas skills.
+ 
+
+1391
+00:26:31,600 --> 00:26:33,590
+skill que concateia para novas skills.
+Então você pode criar e orquestrar
+
+1392
+00:26:33,590 --> 00:26:33,600
+Então você pode criar e orquestrar
+ 
+
+1393
+00:26:33,600 --> 00:26:36,230
+Então você pode criar e orquestrar
+skills. E aí entra o último tópico aqui
+
+1394
+00:26:36,230 --> 00:26:36,240
+skills. E aí entra o último tópico aqui
+ 
+
+1395
+00:26:36,240 --> 00:26:38,029
+skills. E aí entra o último tópico aqui
+dentro porque senão eu vou me aprofundar
+
+1396
+00:26:38,029 --> 00:26:38,039
+dentro porque senão eu vou me aprofundar
+ 
+
+1397
+00:26:38,039 --> 00:26:39,590
+dentro porque senão eu vou me aprofundar
+muito aqui. Então, se vocês quiserem que
+
+1398
+00:26:39,590 --> 00:26:39,600
+muito aqui. Então, se vocês quiserem que
+ 
+
+1399
+00:26:39,600 --> 00:26:41,269
+muito aqui. Então, se vocês quiserem que
+eu faça um vídeo explicando mais sobre
+
+1400
+00:26:41,269 --> 00:26:41,279
+eu faça um vídeo explicando mais sobre
+ 
+
+1401
+00:26:41,279 --> 00:26:43,549
+eu faça um vídeo explicando mais sobre
+skills, comenta aí na descrição que eu
+
+1402
+00:26:43,549 --> 00:26:43,559
+skills, comenta aí na descrição que eu
+ 
+
+1403
+00:26:43,559 --> 00:26:45,269
+skills, comenta aí na descrição que eu
+posso aprofundar de novo esses três
+
+1404
+00:26:45,269 --> 00:26:45,279
+posso aprofundar de novo esses três
+ 
+
+1405
+00:26:45,279 --> 00:26:47,070
+posso aprofundar de novo esses três
+pilares aqui. Gosto muito de falar sobre
+
+1406
+00:26:47,070 --> 00:26:47,080
+pilares aqui. Gosto muito de falar sobre
+ 
+
+1407
+00:26:47,080 --> 00:26:50,870
+pilares aqui. Gosto muito de falar sobre
+eles. E aí é onde entra a mágica da das
+
+1408
+00:26:50,870 --> 00:26:50,880
+eles. E aí é onde entra a mágica da das
+ 
+
+1409
+00:26:50,880 --> 00:26:53,389
+eles. E aí é onde entra a mágica da das
+Ias, dos agentes, né? Porque você para e
+
+1410
+00:26:53,389 --> 00:26:53,399
+Ias, dos agentes, né? Porque você para e
+ 
+
+1411
+00:26:53,399 --> 00:26:56,110
+Ias, dos agentes, né? Porque você para e
+pensa, mas qual que é a diferença de eu
+
+1412
+00:26:56,110 --> 00:26:56,120
+pensa, mas qual que é a diferença de eu
+ 
+
+1413
+00:26:56,120 --> 00:26:58,190
+pensa, mas qual que é a diferença de eu
+abrir o cloud aqui no meu computador e
+
+1414
+00:26:58,190 --> 00:26:58,200
+abrir o cloud aqui no meu computador e
+ 
+
+1415
+00:26:58,200 --> 00:27:00,029
+abrir o cloud aqui no meu computador e
+eu trabalhar com o cloud aqui? Qual que
+
+1416
+00:27:00,029 --> 00:27:00,039
+eu trabalhar com o cloud aqui? Qual que
+ 
+
+1417
+00:27:00,039 --> 00:27:01,789
+eu trabalhar com o cloud aqui? Qual que
+é a diferença? Então, eu vou vir aqui no
+
+1418
+00:27:01,789 --> 00:27:01,799
+é a diferença? Então, eu vou vir aqui no
+ 
+
+1419
+00:27:01,799 --> 00:27:03,870
+é a diferença? Então, eu vou vir aqui no
+meu seconda
+
+1420
+00:27:03,870 --> 00:27:03,880
+meu seconda
+ 
+
+1421
+00:27:03,880 --> 00:27:05,789
+meu seconda
+sessão aqui do cloud. E quando eu
+
+1422
+00:27:05,789 --> 00:27:05,799
+sessão aqui do cloud. E quando eu
+ 
+
+1423
+00:27:05,799 --> 00:27:07,350
+sessão aqui do cloud. E quando eu
+desligo a sessão, acabou. Mas agora
+
+1424
+00:27:07,350 --> 00:27:07,360
+desligo a sessão, acabou. Mas agora
+ 
+
+1425
+00:27:07,360 --> 00:27:09,269
+desligo a sessão, acabou. Mas agora
+quando você cria rotinas, você permite
+
+1426
+00:27:09,269 --> 00:27:09,279
+quando você cria rotinas, você permite
+ 
+
+1427
+00:27:09,279 --> 00:27:11,350
+quando você cria rotinas, você permite
+que os agentes trabalhem para você
+
+1428
+00:27:11,350 --> 00:27:11,360
+que os agentes trabalhem para você
+ 
+
+1429
+00:27:11,360 --> 00:27:13,310
+que os agentes trabalhem para você
+enquanto você dorme, que é o famoso
+
+1430
+00:27:13,310 --> 00:27:13,320
+enquanto você dorme, que é o famoso
+ 
+
+1431
+00:27:13,320 --> 00:27:16,389
+enquanto você dorme, que é o famoso
+conceito do 247. Então a rotina nada
+
+1432
+00:27:16,389 --> 00:27:16,399
+conceito do 247. Então a rotina nada
+ 
+
+1433
+00:27:16,399 --> 00:27:19,149
+conceito do 247. Então a rotina nada
+mais é do que você fazer um agendamento.
+
+1434
+00:27:19,149 --> 00:27:19,159
+mais é do que você fazer um agendamento.
+ 
+
+1435
+00:27:19,159 --> 00:27:22,750
+mais é do que você fazer um agendamento.
+Então você agendar tarefas para rodarem
+
+1436
+00:27:22,750 --> 00:27:22,760
+Então você agendar tarefas para rodarem
+ 
+
+1437
+00:27:22,760 --> 00:27:25,909
+Então você agendar tarefas para rodarem
+em horários definidos. Então essa rotina
+
+1438
+00:27:25,909 --> 00:27:25,919
+em horários definidos. Então essa rotina
+ 
+
+1439
+00:27:25,919 --> 00:27:28,190
+em horários definidos. Então essa rotina
+nada mais é do que você pode agendar
+
+1440
+00:27:28,190 --> 00:27:28,200
+nada mais é do que você pode agendar
+ 
+
+1441
+00:27:28,200 --> 00:27:30,669
+nada mais é do que você pode agendar
+tarefas, como no caso do OpenCla aqui,
+
+1442
+00:27:30,669 --> 00:27:30,679
+tarefas, como no caso do OpenCla aqui,
+ 
+
+1443
+00:27:30,679 --> 00:27:33,510
+tarefas, como no caso do OpenCla aqui,
+você também tem uma estrutura chamado if
+
+1444
+00:27:33,510 --> 00:27:33,520
+você também tem uma estrutura chamado if
+ 
+
+1445
+00:27:33,520 --> 00:27:39,669
+você também tem uma estrutura chamado if
+o you do this, then do that. Ou seja, é
+
+1446
+00:27:39,669 --> 00:27:39,679
+o you do this, then do that. Ou seja, é
+ 
+
+1447
+00:27:39,679 --> 00:27:43,029
+o you do this, then do that. Ou seja, é
+muito parecido com aquele iftt lá que
+
+1448
+00:27:43,029 --> 00:27:43,039
+muito parecido com aquele iftt lá que
+ 
+
+1449
+00:27:43,039 --> 00:27:46,590
+muito parecido com aquele iftt lá que
+você tem, né, que é esse automate save
+
+1450
+00:27:46,590 --> 00:27:46,600
+você tem, né, que é esse automate save
+ 
+
+1451
+00:27:46,600 --> 00:27:48,710
+você tem, né, que é esse automate save
+time more, tá? Então assim, o IFTT
+
+1452
+00:27:48,710 --> 00:27:48,720
+time more, tá? Então assim, o IFTT
+ 
+
+1453
+00:27:48,720 --> 00:27:51,269
+time more, tá? Então assim, o IFTT
+basicamente é se você fizer isso, então
+
+1454
+00:27:51,269 --> 00:27:51,279
+basicamente é se você fizer isso, então
+ 
+
+1455
+00:27:51,279 --> 00:27:53,430
+basicamente é se você fizer isso, então
+fazer aquilo. Então basicamente se você
+
+1456
+00:27:53,430 --> 00:27:53,440
+fazer aquilo. Então basicamente se você
+ 
+
+1457
+00:27:53,440 --> 00:27:55,389
+fazer aquilo. Então basicamente se você
+receber um e-mail, então ler este e-mail
+
+1458
+00:27:55,389 --> 00:27:55,399
+receber um e-mail, então ler este e-mail
+ 
+
+1459
+00:27:55,399 --> 00:27:57,110
+receber um e-mail, então ler este e-mail
+e encaminhar para mim. Se você tiver um
+
+1460
+00:27:57,110 --> 00:27:57,120
+e encaminhar para mim. Se você tiver um
+ 
+
+1461
+00:27:57,120 --> 00:27:59,870
+e encaminhar para mim. Se você tiver um
+compromisso online, então e presencial,
+
+1462
+00:27:59,870 --> 00:27:59,880
+compromisso online, então e presencial,
+ 
+
+1463
+00:27:59,880 --> 00:28:02,070
+compromisso online, então e presencial,
+então ver na minha agenda e dizer quanto
+
+1464
+00:28:02,070 --> 00:28:02,080
+então ver na minha agenda e dizer quanto
+ 
+
+1465
+00:28:02,080 --> 00:28:03,590
+então ver na minha agenda e dizer quanto
+tempo eu preciso sair antes da reunião.
+
+1466
+00:28:03,590 --> 00:28:03,600
+tempo eu preciso sair antes da reunião.
+ 
+
+1467
+00:28:03,600 --> 00:28:05,389
+tempo eu preciso sair antes da reunião.
+Então você pode criar essa rotina, que
+
+1468
+00:28:05,389 --> 00:28:05,399
+Então você pode criar essa rotina, que
+ 
+
+1469
+00:28:05,399 --> 00:28:07,549
+Então você pode criar essa rotina, que
+no caso os agentes autônomos conseguem
+
+1470
+00:28:07,549 --> 00:28:07,559
+no caso os agentes autônomos conseguem
+ 
+
+1471
+00:28:07,559 --> 00:28:09,430
+no caso os agentes autônomos conseguem
+fazer isso, ou no caso, por exemplo, do
+
+1472
+00:28:09,430 --> 00:28:09,440
+fazer isso, ou no caso, por exemplo, do
+ 
+
+1473
+00:28:09,440 --> 00:28:11,310
+fazer isso, ou no caso, por exemplo, do
+cloud, você consegue agendar tarefas
+
+1474
+00:28:11,310 --> 00:28:11,320
+cloud, você consegue agendar tarefas
+ 
+
+1475
+00:28:11,320 --> 00:28:13,549
+cloud, você consegue agendar tarefas
+para rodarem em horários definidos, tá?
+
+1476
+00:28:13,549 --> 00:28:13,559
+para rodarem em horários definidos, tá?
+ 
+
+1477
+00:28:13,559 --> 00:28:15,750
+para rodarem em horários definidos, tá?
+Então o que que é essas horári tarefas,
+
+1478
+00:28:15,750 --> 00:28:15,760
+Então o que que é essas horári tarefas,
+ 
+
+1479
+00:28:15,760 --> 00:28:18,149
+Então o que que é essas horári tarefas,
+né? Então você pode, por exemplo, aqui
+
+1480
+00:28:18,149 --> 00:28:18,159
+né? Então você pode, por exemplo, aqui
+ 
+
+1481
+00:28:18,159 --> 00:28:20,830
+né? Então você pode, por exemplo, aqui
+agendar skills. Então vamos supor que
+
+1482
+00:28:20,830 --> 00:28:20,840
+agendar skills. Então vamos supor que
+ 
+
+1483
+00:28:20,840 --> 00:28:23,389
+agendar skills. Então vamos supor que
+você quer eh agendar uma estrutura onde
+
+1484
+00:28:23,389 --> 00:28:23,399
+você quer eh agendar uma estrutura onde
+ 
+
+1485
+00:28:23,399 --> 00:28:25,110
+você quer eh agendar uma estrutura onde
+você precisa de pessoas pesquisando
+
+1486
+00:28:25,110 --> 00:28:25,120
+você precisa de pessoas pesquisando
+ 
+
+1487
+00:28:25,120 --> 00:28:27,110
+você precisa de pessoas pesquisando
+conteúdo na internet, né, agentes no
+
+1488
+00:28:27,110 --> 00:28:27,120
+conteúdo na internet, né, agentes no
+ 
+
+1489
+00:28:27,120 --> 00:28:28,630
+conteúdo na internet, né, agentes no
+caso, né, pesquisando conteúdos na
+
+1490
+00:28:28,630 --> 00:28:28,640
+caso, né, pesquisando conteúdos na
+ 
+
+1491
+00:28:28,640 --> 00:28:30,509
+caso, né, pesquisando conteúdos na
+internet. Então ele lê vários creators,
+
+1492
+00:28:30,509 --> 00:28:30,519
+internet. Então ele lê vários creators,
+ 
+
+1493
+00:28:30,519 --> 00:28:31,950
+internet. Então ele lê vários creators,
+vê quem postou vídeo no YouTube, quem
+
+1494
+00:28:31,950 --> 00:28:31,960
+vê quem postou vídeo no YouTube, quem
+ 
+
+1495
+00:28:31,960 --> 00:28:34,789
+vê quem postou vídeo no YouTube, quem
+fez news blá blá, você usa uma outra
+
+1496
+00:28:34,789 --> 00:28:34,799
+fez news blá blá, você usa uma outra
+ 
+
+1497
+00:28:34,799 --> 00:28:37,190
+fez news blá blá, você usa uma outra
+skill que transcreve todo esse conteúdo
+
+1498
+00:28:37,190 --> 00:28:37,200
+skill que transcreve todo esse conteúdo
+ 
+
+1499
+00:28:37,200 --> 00:28:39,110
+skill que transcreve todo esse conteúdo
+e adapta ele pro seu tom de voz, blá blá
+
+1500
+00:28:39,110 --> 00:28:39,120
+e adapta ele pro seu tom de voz, blá blá
+ 
+
+1501
+00:28:39,120 --> 00:28:41,070
+e adapta ele pro seu tom de voz, blá blá
+blá, e você cria uma outra skill que
+
+1502
+00:28:41,070 --> 00:28:41,080
+blá, e você cria uma outra skill que
+ 
+
+1503
+00:28:41,080 --> 00:28:43,389
+blá, e você cria uma outra skill que
+cria drafts e posta eles no notion e
+
+1504
+00:28:43,389 --> 00:28:43,399
+cria drafts e posta eles no notion e
+ 
+
+1505
+00:28:43,399 --> 00:28:45,190
+cria drafts e posta eles no notion e
+tal, ou você usa duas skills ou uma
+
+1506
+00:28:45,190 --> 00:28:45,200
+tal, ou você usa duas skills ou uma
+ 
+
+1507
+00:28:45,200 --> 00:28:47,070
+tal, ou você usa duas skills ou uma
+skill longa, né? Problema de uma skill
+
+1508
+00:28:47,070 --> 00:28:47,080
+skill longa, né? Problema de uma skill
+ 
+
+1509
+00:28:47,080 --> 00:28:48,789
+skill longa, né? Problema de uma skill
+longa que às vezes ela pode quebrar,
+
+1510
+00:28:48,789 --> 00:28:48,799
+longa que às vezes ela pode quebrar,
+ 
+
+1511
+00:28:48,799 --> 00:28:50,110
+longa que às vezes ela pode quebrar,
+então é bom às vezes quebrar em
+
+1512
+00:28:50,110 --> 00:28:50,120
+então é bom às vezes quebrar em
+ 
+
+1513
+00:28:50,120 --> 00:28:51,909
+então é bom às vezes quebrar em
+múltiplas skills. Então você pode
+
+1514
+00:28:51,909 --> 00:28:51,919
+múltiplas skills. Então você pode
+ 
+
+1515
+00:28:51,919 --> 00:28:55,190
+múltiplas skills. Então você pode
+agendar skills on demand para rodar de
+
+1516
+00:28:55,190 --> 00:28:55,200
+agendar skills on demand para rodar de
+ 
+
+1517
+00:28:55,200 --> 00:28:57,549
+agendar skills on demand para rodar de
+madrugada. Então você pode rodar skills
+
+1518
+00:28:57,549 --> 00:28:57,559
+madrugada. Então você pode rodar skills
+ 
+
+1519
+00:28:57,559 --> 00:29:00,269
+madrugada. Então você pode rodar skills
+de madrugada para invocar um conselho de
+
+1520
+00:29:00,269 --> 00:29:00,279
+de madrugada para invocar um conselho de
+ 
+
+1521
+00:29:00,279 --> 00:29:02,310
+de madrugada para invocar um conselho de
+pessoas para analisarem seus projetos e
+
+1522
+00:29:02,310 --> 00:29:02,320
+pessoas para analisarem seus projetos e
+ 
+
+1523
+00:29:02,320 --> 00:29:03,909
+pessoas para analisarem seus projetos e
+te trazerem diferentes perspectivas e
+
+1524
+00:29:03,909 --> 00:29:03,919
+te trazerem diferentes perspectivas e
+ 
+
+1525
+00:29:03,919 --> 00:29:05,830
+te trazerem diferentes perspectivas e
+feedbacks. Você pode analisar skills
+
+1526
+00:29:05,830 --> 00:29:05,840
+feedbacks. Você pode analisar skills
+ 
+
+1527
+00:29:05,840 --> 00:29:08,389
+feedbacks. Você pode analisar skills
+para ver o código que você fez para
+
+1528
+00:29:08,389 --> 00:29:08,399
+para ver o código que você fez para
+ 
+
+1529
+00:29:08,399 --> 00:29:10,630
+para ver o código que você fez para
+fazer um teste de Q. Você pode analisar
+
+1530
+00:29:10,630 --> 00:29:10,640
+fazer um teste de Q. Você pode analisar
+ 
+
+1531
+00:29:10,640 --> 00:29:12,630
+fazer um teste de Q. Você pode analisar
+seu CRM toda madrugada e ver deals que
+
+1532
+00:29:12,630 --> 00:29:12,640
+seu CRM toda madrugada e ver deals que
+ 
+
+1533
+00:29:12,640 --> 00:29:14,909
+seu CRM toda madrugada e ver deals que
+estão mais de 7 dias sem followup ou key
+
+1534
+00:29:14,909 --> 00:29:14,919
+estão mais de 7 dias sem followup ou key
+ 
+
+1535
+00:29:14,919 --> 00:29:16,710
+estão mais de 7 dias sem followup ou key
+accounts. Ou você pode analisar seu
+
+1536
+00:29:16,710 --> 00:29:16,720
+accounts. Ou você pode analisar seu
+ 
+
+1537
+00:29:16,720 --> 00:29:19,029
+accounts. Ou você pode analisar seu
+suporte e pedir para pegar todas as
+
+1538
+00:29:19,029 --> 00:29:19,039
+suporte e pedir para pegar todas as
+ 
+
+1539
+00:29:19,039 --> 00:29:20,870
+suporte e pedir para pegar todas as
+perguntas repetidas e atualizar a sua
+
+1540
+00:29:20,870 --> 00:29:20,880
+perguntas repetidas e atualizar a sua
+ 
+
+1541
+00:29:20,880 --> 00:29:22,630
+perguntas repetidas e atualizar a sua
+base de conhecimento para você a
+
+1542
+00:29:22,630 --> 00:29:22,640
+base de conhecimento para você a
+ 
+
+1543
+00:29:22,640 --> 00:29:24,310
+base de conhecimento para você a
+retroalimentar ela. Cara, o céu é o
+
+1544
+00:29:24,310 --> 00:29:24,320
+retroalimentar ela. Cara, o céu é o
+ 
+
+1545
+00:29:24,320 --> 00:29:26,430
+retroalimentar ela. Cara, o céu é o
+limite, né? Porque no final do dia, o
+
+1546
+00:29:26,430 --> 00:29:26,440
+limite, né? Porque no final do dia, o
+ 
+
+1547
+00:29:26,440 --> 00:29:28,909
+limite, né? Porque no final do dia, o
+que falta aqui para você masterizar, na
+
+1548
+00:29:28,909 --> 00:29:28,919
+que falta aqui para você masterizar, na
+ 
+
+1549
+00:29:28,919 --> 00:29:31,990
+que falta aqui para você masterizar, na
+verdade, o uso de IA em 2026, na minha
+
+1550
+00:29:31,990 --> 00:29:32,000
+verdade, o uso de IA em 2026, na minha
+ 
+
+1551
+00:29:32,000 --> 00:29:34,830
+verdade, o uso de IA em 2026, na minha
+visão, é só uma coisa só que é a
+
+1552
+00:29:34,830 --> 00:29:34,840
+visão, é só uma coisa só que é a
+ 
+
+1553
+00:29:34,840 --> 00:29:37,190
+visão, é só uma coisa só que é a
+criatividade. Então, na verdade, hoje o
+
+1554
+00:29:37,190 --> 00:29:37,200
+criatividade. Então, na verdade, hoje o
+ 
+
+1555
+00:29:37,200 --> 00:29:41,190
+criatividade. Então, na verdade, hoje o
+nosso maior limite em 2026 é meramente a
+
+1556
+00:29:41,190 --> 00:29:41,200
+nosso maior limite em 2026 é meramente a
+ 
+
+1557
+00:29:41,200 --> 00:29:43,230
+nosso maior limite em 2026 é meramente a
+criatividade, não é mais ferramenta.
+
+1558
+00:29:43,230 --> 00:29:43,240
+criatividade, não é mais ferramenta.
+ 
+
+1559
+00:29:43,240 --> 00:29:45,029
+criatividade, não é mais ferramenta.
+Então, de novo, voltando àquele tópico
+
+1560
+00:29:45,029 --> 00:29:45,039
+Então, de novo, voltando àquele tópico
+ 
+
+1561
+00:29:45,039 --> 00:29:47,230
+Então, de novo, voltando àquele tópico
+lá da ansiedade, cuidado para vocês não
+
+1562
+00:29:47,230 --> 00:29:47,240
+lá da ansiedade, cuidado para vocês não
+ 
+
+1563
+00:29:47,240 --> 00:29:49,789
+lá da ansiedade, cuidado para vocês não
+ficarem ansiosos com 1 milhão de
+
+1564
+00:29:49,789 --> 00:29:49,799
+ficarem ansiosos com 1 milhão de
+ 
+
+1565
+00:29:49,799 --> 00:29:51,990
+ficarem ansiosos com 1 milhão de
+ferramentas saindo e lançando todo dia.
+
+1566
+00:29:51,990 --> 00:29:52,000
+ferramentas saindo e lançando todo dia.
+ 
+
+1567
+00:29:52,000 --> 00:29:54,509
+ferramentas saindo e lançando todo dia.
+Então, de novo, contexto sem contexto. o
+
+1568
+00:29:54,509 --> 00:29:54,519
+Então, de novo, contexto sem contexto. o
+ 
+
+1569
+00:29:54,519 --> 00:29:56,190
+Então, de novo, contexto sem contexto. o
+seu agente fica genérico. Então, sem
+
+1570
+00:29:56,190 --> 00:29:56,200
+seu agente fica genérico. Então, sem
+ 
+
+1571
+00:29:56,200 --> 00:29:57,669
+seu agente fica genérico. Então, sem
+contexto você sempre vai ter respostas
+
+1572
+00:29:57,669 --> 00:29:57,679
+contexto você sempre vai ter respostas
+ 
+
+1573
+00:29:57,679 --> 00:29:59,750
+contexto você sempre vai ter respostas
+burras, mas o contexto, bom, não é um
+
+1574
+00:29:59,750 --> 00:29:59,760
+burras, mas o contexto, bom, não é um
+ 
+
+1575
+00:29:59,760 --> 00:30:01,430
+burras, mas o contexto, bom, não é um
+contexto gigante. Por isso que, no caso
+
+1576
+00:30:01,430 --> 00:30:01,440
+contexto gigante. Por isso que, no caso
+ 
+
+1577
+00:30:01,440 --> 00:30:03,669
+contexto gigante. Por isso que, no caso
+eu expliquei que é bom você segregar em
+
+1578
+00:30:03,669 --> 00:30:03,679
+eu expliquei que é bom você segregar em
+ 
+
+1579
+00:30:03,679 --> 00:30:05,470
+eu expliquei que é bom você segregar em
+pastas e ter mapas em todas essas
+
+1580
+00:30:05,470 --> 00:30:05,480
+pastas e ter mapas em todas essas
+ 
+
+1581
+00:30:05,480 --> 00:30:07,470
+pastas e ter mapas em todas essas
+pastas, porque quando a IA precisar ler
+
+1582
+00:30:07,470 --> 00:30:07,480
+pastas, porque quando a IA precisar ler
+ 
+
+1583
+00:30:07,480 --> 00:30:09,310
+pastas, porque quando a IA precisar ler
+aquele contexto, ela encontra aquele
+
+1584
+00:30:09,310 --> 00:30:09,320
+aquele contexto, ela encontra aquele
+ 
+
+1585
+00:30:09,320 --> 00:30:11,269
+aquele contexto, ela encontra aquele
+contexto sobre demanda. O segredo para
+
+1586
+00:30:11,269 --> 00:30:11,279
+contexto sobre demanda. O segredo para
+ 
+
+1587
+00:30:11,279 --> 00:30:13,110
+contexto sobre demanda. O segredo para
+você usar o cloud não é você ter um
+
+1588
+00:30:13,110 --> 00:30:13,120
+você usar o cloud não é você ter um
+ 
+
+1589
+00:30:13,120 --> 00:30:15,789
+você usar o cloud não é você ter um
+cloud. MD infinito, mas você colocar o
+
+1590
+00:30:15,789 --> 00:30:15,799
+cloud. MD infinito, mas você colocar o
+ 
+
+1591
+00:30:15,799 --> 00:30:17,630
+cloud. MD infinito, mas você colocar o
+mapa no seu cloud explicando onde fica
+
+1592
+00:30:17,630 --> 00:30:17,640
+mapa no seu cloud explicando onde fica
+ 
+
+1593
+00:30:17,640 --> 00:30:19,110
+mapa no seu cloud explicando onde fica
+cada pasta e o que que ele pode ler, o
+
+1594
+00:30:19,110 --> 00:30:19,120
+cada pasta e o que que ele pode ler, o
+ 
+
+1595
+00:30:19,120 --> 00:30:20,710
+cada pasta e o que que ele pode ler, o
+que que é importante, que é a mesma
+
+1596
+00:30:20,710 --> 00:30:20,720
+que que é importante, que é a mesma
+ 
+
+1597
+00:30:20,720 --> 00:30:23,470
+que que é importante, que é a mesma
+coisa que o a gente tem no OpenCall num
+
+1598
+00:30:23,470 --> 00:30:23,480
+coisa que o a gente tem no OpenCall num
+ 
+
+1599
+00:30:23,480 --> 00:30:26,070
+coisa que o a gente tem no OpenCall num
+arquivo chamado agents. Então você pode
+
+1600
+00:30:26,070 --> 00:30:26,080
+arquivo chamado agents. Então você pode
+ 
+
+1601
+00:30:26,080 --> 00:30:29,110
+arquivo chamado agents. Então você pode
+criar esse mapa aqui nesse agents. Tá?
+
+1602
+00:30:29,110 --> 00:30:29,120
+criar esse mapa aqui nesse agents. Tá?
+ 
+
+1603
+00:30:29,120 --> 00:30:31,789
+criar esse mapa aqui nesse agents. Tá?
+De novo, se eu tô eh deixando alguma
+
+1604
+00:30:31,789 --> 00:30:31,799
+De novo, se eu tô eh deixando alguma
+ 
+
+1605
+00:30:31,799 --> 00:30:33,190
+De novo, se eu tô eh deixando alguma
+aresta solta aqui, porque eu não quero
+
+1606
+00:30:33,190 --> 00:30:33,200
+aresta solta aqui, porque eu não quero
+ 
+
+1607
+00:30:33,200 --> 00:30:35,389
+aresta solta aqui, porque eu não quero
+fazer um vídeo de 2 horas, por favor
+
+1608
+00:30:35,389 --> 00:30:35,399
+fazer um vídeo de 2 horas, por favor
+ 
+
+1609
+00:30:35,399 --> 00:30:36,870
+fazer um vídeo de 2 horas, por favor
+comenta aqui nesse vídeo que eu posso
+
+1610
+00:30:36,870 --> 00:30:36,880
+comenta aqui nesse vídeo que eu posso
+ 
+
+1611
+00:30:36,880 --> 00:30:39,590
+comenta aqui nesse vídeo que eu posso
+dedicar mais tempo para falar sobre essa
+
+1612
+00:30:39,590 --> 00:30:39,600
+dedicar mais tempo para falar sobre essa
+ 
+
+1613
+00:30:39,600 --> 00:30:42,470
+dedicar mais tempo para falar sobre essa
+orquestração de contexto, pastas e mapas
+
+1614
+00:30:42,470 --> 00:30:42,480
+orquestração de contexto, pastas e mapas
+ 
+
+1615
+00:30:42,480 --> 00:30:44,950
+orquestração de contexto, pastas e mapas
+também, tá bom? E aí, contexto fixo, né?
+
+1616
+00:30:44,950 --> 00:30:44,960
+também, tá bom? E aí, contexto fixo, né?
+ 
+
+1617
+00:30:44,960 --> 00:30:47,350
+também, tá bom? E aí, contexto fixo, né?
+Ele serve só paraa base operacional, não
+
+1618
+00:30:47,350 --> 00:30:47,360
+Ele serve só paraa base operacional, não
+ 
+
+1619
+00:30:47,360 --> 00:30:49,070
+Ele serve só paraa base operacional, não
+para virar depósito de tudo, né? Então
+
+1620
+00:30:49,070 --> 00:30:49,080
+para virar depósito de tudo, né? Então
+ 
+
+1621
+00:30:49,080 --> 00:30:51,190
+para virar depósito de tudo, né? Então
+você não pode usar o cloud MD e ter um
+
+1622
+00:30:51,190 --> 00:30:51,200
+você não pode usar o cloud MD e ter um
+ 
+
+1623
+00:30:51,200 --> 00:30:54,350
+você não pode usar o cloud MD e ter um
+cloud. MD com 500, 1000 linhas, que aí o
+
+1624
+00:30:54,350 --> 00:30:54,360
+cloud. MD com 500, 1000 linhas, que aí o
+ 
+
+1625
+00:30:54,360 --> 00:30:56,230
+cloud. MD com 500, 1000 linhas, que aí o
+seu cloud vai comer metade da dos tokens
+
+1626
+00:30:56,230 --> 00:30:56,240
+seu cloud vai comer metade da dos tokens
+ 
+
+1627
+00:30:56,240 --> 00:30:57,509
+seu cloud vai comer metade da dos tokens
+para começar uma sessão. Então a gente
+
+1628
+00:30:57,509 --> 00:30:57,519
+para começar uma sessão. Então a gente
+ 
+
+1629
+00:30:57,519 --> 00:30:59,269
+para começar uma sessão. Então a gente
+falou de skills. Então as skills de novo
+
+1630
+00:30:59,269 --> 00:30:59,279
+falou de skills. Então as skills de novo
+ 
+
+1631
+00:30:59,279 --> 00:31:00,830
+falou de skills. Então as skills de novo
+não são um prompt, né? Então prompt é
+
+1632
+00:31:00,830 --> 00:31:00,840
+não são um prompt, né? Então prompt é
+ 
+
+1633
+00:31:00,840 --> 00:31:02,230
+não são um prompt, né? Então prompt é
+uma coisa, skill é outra coisa. O
+
+1634
+00:31:02,230 --> 00:31:02,240
+uma coisa, skill é outra coisa. O
+ 
+
+1635
+00:31:02,240 --> 00:31:04,789
+uma coisa, skill é outra coisa. O
+segredo da skill é workflow, né? Então
+
+1636
+00:31:04,789 --> 00:31:04,799
+segredo da skill é workflow, né? Então
+ 
+
+1637
+00:31:04,799 --> 00:31:06,590
+segredo da skill é workflow, né? Então
+primeiro você roda junto, depois você
+
+1638
+00:31:06,590 --> 00:31:06,600
+primeiro você roda junto, depois você
+ 
+
+1639
+00:31:06,600 --> 00:31:08,070
+primeiro você roda junto, depois você
+corrige e valida e depois você
+
+1640
+00:31:08,070 --> 00:31:08,080
+corrige e valida e depois você
+ 
+
+1641
+00:31:08,080 --> 00:31:09,669
+corrige e valida e depois você
+transforma isso numa skill, né? Mas eu
+
+1642
+00:31:09,669 --> 00:31:09,679
+transforma isso numa skill, né? Mas eu
+ 
+
+1643
+00:31:09,679 --> 00:31:11,629
+transforma isso numa skill, né? Mas eu
+pessoalmente gosto já de transformar o
+
+1644
+00:31:11,629 --> 00:31:11,639
+pessoalmente gosto já de transformar o
+ 
+
+1645
+00:31:11,639 --> 00:31:13,669
+pessoalmente gosto já de transformar o
+workflow. Então você vai montando tudo,
+
+1646
+00:31:13,669 --> 00:31:13,679
+workflow. Então você vai montando tudo,
+ 
+
+1647
+00:31:13,679 --> 00:31:15,110
+workflow. Então você vai montando tudo,
+pá p pa pa p pa pa p pá. Aí você vai
+
+1648
+00:31:15,110 --> 00:31:15,120
+pá p pa pa p pa pa p pá. Aí você vai
+ 
+
+1649
+00:31:15,120 --> 00:31:16,430
+pá p pa pa p pa pa p pá. Aí você vai
+validando e aí quando você chegar no
+
+1650
+00:31:16,430 --> 00:31:16,440
+validando e aí quando você chegar no
+ 
+
+1651
+00:31:16,440 --> 00:31:17,789
+validando e aí quando você chegar no
+resultado que você quer, você fala pro
+
+1652
+00:31:17,789 --> 00:31:17,799
+resultado que você quer, você fala pro
+ 
+
+1653
+00:31:17,799 --> 00:31:19,750
+resultado que você quer, você fala pro
+seu agente, ó, transforma todo esse
+
+1654
+00:31:19,750 --> 00:31:19,760
+seu agente, ó, transforma todo esse
+ 
+
+1655
+00:31:19,760 --> 00:31:21,909
+seu agente, ó, transforma todo esse
+processo numa skill, tá? E aí você tem
+
+1656
+00:31:21,909 --> 00:31:21,919
+processo numa skill, tá? E aí você tem
+ 
+
+1657
+00:31:21,919 --> 00:31:24,430
+processo numa skill, tá? E aí você tem
+as rotinas, né? Então as rotinas é onde
+
+1658
+00:31:24,430 --> 00:31:24,440
+as rotinas, né? Então as rotinas é onde
+ 
+
+1659
+00:31:24,440 --> 00:31:26,430
+as rotinas, né? Então as rotinas é onde
+ela pega o contexto, pega o que ela
+
+1660
+00:31:26,430 --> 00:31:26,440
+ela pega o contexto, pega o que ela
+ 
+
+1661
+00:31:26,440 --> 00:31:28,830
+ela pega o contexto, pega o que ela
+precisa fazer e ela volta a rodar sem
+
+1662
+00:31:28,830 --> 00:31:28,840
+precisa fazer e ela volta a rodar sem
+ 
+
+1663
+00:31:28,840 --> 00:31:31,269
+precisa fazer e ela volta a rodar sem
+depender da sua cabeça, né? Então qual
+
+1664
+00:31:31,269 --> 00:31:31,279
+depender da sua cabeça, né? Então qual
+ 
+
+1665
+00:31:31,279 --> 00:31:33,590
+depender da sua cabeça, né? Então qual
+que é o erro aqui que a grande maioria
+
+1666
+00:31:33,590 --> 00:31:33,600
+que é o erro aqui que a grande maioria
+ 
+
+1667
+00:31:33,600 --> 00:31:36,509
+que é o erro aqui que a grande maioria
+das pessoas comete, né? Então ao usar
+
+1668
+00:31:36,509 --> 00:31:36,519
+das pessoas comete, né? Então ao usar
+ 
+
+1669
+00:31:36,519 --> 00:31:39,909
+das pessoas comete, né? Então ao usar
+agentes de a tá? Então eu separei aqui o
+
+1670
+00:31:39,909 --> 00:31:39,919
+agentes de a tá? Então eu separei aqui o
+ 
+
+1671
+00:31:39,919 --> 00:31:42,070
+agentes de a tá? Então eu separei aqui o
+maior erro das pessoas, que inclusive é
+
+1672
+00:31:42,070 --> 00:31:42,080
+maior erro das pessoas, que inclusive é
+ 
+
+1673
+00:31:42,080 --> 00:31:43,870
+maior erro das pessoas, que inclusive é
+um erro que o Greg bateu também nesse
+
+1674
+00:31:43,870 --> 00:31:43,880
+um erro que o Greg bateu também nesse
+ 
+
+1675
+00:31:43,880 --> 00:31:46,070
+um erro que o Greg bateu também nesse
+vídeo que eu tava falando ali, eh, do
+
+1676
+00:31:46,070 --> 00:31:46,080
+vídeo que eu tava falando ali, eh, do
+ 
+
+1677
+00:31:46,080 --> 00:31:47,830
+vídeo que eu tava falando ali, eh, do
+Greg Iceberg quando ele fala de agentes,
+
+1678
+00:31:47,830 --> 00:31:47,840
+Greg Iceberg quando ele fala de agentes,
+ 
+
+1679
+00:31:47,840 --> 00:31:50,310
+Greg Iceberg quando ele fala de agentes,
+é a questão de que as pessoas tentam
+
+1680
+00:31:50,310 --> 00:31:50,320
+é a questão de que as pessoas tentam
+ 
+
+1681
+00:31:50,320 --> 00:31:54,029
+é a questão de que as pessoas tentam
+automatizar tudo sem testar e itinerar
+
+1682
+00:31:54,029 --> 00:31:54,039
+automatizar tudo sem testar e itinerar
+ 
+
+1683
+00:31:54,039 --> 00:31:57,029
+automatizar tudo sem testar e itinerar
+os cron, as skills, os agentes. Então,
+
+1684
+00:31:57,029 --> 00:31:57,039
+os cron, as skills, os agentes. Então,
+ 
+
+1685
+00:31:57,039 --> 00:31:59,190
+os cron, as skills, os agentes. Então,
+as pessoas se focam demais em ter
+
+1686
+00:31:59,190 --> 00:31:59,200
+as pessoas se focam demais em ter
+ 
+
+1687
+00:31:59,200 --> 00:32:01,230
+as pessoas se focam demais em ter
+múltiplos agentes, em ter múltiplas
+
+1688
+00:32:01,230 --> 00:32:01,240
+múltiplos agentes, em ter múltiplas
+ 
+
+1689
+00:32:01,240 --> 00:32:03,350
+múltiplos agentes, em ter múltiplas
+skills, mas elas não conseguem ver o
+
+1690
+00:32:03,350 --> 00:32:03,360
+skills, mas elas não conseguem ver o
+ 
+
+1691
+00:32:03,360 --> 00:32:05,990
+skills, mas elas não conseguem ver o
+processo e retroalimentar a inteligência
+
+1692
+00:32:05,990 --> 00:32:06,000
+processo e retroalimentar a inteligência
+ 
+
+1693
+00:32:06,000 --> 00:32:07,629
+processo e retroalimentar a inteligência
+do processo. Porque o que importa no
+
+1694
+00:32:07,629 --> 00:32:07,639
+do processo. Porque o que importa no
+ 
+
+1695
+00:32:07,639 --> 00:32:09,830
+do processo. Porque o que importa no
+final do dia é o seu agente ter
+
+1696
+00:32:09,830 --> 00:32:09,840
+final do dia é o seu agente ter
+ 
+
+1697
+00:32:09,840 --> 00:32:12,789
+final do dia é o seu agente ter
+autonomia, executar as coisas, aprender
+
+1698
+00:32:12,789 --> 00:32:12,799
+autonomia, executar as coisas, aprender
+ 
+
+1699
+00:32:12,799 --> 00:32:14,750
+autonomia, executar as coisas, aprender
+com o que deu certo, o que deu errado e
+
+1700
+00:32:14,750 --> 00:32:14,760
+com o que deu certo, o que deu errado e
+ 
+
+1701
+00:32:14,760 --> 00:32:16,870
+com o que deu certo, o que deu errado e
+melhorar a skill dele e a estrutura
+
+1702
+00:32:16,870 --> 00:32:16,880
+melhorar a skill dele e a estrutura
+ 
+
+1703
+00:32:16,880 --> 00:32:19,789
+melhorar a skill dele e a estrutura
+dele. Então essa estrutura de melhoria,
+
+1704
+00:32:19,789 --> 00:32:19,799
+dele. Então essa estrutura de melhoria,
+ 
+
+1705
+00:32:19,799 --> 00:32:21,750
+dele. Então essa estrutura de melhoria,
+ela acontece quando o seu agente tem
+
+1706
+00:32:21,750 --> 00:32:21,760
+ela acontece quando o seu agente tem
+ 
+
+1707
+00:32:21,760 --> 00:32:24,629
+ela acontece quando o seu agente tem
+memória. Por isso que no caso o open
+
+1708
+00:32:24,629 --> 00:32:24,639
+memória. Por isso que no caso o open
+ 
+
+1709
+00:32:24,639 --> 00:32:26,269
+memória. Por isso que no caso o open
+melhor do que o cloud, porque o openla
+
+1710
+00:32:26,269 --> 00:32:26,279
+melhor do que o cloud, porque o openla
+ 
+
+1711
+00:32:26,279 --> 00:32:28,990
+melhor do que o cloud, porque o openla
+ele tem memória de tudo que aconteceu.
+
+1712
+00:32:28,990 --> 00:32:29,000
+ele tem memória de tudo que aconteceu.
+ 
+
+1713
+00:32:29,000 --> 00:32:30,269
+ele tem memória de tudo que aconteceu.
+Então, quando você ele tá trabalhando,
+
+1714
+00:32:30,269 --> 00:32:30,279
+Então, quando você ele tá trabalhando,
+ 
+
+1715
+00:32:30,279 --> 00:32:31,389
+Então, quando você ele tá trabalhando,
+enquanto você tá dormindo e ele fez
+
+1716
+00:32:31,389 --> 00:32:31,399
+enquanto você tá dormindo e ele fez
+ 
+
+1717
+00:32:31,399 --> 00:32:33,830
+enquanto você tá dormindo e ele fez
+alguma merda, ele vai lá e ele salvou no
+
+1718
+00:32:33,830 --> 00:32:33,840
+alguma merda, ele vai lá e ele salvou no
+ 
+
+1719
+00:32:33,840 --> 00:32:36,629
+alguma merda, ele vai lá e ele salvou no
+log essa esse aprendizado na Daily Notes
+
+1720
+00:32:36,629 --> 00:32:36,639
+log essa esse aprendizado na Daily Notes
+ 
+
+1721
+00:32:36,639 --> 00:32:38,590
+log essa esse aprendizado na Daily Notes
+dele, no lesson learns. Então ele salva
+
+1722
+00:32:38,590 --> 00:32:38,600
+dele, no lesson learns. Então ele salva
+ 
+
+1723
+00:32:38,600 --> 00:32:41,110
+dele, no lesson learns. Então ele salva
+em vários lugares aqui. Então é o mais
+
+1724
+00:32:41,110 --> 00:32:41,120
+em vários lugares aqui. Então é o mais
+ 
+
+1725
+00:32:41,120 --> 00:32:43,230
+em vários lugares aqui. Então é o mais
+importante de tudo de novo, é você não
+
+1726
+00:32:43,230 --> 00:32:43,240
+importante de tudo de novo, é você não
+ 
+
+1727
+00:32:43,240 --> 00:32:45,350
+importante de tudo de novo, é você não
+ficar nessa corrida de ter agentes para
+
+1728
+00:32:45,350 --> 00:32:45,360
+ficar nessa corrida de ter agentes para
+ 
+
+1729
+00:32:45,360 --> 00:32:47,149
+ficar nessa corrida de ter agentes para
+tudo. Então se eu pudesse dar uma dica
+
+1730
+00:32:47,149 --> 00:32:47,159
+tudo. Então se eu pudesse dar uma dica
+ 
+
+1731
+00:32:47,159 --> 00:32:49,029
+tudo. Então se eu pudesse dar uma dica
+aqui muito importante para vocês, eu
+
+1732
+00:32:49,029 --> 00:32:49,039
+aqui muito importante para vocês, eu
+ 
+
+1733
+00:32:49,039 --> 00:32:52,950
+aqui muito importante para vocês, eu
+diria o seguinte, ó. Mas, mas vale um
+
+1734
+00:32:52,950 --> 00:32:52,960
+diria o seguinte, ó. Mas, mas vale um
+ 
+
+1735
+00:32:52,960 --> 00:32:57,909
+diria o seguinte, ó. Mas, mas vale um
+agente com centenas de skills,
+
+1736
+00:32:57,909 --> 00:32:57,919
+agente com centenas de skills,
+ 
+
+1737
+00:32:57,919 --> 00:33:01,950
+agente com centenas de skills,
+centenas de skills do que múltiplos
+
+1738
+00:33:01,950 --> 00:33:01,960
+centenas de skills do que múltiplos
+ 
+
+1739
+00:33:01,960 --> 00:33:04,750
+centenas de skills do que múltiplos
+agentes com poucas skills, porque é
+
+1740
+00:33:04,750 --> 00:33:04,760
+agentes com poucas skills, porque é
+ 
+
+1741
+00:33:04,760 --> 00:33:07,629
+agentes com poucas skills, porque é
+muito mais fácil você pegar um agente
+
+1742
+00:33:07,629 --> 00:33:07,639
+muito mais fácil você pegar um agente
+ 
+
+1743
+00:33:07,639 --> 00:33:10,029
+muito mais fácil você pegar um agente
+que você tá operando, performando muito
+
+1744
+00:33:10,029 --> 00:33:10,039
+que você tá operando, performando muito
+ 
+
+1745
+00:33:10,039 --> 00:33:12,190
+que você tá operando, performando muito
+bem. Então você pega um agente aqui.
+
+1746
+00:33:12,190 --> 00:33:12,200
+bem. Então você pega um agente aqui.
+ 
+
+1747
+00:33:12,200 --> 00:33:14,110
+bem. Então você pega um agente aqui.
+Então você tem um agente pra sua empresa
+
+1748
+00:33:14,110 --> 00:33:14,120
+Então você tem um agente pra sua empresa
+ 
+
+1749
+00:33:14,120 --> 00:33:15,230
+Então você tem um agente pra sua empresa
+inteira, tá? Vamos pegar aqui um
+
+1750
+00:33:15,230 --> 00:33:15,240
+inteira, tá? Vamos pegar aqui um
+ 
+
+1751
+00:33:15,240 --> 00:33:16,909
+inteira, tá? Vamos pegar aqui um
+exemplo. Então você tem aqui um agente.
+
+1752
+00:33:16,909 --> 00:33:16,919
+exemplo. Então você tem aqui um agente.
+ 
+
+1753
+00:33:16,919 --> 00:33:17,990
+exemplo. Então você tem aqui um agente.
+Eu tenho o meu aqui na minha empresa que
+
+1754
+00:33:17,990 --> 00:33:18,000
+Eu tenho o meu aqui na minha empresa que
+ 
+
+1755
+00:33:18,000 --> 00:33:19,710
+Eu tenho o meu aqui na minha empresa que
+chama Leonardo da 20. Então você pega o
+
+1756
+00:33:19,710 --> 00:33:19,720
+chama Leonardo da 20. Então você pega o
+ 
+
+1757
+00:33:19,720 --> 00:33:22,549
+chama Leonardo da 20. Então você pega o
+D 20, o D hoje ele cuida aqui de, ele tá
+
+1758
+00:33:22,549 --> 00:33:22,559
+D 20, o D hoje ele cuida aqui de, ele tá
+ 
+
+1759
+00:33:22,559 --> 00:33:25,669
+D 20, o D hoje ele cuida aqui de, ele tá
+cuidando de suporte, o Din tá cuidando
+
+1760
+00:33:25,669 --> 00:33:25,679
+cuidando de suporte, o Din tá cuidando
+ 
+
+1761
+00:33:25,679 --> 00:33:28,590
+cuidando de suporte, o Din tá cuidando
+de vendas, ele tá cuidando hoje também
+
+1762
+00:33:28,590 --> 00:33:28,600
+de vendas, ele tá cuidando hoje também
+ 
+
+1763
+00:33:28,600 --> 00:33:31,990
+de vendas, ele tá cuidando hoje também
+de dev. Então quando você tem um agente
+
+1764
+00:33:31,990 --> 00:33:32,000
+de dev. Então quando você tem um agente
+ 
+
+1765
+00:33:32,000 --> 00:33:34,750
+de dev. Então quando você tem um agente
+que ele tá aprendendo tudo, ele tá
+
+1766
+00:33:34,750 --> 00:33:34,760
+que ele tá aprendendo tudo, ele tá
+ 
+
+1767
+00:33:34,760 --> 00:33:37,310
+que ele tá aprendendo tudo, ele tá
+criando muita contexto, tá aprendendo
+
+1768
+00:33:37,310 --> 00:33:37,320
+criando muita contexto, tá aprendendo
+ 
+
+1769
+00:33:37,320 --> 00:33:38,909
+criando muita contexto, tá aprendendo
+muito sobre skills, tá fazendo várias
+
+1770
+00:33:38,909 --> 00:33:38,919
+muito sobre skills, tá fazendo várias
+ 
+
+1771
+00:33:38,919 --> 00:33:40,269
+muito sobre skills, tá fazendo várias
+coisas, só que vai chegar numa hora que
+
+1772
+00:33:40,269 --> 00:33:40,279
+coisas, só que vai chegar numa hora que
+ 
+
+1773
+00:33:40,279 --> 00:33:41,470
+coisas, só que vai chegar numa hora que
+você vai falar assim: "Mano, eu tô com
+
+1774
+00:33:41,470 --> 00:33:41,480
+você vai falar assim: "Mano, eu tô com
+ 
+
+1775
+00:33:41,480 --> 00:33:43,190
+você vai falar assim: "Mano, eu tô com
+muita demanda de suporte, assim, meu
+
+1776
+00:33:43,190 --> 00:33:43,200
+muita demanda de suporte, assim, meu
+ 
+
+1777
+00:33:43,200 --> 00:33:45,310
+muita demanda de suporte, assim, meu
+agente tá ali processando milhões de
+
+1778
+00:33:45,310 --> 00:33:45,320
+agente tá ali processando milhões de
+ 
+
+1779
+00:33:45,320 --> 00:33:47,310
+agente tá ali processando milhões de
+mensagens por dia. Tô com muita demanda
+
+1780
+00:33:47,310 --> 00:33:47,320
+mensagens por dia. Tô com muita demanda
+ 
+
+1781
+00:33:47,320 --> 00:33:49,110
+mensagens por dia. Tô com muita demanda
+de vendas. Então o que que você faz aqui
+
+1782
+00:33:49,110 --> 00:33:49,120
+de vendas. Então o que que você faz aqui
+ 
+
+1783
+00:33:49,120 --> 00:33:51,789
+de vendas. Então o que que você faz aqui
+é que você vai pegar o Léo, você vai
+
+1784
+00:33:51,789 --> 00:33:51,799
+é que você vai pegar o Léo, você vai
+ 
+
+1785
+00:33:51,799 --> 00:33:53,950
+é que você vai pegar o Léo, você vai
+cortar a cabeça dele. Então você vai
+
+1786
+00:33:53,950 --> 00:33:53,960
+cortar a cabeça dele. Então você vai
+ 
+
+1787
+00:33:53,960 --> 00:33:56,190
+cortar a cabeça dele. Então você vai
+falar assim: "Léo,
+
+1788
+00:33:56,190 --> 00:33:56,200
+falar assim: "Léo,
+ 
+
+1789
+00:33:56,200 --> 00:34:00,110
+falar assim: "Léo,
+separa tudo que montamos até hoje de
+
+1790
+00:34:00,110 --> 00:34:00,120
+separa tudo que montamos até hoje de
+ 
+
+1791
+00:34:00,120 --> 00:34:02,669
+separa tudo que montamos até hoje de
+vendas e monte um novo agente." Então,
+
+1792
+00:34:02,669 --> 00:34:02,679
+vendas e monte um novo agente." Então,
+ 
+
+1793
+00:34:02,679 --> 00:34:04,190
+vendas e monte um novo agente." Então,
+por exemplo, um exemplo esdrúchulo, né?
+
+1794
+00:34:04,190 --> 00:34:04,200
+por exemplo, um exemplo esdrúchulo, né?
+ 
+
+1795
+00:34:04,200 --> 00:34:05,710
+por exemplo, um exemplo esdrúchulo, né?
+Mas você pode pedir, por exemplo, pro
+
+1796
+00:34:05,710 --> 00:34:05,720
+Mas você pode pedir, por exemplo, pro
+ 
+
+1797
+00:34:05,720 --> 00:34:07,990
+Mas você pode pedir, por exemplo, pro
+Léo pegar e montar um novo agente para
+
+1798
+00:34:07,990 --> 00:34:08,000
+Léo pegar e montar um novo agente para
+ 
+
+1799
+00:34:08,000 --> 00:34:09,990
+Léo pegar e montar um novo agente para
+você. Então, ou seja, como você já tem
+
+1800
+00:34:09,990 --> 00:34:10,000
+você. Então, ou seja, como você já tem
+ 
+
+1801
+00:34:10,000 --> 00:34:12,589
+você. Então, ou seja, como você já tem
+toda a memória de tudo que você faz aqui
+
+1802
+00:34:12,589 --> 00:34:12,599
+toda a memória de tudo que você faz aqui
+ 
+
+1803
+00:34:12,599 --> 00:34:14,790
+toda a memória de tudo que você faz aqui
+na sua parte de contexto, né? Então você
+
+1804
+00:34:14,790 --> 00:34:14,800
+na sua parte de contexto, né? Então você
+ 
+
+1805
+00:34:14,800 --> 00:34:16,829
+na sua parte de contexto, né? Então você
+tem aqui a sua página de suporte, na sua
+
+1806
+00:34:16,829 --> 00:34:16,839
+tem aqui a sua página de suporte, na sua
+ 
+
+1807
+00:34:16,839 --> 00:34:18,430
+tem aqui a sua página de suporte, na sua
+pasta de suporte, você tem sua pasta de
+
+1808
+00:34:18,430 --> 00:34:18,440
+pasta de suporte, você tem sua pasta de
+ 
+
+1809
+00:34:18,440 --> 00:34:19,710
+pasta de suporte, você tem sua pasta de
+vendas e tal. Então tudo que tá
+
+1810
+00:34:19,710 --> 00:34:19,720
+vendas e tal. Então tudo que tá
+ 
+
+1811
+00:34:19,720 --> 00:34:21,750
+vendas e tal. Então tudo que tá
+acontecendo aqui dentro do Leonardo da
+
+1812
+00:34:21,750 --> 00:34:21,760
+acontecendo aqui dentro do Leonardo da
+ 
+
+1813
+00:34:21,760 --> 00:34:23,669
+acontecendo aqui dentro do Leonardo da
+20, ele tá salvando aqui dentro os
+
+1814
+00:34:23,669 --> 00:34:23,679
+20, ele tá salvando aqui dentro os
+ 
+
+1815
+00:34:23,679 --> 00:34:25,069
+20, ele tá salvando aqui dentro os
+projetos, as pessoas, as
+
+1816
+00:34:25,069 --> 00:34:25,079
+projetos, as pessoas, as
+ 
+
+1817
+00:34:25,079 --> 00:34:26,710
+projetos, as pessoas, as
+responsabilidades. Então você tem, então
+
+1818
+00:34:26,710 --> 00:34:26,720
+responsabilidades. Então você tem, então
+ 
+
+1819
+00:34:26,720 --> 00:34:29,190
+responsabilidades. Então você tem, então
+é muito mais fácil você fatiar o Léo
+
+1820
+00:34:29,190 --> 00:34:29,200
+é muito mais fácil você fatiar o Léo
+ 
+
+1821
+00:34:29,200 --> 00:34:31,389
+é muito mais fácil você fatiar o Léo
+depois em múltiplos agentes para você
+
+1822
+00:34:31,389 --> 00:34:31,399
+depois em múltiplos agentes para você
+ 
+
+1823
+00:34:31,399 --> 00:34:32,750
+depois em múltiplos agentes para você
+criar o seu outro suporte de vendas
+
+1824
+00:34:32,750 --> 00:34:32,760
+criar o seu outro suporte de vendas
+ 
+
+1825
+00:34:32,760 --> 00:34:35,629
+criar o seu outro suporte de vendas
+depois do que você pegar e já começar
+
+1826
+00:34:35,629 --> 00:34:35,639
+depois do que você pegar e já começar
+ 
+
+1827
+00:34:35,639 --> 00:34:37,270
+depois do que você pegar e já começar
+com múltiplos agentes ao mesmo tempo,
+
+1828
+00:34:37,270 --> 00:34:37,280
+com múltiplos agentes ao mesmo tempo,
+ 
+
+1829
+00:34:37,280 --> 00:34:40,190
+com múltiplos agentes ao mesmo tempo,
+que vai te dar um baita de um esforço
+
+1830
+00:34:40,190 --> 00:34:40,200
+que vai te dar um baita de um esforço
+ 
+
+1831
+00:34:40,200 --> 00:34:43,030
+que vai te dar um baita de um esforço
+para você organizar isso aqui e se incar
+
+1832
+00:34:43,030 --> 00:34:43,040
+para você organizar isso aqui e se incar
+ 
+
+1833
+00:34:43,040 --> 00:34:44,710
+para você organizar isso aqui e se incar
+tudo isso depois. Então é muito mais
+
+1834
+00:34:44,710 --> 00:34:44,720
+tudo isso depois. Então é muito mais
+ 
+
+1835
+00:34:44,720 --> 00:34:47,950
+tudo isso depois. Então é muito mais
+fácil você começar daqui e aí você vai
+
+1836
+00:34:47,950 --> 00:34:47,960
+fácil você começar daqui e aí você vai
+ 
+
+1837
+00:34:47,960 --> 00:34:51,230
+fácil você começar daqui e aí você vai
+fatiando o seu agente, tá bom? E aí,
+
+1838
+00:34:51,230 --> 00:34:51,240
+fatiando o seu agente, tá bom? E aí,
+ 
+
+1839
+00:34:51,240 --> 00:34:53,750
+fatiando o seu agente, tá bom? E aí,
+gente, qual que é o loop que vocês têm
+
+1840
+00:34:53,750 --> 00:34:53,760
+gente, qual que é o loop que vocês têm
+ 
+
+1841
+00:34:53,760 --> 00:34:56,829
+gente, qual que é o loop que vocês têm
+que usar aqui? Tá? O loop é sempre esse
+
+1842
+00:34:56,829 --> 00:34:56,839
+que usar aqui? Tá? O loop é sempre esse
+ 
+
+1843
+00:34:56,839 --> 00:34:59,910
+que usar aqui? Tá? O loop é sempre esse
+aqui, gente. Montou o seu agente, vocês
+
+1844
+00:34:59,910 --> 00:34:59,920
+aqui, gente. Montou o seu agente, vocês
+ 
+
+1845
+00:34:59,920 --> 00:35:03,390
+aqui, gente. Montou o seu agente, vocês
+vão usar ele, vocês vão errar, vocês vão
+
+1846
+00:35:03,390 --> 00:35:03,400
+vão usar ele, vocês vão errar, vocês vão
+ 
+
+1847
+00:35:03,400 --> 00:35:05,990
+vão usar ele, vocês vão errar, vocês vão
+corrigir, vocês vão atualizar a skill,
+
+1848
+00:35:05,990 --> 00:35:06,000
+corrigir, vocês vão atualizar a skill,
+ 
+
+1849
+00:35:06,000 --> 00:35:09,069
+corrigir, vocês vão atualizar a skill,
+vocês vão repetir o processo e esse é o
+
+1850
+00:35:09,069 --> 00:35:09,079
+vocês vão repetir o processo e esse é o
+ 
+
+1851
+00:35:09,079 --> 00:35:12,030
+vocês vão repetir o processo e esse é o
+loop que transforma um agente mediano em
+
+1852
+00:35:12,030 --> 00:35:12,040
+loop que transforma um agente mediano em
+ 
+
+1853
+00:35:12,040 --> 00:35:14,990
+loop que transforma um agente mediano em
+um ativo real, tá? Então esse loop aqui,
+
+1854
+00:35:14,990 --> 00:35:15,000
+um ativo real, tá? Então esse loop aqui,
+ 
+
+1855
+00:35:15,000 --> 00:35:17,550
+um ativo real, tá? Então esse loop aqui,
+gente, é muito importante. Então toda
+
+1856
+00:35:17,550 --> 00:35:17,560
+gente, é muito importante. Então toda
+ 
+
+1857
+00:35:17,560 --> 00:35:20,069
+gente, é muito importante. Então toda
+vez que você usar uma skill, repita esse
+
+1858
+00:35:20,069 --> 00:35:20,079
+vez que você usar uma skill, repita esse
+ 
+
+1859
+00:35:20,079 --> 00:35:21,990
+vez que você usar uma skill, repita esse
+processo duas ou três vezes até sua
+
+1860
+00:35:21,990 --> 00:35:22,000
+processo duas ou três vezes até sua
+ 
+
+1861
+00:35:22,000 --> 00:35:24,270
+processo duas ou três vezes até sua
+skill ficar redondinha. Deixa sua skill
+
+1862
+00:35:24,270 --> 00:35:24,280
+skill ficar redondinha. Deixa sua skill
+ 
+
+1863
+00:35:24,280 --> 00:35:26,190
+skill ficar redondinha. Deixa sua skill
+atualizada, porque todo o processo que
+
+1864
+00:35:26,190 --> 00:35:26,200
+atualizada, porque todo o processo que
+ 
+
+1865
+00:35:26,200 --> 00:35:28,829
+atualizada, porque todo o processo que
+seu agente soltar sempre vai ser o
+
+1866
+00:35:28,829 --> 00:35:28,839
+seu agente soltar sempre vai ser o
+ 
+
+1867
+00:35:28,839 --> 00:35:31,990
+seu agente soltar sempre vai ser o
+mesmo, tá? E aí depois quando que faz
+
+1868
+00:35:31,990 --> 00:35:32,000
+mesmo, tá? E aí depois quando que faz
+ 
+
+1869
+00:35:32,000 --> 00:35:34,230
+mesmo, tá? E aí depois quando que faz
+sentido você ter múltiplos agentes?
+
+1870
+00:35:34,230 --> 00:35:34,240
+sentido você ter múltiplos agentes?
+ 
+
+1871
+00:35:34,240 --> 00:35:35,950
+sentido você ter múltiplos agentes?
+Então faz sentido você ter múltiplos
+
+1872
+00:35:35,950 --> 00:35:35,960
+Então faz sentido você ter múltiplos
+ 
+
+1873
+00:35:35,960 --> 00:35:37,829
+Então faz sentido você ter múltiplos
+agentes quando você tiver o seu primeiro
+
+1874
+00:35:37,829 --> 00:35:37,839
+agentes quando você tiver o seu primeiro
+ 
+
+1875
+00:35:37,839 --> 00:35:40,349
+agentes quando você tiver o seu primeiro
+agente, você montou o workflow estável.
+
+1876
+00:35:40,349 --> 00:35:40,359
+agente, você montou o workflow estável.
+ 
+
+1877
+00:35:40,359 --> 00:35:41,910
+agente, você montou o workflow estável.
+Então que nem a gente falou aqui do L,
+
+1878
+00:35:41,910 --> 00:35:41,920
+Então que nem a gente falou aqui do L,
+ 
+
+1879
+00:35:41,920 --> 00:35:44,069
+Então que nem a gente falou aqui do L,
+né? Então, a gente tem aqui o Léo. O Léo
+
+1880
+00:35:44,069 --> 00:35:44,079
+né? Então, a gente tem aqui o Léo. O Léo
+ 
+
+1881
+00:35:44,079 --> 00:35:45,990
+né? Então, a gente tem aqui o Léo. O Léo
+tá estável. O Léo já tem as skills de
+
+1882
+00:35:45,990 --> 00:35:46,000
+tá estável. O Léo já tem as skills de
+ 
+
+1883
+00:35:46,000 --> 00:35:48,069
+tá estável. O Léo já tem as skills de
+suporte, skills de venda. O Léo tá aqui,
+
+1884
+00:35:48,069 --> 00:35:48,079
+suporte, skills de venda. O Léo tá aqui,
+ 
+
+1885
+00:35:48,079 --> 00:35:50,710
+suporte, skills de venda. O Léo tá aqui,
+tem o dev. E aí você tem aqui um
+
+1886
+00:35:50,710 --> 00:35:50,720
+tem o dev. E aí você tem aqui um
+ 
+
+1887
+00:35:50,720 --> 00:35:53,470
+tem o dev. E aí você tem aqui um
+workflow já estável, você já tem skills
+
+1888
+00:35:53,470 --> 00:35:53,480
+workflow já estável, você já tem skills
+ 
+
+1889
+00:35:53,480 --> 00:35:55,630
+workflow já estável, você já tem skills
+estáveis. Então o que que você faz é que
+
+1890
+00:35:55,630 --> 00:35:55,640
+estáveis. Então o que que você faz é que
+ 
+
+1891
+00:35:55,640 --> 00:35:58,750
+estáveis. Então o que que você faz é que
+você destrincha em subaggentes ou uma
+
+1892
+00:35:58,750 --> 00:35:58,760
+você destrincha em subaggentes ou uma
+ 
+
+1893
+00:35:58,760 --> 00:36:00,349
+você destrincha em subaggentes ou uma
+operação de multiagente. Então a
+
+1894
+00:36:00,349 --> 00:36:00,359
+operação de multiagente. Então a
+ 
+
+1895
+00:36:00,359 --> 00:36:03,550
+operação de multiagente. Então a
+maturidade não é complexidade,
+
+1896
+00:36:03,550 --> 00:36:03,560
+maturidade não é complexidade,
+ 
+
+1897
+00:36:03,560 --> 00:36:06,870
+maturidade não é complexidade,
+a maturidade é confiabilidade.
+
+1898
+00:36:06,870 --> 00:36:06,880
+a maturidade é confiabilidade.
+ 
+
+1899
+00:36:06,880 --> 00:36:10,150
+a maturidade é confiabilidade.
+Lembra disso? Isso é muito importante.
+
+1900
+00:36:10,150 --> 00:36:10,160
+Lembra disso? Isso é muito importante.
+ 
+
+1901
+00:36:10,160 --> 00:36:12,030
+Lembra disso? Isso é muito importante.
+Então não faz sentido você ter um monte
+
+1902
+00:36:12,030 --> 00:36:12,040
+Então não faz sentido você ter um monte
+ 
+
+1903
+00:36:12,040 --> 00:36:13,670
+Então não faz sentido você ter um monte
+de agente se você não tem
+
+1904
+00:36:13,670 --> 00:36:13,680
+de agente se você não tem
+ 
+
+1905
+00:36:13,680 --> 00:36:16,430
+de agente se você não tem
+confiabilidade. E aí pra gente fechar
+
+1906
+00:36:16,430 --> 00:36:16,440
+confiabilidade. E aí pra gente fechar
+ 
+
+1907
+00:36:16,440 --> 00:36:18,550
+confiabilidade. E aí pra gente fechar
+aqui, a Amora surgiu, sugeriu para mim
+
+1908
+00:36:18,550 --> 00:36:18,560
+aqui, a Amora surgiu, sugeriu para mim
+ 
+
+1909
+00:36:18,560 --> 00:36:21,670
+aqui, a Amora surgiu, sugeriu para mim
+essa frase: o futuro dos agentes não é
+
+1910
+00:36:21,670 --> 00:36:21,680
+essa frase: o futuro dos agentes não é
+ 
+
+1911
+00:36:21,680 --> 00:36:24,030
+essa frase: o futuro dos agentes não é
+parecer inteligente, é operar com
+
+1912
+00:36:24,030 --> 00:36:24,040
+parecer inteligente, é operar com
+ 
+
+1913
+00:36:24,040 --> 00:36:27,430
+parecer inteligente, é operar com
+contexto, skills e rotina, sem você
+
+1914
+00:36:27,430 --> 00:36:27,440
+contexto, skills e rotina, sem você
+ 
+
+1915
+00:36:27,440 --> 00:36:31,470
+contexto, skills e rotina, sem você
+repetir tudo toda vez. Então, se você eh
+
+1916
+00:36:31,470 --> 00:36:31,480
+repetir tudo toda vez. Então, se você eh
+ 
+
+1917
+00:36:31,480 --> 00:36:34,150
+repetir tudo toda vez. Então, se você eh
+tá construindo agentes em 2026,
+
+1918
+00:36:34,150 --> 00:36:34,160
+tá construindo agentes em 2026,
+ 
+
+1919
+00:36:34,160 --> 00:36:36,790
+tá construindo agentes em 2026,
+lembre-se, meu jovem Padawan, que o que
+
+1920
+00:36:36,790 --> 00:36:36,800
+lembre-se, meu jovem Padawan, que o que
+ 
+
+1921
+00:36:36,800 --> 00:36:39,510
+lembre-se, meu jovem Padawan, que o que
+importa de novo é sempre essa estrutura
+
+1922
+00:36:39,510 --> 00:36:39,520
+importa de novo é sempre essa estrutura
+ 
+
+1923
+00:36:39,520 --> 00:36:42,950
+importa de novo é sempre essa estrutura
+aqui. Então, a gente tem aqui contexto,
+
+1924
+00:36:42,950 --> 00:36:42,960
+aqui. Então, a gente tem aqui contexto,
+ 
+
+1925
+00:36:42,960 --> 00:36:45,790
+aqui. Então, a gente tem aqui contexto,
+a gente tem skills e a gente tem
+
+1926
+00:36:45,790 --> 00:36:45,800
+a gente tem skills e a gente tem
+ 
+
+1927
+00:36:45,800 --> 00:36:49,030
+a gente tem skills e a gente tem
+rotinas. Então, isso aqui é o que você
+
+1928
+00:36:49,030 --> 00:36:49,040
+rotinas. Então, isso aqui é o que você
+ 
+
+1929
+00:36:49,040 --> 00:36:51,829
+rotinas. Então, isso aqui é o que você
+precisa saber em 2026 para você ter a
+
+1930
+00:36:51,829 --> 00:36:51,839
+precisa saber em 2026 para você ter a
+ 
+
+1931
+00:36:51,839 --> 00:36:54,670
+precisa saber em 2026 para você ter a
+sua estrutura agêntica. Então, não se
+
+1932
+00:36:54,670 --> 00:36:54,680
+sua estrutura agêntica. Então, não se
+ 
+
+1933
+00:36:54,680 --> 00:36:56,589
+sua estrutura agêntica. Então, não se
+importe, não fique tão bitolado com essa
+
+1934
+00:36:56,589 --> 00:36:56,599
+importe, não fique tão bitolado com essa
+ 
+
+1935
+00:36:56,599 --> 00:36:58,870
+importe, não fique tão bitolado com essa
+questão de ferramentas. Ai, Open Cloud
+
+1936
+00:36:58,870 --> 00:36:58,880
+questão de ferramentas. Ai, Open Cloud
+ 
+
+1937
+00:36:58,880 --> 00:37:01,630
+questão de ferramentas. Ai, Open Cloud
+morreu. Ai, blá blá. Cara, escolhe uma
+
+1938
+00:37:01,630 --> 00:37:01,640
+morreu. Ai, blá blá. Cara, escolhe uma
+ 
+
+1939
+00:37:01,640 --> 00:37:03,870
+morreu. Ai, blá blá. Cara, escolhe uma
+ferramenta de agentes. Escolhe uma
+
+1940
+00:37:03,870 --> 00:37:03,880
+ferramenta de agentes. Escolhe uma
+ 
+
+1941
+00:37:03,880 --> 00:37:05,670
+ferramenta de agentes. Escolhe uma
+ferramenta de orquestração de agentes.
+
+1942
+00:37:05,670 --> 00:37:05,680
+ferramenta de orquestração de agentes.
+ 
+
+1943
+00:37:05,680 --> 00:37:07,750
+ferramenta de orquestração de agentes.
+Então, no meu caso, para mim, no
+
+1944
+00:37:07,750 --> 00:37:07,760
+Então, no meu caso, para mim, no
+ 
+
+1945
+00:37:07,760 --> 00:37:10,710
+Então, no meu caso, para mim, no
+Brainer, Open Claud e Cloud se encadam
+
+1946
+00:37:10,710 --> 00:37:10,720
+Brainer, Open Claud e Cloud se encadam
+ 
+
+1947
+00:37:10,720 --> 00:37:12,550
+Brainer, Open Claud e Cloud se encadam
+num segundo cérebro funciona
+
+1948
+00:37:12,550 --> 00:37:12,560
+num segundo cérebro funciona
+ 
+
+1949
+00:37:12,560 --> 00:37:14,390
+num segundo cérebro funciona
+maravilhosamente, porque o Open Claw tem
+
+1950
+00:37:14,390 --> 00:37:14,400
+maravilhosamente, porque o Open Claw tem
+ 
+
+1951
+00:37:14,400 --> 00:37:16,670
+maravilhosamente, porque o Open Claw tem
+essas rotinas, ele é autônomo, ele roda
+
+1952
+00:37:16,670 --> 00:37:16,680
+essas rotinas, ele é autônomo, ele roda
+ 
+
+1953
+00:37:16,680 --> 00:37:19,750
+essas rotinas, ele é autônomo, ele roda
+tudo isso muito bem e com o cloud e eu
+
+1954
+00:37:19,750 --> 00:37:19,760
+tudo isso muito bem e com o cloud e eu
+ 
+
+1955
+00:37:19,760 --> 00:37:21,589
+tudo isso muito bem e com o cloud e eu
+consigo montar meus projetos e fazer
+
+1956
+00:37:21,589 --> 00:37:21,599
+consigo montar meus projetos e fazer
+ 
+
+1957
+00:37:21,599 --> 00:37:23,309
+consigo montar meus projetos e fazer
+tudo aqui dentro. Então, Cloud e
+
+1958
+00:37:23,309 --> 00:37:23,319
+tudo aqui dentro. Então, Cloud e
+ 
+
+1959
+00:37:23,319 --> 00:37:25,230
+tudo aqui dentro. Então, Cloud e
+OpenCloud maravilhosos. Todo o contexto
+
+1960
+00:37:25,230 --> 00:37:25,240
+OpenCloud maravilhosos. Todo o contexto
+ 
+
+1961
+00:37:25,240 --> 00:37:27,030
+OpenCloud maravilhosos. Todo o contexto
+sincado num segundo cérebro. Todas as
+
+1962
+00:37:27,030 --> 00:37:27,040
+sincado num segundo cérebro. Todas as
+ 
+
+1963
+00:37:27,040 --> 00:37:28,870
+sincado num segundo cérebro. Todas as
+skills rodam tanto no cloud como no open
+
+1964
+00:37:28,870 --> 00:37:28,880
+skills rodam tanto no cloud como no open
+ 
+
+1965
+00:37:28,880 --> 00:37:30,790
+skills rodam tanto no cloud como no open
+claw. Todas as rotinas estão no meu
+
+1966
+00:37:30,790 --> 00:37:30,800
+claw. Todas as rotinas estão no meu
+ 
+
+1967
+00:37:30,800 --> 00:37:33,190
+claw. Todas as rotinas estão no meu
+open, então funciona maravilhosamente
+
+1968
+00:37:33,190 --> 00:37:33,200
+open, então funciona maravilhosamente
+ 
+
+1969
+00:37:33,200 --> 00:37:35,030
+open, então funciona maravilhosamente
+também, tá bom? Então, manda esse vídeo
+
+1970
+00:37:35,030 --> 00:37:35,040
+também, tá bom? Então, manda esse vídeo
+ 
+
+1971
+00:37:35,040 --> 00:37:36,630
+também, tá bom? Então, manda esse vídeo
+aqui para aquele seu amigo que quer
+
+1972
+00:37:36,630 --> 00:37:36,640
+aqui para aquele seu amigo que quer
+ 
+
+1973
+00:37:36,640 --> 00:37:38,150
+aqui para aquele seu amigo que quer
+aprender sobre agentes, ainda não sabe
+
+1974
+00:37:38,150 --> 00:37:38,160
+aprender sobre agentes, ainda não sabe
+ 
+
+1975
+00:37:38,160 --> 00:37:40,270
+aprender sobre agentes, ainda não sabe
+para onde começar, para ele entender o
+
+1976
+00:37:40,270 --> 00:37:40,280
+para onde começar, para ele entender o
+ 
+
+1977
+00:37:40,280 --> 00:37:42,069
+para onde começar, para ele entender o
+que que é um agente e quais são os três
+
+1978
+00:37:42,069 --> 00:37:42,079
+que que é um agente e quais são os três
+ 
+
+1979
+00:37:42,079 --> 00:37:44,750
+que que é um agente e quais são os três
+pilares para ele eh lançar o seu
+
+1980
+00:37:44,750 --> 00:37:44,760
+pilares para ele eh lançar o seu
+ 
+
+1981
+00:37:44,760 --> 00:37:46,589
+pilares para ele eh lançar o seu
+projeto, tá bom? De novo, muito obrigado
+
+1982
+00:37:46,589 --> 00:37:46,599
+projeto, tá bom? De novo, muito obrigado
+ 
+
+1983
+00:37:46,599 --> 00:37:48,190
+projeto, tá bom? De novo, muito obrigado
+se você chegou até aqui o fim do vídeo.
+
+1984
+00:37:48,190 --> 00:37:48,200
+se você chegou até aqui o fim do vídeo.
+ 
+
+1985
+00:37:48,200 --> 00:37:49,750
+se você chegou até aqui o fim do vídeo.
+Não esqueça de deixar seu like, porque,
+
+1986
+00:37:49,750 --> 00:37:49,760
+Não esqueça de deixar seu like, porque,
+ 
+
+1987
+00:37:49,760 --> 00:37:51,670
+Não esqueça de deixar seu like, porque,
+cara, me ajuda demais, de coração, e se
+
+1988
+00:37:51,670 --> 00:37:51,680
+cara, me ajuda demais, de coração, e se
+ 
+
+1989
+00:37:51,680 --> 00:37:53,030
+cara, me ajuda demais, de coração, e se
+inscrever para mais vídeos como esse e
+
+1990
+00:37:53,030 --> 00:37:53,040
+inscrever para mais vídeos como esse e
+ 
+
+1991
+00:37:53,040 --> 00:37:54,510
+inscrever para mais vídeos como esse e
+mandar para aquele seu amigo que precisa
+
+1992
+00:37:54,510 --> 00:37:54,520
+mandar para aquele seu amigo que precisa
+ 
+
+1993
+00:37:54,520 --> 00:37:56,150
+mandar para aquele seu amigo que precisa
+de um banho de loja de agentes, tá bom?
+
+1994
+00:37:56,150 --> 00:37:56,160
+de um banho de loja de agentes, tá bom?
+ 
+
+1995
+00:37:56,160 --> 00:37:59,599
+de um banho de loja de agentes, tá bom?
+Tamamos junto. Te vejo no próximo vídeo.
+

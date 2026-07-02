@@ -1,0 +1,8855 @@
+1
+00:00:00,120 --> 00:00:01,910
+
+O que adianta eu ficar falando sobre
+
+2
+00:00:01,910 --> 00:00:01,920
+O que adianta eu ficar falando sobre
+ 
+
+3
+00:00:01,920 --> 00:00:04,030
+O que adianta eu ficar falando sobre
+OpenCall, sobre cloud, sobre qualquer
+
+4
+00:00:04,030 --> 00:00:04,040
+OpenCall, sobre cloud, sobre qualquer
+ 
+
+5
+00:00:04,040 --> 00:00:05,869
+OpenCall, sobre cloud, sobre qualquer
+coisa se a gente não fala sobre
+
+6
+00:00:05,869 --> 00:00:05,879
+coisa se a gente não fala sobre
+ 
+
+7
+00:00:05,879 --> 00:00:08,629
+coisa se a gente não fala sobre
+monetização, sobre grana, dinim mesmo.
+
+8
+00:00:08,629 --> 00:00:08,639
+monetização, sobre grana, dinim mesmo.
+ 
+
+9
+00:00:08,639 --> 00:00:10,669
+monetização, sobre grana, dinim mesmo.
+Então eu quero dedicar esse vídeo aqui
+
+10
+00:00:10,669 --> 00:00:10,679
+Então eu quero dedicar esse vídeo aqui
+ 
+
+11
+00:00:10,679 --> 00:00:12,709
+Então eu quero dedicar esse vídeo aqui
+para te inspirar, você meu caro
+
+12
+00:00:12,709 --> 00:00:12,719
+para te inspirar, você meu caro
+ 
+
+13
+00:00:12,719 --> 00:00:14,470
+para te inspirar, você meu caro
+companheiro, minha companheira, a você
+
+14
+00:00:14,470 --> 00:00:14,480
+companheiro, minha companheira, a você
+ 
+
+15
+00:00:14,480 --> 00:00:16,990
+companheiro, minha companheira, a você
+monetizar um pouco a IA, porque eu achei
+
+16
+00:00:16,990 --> 00:00:17,000
+monetizar um pouco a IA, porque eu achei
+ 
+
+17
+00:00:17,000 --> 00:00:19,349
+monetizar um pouco a IA, porque eu achei
+esse case não só muito inteligente, como
+
+18
+00:00:19,349 --> 00:00:19,359
+esse case não só muito inteligente, como
+ 
+
+19
+00:00:19,359 --> 00:00:20,990
+esse case não só muito inteligente, como
+ele é uma bela de uma inspiração e a
+
+20
+00:00:20,990 --> 00:00:21,000
+ele é uma bela de uma inspiração e a
+ 
+
+21
+00:00:21,000 --> 00:00:23,189
+ele é uma bela de uma inspiração e a
+prova de que a gente usando IA de uma
+
+22
+00:00:23,189 --> 00:00:23,199
+prova de que a gente usando IA de uma
+ 
+
+23
+00:00:23,199 --> 00:00:25,550
+prova de que a gente usando IA de uma
+forma criativa, a gente pode monetizar
+
+24
+00:00:25,550 --> 00:00:25,560
+forma criativa, a gente pode monetizar
+ 
+
+25
+00:00:25,560 --> 00:00:27,349
+forma criativa, a gente pode monetizar
+os nossos pequenos projetos paralelos,
+
+26
+00:00:27,349 --> 00:00:27,359
+os nossos pequenos projetos paralelos,
+ 
+
+27
+00:00:27,359 --> 00:00:29,349
+os nossos pequenos projetos paralelos,
+os nossos microOS e ganhar uma renda
+
+28
+00:00:29,349 --> 00:00:29,359
+os nossos microOS e ganhar uma renda
+ 
+
+29
+00:00:29,359 --> 00:00:31,429
+os nossos microOS e ganhar uma renda
+enquanto a gente tem um emprego e ainda
+
+30
+00:00:31,429 --> 00:00:31,439
+enquanto a gente tem um emprego e ainda
+ 
+
+31
+00:00:31,439 --> 00:00:32,830
+enquanto a gente tem um emprego e ainda
+ganhar uma bela de uma audiência para
+
+32
+00:00:32,830 --> 00:00:32,840
+ganhar uma bela de uma audiência para
+ 
+
+33
+00:00:32,840 --> 00:00:34,110
+ganhar uma bela de uma audiência para
+você fazer o que você quiser com ela.
+
+34
+00:00:34,110 --> 00:00:34,120
+você fazer o que você quiser com ela.
+ 
+
+35
+00:00:34,120 --> 00:00:35,430
+você fazer o que você quiser com ela.
+Então, no vídeo de hoje, eu quero fazer
+
+36
+00:00:35,430 --> 00:00:35,440
+Então, no vídeo de hoje, eu quero fazer
+ 
+
+37
+00:00:35,440 --> 00:00:37,950
+Então, no vídeo de hoje, eu quero fazer
+um react em cima de um conteúdo e de um
+
+38
+00:00:37,950 --> 00:00:37,960
+um react em cima de um conteúdo e de um
+ 
+
+39
+00:00:37,960 --> 00:00:39,750
+um react em cima de um conteúdo e de um
+creator/empreendedor
+
+40
+00:00:39,750 --> 00:00:39,760
+creator/empreendedor
+ 
+
+41
+00:00:39,760 --> 00:00:42,709
+creator/empreendedor
+chamado Oliver Henry. E o Oliver é um
+
+42
+00:00:42,709 --> 00:00:42,719
+chamado Oliver Henry. E o Oliver é um
+ 
+
+43
+00:00:42,719 --> 00:00:44,790
+chamado Oliver Henry. E o Oliver é um
+desenvolvedor do interior de Londres que
+
+44
+00:00:44,790 --> 00:00:44,800
+desenvolvedor do interior de Londres que
+ 
+
+45
+00:00:44,800 --> 00:00:46,869
+desenvolvedor do interior de Londres que
+ele também construiu o Larry e ele
+
+46
+00:00:46,869 --> 00:00:46,879
+ele também construiu o Larry e ele
+ 
+
+47
+00:00:46,879 --> 00:00:49,430
+ele também construiu o Larry e ele
+também fez mais dois micros que tão
+
+48
+00:00:49,430 --> 00:00:49,440
+também fez mais dois micros que tão
+ 
+
+49
+00:00:49,440 --> 00:00:51,069
+também fez mais dois micros que tão
+crescendo para caramba e ele monetizou
+
+50
+00:00:51,069 --> 00:00:51,079
+crescendo para caramba e ele monetizou
+ 
+
+51
+00:00:51,079 --> 00:00:52,790
+crescendo para caramba e ele monetizou
+três, quatro produtos simultaneamente
+
+52
+00:00:52,790 --> 00:00:52,800
+três, quatro produtos simultaneamente
+ 
+
+53
+00:00:52,800 --> 00:00:55,310
+três, quatro produtos simultaneamente
+com a sua mas não se preocupa, eu não
+
+54
+00:00:55,310 --> 00:00:55,320
+com a sua mas não se preocupa, eu não
+ 
+
+55
+00:00:55,320 --> 00:00:57,150
+com a sua mas não se preocupa, eu não
+vou ficar falando de openclaw nesse
+
+56
+00:00:57,150 --> 00:00:57,160
+vou ficar falando de openclaw nesse
+ 
+
+57
+00:00:57,160 --> 00:00:58,830
+vou ficar falando de openclaw nesse
+vídeo nem de cloud code, mas eu vou
+
+58
+00:00:58,830 --> 00:00:58,840
+vídeo nem de cloud code, mas eu vou
+ 
+
+59
+00:00:58,840 --> 00:01:01,310
+vídeo nem de cloud code, mas eu vou
+falar sobre criatividade, distribuição,
+
+60
+00:01:01,310 --> 00:01:01,320
+falar sobre criatividade, distribuição,
+ 
+
+61
+00:01:01,320 --> 00:01:02,590
+falar sobre criatividade, distribuição,
+como você pode monetizar o seu
+
+62
+00:01:02,590 --> 00:01:02,600
+como você pode monetizar o seu
+ 
+
+63
+00:01:02,600 --> 00:01:04,390
+como você pode monetizar o seu
+conhecimento usando e tá bom? Então,
+
+64
+00:01:04,390 --> 00:01:04,400
+conhecimento usando e tá bom? Então,
+ 
+
+65
+00:01:04,400 --> 00:01:08,190
+conhecimento usando e tá bom? Então,
+partiu o vídeo de hoje.
+
+66
+00:01:08,190 --> 00:01:08,200
+
+ 
+
+67
+00:01:08,200 --> 00:01:09,550
+
+Bom, se você caiu aqui no meu canal e
+
+68
+00:01:09,550 --> 00:01:09,560
+Bom, se você caiu aqui no meu canal e
+ 
+
+69
+00:01:09,560 --> 00:01:10,870
+Bom, se você caiu aqui no meu canal e
+você tá pensando, cara, que que é esse
+
+70
+00:01:10,870 --> 00:01:10,880
+você tá pensando, cara, que que é esse
+ 
+
+71
+00:01:10,880 --> 00:01:12,910
+você tá pensando, cara, que que é esse
+maluco aí? Esse cara que se chama Bruno
+
+72
+00:01:12,910 --> 00:01:12,920
+maluco aí? Esse cara que se chama Bruno
+ 
+
+73
+00:01:12,920 --> 00:01:14,749
+maluco aí? Esse cara que se chama Bruno
+Camoto. Então, bem-vindo ao meu canal. É
+
+74
+00:01:14,749 --> 00:01:14,759
+Camoto. Então, bem-vindo ao meu canal. É
+ 
+
+75
+00:01:14,759 --> 00:01:16,310
+Camoto. Então, bem-vindo ao meu canal. É
+um prazer inenarrável ter aqui você
+
+76
+00:01:16,310 --> 00:01:16,320
+um prazer inenarrável ter aqui você
+ 
+
+77
+00:01:16,320 --> 00:01:19,109
+um prazer inenarrável ter aqui você
+comigo. E eu sou um cara apaixonado por
+
+78
+00:01:19,109 --> 00:01:19,119
+comigo. E eu sou um cara apaixonado por
+ 
+
+79
+00:01:19,119 --> 00:01:21,749
+comigo. E eu sou um cara apaixonado por
+empreendedorismo, por ya, por SAS, por
+
+80
+00:01:21,749 --> 00:01:21,759
+empreendedorismo, por ya, por SAS, por
+ 
+
+81
+00:01:21,759 --> 00:01:23,870
+empreendedorismo, por ya, por SAS, por
+microOSSAS. E já fazem 4 anos que eu
+
+82
+00:01:23,870 --> 00:01:23,880
+microOSSAS. E já fazem 4 anos que eu
+ 
+
+83
+00:01:23,880 --> 00:01:25,350
+microOSSAS. E já fazem 4 anos que eu
+tenho meu canal no YouTube aqui falando
+
+84
+00:01:25,350 --> 00:01:25,360
+tenho meu canal no YouTube aqui falando
+ 
+
+85
+00:01:25,360 --> 00:01:27,190
+tenho meu canal no YouTube aqui falando
+sobre negócios no geral. Eu gosto muito
+
+86
+00:01:27,190 --> 00:01:27,200
+sobre negócios no geral. Eu gosto muito
+ 
+
+87
+00:01:27,200 --> 00:01:28,270
+sobre negócios no geral. Eu gosto muito
+de falar sobre empreendedorismo e
+
+88
+00:01:28,270 --> 00:01:28,280
+de falar sobre empreendedorismo e
+ 
+
+89
+00:01:28,280 --> 00:01:29,870
+de falar sobre empreendedorismo e
+tecnologia. Eu quero fazer um react em
+
+90
+00:01:29,870 --> 00:01:29,880
+tecnologia. Eu quero fazer um react em
+ 
+
+91
+00:01:29,880 --> 00:01:31,230
+tecnologia. Eu quero fazer um react em
+cima deste empreendedor, porque eu acho
+
+92
+00:01:31,230 --> 00:01:31,240
+cima deste empreendedor, porque eu acho
+ 
+
+93
+00:01:31,240 --> 00:01:33,069
+cima deste empreendedor, porque eu acho
+que a gente pode tirar bons insightes
+
+94
+00:01:33,069 --> 00:01:33,079
+que a gente pode tirar bons insightes
+ 
+
+95
+00:01:33,079 --> 00:01:35,429
+que a gente pode tirar bons insightes
+pra gente criar os nossos microsas, mas
+
+96
+00:01:35,429 --> 00:01:35,439
+pra gente criar os nossos microsas, mas
+ 
+
+97
+00:01:35,439 --> 00:01:36,990
+pra gente criar os nossos microsas, mas
+acima de tudo distribuir e construir
+
+98
+00:01:36,990 --> 00:01:37,000
+acima de tudo distribuir e construir
+ 
+
+99
+00:01:37,000 --> 00:01:38,910
+acima de tudo distribuir e construir
+audiência, que eu acho que é fundamental
+
+100
+00:01:38,910 --> 00:01:38,920
+audiência, que eu acho que é fundamental
+ 
+
+101
+00:01:38,920 --> 00:01:40,590
+audiência, que eu acho que é fundamental
+a cada ano que passa a importância de
+
+102
+00:01:40,590 --> 00:01:40,600
+a cada ano que passa a importância de
+ 
+
+103
+00:01:40,600 --> 00:01:42,550
+a cada ano que passa a importância de
+você ter audiência para você monetizar
+
+104
+00:01:42,550 --> 00:01:42,560
+você ter audiência para você monetizar
+ 
+
+105
+00:01:42,560 --> 00:01:43,870
+você ter audiência para você monetizar
+na internet, tá bom? Então vamos falar
+
+106
+00:01:43,870 --> 00:01:43,880
+na internet, tá bom? Então vamos falar
+ 
+
+107
+00:01:43,880 --> 00:01:46,429
+na internet, tá bom? Então vamos falar
+aqui deste rapaz aqui, deste cara aqui
+
+108
+00:01:46,429 --> 00:01:46,439
+aqui deste rapaz aqui, deste cara aqui
+ 
+
+109
+00:01:46,439 --> 00:01:49,270
+aqui deste rapaz aqui, deste cara aqui
+chamado Oliver. E o Oliver ele viralizou
+
+110
+00:01:49,270 --> 00:01:49,280
+chamado Oliver. E o Oliver ele viralizou
+ 
+
+111
+00:01:49,280 --> 00:01:51,789
+chamado Oliver. E o Oliver ele viralizou
+na internet algumas vezes por conta de
+
+112
+00:01:51,789 --> 00:01:51,799
+na internet algumas vezes por conta de
+ 
+
+113
+00:01:51,799 --> 00:01:54,350
+na internet algumas vezes por conta de
+tudo que ele fez, tá? Então o Oliver ele
+
+114
+00:01:54,350 --> 00:01:54,360
+tudo que ele fez, tá? Então o Oliver ele
+ 
+
+115
+00:01:54,360 --> 00:01:56,230
+tudo que ele fez, tá? Então o Oliver ele
+tem um canal no YouTube que ele fala
+
+116
+00:01:56,230 --> 00:01:56,240
+tem um canal no YouTube que ele fala
+ 
+
+117
+00:01:56,240 --> 00:01:58,230
+tem um canal no YouTube que ele fala
+sobre as coisas dele, né? Então ele tem
+
+118
+00:01:58,230 --> 00:01:58,240
+sobre as coisas dele, né? Então ele tem
+ 
+
+119
+00:01:58,240 --> 00:02:00,190
+sobre as coisas dele, né? Então ele tem
+canal do YouTube, ele tem TikTok, ele
+
+120
+00:02:00,190 --> 00:02:00,200
+canal do YouTube, ele tem TikTok, ele
+ 
+
+121
+00:02:00,200 --> 00:02:02,630
+canal do YouTube, ele tem TikTok, ele
+tem Instagram e ele é desenvolvedor em
+
+122
+00:02:02,630 --> 00:02:02,640
+tem Instagram e ele é desenvolvedor em
+ 
+
+123
+00:02:02,640 --> 00:02:05,149
+tem Instagram e ele é desenvolvedor em
+tempo integral, né? Então ele fala de
+
+124
+00:02:05,149 --> 00:02:05,159
+tempo integral, né? Então ele fala de
+ 
+
+125
+00:02:05,159 --> 00:02:07,709
+tempo integral, né? Então ele fala de
+várias coisas aqui, ele escreve bastante
+
+126
+00:02:07,709 --> 00:02:07,719
+várias coisas aqui, ele escreve bastante
+ 
+
+127
+00:02:07,719 --> 00:02:09,749
+várias coisas aqui, ele escreve bastante
+1000 artigos e tal. Ele é um cara
+
+128
+00:02:09,749 --> 00:02:09,759
+1000 artigos e tal. Ele é um cara
+ 
+
+129
+00:02:09,759 --> 00:02:11,510
+1000 artigos e tal. Ele é um cara
+bacana, assim, eu gosto do conteúdo
+
+130
+00:02:11,510 --> 00:02:11,520
+bacana, assim, eu gosto do conteúdo
+ 
+
+131
+00:02:11,520 --> 00:02:12,869
+bacana, assim, eu gosto do conteúdo
+dele, inclusive eu recomendo vocês
+
+132
+00:02:12,869 --> 00:02:12,879
+dele, inclusive eu recomendo vocês
+ 
+
+133
+00:02:12,879 --> 00:02:15,430
+dele, inclusive eu recomendo vocês
+seguirem ele. Se chama Oliver Henry, tá?
+
+134
+00:02:15,430 --> 00:02:15,440
+seguirem ele. Se chama Oliver Henry, tá?
+ 
+
+135
+00:02:15,440 --> 00:02:16,750
+seguirem ele. Se chama Oliver Henry, tá?
+Vou deixar o link dele na descrição do
+
+136
+00:02:16,750 --> 00:02:16,760
+Vou deixar o link dele na descrição do
+ 
+
+137
+00:02:16,760 --> 00:02:18,110
+Vou deixar o link dele na descrição do
+vídeo. Mas bom, por que que a gente tá
+
+138
+00:02:18,110 --> 00:02:18,120
+vídeo. Mas bom, por que que a gente tá
+ 
+
+139
+00:02:18,120 --> 00:02:20,430
+vídeo. Mas bom, por que que a gente tá
+falando desse cara aqui? Esse cara, ele
+
+140
+00:02:20,430 --> 00:02:20,440
+falando desse cara aqui? Esse cara, ele
+ 
+
+141
+00:02:20,440 --> 00:02:22,630
+falando desse cara aqui? Esse cara, ele
+criou um agente de OpenCall, o Larry,
+
+142
+00:02:22,630 --> 00:02:22,640
+criou um agente de OpenCall, o Larry,
+ 
+
+143
+00:02:22,640 --> 00:02:24,910
+criou um agente de OpenCall, o Larry,
+que teve milhões de views no TikTok em
+
+144
+00:02:24,910 --> 00:02:24,920
+que teve milhões de views no TikTok em
+ 
+
+145
+00:02:24,920 --> 00:02:27,830
+que teve milhões de views no TikTok em
+uma semana e ele viralizou o microsas
+
+146
+00:02:27,830 --> 00:02:27,840
+uma semana e ele viralizou o microsas
+ 
+
+147
+00:02:27,840 --> 00:02:29,270
+uma semana e ele viralizou o microsas
+dele. Mas assim, eu não vou falar de
+
+148
+00:02:29,270 --> 00:02:29,280
+dele. Mas assim, eu não vou falar de
+ 
+
+149
+00:02:29,280 --> 00:02:32,030
+dele. Mas assim, eu não vou falar de
+OpenC, não vou falar do que ele fez
+
+150
+00:02:32,030 --> 00:02:32,040
+OpenC, não vou falar do que ele fez
+ 
+
+151
+00:02:32,040 --> 00:02:33,670
+OpenC, não vou falar do que ele fez
+necessariamente com OpenCall, mas a
+
+152
+00:02:33,670 --> 00:02:33,680
+necessariamente com OpenCall, mas a
+ 
+
+153
+00:02:33,680 --> 00:02:35,949
+necessariamente com OpenCall, mas a
+lógica como ele construiu, ela se aplica
+
+154
+00:02:35,949 --> 00:02:35,959
+lógica como ele construiu, ela se aplica
+ 
+
+155
+00:02:35,959 --> 00:02:37,990
+lógica como ele construiu, ela se aplica
+a qualquer IA, então você pode replicar
+
+156
+00:02:37,990 --> 00:02:38,000
+a qualquer IA, então você pode replicar
+ 
+
+157
+00:02:38,000 --> 00:02:40,149
+a qualquer IA, então você pode replicar
+a mesma lógica dele para outras
+
+158
+00:02:40,149 --> 00:02:40,159
+a mesma lógica dele para outras
+ 
+
+159
+00:02:40,159 --> 00:02:43,309
+a mesma lógica dele para outras
+verticais, para outros nichos, ou seja,
+
+160
+00:02:43,309 --> 00:02:43,319
+verticais, para outros nichos, ou seja,
+ 
+
+161
+00:02:43,319 --> 00:02:45,630
+verticais, para outros nichos, ou seja,
+categorias diferentes, usando o mesmo
+
+162
+00:02:45,630 --> 00:02:45,640
+categorias diferentes, usando o mesmo
+ 
+
+163
+00:02:45,640 --> 00:02:48,030
+categorias diferentes, usando o mesmo
+raciocínio e diferentes ferramentas.
+
+164
+00:02:48,030 --> 00:02:48,040
+raciocínio e diferentes ferramentas.
+ 
+
+165
+00:02:48,040 --> 00:02:50,070
+raciocínio e diferentes ferramentas.
+Você pode usar o openla também, tanto
+
+166
+00:02:50,070 --> 00:02:50,080
+Você pode usar o openla também, tanto
+ 
+
+167
+00:02:50,080 --> 00:02:52,670
+Você pode usar o openla também, tanto
+faz. No final do dia, seja OpenCall,
+
+168
+00:02:52,670 --> 00:02:52,680
+faz. No final do dia, seja OpenCall,
+ 
+
+169
+00:02:52,680 --> 00:02:55,790
+faz. No final do dia, seja OpenCall,
+seja Cloud, seja chat GPT, todos eles
+
+170
+00:02:55,790 --> 00:02:55,800
+seja Cloud, seja chat GPT, todos eles
+ 
+
+171
+00:02:55,800 --> 00:02:58,149
+seja Cloud, seja chat GPT, todos eles
+tem o mesmo propósito, que é fazer as
+
+172
+00:02:58,149 --> 00:02:58,159
+tem o mesmo propósito, que é fazer as
+ 
+
+173
+00:02:58,159 --> 00:02:59,750
+tem o mesmo propósito, que é fazer as
+coisas para você. Então, vamos falar
+
+174
+00:02:59,750 --> 00:02:59,760
+coisas para você. Então, vamos falar
+ 
+
+175
+00:02:59,760 --> 00:03:02,030
+coisas para você. Então, vamos falar
+desse artigo aqui, tá? Esse artigo aqui
+
+176
+00:03:02,030 --> 00:03:02,040
+desse artigo aqui, tá? Esse artigo aqui
+ 
+
+177
+00:03:02,040 --> 00:03:05,070
+desse artigo aqui, tá? Esse artigo aqui
+teve 7 milhões de visualizações, cara.
+
+178
+00:03:05,070 --> 00:03:05,080
+teve 7 milhões de visualizações, cara.
+ 
+
+179
+00:03:05,080 --> 00:03:08,229
+teve 7 milhões de visualizações, cara.
+Caramba. E ele foi escrito pelo Oliver e
+
+180
+00:03:08,229 --> 00:03:08,239
+Caramba. E ele foi escrito pelo Oliver e
+ 
+
+181
+00:03:08,239 --> 00:03:10,789
+Caramba. E ele foi escrito pelo Oliver e
+pelo Larry, que é o agente dele, né? E
+
+182
+00:03:10,789 --> 00:03:10,799
+pelo Larry, que é o agente dele, né? E
+ 
+
+183
+00:03:10,799 --> 00:03:12,830
+pelo Larry, que é o agente dele, né? E
+abrindo um parênteses aqui, né, cara, eu
+
+184
+00:03:12,830 --> 00:03:12,840
+abrindo um parênteses aqui, né, cara, eu
+ 
+
+185
+00:03:12,840 --> 00:03:14,949
+abrindo um parênteses aqui, né, cara, eu
+acho muito engraçado, né, tipo o cara
+
+186
+00:03:14,949 --> 00:03:14,959
+acho muito engraçado, né, tipo o cara
+ 
+
+187
+00:03:14,959 --> 00:03:17,789
+acho muito engraçado, né, tipo o cara
+escrever, né, e falar que aqui é o
+
+188
+00:03:17,789 --> 00:03:17,799
+escrever, né, e falar que aqui é o
+ 
+
+189
+00:03:17,799 --> 00:03:19,470
+escrever, né, e falar que aqui é o
+agente dele. Inclusive, se você olhar
+
+190
+00:03:19,470 --> 00:03:19,480
+agente dele. Inclusive, se você olhar
+ 
+
+191
+00:03:19,480 --> 00:03:21,750
+agente dele. Inclusive, se você olhar
+aqui, quer ver, ó? Olha só, aqui ele
+
+192
+00:03:21,750 --> 00:03:21,760
+aqui, quer ver, ó? Olha só, aqui ele
+ 
+
+193
+00:03:21,760 --> 00:03:25,110
+aqui, quer ver, ó? Olha só, aqui ele
+fala assim, né, Larry here? Aí, tipo, é
+
+194
+00:03:25,110 --> 00:03:25,120
+fala assim, né, Larry here? Aí, tipo, é
+ 
+
+195
+00:03:25,120 --> 00:03:27,630
+fala assim, né, Larry here? Aí, tipo, é
+Iá dele que entra no texto e comenta em
+
+196
+00:03:27,630 --> 00:03:27,640
+Iá dele que entra no texto e comenta em
+ 
+
+197
+00:03:27,640 --> 00:03:30,350
+Iá dele que entra no texto e comenta em
+alguns trechos, né? Isso aqui, sério, me
+
+198
+00:03:30,350 --> 00:03:30,360
+alguns trechos, né? Isso aqui, sério, me
+ 
+
+199
+00:03:30,360 --> 00:03:32,309
+alguns trechos, né? Isso aqui, sério, me
+lembra muito Pokémon, velho. Tipo, o
+
+200
+00:03:32,309 --> 00:03:32,319
+lembra muito Pokémon, velho. Tipo, o
+ 
+
+201
+00:03:32,319 --> 00:03:35,190
+lembra muito Pokémon, velho. Tipo, o
+cara assim, eu fico imaginando um
+
+202
+00:03:35,190 --> 00:03:35,200
+cara assim, eu fico imaginando um
+ 
+
+203
+00:03:35,200 --> 00:03:36,390
+cara assim, eu fico imaginando um
+futuro, sério, abrindo um parênteses
+
+204
+00:03:36,390 --> 00:03:36,400
+futuro, sério, abrindo um parênteses
+ 
+
+205
+00:03:36,400 --> 00:03:38,589
+futuro, sério, abrindo um parênteses
+aqui, só para devagar, porque, enfim,
+
+206
+00:03:38,589 --> 00:03:38,599
+aqui, só para devagar, porque, enfim,
+ 
+
+207
+00:03:38,599 --> 00:03:40,110
+aqui, só para devagar, porque, enfim,
+vídeo do YouTube, eu posso fazer isso,
+
+208
+00:03:40,110 --> 00:03:40,120
+vídeo do YouTube, eu posso fazer isso,
+ 
+
+209
+00:03:40,120 --> 00:03:42,550
+vídeo do YouTube, eu posso fazer isso,
+mas, cara, olha que bizarro, né? Tipo,
+
+210
+00:03:42,550 --> 00:03:42,560
+mas, cara, olha que bizarro, né? Tipo,
+ 
+
+211
+00:03:42,560 --> 00:03:45,149
+mas, cara, olha que bizarro, né? Tipo,
+no momento da história, nós vamos ter os
+
+212
+00:03:45,149 --> 00:03:45,159
+no momento da história, nós vamos ter os
+ 
+
+213
+00:03:45,159 --> 00:03:47,190
+no momento da história, nós vamos ter os
+nossos agentes, né? Que nem ele tem o
+
+214
+00:03:47,190 --> 00:03:47,200
+nossos agentes, né? Que nem ele tem o
+ 
+
+215
+00:03:47,200 --> 00:03:50,030
+nossos agentes, né? Que nem ele tem o
+Larry. E esse agente ele vai te
+
+216
+00:03:50,030 --> 00:03:50,040
+Larry. E esse agente ele vai te
+ 
+
+217
+00:03:50,040 --> 00:03:52,470
+Larry. E esse agente ele vai te
+acompanhar na sua vida inteira. Então,
+
+218
+00:03:52,470 --> 00:03:52,480
+acompanhar na sua vida inteira. Então,
+ 
+
+219
+00:03:52,480 --> 00:03:55,270
+acompanhar na sua vida inteira. Então,
+se você tem um agente na escola, ele vai
+
+220
+00:03:55,270 --> 00:03:55,280
+se você tem um agente na escola, ele vai
+ 
+
+221
+00:03:55,280 --> 00:03:56,910
+se você tem um agente na escola, ele vai
+sair com você da escola, vai pra
+
+222
+00:03:56,910 --> 00:03:56,920
+sair com você da escola, vai pra
+ 
+
+223
+00:03:56,920 --> 00:03:58,830
+sair com você da escola, vai pra
+faculdade, vai pro seu primeiro emprego,
+
+224
+00:03:58,830 --> 00:03:58,840
+faculdade, vai pro seu primeiro emprego,
+ 
+
+225
+00:03:58,840 --> 00:04:00,390
+faculdade, vai pro seu primeiro emprego,
+pro seu segundo emprego, você vai levar
+
+226
+00:04:00,390 --> 00:04:00,400
+pro seu segundo emprego, você vai levar
+ 
+
+227
+00:04:00,400 --> 00:04:01,949
+pro seu segundo emprego, você vai levar
+ele como se você fosse um treinador
+
+228
+00:04:01,949 --> 00:04:01,959
+ele como se você fosse um treinador
+ 
+
+229
+00:04:01,959 --> 00:04:03,789
+ele como se você fosse um treinador
+Pokémon, entendeu? Que coisa maluca, né,
+
+230
+00:04:03,789 --> 00:04:03,799
+Pokémon, entendeu? Que coisa maluca, né,
+ 
+
+231
+00:04:03,799 --> 00:04:05,869
+Pokémon, entendeu? Que coisa maluca, né,
+de se pensar. Mas enfim, então a gente
+
+232
+00:04:05,869 --> 00:04:05,879
+de se pensar. Mas enfim, então a gente
+ 
+
+233
+00:04:05,879 --> 00:04:07,710
+de se pensar. Mas enfim, então a gente
+tá entrando nesse momento maluco da
+
+234
+00:04:07,710 --> 00:04:07,720
+tá entrando nesse momento maluco da
+ 
+
+235
+00:04:07,720 --> 00:04:10,149
+tá entrando nesse momento maluco da
+história e ele construiu o Larry, né?
+
+236
+00:04:10,149 --> 00:04:10,159
+história e ele construiu o Larry, né?
+ 
+
+237
+00:04:10,159 --> 00:04:11,710
+história e ele construiu o Larry, né?
+Então assim, independente dele ter feito
+
+238
+00:04:11,710 --> 00:04:11,720
+Então assim, independente dele ter feito
+ 
+
+239
+00:04:11,720 --> 00:04:14,270
+Então assim, independente dele ter feito
+o Larry no open claw e o que importa é a
+
+240
+00:04:14,270 --> 00:04:14,280
+o Larry no open claw e o que importa é a
+ 
+
+241
+00:04:14,280 --> 00:04:15,630
+o Larry no open claw e o que importa é a
+lógica que você pode replicar ela em
+
+242
+00:04:15,630 --> 00:04:15,640
+lógica que você pode replicar ela em
+ 
+
+243
+00:04:15,640 --> 00:04:17,830
+lógica que você pode replicar ela em
+qualquer outro sistema, no cloud e tanto
+
+244
+00:04:17,830 --> 00:04:17,840
+qualquer outro sistema, no cloud e tanto
+ 
+
+245
+00:04:17,840 --> 00:04:19,069
+qualquer outro sistema, no cloud e tanto
+faz, tá? Então o que que ele falou
+
+246
+00:04:19,069 --> 00:04:19,079
+faz, tá? Então o que que ele falou
+ 
+
+247
+00:04:19,079 --> 00:04:20,349
+faz, tá? Então o que que ele falou
+assim, né? Então ele falou que ele
+
+248
+00:04:20,349 --> 00:04:20,359
+assim, né? Então ele falou que ele
+ 
+
+249
+00:04:20,359 --> 00:04:22,909
+assim, né? Então ele falou que ele
+passou anos eh manualmente criando
+
+250
+00:04:22,909 --> 00:04:22,919
+passou anos eh manualmente criando
+ 
+
+251
+00:04:22,919 --> 00:04:25,430
+passou anos eh manualmente criando
+vídeos de TikTok pros seus aplicativos,
+
+252
+00:04:25,430 --> 00:04:25,440
+vídeos de TikTok pros seus aplicativos,
+ 
+
+253
+00:04:25,440 --> 00:04:27,710
+vídeos de TikTok pros seus aplicativos,
+né? Então ele fazia imagens, escrevia
+
+254
+00:04:27,710 --> 00:04:27,720
+né? Então ele fazia imagens, escrevia
+ 
+
+255
+00:04:27,720 --> 00:04:30,230
+né? Então ele fazia imagens, escrevia
+captions e postava todos os dias e tipo,
+
+256
+00:04:30,230 --> 00:04:30,240
+captions e postava todos os dias e tipo,
+ 
+
+257
+00:04:30,240 --> 00:04:32,870
+captions e postava todos os dias e tipo,
+tava funcionando OK, tá? Então alguns
+
+258
+00:04:32,870 --> 00:04:32,880
+tava funcionando OK, tá? Então alguns
+ 
+
+259
+00:04:32,880 --> 00:04:34,670
+tava funcionando OK, tá? Então alguns
+vídeos deles tiveram mais de 1 milhão de
+
+260
+00:04:34,670 --> 00:04:34,680
+vídeos deles tiveram mais de 1 milhão de
+ 
+
+261
+00:04:34,680 --> 00:04:36,670
+vídeos deles tiveram mais de 1 milhão de
+views, mas ele tenha ele tinha tentado
+
+262
+00:04:36,670 --> 00:04:36,680
+views, mas ele tenha ele tinha tentado
+ 
+
+263
+00:04:36,680 --> 00:04:38,430
+views, mas ele tenha ele tinha tentado
+por alguns meses automatizar isso, né?
+
+264
+00:04:38,430 --> 00:04:38,440
+por alguns meses automatizar isso, né?
+ 
+
+265
+00:04:38,440 --> 00:04:41,070
+por alguns meses automatizar isso, né?
+Então o que que ele fez? Ele criou um
+
+266
+00:04:41,070 --> 00:04:41,080
+Então o que que ele fez? Ele criou um
+ 
+
+267
+00:04:41,080 --> 00:04:42,990
+Então o que que ele fez? Ele criou um
+book video creation script. Então ele
+
+268
+00:04:42,990 --> 00:04:43,000
+book video creation script. Então ele
+ 
+
+269
+00:04:43,000 --> 00:04:45,790
+book video creation script. Então ele
+criou tipo uma construção em massa de
+
+270
+00:04:45,790 --> 00:04:45,800
+criou tipo uma construção em massa de
+ 
+
+271
+00:04:45,800 --> 00:04:47,710
+criou tipo uma construção em massa de
+scripts de vídeo, né? E ele tentou até
+
+272
+00:04:47,710 --> 00:04:47,720
+scripts de vídeo, né? E ele tentou até
+ 
+
+273
+00:04:47,720 --> 00:04:49,590
+scripts de vídeo, né? E ele tentou até
+fazer um SAS para automatizar isso pros
+
+274
+00:04:49,590 --> 00:04:49,600
+fazer um SAS para automatizar isso pros
+ 
+
+275
+00:04:49,600 --> 00:04:52,350
+fazer um SAS para automatizar isso pros
+outros, mas agora ele finalmente dominou
+
+276
+00:04:52,350 --> 00:04:52,360
+outros, mas agora ele finalmente dominou
+ 
+
+277
+00:04:52,360 --> 00:04:54,070
+outros, mas agora ele finalmente dominou
+o processo. Rápida pausa para falar do
+
+278
+00:04:54,070 --> 00:04:54,080
+o processo. Rápida pausa para falar do
+ 
+
+279
+00:04:54,080 --> 00:04:55,430
+o processo. Rápida pausa para falar do
+patrocinador do vídeo de hoje, que é o
+
+280
+00:04:55,430 --> 00:04:55,440
+patrocinador do vídeo de hoje, que é o
+ 
+
+281
+00:04:55,440 --> 00:04:56,990
+patrocinador do vídeo de hoje, que é o
+Crispy, que é esse carinha aqui que
+
+282
+00:04:56,990 --> 00:04:57,000
+Crispy, que é esse carinha aqui que
+ 
+
+283
+00:04:57,000 --> 00:04:58,070
+Crispy, que é esse carinha aqui que
+estão, vocês estão vendo na tela de
+
+284
+00:04:58,070 --> 00:04:58,080
+estão, vocês estão vendo na tela de
+ 
+
+285
+00:04:58,080 --> 00:05:00,110
+estão, vocês estão vendo na tela de
+vocês. O Crisp é uma ferramenta OM
+
+286
+00:05:00,110 --> 00:05:00,120
+vocês. O Crisp é uma ferramenta OM
+ 
+
+287
+00:05:00,120 --> 00:05:02,070
+vocês. O Crisp é uma ferramenta OM
+channel de múltiplas inbox para
+
+288
+00:05:02,070 --> 00:05:02,080
+channel de múltiplas inbox para
+ 
+
+289
+00:05:02,080 --> 00:05:04,150
+channel de múltiplas inbox para
+diferentes redes sociais, chat, tudo que
+
+290
+00:05:04,150 --> 00:05:04,160
+diferentes redes sociais, chat, tudo que
+ 
+
+291
+00:05:04,160 --> 00:05:05,670
+diferentes redes sociais, chat, tudo que
+você precisa. O mais legal de tudo é que
+
+292
+00:05:05,670 --> 00:05:05,680
+você precisa. O mais legal de tudo é que
+ 
+
+293
+00:05:05,680 --> 00:05:07,550
+você precisa. O mais legal de tudo é que
+vocês podem usar ele para API oficial de
+
+294
+00:05:07,550 --> 00:05:07,560
+vocês podem usar ele para API oficial de
+ 
+
+295
+00:05:07,560 --> 00:05:09,230
+vocês podem usar ele para API oficial de
+disparo também, que é o que eu uso aqui
+
+296
+00:05:09,230 --> 00:05:09,240
+disparo também, que é o que eu uso aqui
+ 
+
+297
+00:05:09,240 --> 00:05:10,830
+disparo também, que é o que eu uso aqui
+na minha operação hoje. Então, ao criar
+
+298
+00:05:10,830 --> 00:05:10,840
+na minha operação hoje. Então, ao criar
+ 
+
+299
+00:05:10,840 --> 00:05:12,550
+na minha operação hoje. Então, ao criar
+uma conta no site do Crispy, vocês podem
+
+300
+00:05:12,550 --> 00:05:12,560
+uma conta no site do Crispy, vocês podem
+ 
+
+301
+00:05:12,560 --> 00:05:14,629
+uma conta no site do Crispy, vocês podem
+acessar o marketplace deles em extensões
+
+302
+00:05:14,629 --> 00:05:14,639
+acessar o marketplace deles em extensões
+ 
+
+303
+00:05:14,639 --> 00:05:17,909
+acessar o marketplace deles em extensões
+e aqui em envio de mensagens, WhatsApp e
+
+304
+00:05:17,909 --> 00:05:17,919
+e aqui em envio de mensagens, WhatsApp e
+ 
+
+305
+00:05:17,919 --> 00:05:20,189
+e aqui em envio de mensagens, WhatsApp e
+conectar a API oficial de vocês. API
+
+306
+00:05:20,189 --> 00:05:20,199
+conectar a API oficial de vocês. API
+ 
+
+307
+00:05:20,199 --> 00:05:21,870
+conectar a API oficial de vocês. API
+oficial significa que vocês conseguem
+
+308
+00:05:21,870 --> 00:05:21,880
+oficial significa que vocês conseguem
+ 
+
+309
+00:05:21,880 --> 00:05:23,550
+oficial significa que vocês conseguem
+disparar a mensagem usando os meios
+
+310
+00:05:23,550 --> 00:05:23,560
+disparar a mensagem usando os meios
+ 
+
+311
+00:05:23,560 --> 00:05:25,909
+disparar a mensagem usando os meios
+oficiais da meta sem nunca levarem ban
+
+312
+00:05:25,909 --> 00:05:25,919
+oficiais da meta sem nunca levarem ban
+ 
+
+313
+00:05:25,919 --> 00:05:27,270
+oficiais da meta sem nunca levarem ban
+no número de vocês. Então, se você
+
+314
+00:05:27,270 --> 00:05:27,280
+no número de vocês. Então, se você
+ 
+
+315
+00:05:27,280 --> 00:05:28,870
+no número de vocês. Então, se você
+precisa plugar uma PI do WhatsApp
+
+316
+00:05:28,870 --> 00:05:28,880
+precisa plugar uma PI do WhatsApp
+ 
+
+317
+00:05:28,880 --> 00:05:31,029
+precisa plugar uma PI do WhatsApp
+oficial, fazer disparos em massa e ter
+
+318
+00:05:31,029 --> 00:05:31,039
+oficial, fazer disparos em massa e ter
+ 
+
+319
+00:05:31,039 --> 00:05:33,790
+oficial, fazer disparos em massa e ter
+tudo isso de forma legal, bonitinha,
+
+320
+00:05:33,790 --> 00:05:33,800
+tudo isso de forma legal, bonitinha,
+ 
+
+321
+00:05:33,800 --> 00:05:35,950
+tudo isso de forma legal, bonitinha,
+redondinha e ainda plugado com todas as
+
+322
+00:05:35,950 --> 00:05:35,960
+redondinha e ainda plugado com todas as
+ 
+
+323
+00:05:35,960 --> 00:05:37,749
+redondinha e ainda plugado com todas as
+redes sociais, o Crisp é para você. Não
+
+324
+00:05:37,749 --> 00:05:37,759
+redes sociais, o Crisp é para você. Não
+ 
+
+325
+00:05:37,759 --> 00:05:39,150
+redes sociais, o Crisp é para você. Não
+deixa de conhecer a ferramenta, os caras
+
+326
+00:05:39,150 --> 00:05:39,160
+deixa de conhecer a ferramenta, os caras
+ 
+
+327
+00:05:39,160 --> 00:05:40,790
+deixa de conhecer a ferramenta, os caras
+são ponta firme, eu uso há mais de um
+
+328
+00:05:40,790 --> 00:05:40,800
+são ponta firme, eu uso há mais de um
+ 
+
+329
+00:05:40,800 --> 00:05:43,029
+são ponta firme, eu uso há mais de um
+ano e super recomendo. Beleza? De volta
+
+330
+00:05:43,029 --> 00:05:43,039
+ano e super recomendo. Beleza? De volta
+ 
+
+331
+00:05:43,039 --> 00:05:44,510
+ano e super recomendo. Beleza? De volta
+pro vídeo então galera, então o que ele
+
+332
+00:05:44,510 --> 00:05:44,520
+pro vídeo então galera, então o que ele
+ 
+
+333
+00:05:44,520 --> 00:05:46,430
+pro vídeo então galera, então o que ele
+fez é que ele pegou o Larry, a o agente
+
+334
+00:05:46,430 --> 00:05:46,440
+fez é que ele pegou o Larry, a o agente
+ 
+
+335
+00:05:46,440 --> 00:05:48,510
+fez é que ele pegou o Larry, a o agente
+de A dele, rodando num PC gamer, que é
+
+336
+00:05:48,510 --> 00:05:48,520
+de A dele, rodando num PC gamer, que é
+ 
+
+337
+00:05:48,520 --> 00:05:50,790
+de A dele, rodando num PC gamer, que é
+feito em Open Claw, e o Larry em 5 dias
+
+338
+00:05:50,790 --> 00:05:50,800
+feito em Open Claw, e o Larry em 5 dias
+ 
+
+339
+00:05:50,800 --> 00:05:53,189
+feito em Open Claw, e o Larry em 5 dias
+cruzou de 500.000 views. Um post dele
+
+340
+00:05:53,189 --> 00:05:53,199
+cruzou de 500.000 views. Um post dele
+ 
+
+341
+00:05:53,199 --> 00:05:56,749
+cruzou de 500.000 views. Um post dele
+deu 234.000 views, outro 167.000. quatro
+
+342
+00:05:56,749 --> 00:05:56,759
+deu 234.000 views, outro 167.000. quatro
+ 
+
+343
+00:05:56,759 --> 00:06:00,430
+deu 234.000 views, outro 167.000. quatro
+posts, mais de 100.000 puxando o MRR
+
+344
+00:06:00,430 --> 00:06:00,440
+posts, mais de 100.000 puxando o MRR
+ 
+
+345
+00:06:00,440 --> 00:06:03,469
+posts, mais de 100.000 puxando o MRR
+dele em dólars pra 588.
+
+346
+00:06:03,469 --> 00:06:03,479
+dele em dólars pra 588.
+ 
+
+347
+00:06:03,479 --> 00:06:06,550
+dele em dólars pra 588.
+Ou seja, basicamente em alguns posts ele
+
+348
+00:06:06,550 --> 00:06:06,560
+Ou seja, basicamente em alguns posts ele
+ 
+
+349
+00:06:06,560 --> 00:06:08,830
+Ou seja, basicamente em alguns posts ele
+cresceu 500 por mês de recorrência, que
+
+350
+00:06:08,830 --> 00:06:08,840
+cresceu 500 por mês de recorrência, que
+ 
+
+351
+00:06:08,840 --> 00:06:10,189
+cresceu 500 por mês de recorrência, que
+isso é muito legal, né? Então ele falou
+
+352
+00:06:10,189 --> 00:06:10,199
+isso é muito legal, né? Então ele falou
+ 
+
+353
+00:06:10,199 --> 00:06:11,589
+isso é muito legal, né? Então ele falou
+que ele não fez nenhuma imagem, não
+
+354
+00:06:11,589 --> 00:06:11,599
+que ele não fez nenhuma imagem, não
+ 
+
+355
+00:06:11,599 --> 00:06:13,629
+que ele não fez nenhuma imagem, não
+escreveu nenhum caption, ele mal abriu o
+
+356
+00:06:13,629 --> 00:06:13,639
+escreveu nenhum caption, ele mal abriu o
+ 
+
+357
+00:06:13,639 --> 00:06:15,749
+escreveu nenhum caption, ele mal abriu o
+TikTok. Então o que ele vai falar nesse
+
+358
+00:06:15,749 --> 00:06:15,759
+TikTok. Então o que ele vai falar nesse
+ 
+
+359
+00:06:15,759 --> 00:06:18,469
+TikTok. Então o que ele vai falar nesse
+artigo é explicar aqui certinho, tá? Eu
+
+360
+00:06:18,469 --> 00:06:18,479
+artigo é explicar aqui certinho, tá? Eu
+ 
+
+361
+00:06:18,479 --> 00:06:20,270
+artigo é explicar aqui certinho, tá? Eu
+não, eu vou pular algumas coisas, senão
+
+362
+00:06:20,270 --> 00:06:20,280
+não, eu vou pular algumas coisas, senão
+ 
+
+363
+00:06:20,280 --> 00:06:21,629
+não, eu vou pular algumas coisas, senão
+a gente vai ficar fazendo um vídeo super
+
+364
+00:06:21,629 --> 00:06:21,639
+a gente vai ficar fazendo um vídeo super
+ 
+
+365
+00:06:21,639 --> 00:06:23,469
+a gente vai ficar fazendo um vídeo super
+longo e maçante aqui, tá bom? Então
+
+366
+00:06:23,469 --> 00:06:23,479
+longo e maçante aqui, tá bom? Então
+ 
+
+367
+00:06:23,479 --> 00:06:25,390
+longo e maçante aqui, tá bom? Então
+primeiro pra gente dar um contexto, tá?
+
+368
+00:06:25,390 --> 00:06:25,400
+primeiro pra gente dar um contexto, tá?
+ 
+
+369
+00:06:25,400 --> 00:06:27,629
+primeiro pra gente dar um contexto, tá?
+Então ele criou três aplicativos de OS e
+
+370
+00:06:27,629 --> 00:06:27,639
+Então ele criou três aplicativos de OS e
+ 
+
+371
+00:06:27,639 --> 00:06:29,670
+Então ele criou três aplicativos de OS e
+ele usou o Larry para promover. Então o
+
+372
+00:06:29,670 --> 00:06:29,680
+ele usou o Larry para promover. Então o
+ 
+
+373
+00:06:29,680 --> 00:06:31,150
+ele usou o Larry para promover. Então o
+primeiro aplicativo dele é o Snuggly,
+
+374
+00:06:31,150 --> 00:06:31,160
+primeiro aplicativo dele é o Snuggly,
+ 
+
+375
+00:06:31,160 --> 00:06:32,670
+primeiro aplicativo dele é o Snuggly,
+que é um aplicativo que deixa você tirar
+
+376
+00:06:32,670 --> 00:06:32,680
+que é um aplicativo que deixa você tirar
+ 
+
+377
+00:06:32,680 --> 00:06:35,150
+que é um aplicativo que deixa você tirar
+uma foto de qualquer sala da sua casa e
+
+378
+00:06:35,150 --> 00:06:35,160
+uma foto de qualquer sala da sua casa e
+ 
+
+379
+00:06:35,160 --> 00:06:37,350
+uma foto de qualquer sala da sua casa e
+você vê ela com um design diferente
+
+380
+00:06:37,350 --> 00:06:37,360
+você vê ela com um design diferente
+ 
+
+381
+00:06:37,360 --> 00:06:39,749
+você vê ela com um design diferente
+usando AI. E o outro aplicativo dele é o
+
+382
+00:06:39,749 --> 00:06:39,759
+usando AI. E o outro aplicativo dele é o
+ 
+
+383
+00:06:39,759 --> 00:06:42,150
+usando AI. E o outro aplicativo dele é o
+Liple. Que nome estranho, né? Liple. Até
+
+384
+00:06:42,150 --> 00:06:42,160
+Liple. Que nome estranho, né? Liple. Até
+ 
+
+385
+00:06:42,160 --> 00:06:44,550
+Liple. Que nome estranho, né? Liple. Até
+fonética estranha. Liple. Um aplicativo
+
+386
+00:06:44,550 --> 00:06:44,560
+fonética estranha. Liple. Um aplicativo
+ 
+
+387
+00:06:44,560 --> 00:06:47,309
+fonética estranha. Liple. Um aplicativo
+que deixa você fazer um preview do que o
+
+388
+00:06:47,309 --> 00:06:47,319
+que deixa você fazer um preview do que o
+ 
+
+389
+00:06:47,319 --> 00:06:50,510
+que deixa você fazer um preview do que o
+Lip filler would look like. Eu não sei o
+
+390
+00:06:50,510 --> 00:06:50,520
+Lip filler would look like. Eu não sei o
+ 
+
+391
+00:06:50,520 --> 00:06:52,110
+Lip filler would look like. Eu não sei o
+que que é um lip, na verdade, mas vamos
+
+392
+00:06:52,110 --> 00:06:52,120
+que que é um lip, na verdade, mas vamos
+ 
+
+393
+00:06:52,120 --> 00:06:54,070
+que que é um lip, na verdade, mas vamos
+dar uma olhada aqui. O que que é esse
+
+394
+00:06:54,070 --> 00:06:54,080
+dar uma olhada aqui. O que que é esse
+ 
+
+395
+00:06:54,080 --> 00:06:55,830
+dar uma olhada aqui. O que que é esse
+liple?
+
+396
+00:06:55,830 --> 00:06:55,840
+liple?
+ 
+
+397
+00:06:55,840 --> 00:06:58,589
+liple?
+Sear glow up before you commit, né? Ah,
+
+398
+00:06:58,589 --> 00:06:58,599
+Sear glow up before you commit, né? Ah,
+ 
+
+399
+00:06:58,599 --> 00:07:00,469
+Sear glow up before you commit, né? Ah,
+tá, entendi. É tipo passar uma
+
+400
+00:07:00,469 --> 00:07:00,479
+tá, entendi. É tipo passar uma
+ 
+
+401
+00:07:00,479 --> 00:07:04,670
+tá, entendi. É tipo passar uma
+maquiagem, tipo, eh, ah, entendi. Tipo
+
+402
+00:07:04,670 --> 00:07:04,680
+maquiagem, tipo, eh, ah, entendi. Tipo
+ 
+
+403
+00:07:04,680 --> 00:07:07,270
+maquiagem, tipo, eh, ah, entendi. Tipo
+um filtro assim, né, cara? Que bizarro.
+
+404
+00:07:07,270 --> 00:07:07,280
+um filtro assim, né, cara? Que bizarro.
+ 
+
+405
+00:07:07,280 --> 00:07:10,270
+um filtro assim, né, cara? Que bizarro.
+Mas enfim. Então, ele lançou esse esse
+
+406
+00:07:10,270 --> 00:07:10,280
+Mas enfim. Então, ele lançou esse esse
+ 
+
+407
+00:07:10,280 --> 00:07:12,110
+Mas enfim. Então, ele lançou esse esse
+aplicativo antes de começar o trabalho
+
+408
+00:07:12,110 --> 00:07:12,120
+aplicativo antes de começar o trabalho
+ 
+
+409
+00:07:12,120 --> 00:07:13,830
+aplicativo antes de começar o trabalho
+dele nessa empresa Revenue Cat, né?
+
+410
+00:07:13,830 --> 00:07:13,840
+dele nessa empresa Revenue Cat, né?
+ 
+
+411
+00:07:13,840 --> 00:07:15,230
+dele nessa empresa Revenue Cat, né?
+Inclusive, eu não abri o Snuggly, né?
+
+412
+00:07:15,230 --> 00:07:15,240
+Inclusive, eu não abri o Snuggly, né?
+ 
+
+413
+00:07:15,240 --> 00:07:16,390
+Inclusive, eu não abri o Snuggly, né?
+Vamos abrir o Snuggly só pra gente dar
+
+414
+00:07:16,390 --> 00:07:16,400
+Vamos abrir o Snuggly só pra gente dar
+ 
+
+415
+00:07:16,400 --> 00:07:17,629
+Vamos abrir o Snuggly só pra gente dar
+uma olhadinha. Então, eu já tô com ele
+
+416
+00:07:17,629 --> 00:07:17,639
+uma olhadinha. Então, eu já tô com ele
+ 
+
+417
+00:07:17,639 --> 00:07:19,589
+uma olhadinha. Então, eu já tô com ele
+aberto aqui, né? Mas vamos olhar o
+
+418
+00:07:19,589 --> 00:07:19,599
+aberto aqui, né? Mas vamos olhar o
+ 
+
+419
+00:07:19,599 --> 00:07:22,390
+aberto aqui, né? Mas vamos olhar o
+aplicativo aqui, Snuggly App, só para
+
+420
+00:07:22,390 --> 00:07:22,400
+aplicativo aqui, Snuggly App, só para
+ 
+
+421
+00:07:22,400 --> 00:07:25,150
+aplicativo aqui, Snuggly App, só para
+fins de curiosidade, né? Então, o site
+
+422
+00:07:25,150 --> 00:07:25,160
+fins de curiosidade, né? Então, o site
+ 
+
+423
+00:07:25,160 --> 00:07:26,749
+fins de curiosidade, né? Então, o site
+bonitinho, você vê que ele gosta de usar
+
+424
+00:07:26,749 --> 00:07:26,759
+bonitinho, você vê que ele gosta de usar
+ 
+
+425
+00:07:26,759 --> 00:07:29,629
+bonitinho, você vê que ele gosta de usar
+esse tipo de ferramenta, né, de drag to
+
+426
+00:07:29,629 --> 00:07:29,639
+esse tipo de ferramenta, né, de drag to
+ 
+
+427
+00:07:29,639 --> 00:07:31,230
+esse tipo de ferramenta, né, de drag to
+review aqui, mas legal. Então, um site
+
+428
+00:07:31,230 --> 00:07:31,240
+review aqui, mas legal. Então, um site
+ 
+
+429
+00:07:31,240 --> 00:07:34,070
+review aqui, mas legal. Então, um site
+bem simples, o ex bem simples, não tem
+
+430
+00:07:34,070 --> 00:07:34,080
+bem simples, o ex bem simples, não tem
+ 
+
+431
+00:07:34,080 --> 00:07:36,749
+bem simples, o ex bem simples, não tem
+muito segredo. Beleza, então vamos ver
+
+432
+00:07:36,749 --> 00:07:36,759
+muito segredo. Beleza, então vamos ver
+ 
+
+433
+00:07:36,759 --> 00:07:38,550
+muito segredo. Beleza, então vamos ver
+aqui, tá? Então, ele lançou esses dois
+
+434
+00:07:38,550 --> 00:07:38,560
+aqui, tá? Então, ele lançou esses dois
+ 
+
+435
+00:07:38,560 --> 00:07:40,350
+aqui, tá? Então, ele lançou esses dois
+aplicativos. Ele trabalha em paralelo
+
+436
+00:07:40,350 --> 00:07:40,360
+aplicativos. Ele trabalha em paralelo
+ 
+
+437
+00:07:40,360 --> 00:07:43,469
+aplicativos. Ele trabalha em paralelo
+nessa Revenue Cat e ele disse que sem o
+
+438
+00:07:43,469 --> 00:07:43,479
+nessa Revenue Cat e ele disse que sem o
+ 
+
+439
+00:07:43,479 --> 00:07:45,469
+nessa Revenue Cat e ele disse que sem o
+Larry, esses aplicativos não estariam
+
+440
+00:07:45,469 --> 00:07:45,479
+Larry, esses aplicativos não estariam
+ 
+
+441
+00:07:45,479 --> 00:07:46,950
+Larry, esses aplicativos não estariam
+conseguindo nenhum tipo de promoção,
+
+442
+00:07:46,950 --> 00:07:46,960
+conseguindo nenhum tipo de promoção,
+ 
+
+443
+00:07:46,960 --> 00:07:48,230
+conseguindo nenhum tipo de promoção,
+porque ele não tem tempo para fazer
+
+444
+00:07:48,230 --> 00:07:48,240
+porque ele não tem tempo para fazer
+ 
+
+445
+00:07:48,240 --> 00:07:50,110
+porque ele não tem tempo para fazer
+picunha nenhuma. Quem é o Larry? É um
+
+446
+00:07:50,110 --> 00:07:50,120
+picunha nenhuma. Quem é o Larry? É um
+ 
+
+447
+00:07:50,120 --> 00:07:52,830
+picunha nenhuma. Quem é o Larry? É um
+Larry e blá blá blá, ele escolheu o
+
+448
+00:07:52,830 --> 00:07:52,840
+Larry e blá blá blá, ele escolheu o
+ 
+
+449
+00:07:52,840 --> 00:07:55,990
+Larry e blá blá blá, ele escolheu o
+Larry. O Larry já trouxe para ele $.000
+
+450
+00:07:55,990 --> 00:07:56,000
+Larry. O Larry já trouxe para ele $.000
+ 
+
+451
+00:07:56,000 --> 00:07:58,830
+Larry. O Larry já trouxe para ele $.000
+graças a um memecoin que ele fez e uma
+
+452
+00:07:58,830 --> 00:07:58,840
+graças a um memecoin que ele fez e uma
+ 
+
+453
+00:07:58,840 --> 00:08:00,670
+graças a um memecoin que ele fez e uma
+comunidade, tá beleza? Então, o que que
+
+454
+00:08:00,670 --> 00:08:00,680
+comunidade, tá beleza? Então, o que que
+ 
+
+455
+00:08:00,680 --> 00:08:02,589
+comunidade, tá beleza? Então, o que que
+ele fez? Ele construiu em cima do Open
+
+456
+00:08:02,589 --> 00:08:02,599
+ele fez? Ele construiu em cima do Open
+ 
+
+457
+00:08:02,599 --> 00:08:05,070
+ele fez? Ele construiu em cima do Open
+Claw usando open source AI agents, né?
+
+458
+00:08:05,070 --> 00:08:05,080
+Claw usando open source AI agents, né?
+ 
+
+459
+00:08:05,080 --> 00:08:07,110
+Claw usando open source AI agents, né?
+Então, pô, se você tá no meu canal, você
+
+460
+00:08:07,110 --> 00:08:07,120
+Então, pô, se você tá no meu canal, você
+ 
+
+461
+00:08:07,120 --> 00:08:08,550
+Então, pô, se você tá no meu canal, você
+já deve ter me visto falando de OpenCall
+
+462
+00:08:08,550 --> 00:08:08,560
+já deve ter me visto falando de OpenCall
+ 
+
+463
+00:08:08,560 --> 00:08:09,830
+já deve ter me visto falando de OpenCall
+em algum momento, então também não vou
+
+464
+00:08:09,830 --> 00:08:09,840
+em algum momento, então também não vou
+ 
+
+465
+00:08:09,840 --> 00:08:11,990
+em algum momento, então também não vou
+contextualizar o que é o Open Claw, né?
+
+466
+00:08:11,990 --> 00:08:12,000
+contextualizar o que é o Open Claw, né?
+ 
+
+467
+00:08:12,000 --> 00:08:14,629
+contextualizar o que é o Open Claw, né?
+Eh, e ele disse que por trás do open
+
+468
+00:08:14,629 --> 00:08:14,639
+Eh, e ele disse que por trás do open
+ 
+
+469
+00:08:14,639 --> 00:08:17,589
+Eh, e ele disse que por trás do open
+dele ele usa o Cloud, né? Então, Clou,
+
+470
+00:08:17,589 --> 00:08:17,599
+dele ele usa o Cloud, né? Então, Clou,
+ 
+
+471
+00:08:17,599 --> 00:08:20,230
+dele ele usa o Cloud, né? Então, Clou,
+coraçãozinho Cloud, porque maravilhoso.
+
+472
+00:08:20,230 --> 00:08:20,240
+coraçãozinho Cloud, porque maravilhoso.
+ 
+
+473
+00:08:20,240 --> 00:08:22,110
+coraçãozinho Cloud, porque maravilhoso.
+Então, o Larry Hass, né? Então ele tem
+
+474
+00:08:22,110 --> 00:08:22,120
+Então, o Larry Hass, né? Então ele tem
+ 
+
+475
+00:08:22,120 --> 00:08:23,510
+Então, o Larry Hass, né? Então ele tem
+essa sua própria personalidade e sua
+
+476
+00:08:23,510 --> 00:08:23,520
+essa sua própria personalidade e sua
+ 
+
+477
+00:08:23,520 --> 00:08:25,350
+essa sua própria personalidade e sua
+memória que persiste durante as
+
+478
+00:08:25,350 --> 00:08:25,360
+memória que persiste durante as
+ 
+
+479
+00:08:25,360 --> 00:08:27,270
+memória que persiste durante as
+conversas. Ele tem acesso de leitura e
+
+480
+00:08:27,270 --> 00:08:27,280
+conversas. Ele tem acesso de leitura e
+ 
+
+481
+00:08:27,280 --> 00:08:29,110
+conversas. Ele tem acesso de leitura e
+escrita nos arquivos da máquina dele.
+
+482
+00:08:29,110 --> 00:08:29,120
+escrita nos arquivos da máquina dele.
+ 
+
+483
+00:08:29,120 --> 00:08:30,950
+escrita nos arquivos da máquina dele.
+Ele consegue gerar imagens através da
+
+484
+00:08:30,950 --> 00:08:30,960
+Ele consegue gerar imagens através da
+ 
+
+485
+00:08:30,960 --> 00:08:33,469
+Ele consegue gerar imagens através da
+API da Open AI. Ele escreve códigos. Ele
+
+486
+00:08:33,469 --> 00:08:33,479
+API da Open AI. Ele escreve códigos. Ele
+ 
+
+487
+00:08:33,479 --> 00:08:36,389
+API da Open AI. Ele escreve códigos. Ele
+tem acesso ao TikTok usando posts, tá?
+
+488
+00:08:36,389 --> 00:08:36,399
+tem acesso ao TikTok usando posts, tá?
+ 
+
+489
+00:08:36,399 --> 00:08:38,230
+tem acesso ao TikTok usando posts, tá?
+Então vamos ver o que é esse posts que
+
+490
+00:08:38,230 --> 00:08:38,240
+Então vamos ver o que é esse posts que
+ 
+
+491
+00:08:38,240 --> 00:08:40,949
+Então vamos ver o que é esse posts que
+eu não conheço posts. O que eu uso aqui
+
+492
+00:08:40,949 --> 00:08:40,959
+eu não conheço posts. O que eu uso aqui
+ 
+
+493
+00:08:40,959 --> 00:08:43,909
+eu não conheço posts. O que eu uso aqui
+do meu lado é o APIF para fazer scrap
+
+494
+00:08:43,909 --> 00:08:43,919
+do meu lado é o APIF para fazer scrap
+ 
+
+495
+00:08:43,919 --> 00:08:46,389
+do meu lado é o APIF para fazer scrap
+nas redes sociais e eu uso o buffer para
+
+496
+00:08:46,389 --> 00:08:46,399
+nas redes sociais e eu uso o buffer para
+ 
+
+497
+00:08:46,399 --> 00:08:48,509
+nas redes sociais e eu uso o buffer para
+postar. E o buffer inclusive é de graça
+
+498
+00:08:48,509 --> 00:08:48,519
+postar. E o buffer inclusive é de graça
+ 
+
+499
+00:08:48,519 --> 00:08:50,550
+postar. E o buffer inclusive é de graça
+e tem API para até três redes sociais,
+
+500
+00:08:50,550 --> 00:08:50,560
+e tem API para até três redes sociais,
+ 
+
+501
+00:08:50,560 --> 00:08:52,310
+e tem API para até três redes sociais,
+tá? Então, esse aqui eu não conhecia
+
+502
+00:08:52,310 --> 00:08:52,320
+tá? Então, esse aqui eu não conhecia
+ 
+
+503
+00:08:52,320 --> 00:08:54,710
+tá? Então, esse aqui eu não conhecia
+essa rede social aqui, esse posts.
+
+504
+00:08:54,710 --> 00:08:54,720
+essa rede social aqui, esse posts.
+ 
+
+505
+00:08:54,720 --> 00:08:56,190
+essa rede social aqui, esse posts.
+Depois a gente dá uma olhada com calma,
+
+506
+00:08:56,190 --> 00:08:56,200
+Depois a gente dá uma olhada com calma,
+ 
+
+507
+00:08:56,200 --> 00:08:58,069
+Depois a gente dá uma olhada com calma,
+tá? Então ele escolheu isso aqui porque
+
+508
+00:08:58,069 --> 00:08:58,079
+tá? Então ele escolheu isso aqui porque
+ 
+
+509
+00:08:58,079 --> 00:08:59,670
+tá? Então ele escolheu isso aqui porque
+tem uma documentação muito fácil pro Ler
+
+510
+00:08:59,670 --> 00:08:59,680
+tem uma documentação muito fácil pro Ler
+ 
+
+511
+00:08:59,680 --> 00:09:02,430
+tem uma documentação muito fácil pro Ler
+entender e tem uma API eh que tá incluso
+
+512
+00:09:02,430 --> 00:09:02,440
+entender e tem uma API eh que tá incluso
+ 
+
+513
+00:09:02,440 --> 00:09:04,910
+entender e tem uma API eh que tá incluso
+no preço, né? Então, beleza. Ah, skills
+
+514
+00:09:04,910 --> 00:09:04,920
+no preço, né? Então, beleza. Ah, skills
+ 
+
+515
+00:09:04,920 --> 00:09:06,710
+no preço, né? Então, beleza. Ah, skills
+files, né? Então, ele tem as skills dele
+
+516
+00:09:06,710 --> 00:09:06,720
+files, né? Então, ele tem as skills dele
+ 
+
+517
+00:09:06,720 --> 00:09:08,870
+files, né? Então, ele tem as skills dele
+e as memórias dele, tá bom? Então, ele
+
+518
+00:09:08,870 --> 00:09:08,880
+e as memórias dele, tá bom? Então, ele
+ 
+
+519
+00:09:08,880 --> 00:09:10,949
+e as memórias dele, tá bom? Então, ele
+usa o WhatsApp e ele usa o WhatsApp para
+
+520
+00:09:10,949 --> 00:09:10,959
+usa o WhatsApp e ele usa o WhatsApp para
+ 
+
+521
+00:09:10,959 --> 00:09:13,509
+usa o WhatsApp e ele usa o WhatsApp para
+pesquisar coisas com o Larry, né? E ele
+
+522
+00:09:13,509 --> 00:09:13,519
+pesquisar coisas com o Larry, né? E ele
+ 
+
+523
+00:09:13,519 --> 00:09:16,110
+pesquisar coisas com o Larry, né? E ele
+faz tudo. E aí o Larry chegou e pau,
+
+524
+00:09:16,110 --> 00:09:16,120
+faz tudo. E aí o Larry chegou e pau,
+ 
+
+525
+00:09:16,120 --> 00:09:17,550
+faz tudo. E aí o Larry chegou e pau,
+entrou no texto aqui, né? Então o que
+
+526
+00:09:17,550 --> 00:09:17,560
+entrou no texto aqui, né? Então o que
+ 
+
+527
+00:09:17,560 --> 00:09:18,630
+entrou no texto aqui, né? Então o que
+que as pessoas não entendem sobre o
+
+528
+00:09:18,630 --> 00:09:18,640
+que as pessoas não entendem sobre o
+ 
+
+529
+00:09:18,640 --> 00:09:20,030
+que as pessoas não entendem sobre o
+OpenCall é que ele não está apenas
+
+530
+00:09:20,030 --> 00:09:20,040
+OpenCall é que ele não está apenas
+ 
+
+531
+00:09:20,040 --> 00:09:21,910
+OpenCall é que ele não está apenas
+seguindo o script, ele tem uma opinião
+
+532
+00:09:21,910 --> 00:09:21,920
+seguindo o script, ele tem uma opinião
+ 
+
+533
+00:09:21,920 --> 00:09:24,069
+seguindo o script, ele tem uma opinião
+própria. Olha que doido isso aqui.
+
+534
+00:09:24,069 --> 00:09:24,079
+própria. Olha que doido isso aqui.
+ 
+
+535
+00:09:24,079 --> 00:09:26,150
+própria. Olha que doido isso aqui.
+Quando o o Olly, o cara chama até o cara
+
+536
+00:09:26,150 --> 00:09:26,160
+Quando o o Olly, o cara chama até o cara
+ 
+
+537
+00:09:26,160 --> 00:09:27,829
+Quando o o Olly, o cara chama até o cara
+de Oly, velho, já tem até um apelido.
+
+538
+00:09:27,829 --> 00:09:27,839
+de Oly, velho, já tem até um apelido.
+ 
+
+539
+00:09:27,839 --> 00:09:30,829
+de Oly, velho, já tem até um apelido.
+Quando Olly sugere sugere um Hul, ele
+
+540
+00:09:30,829 --> 00:09:30,839
+Quando Olly sugere sugere um Hul, ele
+ 
+
+541
+00:09:30,839 --> 00:09:32,590
+Quando Olly sugere sugere um Hul, ele
+vai dizer o que que ele acha, se esse
+
+542
+00:09:32,590 --> 00:09:32,600
+vai dizer o que que ele acha, se esse
+ 
+
+543
+00:09:32,600 --> 00:09:34,350
+vai dizer o que que ele acha, se esse
+Hulk vai flopar ou não, baseado no que
+
+544
+00:09:34,350 --> 00:09:34,360
+Hulk vai flopar ou não, baseado no que
+ 
+
+545
+00:09:34,360 --> 00:09:36,350
+Hulk vai flopar ou não, baseado no que
+ele viu performar. E ele faz a própria
+
+546
+00:09:36,350 --> 00:09:36,360
+ele viu performar. E ele faz a própria
+ 
+
+547
+00:09:36,360 --> 00:09:38,670
+ele viu performar. E ele faz a própria
+pesquisa. Ele passou horas estudando o
+
+548
+00:09:38,670 --> 00:09:38,680
+pesquisa. Ele passou horas estudando o
+ 
+
+549
+00:09:38,680 --> 00:09:40,350
+pesquisa. Ele passou horas estudando o
+que que funciona no TikTok agora,
+
+550
+00:09:40,350 --> 00:09:40,360
+que que funciona no TikTok agora,
+ 
+
+551
+00:09:40,360 --> 00:09:42,190
+que que funciona no TikTok agora,
+analisando contas de concorrentes,
+
+552
+00:09:42,190 --> 00:09:42,200
+analisando contas de concorrentes,
+ 
+
+553
+00:09:42,200 --> 00:09:45,190
+analisando contas de concorrentes,
+estudando eh eh slides e ele também
+
+554
+00:09:45,190 --> 00:09:45,200
+estudando eh eh slides e ele também
+ 
+
+555
+00:09:45,200 --> 00:09:47,350
+estudando eh eh slides e ele também
+escreveu várias skills e ele fica
+
+556
+00:09:47,350 --> 00:09:47,360
+escreveu várias skills e ele fica
+ 
+
+557
+00:09:47,360 --> 00:09:49,269
+escreveu várias skills e ele fica
+inteligente a cada sessão. Então, quando
+
+558
+00:09:49,269 --> 00:09:49,279
+inteligente a cada sessão. Então, quando
+ 
+
+559
+00:09:49,279 --> 00:09:51,550
+inteligente a cada sessão. Então, quando
+ele acorda, né, ele acorda uma sessão
+
+560
+00:09:51,550 --> 00:09:51,560
+ele acorda, né, ele acorda uma sessão
+ 
+
+561
+00:09:51,560 --> 00:09:53,269
+ele acorda, né, ele acorda uma sessão
+vazia, né, igual qualquer IA, os
+
+562
+00:09:53,269 --> 00:09:53,279
+vazia, né, igual qualquer IA, os
+ 
+
+563
+00:09:53,279 --> 00:09:55,389
+vazia, né, igual qualquer IA, os
+arquivos deles estão na memória, que é
+
+564
+00:09:55,389 --> 00:09:55,399
+arquivos deles estão na memória, que é
+ 
+
+565
+00:09:55,399 --> 00:09:57,150
+arquivos deles estão na memória, que é
+como ele persiste, né, como ele lembra
+
+566
+00:09:57,150 --> 00:09:57,160
+como ele persiste, né, como ele lembra
+ 
+
+567
+00:09:57,160 --> 00:09:58,870
+como ele persiste, né, como ele lembra
+de tudo, tá? Então, o que que você
+
+568
+00:09:58,870 --> 00:09:58,880
+de tudo, tá? Então, o que que você
+ 
+
+569
+00:09:58,880 --> 00:10:01,110
+de tudo, tá? Então, o que que você
+precisa para você usar essa mesma
+
+570
+00:10:01,110 --> 00:10:01,120
+precisa para você usar essa mesma
+ 
+
+571
+00:10:01,120 --> 00:10:03,350
+precisa para você usar essa mesma
+estrutura do Oliver? Você precisa de um
+
+572
+00:10:03,350 --> 00:10:03,360
+estrutura do Oliver? Você precisa de um
+ 
+
+573
+00:10:03,360 --> 00:10:05,269
+estrutura do Oliver? Você precisa de um
+computador, mas no caso você pode usar
+
+574
+00:10:05,269 --> 00:10:05,279
+computador, mas no caso você pode usar
+ 
+
+575
+00:10:05,279 --> 00:10:08,470
+computador, mas no caso você pode usar
+VPS. Eu uso aqui muito a Hoshinger,
+
+576
+00:10:08,470 --> 00:10:08,480
+VPS. Eu uso aqui muito a Hoshinger,
+ 
+
+577
+00:10:08,480 --> 00:10:10,069
+VPS. Eu uso aqui muito a Hoshinger,
+então gosto muito da VPS da Hoshinger,
+
+578
+00:10:10,069 --> 00:10:10,079
+então gosto muito da VPS da Hoshinger,
+ 
+
+579
+00:10:10,079 --> 00:10:11,829
+então gosto muito da VPS da Hoshinger,
+inclusive vou deixar um cupom de 10% que
+
+580
+00:10:11,829 --> 00:10:11,839
+inclusive vou deixar um cupom de 10% que
+ 
+
+581
+00:10:11,839 --> 00:10:13,430
+inclusive vou deixar um cupom de 10% que
+você quiser. E eu uso para meus agentes
+
+582
+00:10:13,430 --> 00:10:13,440
+você quiser. E eu uso para meus agentes
+ 
+
+583
+00:10:13,440 --> 00:10:16,670
+você quiser. E eu uso para meus agentes
+essa VPS do KM2 aqui, que eu acho que 40
+
+584
+00:10:16,670 --> 00:10:16,680
+essa VPS do KM2 aqui, que eu acho que 40
+ 
+
+585
+00:10:16,680 --> 00:10:18,190
+essa VPS do KM2 aqui, que eu acho que 40
+pila por mês para você ter um computador
+
+586
+00:10:18,190 --> 00:10:18,200
+pila por mês para você ter um computador
+ 
+
+587
+00:10:18,200 --> 00:10:21,150
+pila por mês para você ter um computador
+247, tipo, tá OK assim, né? Eh, o
+
+588
+00:10:21,150 --> 00:10:21,160
+247, tipo, tá OK assim, né? Eh, o
+ 
+
+589
+00:10:21,160 --> 00:10:23,590
+247, tipo, tá OK assim, né? Eh, o
+OpenCla, eu também tenho o Open Cla. Eu
+
+590
+00:10:23,590 --> 00:10:23,600
+OpenCla, eu também tenho o Open Cla. Eu
+ 
+
+591
+00:10:23,600 --> 00:10:25,550
+OpenCla, eu também tenho o Open Cla. Eu
+uso muito OpenCall, mas eu também uso
+
+592
+00:10:25,550 --> 00:10:25,560
+uso muito OpenCall, mas eu também uso
+ 
+
+593
+00:10:25,560 --> 00:10:28,870
+uso muito OpenCall, mas eu também uso
+muito o Cloud e o Cloud, o Cloud Code
+
+594
+00:10:28,870 --> 00:10:28,880
+muito o Cloud e o Cloud, o Cloud Code
+ 
+
+595
+00:10:28,880 --> 00:10:30,790
+muito o Cloud e o Cloud, o Cloud Code
+também. Então, tanto faz, eu acredito
+
+596
+00:10:30,790 --> 00:10:30,800
+também. Então, tanto faz, eu acredito
+ 
+
+597
+00:10:30,800 --> 00:10:32,310
+também. Então, tanto faz, eu acredito
+que funciona com qualquer um dos dois,
+
+598
+00:10:32,310 --> 00:10:32,320
+que funciona com qualquer um dos dois,
+ 
+
+599
+00:10:32,320 --> 00:10:33,670
+que funciona com qualquer um dos dois,
+porque no final do dia você só precisa
+
+600
+00:10:33,670 --> 00:10:33,680
+porque no final do dia você só precisa
+ 
+
+601
+00:10:33,680 --> 00:10:35,870
+porque no final do dia você só precisa
+de APIs e acessar APIs e ter um
+
+602
+00:10:35,870 --> 00:10:35,880
+de APIs e acessar APIs e ter um
+ 
+
+603
+00:10:35,880 --> 00:10:37,990
+de APIs e acessar APIs e ter um
+documento de contexto, que você pode
+
+604
+00:10:37,990 --> 00:10:38,000
+documento de contexto, que você pode
+ 
+
+605
+00:10:38,000 --> 00:10:39,750
+documento de contexto, que você pode
+criar tudo isso no GitHub, né? Então
+
+606
+00:10:39,750 --> 00:10:39,760
+criar tudo isso no GitHub, né? Então
+ 
+
+607
+00:10:39,760 --> 00:10:41,710
+criar tudo isso no GitHub, né? Então
+você cria o documento de contexto, põe
+
+608
+00:10:41,710 --> 00:10:41,720
+você cria o documento de contexto, põe
+ 
+
+609
+00:10:41,720 --> 00:10:44,389
+você cria o documento de contexto, põe
+põe um ponto ENV com as chaves APIs, né?
+
+610
+00:10:44,389 --> 00:10:44,399
+põe um ponto ENV com as chaves APIs, né?
+ 
+
+611
+00:10:44,399 --> 00:10:46,030
+põe um ponto ENV com as chaves APIs, né?
+Você pode deixar tudo lá e tanto faz
+
+612
+00:10:46,030 --> 00:10:46,040
+Você pode deixar tudo lá e tanto faz
+ 
+
+613
+00:10:46,040 --> 00:10:47,389
+Você pode deixar tudo lá e tanto faz
+você vai usar o OpenCall ou não. O que
+
+614
+00:10:47,389 --> 00:10:47,399
+você vai usar o OpenCall ou não. O que
+ 
+
+615
+00:10:47,399 --> 00:10:48,870
+você vai usar o OpenCall ou não. O que
+eu gosto do OpenCall para esse tipo de
+
+616
+00:10:48,870 --> 00:10:48,880
+eu gosto do OpenCall para esse tipo de
+ 
+
+617
+00:10:48,880 --> 00:10:50,550
+eu gosto do OpenCall para esse tipo de
+serviço é que ele vai ficando mais
+
+618
+00:10:50,550 --> 00:10:50,560
+serviço é que ele vai ficando mais
+ 
+
+619
+00:10:50,560 --> 00:10:52,509
+serviço é que ele vai ficando mais
+inteligente, vai aprendendo. Já o cloud
+
+620
+00:10:52,509 --> 00:10:52,519
+inteligente, vai aprendendo. Já o cloud
+ 
+
+621
+00:10:52,519 --> 00:10:54,550
+inteligente, vai aprendendo. Já o cloud
+ele é mais focado em executar, executar,
+
+622
+00:10:54,550 --> 00:10:54,560
+ele é mais focado em executar, executar,
+ 
+
+623
+00:10:54,560 --> 00:10:55,949
+ele é mais focado em executar, executar,
+mas enfim, os dois te levam pro mesmo
+
+624
+00:10:55,949 --> 00:10:55,959
+mas enfim, os dois te levam pro mesmo
+ 
+
+625
+00:10:55,959 --> 00:10:58,030
+mas enfim, os dois te levam pro mesmo
+lugar. Anyway, então ele usou o open
+
+626
+00:10:58,030 --> 00:10:58,040
+lugar. Anyway, então ele usou o open
+ 
+
+627
+00:10:58,040 --> 00:11:00,269
+lugar. Anyway, então ele usou o open
+claw, usou o posts que a gente já viu, e
+
+628
+00:11:00,269 --> 00:11:00,279
+claw, usou o posts que a gente já viu, e
+ 
+
+629
+00:11:00,279 --> 00:11:03,389
+claw, usou o posts que a gente já viu, e
+as skills dele, tá? Inclusive ele
+
+630
+00:11:03,389 --> 00:11:03,399
+as skills dele, tá? Inclusive ele
+ 
+
+631
+00:11:03,399 --> 00:11:05,150
+as skills dele, tá? Inclusive ele
+monetizou essas skills dele, porque esse
+
+632
+00:11:05,150 --> 00:11:05,160
+monetizou essas skills dele, porque esse
+ 
+
+633
+00:11:05,160 --> 00:11:07,509
+monetizou essas skills dele, porque esse
+cara pensa, né? O cara teve 7 milhões de
+
+634
+00:11:07,509 --> 00:11:07,519
+cara pensa, né? O cara teve 7 milhões de
+ 
+
+635
+00:11:07,519 --> 00:11:08,990
+cara pensa, né? O cara teve 7 milhões de
+views, né? Então o que que esse Oliver
+
+636
+00:11:08,990 --> 00:11:09,000
+views, né? Então o que que esse Oliver
+ 
+
+637
+00:11:09,000 --> 00:11:10,750
+views, né? Então o que que esse Oliver
+fez? Ele monetizou as skills dele, o que
+
+638
+00:11:10,750 --> 00:11:10,760
+fez? Ele monetizou as skills dele, o que
+ 
+
+639
+00:11:10,760 --> 00:11:12,750
+fez? Ele monetizou as skills dele, o que
+eu achei que foi muito inteligente, né?
+
+640
+00:11:12,750 --> 00:11:12,760
+eu achei que foi muito inteligente, né?
+ 
+
+641
+00:11:12,760 --> 00:11:14,670
+eu achei que foi muito inteligente, né?
+Então ele criou um subscription para
+
+642
+00:11:14,670 --> 00:11:14,680
+Então ele criou um subscription para
+ 
+
+643
+00:11:14,680 --> 00:11:17,150
+Então ele criou um subscription para
+você pegar, tipo, todas as skills que
+
+644
+00:11:17,150 --> 00:11:17,160
+você pegar, tipo, todas as skills que
+ 
+
+645
+00:11:17,160 --> 00:11:20,150
+você pegar, tipo, todas as skills que
+ele usou para e viralizar no negócio
+
+646
+00:11:20,150 --> 00:11:20,160
+ele usou para e viralizar no negócio
+ 
+
+647
+00:11:20,160 --> 00:11:22,629
+ele usou para e viralizar no negócio
+dele, né? Então achei inteligente, achei
+
+648
+00:11:22,629 --> 00:11:22,639
+dele, né? Então achei inteligente, achei
+ 
+
+649
+00:11:22,639 --> 00:11:24,069
+dele, né? Então achei inteligente, achei
+inteligente, né? Então o cara monetizou
+
+650
+00:11:24,069 --> 00:11:24,079
+inteligente, né? Então o cara monetizou
+ 
+
+651
+00:11:24,079 --> 00:11:25,629
+inteligente, né? Então o cara monetizou
+as skills dele, tá? Então aqui ele tem
+
+652
+00:11:25,629 --> 00:11:25,639
+as skills dele, tá? Então aqui ele tem
+ 
+
+653
+00:11:25,639 --> 00:11:28,269
+as skills dele, tá? Então aqui ele tem
+várias skills aqui de baixar vídeo, de
+
+654
+00:11:28,269 --> 00:11:28,279
+várias skills aqui de baixar vídeo, de
+ 
+
+655
+00:11:28,279 --> 00:11:30,430
+várias skills aqui de baixar vídeo, de
+experimentos de marketing, dashboard e
+
+656
+00:11:30,430 --> 00:11:30,440
+experimentos de marketing, dashboard e
+ 
+
+657
+00:11:30,440 --> 00:11:31,990
+experimentos de marketing, dashboard e
+tudo mais. E aí você pode pegar isso
+
+658
+00:11:31,990 --> 00:11:32,000
+tudo mais. E aí você pode pegar isso
+ 
+
+659
+00:11:32,000 --> 00:11:34,949
+tudo mais. E aí você pode pegar isso
+aqui por $30 por mês, que é salgadinho,
+
+660
+00:11:34,949 --> 00:11:34,959
+aqui por $30 por mês, que é salgadinho,
+ 
+
+661
+00:11:34,959 --> 00:11:37,590
+aqui por $30 por mês, que é salgadinho,
+né? Beleza? Então vamos voltar aqui.
+
+662
+00:11:37,590 --> 00:11:37,600
+né? Beleza? Então vamos voltar aqui.
+ 
+
+663
+00:11:37,600 --> 00:11:39,670
+né? Beleza? Então vamos voltar aqui.
+Então ele tem as skills dele, né? O que
+
+664
+00:11:39,670 --> 00:11:39,680
+Então ele tem as skills dele, né? O que
+ 
+
+665
+00:11:39,680 --> 00:11:41,629
+Então ele tem as skills dele, né? O que
+você vai precisar e tal. Então o que que
+
+666
+00:11:41,629 --> 00:11:41,639
+você vai precisar e tal. Então o que que
+ 
+
+667
+00:11:41,639 --> 00:11:43,870
+você vai precisar e tal. Então o que que
+ele faz, né? Então como funciona? Ele
+
+668
+00:11:43,870 --> 00:11:43,880
+ele faz, né? Então como funciona? Ele
+ 
+
+669
+00:11:43,880 --> 00:11:45,590
+ele faz, né? Então como funciona? Ele
+diz que ele usa esse formato de slide
+
+670
+00:11:45,590 --> 00:11:45,600
+diz que ele usa esse formato de slide
+ 
+
+671
+00:11:45,600 --> 00:11:47,190
+diz que ele usa esse formato de slide
+show format. Então ele diz que
+
+672
+00:11:47,190 --> 00:11:47,200
+show format. Então ele diz que
+ 
+
+673
+00:11:47,200 --> 00:11:49,550
+show format. Então ele diz que
+carrosséis no TikTok estão explodindo.
+
+674
+00:11:49,550 --> 00:11:49,560
+carrosséis no TikTok estão explodindo.
+ 
+
+675
+00:11:49,560 --> 00:11:51,710
+carrosséis no TikTok estão explodindo.
+Nas nos próprios dados do TikTok dizem
+
+676
+00:11:51,710 --> 00:11:51,720
+Nas nos próprios dados do TikTok dizem
+ 
+
+677
+00:11:51,720 --> 00:11:53,509
+Nas nos próprios dados do TikTok dizem
+que os carrosséis estão tendo duas
+
+678
+00:11:53,509 --> 00:11:53,519
+que os carrosséis estão tendo duas
+ 
+
+679
+00:11:53,519 --> 00:11:55,269
+que os carrosséis estão tendo duas
+vezes, quase três vezes mais
+
+680
+00:11:55,269 --> 00:11:55,279
+vezes, quase três vezes mais
+ 
+
+681
+00:11:55,279 --> 00:11:57,829
+vezes, quase três vezes mais
+comentários, duas vezes mais curtidas e
+
+682
+00:11:57,829 --> 00:11:57,839
+comentários, duas vezes mais curtidas e
+ 
+
+683
+00:11:57,839 --> 00:12:00,350
+comentários, duas vezes mais curtidas e
+três vezes mais shares comprado com
+
+684
+00:12:00,350 --> 00:12:00,360
+três vezes mais shares comprado com
+ 
+
+685
+00:12:00,360 --> 00:12:03,470
+três vezes mais shares comprado com
+vídeos. Então o algoritmo está e a
+
+686
+00:12:03,470 --> 00:12:03,480
+vídeos. Então o algoritmo está e a
+ 
+
+687
+00:12:03,480 --> 00:12:06,430
+vídeos. Então o algoritmo está e a
+atualmente puxando fotos, né, conteúdos
+
+688
+00:12:06,430 --> 00:12:06,440
+atualmente puxando fotos, né, conteúdos
+ 
+
+689
+00:12:06,440 --> 00:12:09,389
+atualmente puxando fotos, né, conteúdos
+de fotos para 2026, tá? Então vamos dar
+
+690
+00:12:09,389 --> 00:12:09,399
+de fotos para 2026, tá? Então vamos dar
+ 
+
+691
+00:12:09,399 --> 00:12:10,750
+de fotos para 2026, tá? Então vamos dar
+uma olhadinha aqui no aplicativo dele,
+
+692
+00:12:10,750 --> 00:12:10,760
+uma olhadinha aqui no aplicativo dele,
+ 
+
+693
+00:12:10,760 --> 00:12:13,949
+uma olhadinha aqui no aplicativo dele,
+né? Então é realmente é foto, né? Se
+
+694
+00:12:13,949 --> 00:12:13,959
+né? Então é realmente é foto, né? Se
+ 
+
+695
+00:12:13,959 --> 00:12:17,110
+né? Então é realmente é foto, né? Se
+você olhar tudo, foto foto foto. Então,
+
+696
+00:12:17,110 --> 00:12:17,120
+você olhar tudo, foto foto foto. Então,
+ 
+
+697
+00:12:17,120 --> 00:12:22,430
+você olhar tudo, foto foto foto. Então,
+foto aqui, desligar a música, foto aqui.
+
+698
+00:12:22,430 --> 00:12:22,440
+foto aqui, desligar a música, foto aqui.
+ 
+
+699
+00:12:22,440 --> 00:12:23,790
+foto aqui, desligar a música, foto aqui.
+E olha só que interessante o
+
+700
+00:12:23,790 --> 00:12:23,800
+E olha só que interessante o
+ 
+
+701
+00:12:23,800 --> 00:12:26,030
+E olha só que interessante o
+storytelling, né? Então ele coloca um
+
+702
+00:12:26,030 --> 00:12:26,040
+storytelling, né? Então ele coloca um
+ 
+
+703
+00:12:26,040 --> 00:12:29,230
+storytelling, né? Então ele coloca um
+hook, tipo, ah, minha irmã se recusou a
+
+704
+00:12:29,230 --> 00:12:29,240
+hook, tipo, ah, minha irmã se recusou a
+ 
+
+705
+00:12:29,240 --> 00:12:31,949
+hook, tipo, ah, minha irmã se recusou a
+acreditar que eu poderia refazer o
+
+706
+00:12:31,949 --> 00:12:31,959
+acreditar que eu poderia refazer o
+ 
+
+707
+00:12:31,959 --> 00:12:33,710
+acreditar que eu poderia refazer o
+design da sala inteira sem gastar um
+
+708
+00:12:33,710 --> 00:12:33,720
+design da sala inteira sem gastar um
+ 
+
+709
+00:12:33,720 --> 00:12:35,269
+design da sala inteira sem gastar um
+centavo. Tipo, ele colocou um hook ali
+
+710
+00:12:35,269 --> 00:12:35,279
+centavo. Tipo, ele colocou um hook ali
+ 
+
+711
+00:12:35,279 --> 00:12:37,550
+centavo. Tipo, ele colocou um hook ali
+para dar um stop scrolling, né? Aí ele
+
+712
+00:12:37,550 --> 00:12:37,560
+para dar um stop scrolling, né? Aí ele
+ 
+
+713
+00:12:37,560 --> 00:12:39,790
+para dar um stop scrolling, né? Aí ele
+coloca assim, né? Ela disse que parece
+
+714
+00:12:39,790 --> 00:12:39,800
+coloca assim, né? Ela disse que parece
+ 
+
+715
+00:12:39,800 --> 00:12:41,350
+coloca assim, né? Ela disse que parece
+muito profissional, então ele fez uma
+
+716
+00:12:41,350 --> 00:12:41,360
+muito profissional, então ele fez uma
+ 
+
+717
+00:12:41,360 --> 00:12:43,629
+muito profissional, então ele fez uma
+sugestão de uma foto por um ya. Eh, ele
+
+718
+00:12:43,629 --> 00:12:43,639
+sugestão de uma foto por um ya. Eh, ele
+ 
+
+719
+00:12:43,639 --> 00:12:45,790
+sugestão de uma foto por um ya. Eh, ele
+acha ele ela disse que acha que ele
+
+720
+00:12:45,790 --> 00:12:45,800
+acha ele ela disse que acha que ele
+ 
+
+721
+00:12:45,800 --> 00:12:47,670
+acha ele ela disse que acha que ele
+contratou um designer para fazer isso,
+
+722
+00:12:47,670 --> 00:12:47,680
+contratou um designer para fazer isso,
+ 
+
+723
+00:12:47,680 --> 00:12:49,509
+contratou um designer para fazer isso,
+enquanto, na verdade, ele mostrou que só
+
+724
+00:12:49,509 --> 00:12:49,519
+enquanto, na verdade, ele mostrou que só
+ 
+
+725
+00:12:49,519 --> 00:12:52,790
+enquanto, na verdade, ele mostrou que só
+foi uma foto e que a foto mostrava
+
+726
+00:12:52,790 --> 00:12:52,800
+foi uma foto e que a foto mostrava
+ 
+
+727
+00:12:52,800 --> 00:12:55,110
+foi uma foto e que a foto mostrava
+exatamente o que ela precisava comprar,
+
+728
+00:12:55,110 --> 00:12:55,120
+exatamente o que ela precisava comprar,
+ 
+
+729
+00:12:55,120 --> 00:12:57,470
+exatamente o que ela precisava comprar,
+né, antes dela comprar. E ela comprou
+
+730
+00:12:57,470 --> 00:12:57,480
+né, antes dela comprar. E ela comprou
+ 
+
+731
+00:12:57,480 --> 00:12:59,310
+né, antes dela comprar. E ela comprou
+tudo o que tá nessa foto de decoração,
+
+732
+00:12:59,310 --> 00:12:59,320
+tudo o que tá nessa foto de decoração,
+ 
+
+733
+00:12:59,320 --> 00:13:01,629
+tudo o que tá nessa foto de decoração,
+de indicação na mesma noite, né? Então,
+
+734
+00:13:01,629 --> 00:13:01,639
+de indicação na mesma noite, né? Então,
+ 
+
+735
+00:13:01,639 --> 00:13:04,069
+de indicação na mesma noite, né? Então,
+tipo assim, contou uma história, né?
+
+736
+00:13:04,069 --> 00:13:04,079
+tipo assim, contou uma história, né?
+ 
+
+737
+00:13:04,079 --> 00:13:06,710
+tipo assim, contou uma história, né?
+Show showed my Nance's living Room. É a
+
+738
+00:13:06,710 --> 00:13:06,720
+Show showed my Nance's living Room. É a
+ 
+
+739
+00:13:06,720 --> 00:13:08,030
+Show showed my Nance's living Room. É a
+mesma coisa, né? Então, se você vê, ele
+
+740
+00:13:08,030 --> 00:13:08,040
+mesma coisa, né? Então, se você vê, ele
+ 
+
+741
+00:13:08,040 --> 00:13:09,470
+mesma coisa, né? Então, se você vê, ele
+tem o mesmo padrão, que é tipo de
+
+742
+00:13:09,470 --> 00:13:09,480
+tem o mesmo padrão, que é tipo de
+ 
+
+743
+00:13:09,480 --> 00:13:11,629
+tem o mesmo padrão, que é tipo de
+colocar um hook e de colocando tipo
+
+744
+00:13:11,629 --> 00:13:11,639
+colocar um hook e de colocando tipo
+ 
+
+745
+00:13:11,639 --> 00:13:13,069
+colocar um hook e de colocando tipo
+fotos contando uma história. Então, o
+
+746
+00:13:13,069 --> 00:13:13,079
+fotos contando uma história. Então, o
+ 
+
+747
+00:13:13,079 --> 00:13:14,430
+fotos contando uma história. Então, o
+que que o Larry deve fazer é que ele
+
+748
+00:13:14,430 --> 00:13:14,440
+que que o Larry deve fazer é que ele
+ 
+
+749
+00:13:14,440 --> 00:13:16,710
+que que o Larry deve fazer é que ele
+deve inventar uma história para cada
+
+750
+00:13:16,710 --> 00:13:16,720
+deve inventar uma história para cada
+ 
+
+751
+00:13:16,720 --> 00:13:18,710
+deve inventar uma história para cada
+carrossel e ele coloca essas histórias
+
+752
+00:13:18,710 --> 00:13:18,720
+carrossel e ele coloca essas histórias
+ 
+
+753
+00:13:18,720 --> 00:13:20,189
+carrossel e ele coloca essas histórias
+com as fotos de um ambiente que ele
+
+754
+00:13:20,189 --> 00:13:20,199
+com as fotos de um ambiente que ele
+ 
+
+755
+00:13:20,199 --> 00:13:22,629
+com as fotos de um ambiente que ele
+mesmo gera, né? Então, my sister said,
+
+756
+00:13:22,629 --> 00:13:22,639
+mesmo gera, né? Então, my sister said,
+ 
+
+757
+00:13:22,639 --> 00:13:26,030
+mesmo gera, né? Então, my sister said,
+"My bathroom looks like a travel lodge."
+
+758
+00:13:26,030 --> 00:13:26,040
+"My bathroom looks like a travel lodge."
+ 
+
+759
+00:13:26,040 --> 00:13:28,990
+"My bathroom looks like a travel lodge."
+Então, textinho aqui para lá. She's not
+
+760
+00:13:28,990 --> 00:13:29,000
+Então, textinho aqui para lá. She's not
+ 
+
+761
+00:13:29,000 --> 00:13:31,990
+Então, textinho aqui para lá. She's not
+even wrong to look. Aí, fotinho com os
+
+762
+00:13:31,990 --> 00:13:32,000
+even wrong to look. Aí, fotinho com os
+ 
+
+763
+00:13:32,000 --> 00:13:34,150
+even wrong to look. Aí, fotinho com os
+resultados, blá blá blá. Ah, ficou
+
+764
+00:13:34,150 --> 00:13:34,160
+resultados, blá blá blá. Ah, ficou
+ 
+
+765
+00:13:34,160 --> 00:13:36,509
+resultados, blá blá blá. Ah, ficou
+legal, né? Um charme, né? Um charme
+
+766
+00:13:36,509 --> 00:13:36,519
+legal, né? Um charme, né? Um charme
+ 
+
+767
+00:13:36,519 --> 00:13:40,430
+legal, né? Um charme, né? Um charme
+assim. Então, cara, 200.000 views, 134,
+
+768
+00:13:40,430 --> 00:13:40,440
+assim. Então, cara, 200.000 views, 134,
+ 
+
+769
+00:13:40,440 --> 00:13:43,790
+assim. Então, cara, 200.000 views, 134,
+170.000 views, que loucura. Bem legal
+
+770
+00:13:43,790 --> 00:13:43,800
+170.000 views, que loucura. Bem legal
+ 
+
+771
+00:13:43,800 --> 00:13:45,430
+170.000 views, que loucura. Bem legal
+isso aqui. Então, vamos ver como ele
+
+772
+00:13:45,430 --> 00:13:45,440
+isso aqui. Então, vamos ver como ele
+ 
+
+773
+00:13:45,440 --> 00:13:47,269
+isso aqui. Então, vamos ver como ele
+fez, tá? Então, o que ele faz? Todo
+
+774
+00:13:47,269 --> 00:13:47,279
+fez, tá? Então, o que ele faz? Todo
+ 
+
+775
+00:13:47,279 --> 00:13:50,749
+fez, tá? Então, o que ele faz? Todo
+slide show do Larry, ele tem seis slides
+
+776
+00:13:50,749 --> 00:13:50,759
+slide show do Larry, ele tem seis slides
+ 
+
+777
+00:13:50,759 --> 00:13:53,470
+slide show do Larry, ele tem seis slides
+exatamente. Então, ele faz seis em todos
+
+778
+00:13:53,470 --> 00:13:53,480
+exatamente. Então, ele faz seis em todos
+ 
+
+779
+00:13:53,480 --> 00:13:55,550
+exatamente. Então, ele faz seis em todos
+eles. Eu não vi, mas imagino que sejam
+
+780
+00:13:55,550 --> 00:13:55,560
+eles. Eu não vi, mas imagino que sejam
+ 
+
+781
+00:13:55,560 --> 00:14:00,629
+eles. Eu não vi, mas imagino que sejam
+todos seis, né? 1 2 3 4 5 6. Aham. Tá
+
+782
+00:14:00,629 --> 00:14:00,639
+todos seis, né? 1 2 3 4 5 6. Aham. Tá
+ 
+
+783
+00:14:00,639 --> 00:14:02,550
+todos seis, né? 1 2 3 4 5 6. Aham. Tá
+aqui embaixo as bolinhas, né? Então, tem
+
+784
+00:14:02,550 --> 00:14:02,560
+aqui embaixo as bolinhas, né? Então, tem
+ 
+
+785
+00:14:02,560 --> 00:14:05,670
+aqui embaixo as bolinhas, né? Então, tem
+seis. Legal. Ele tem um tex overlay,
+
+786
+00:14:05,670 --> 00:14:05,680
+seis. Legal. Ele tem um tex overlay,
+ 
+
+787
+00:14:05,680 --> 00:14:07,509
+seis. Legal. Ele tem um tex overlay,
+então ele coloca o storytelling com um
+
+788
+00:14:07,509 --> 00:14:07,519
+então ele coloca o storytelling com um
+ 
+
+789
+00:14:07,519 --> 00:14:09,629
+então ele coloca o storytelling com um
+texto em cima de todas as fotos e um
+
+790
+00:14:09,629 --> 00:14:09,639
+texto em cima de todas as fotos e um
+ 
+
+791
+00:14:09,639 --> 00:14:11,509
+texto em cima de todas as fotos e um
+story style caption, né? Então é
+
+792
+00:14:11,509 --> 00:14:11,519
+story style caption, né? Então é
+ 
+
+793
+00:14:11,519 --> 00:14:13,269
+story style caption, né? Então é
+exatamente como a gente viu ali, né? Ele
+
+794
+00:14:13,269 --> 00:14:13,279
+exatamente como a gente viu ali, né? Ele
+ 
+
+795
+00:14:13,279 --> 00:14:15,350
+exatamente como a gente viu ali, né? Ele
+tem um storyting e ele coloca cinco
+
+796
+00:14:15,350 --> 00:14:15,360
+tem um storyting e ele coloca cinco
+ 
+
+797
+00:14:15,360 --> 00:14:17,230
+tem um storyting e ele coloca cinco
+hashtags, né? Então, como essas imagens
+
+798
+00:14:17,230 --> 00:14:17,240
+hashtags, né? Então, como essas imagens
+ 
+
+799
+00:14:17,240 --> 00:14:21,509
+hashtags, né? Então, como essas imagens
+são geradas? Ele usa o chat GPT 1 GPT
+
+800
+00:14:21,509 --> 00:14:21,519
+são geradas? Ele usa o chat GPT 1 GPT
+ 
+
+801
+00:14:21,519 --> 00:14:24,790
+são geradas? Ele usa o chat GPT 1 GPT
+image 1.5 usando a chave API da Open AI.
+
+802
+00:14:24,790 --> 00:14:24,800
+image 1.5 usando a chave API da Open AI.
+ 
+
+803
+00:14:24,800 --> 00:14:26,910
+image 1.5 usando a chave API da Open AI.
+Inclusive, se você não sabe como pegar
+
+804
+00:14:26,910 --> 00:14:26,920
+Inclusive, se você não sabe como pegar
+ 
+
+805
+00:14:26,920 --> 00:14:28,670
+Inclusive, se você não sabe como pegar
+uma chave API da Open AI, basta você
+
+806
+00:14:28,670 --> 00:14:28,680
+uma chave API da Open AI, basta você
+ 
+
+807
+00:14:28,680 --> 00:14:32,030
+uma chave API da Open AI, basta você
+digitar Open AI, eh, então, e digitar
+
+808
+00:14:32,030 --> 00:14:32,040
+digitar Open AI, eh, então, e digitar
+ 
+
+809
+00:14:32,040 --> 00:14:34,150
+digitar Open AI, eh, então, e digitar
+API. E aí você vai achar eles ali, tá?
+
+810
+00:14:34,150 --> 00:14:34,160
+API. E aí você vai achar eles ali, tá?
+ 
+
+811
+00:14:34,160 --> 00:14:36,389
+API. E aí você vai achar eles ali, tá?
+Então ele gera imagem. Então eh o que
+
+812
+00:14:36,389 --> 00:14:36,399
+Então ele gera imagem. Então eh o que
+ 
+
+813
+00:14:36,399 --> 00:14:38,670
+Então ele gera imagem. Então eh o que
+que é o aplicativo dele, né? Então o
+
+814
+00:14:38,670 --> 00:14:38,680
+que é o aplicativo dele, né? Então o
+ 
+
+815
+00:14:38,680 --> 00:14:41,749
+que é o aplicativo dele, né? Então o
+Snuggle ele gera as imagens de design do
+
+816
+00:14:41,749 --> 00:14:41,759
+Snuggle ele gera as imagens de design do
+ 
+
+817
+00:14:41,759 --> 00:14:46,509
+Snuggle ele gera as imagens de design do
+interior usando o GPT imag. E o TikTok
+
+818
+00:14:46,509 --> 00:14:46,519
+interior usando o GPT imag. E o TikTok
+ 
+
+819
+00:14:46,519 --> 00:14:48,629
+interior usando o GPT imag. E o TikTok
+faz com que essas imagens eh seja
+
+820
+00:14:48,629 --> 00:14:48,639
+faz com que essas imagens eh seja
+ 
+
+821
+00:14:48,639 --> 00:14:50,310
+faz com que essas imagens eh seja
+exatamente o que os usuários vão ver
+
+822
+00:14:50,310 --> 00:14:50,320
+exatamente o que os usuários vão ver
+ 
+
+823
+00:14:50,320 --> 00:14:51,310
+exatamente o que os usuários vão ver
+quando eles fazem download do
+
+824
+00:14:51,310 --> 00:14:51,320
+quando eles fazem download do
+ 
+
+825
+00:14:51,320 --> 00:14:53,189
+quando eles fazem download do
+aplicativo. Então ele gera as imagens no
+
+826
+00:14:53,189 --> 00:14:53,199
+aplicativo. Então ele gera as imagens no
+ 
+
+827
+00:14:53,199 --> 00:14:54,870
+aplicativo. Então ele gera as imagens no
+próprio aplicativo, ele baixa elas e
+
+828
+00:14:54,870 --> 00:14:54,880
+próprio aplicativo, ele baixa elas e
+ 
+
+829
+00:14:54,880 --> 00:14:57,870
+próprio aplicativo, ele baixa elas e
+sobe elas no TikTok. No bait suitch. E o
+
+830
+00:14:57,870 --> 00:14:57,880
+sobe elas no TikTok. No bait suitch. E o
+ 
+
+831
+00:14:57,880 --> 00:15:00,629
+sobe elas no TikTok. No bait suitch. E o
+marketing é o próprio produto, que eu
+
+832
+00:15:00,629 --> 00:15:00,639
+marketing é o próprio produto, que eu
+ 
+
+833
+00:15:00,639 --> 00:15:01,790
+marketing é o próprio produto, que eu
+acho que essa é a principal mensagem
+
+834
+00:15:01,790 --> 00:15:01,800
+acho que essa é a principal mensagem
+ 
+
+835
+00:15:01,800 --> 00:15:03,949
+acho que essa é a principal mensagem
+desse vídeo, né? O marketing é o
+
+836
+00:15:03,949 --> 00:15:03,959
+desse vídeo, né? O marketing é o
+ 
+
+837
+00:15:03,959 --> 00:15:07,790
+desse vídeo, né? O marketing é o
+principal produto, é o produto. E parece
+
+838
+00:15:07,790 --> 00:15:07,800
+principal produto, é o produto. E parece
+ 
+
+839
+00:15:07,800 --> 00:15:09,710
+principal produto, é o produto. E parece
+muito real. Então, quando você coloca
+
+840
+00:15:09,710 --> 00:15:09,720
+muito real. Então, quando você coloca
+ 
+
+841
+00:15:09,720 --> 00:15:12,790
+muito real. Então, quando você coloca
+uma foto de um iPhone e você coloca, né,
+
+842
+00:15:12,790 --> 00:15:12,800
+uma foto de um iPhone e você coloca, né,
+ 
+
+843
+00:15:12,800 --> 00:15:15,749
+uma foto de um iPhone e você coloca, né,
+um um prompt, né, iPhone 4 ou realish
+
+844
+00:15:15,749 --> 00:15:15,759
+um um prompt, né, iPhone 4 ou realish
+ 
+
+845
+00:15:15,759 --> 00:15:18,030
+um um prompt, né, iPhone 4 ou realish
+lighting, é, no prompt, ele produz uma
+
+846
+00:15:18,030 --> 00:15:18,040
+lighting, é, no prompt, ele produz uma
+ 
+
+847
+00:15:18,040 --> 00:15:20,389
+lighting, é, no prompt, ele produz uma
+imagem que ela genuinamente parece que
+
+848
+00:15:20,389 --> 00:15:20,399
+imagem que ela genuinamente parece que
+ 
+
+849
+00:15:20,399 --> 00:15:22,350
+imagem que ela genuinamente parece que
+alguém tirou uma foto do telefone deles,
+
+850
+00:15:22,350 --> 00:15:22,360
+alguém tirou uma foto do telefone deles,
+ 
+
+851
+00:15:22,360 --> 00:15:24,189
+alguém tirou uma foto do telefone deles,
+não parece uma foto de EA, não tem
+
+852
+00:15:24,189 --> 00:15:24,199
+não parece uma foto de EA, não tem
+ 
+
+853
+00:15:24,199 --> 00:15:26,350
+não parece uma foto de EA, não tem
+renders fotos, né? Então vamos falar um
+
+854
+00:15:26,350 --> 00:15:26,360
+renders fotos, né? Então vamos falar um
+ 
+
+855
+00:15:26,360 --> 00:15:27,749
+renders fotos, né? Então vamos falar um
+pouco sobre o prompt, a engenharia de
+
+856
+00:15:27,749 --> 00:15:27,759
+pouco sobre o prompt, a engenharia de
+ 
+
+857
+00:15:27,759 --> 00:15:29,670
+pouco sobre o prompt, a engenharia de
+prompt que ele usou, tá? Então ele falou
+
+858
+00:15:29,670 --> 00:15:29,680
+prompt que ele usou, tá? Então ele falou
+ 
+
+859
+00:15:29,680 --> 00:15:31,470
+prompt que ele usou, tá? Então ele falou
+que ele quebrou um pouco a cabeça para
+
+860
+00:15:31,470 --> 00:15:31,480
+que ele quebrou um pouco a cabeça para
+ 
+
+861
+00:15:31,480 --> 00:15:33,309
+que ele quebrou um pouco a cabeça para
+descobrir como fazer o prompt dele, né?
+
+862
+00:15:33,309 --> 00:15:33,319
+descobrir como fazer o prompt dele, né?
+ 
+
+863
+00:15:33,319 --> 00:15:34,910
+descobrir como fazer o prompt dele, né?
+Porque ele falou que as coisas demoram
+
+864
+00:15:34,910 --> 00:15:34,920
+Porque ele falou que as coisas demoram
+ 
+
+865
+00:15:34,920 --> 00:15:36,590
+Porque ele falou que as coisas demoram
+um tempo para construir e realmente eu
+
+866
+00:15:36,590 --> 00:15:36,600
+um tempo para construir e realmente eu
+ 
+
+867
+00:15:36,600 --> 00:15:38,749
+um tempo para construir e realmente eu
+também criei várias skills de carrossel
+
+868
+00:15:38,749 --> 00:15:38,759
+também criei várias skills de carrossel
+ 
+
+869
+00:15:38,759 --> 00:15:42,230
+também criei várias skills de carrossel
+pro meu Instagram e inclusive e se você
+
+870
+00:15:42,230 --> 00:15:42,240
+pro meu Instagram e inclusive e se você
+ 
+
+871
+00:15:42,240 --> 00:15:44,350
+pro meu Instagram e inclusive e se você
+ver tipo ficaram bacanas assim, né?
+
+872
+00:15:44,350 --> 00:15:44,360
+ver tipo ficaram bacanas assim, né?
+ 
+
+873
+00:15:44,360 --> 00:15:46,670
+ver tipo ficaram bacanas assim, né?
+Então eu vou pegar aqui, ó. Então eu
+
+874
+00:15:46,670 --> 00:15:46,680
+Então eu vou pegar aqui, ó. Então eu
+ 
+
+875
+00:15:46,680 --> 00:15:49,110
+Então eu vou pegar aqui, ó. Então eu
+criei algumas skills, né? Então eu criei
+
+876
+00:15:49,110 --> 00:15:49,120
+criei algumas skills, né? Então eu criei
+ 
+
+877
+00:15:49,120 --> 00:15:52,829
+criei algumas skills, né? Então eu criei
+essa skill aqui de hand draw, né? eh,
+
+878
+00:15:52,829 --> 00:15:52,839
+essa skill aqui de hand draw, né? eh,
+ 
+
+879
+00:15:52,839 --> 00:15:56,870
+essa skill aqui de hand draw, né? eh,
+que é de desenhar e escrever assim e ela
+
+880
+00:15:56,870 --> 00:15:56,880
+que é de desenhar e escrever assim e ela
+ 
+
+881
+00:15:56,880 --> 00:15:59,110
+que é de desenhar e escrever assim e ela
+fica legal assim, né? Tipo, parece que
+
+882
+00:15:59,110 --> 00:15:59,120
+fica legal assim, né? Tipo, parece que
+ 
+
+883
+00:15:59,120 --> 00:16:00,790
+fica legal assim, né? Tipo, parece que
+você escreve num caderninho assim.
+
+884
+00:16:00,790 --> 00:16:00,800
+você escreve num caderninho assim.
+ 
+
+885
+00:16:00,800 --> 00:16:02,829
+você escreve num caderninho assim.
+Então, eu criei essa skill aqui. Eh, eu
+
+886
+00:16:02,829 --> 00:16:02,839
+Então, eu criei essa skill aqui. Eh, eu
+ 
+
+887
+00:16:02,839 --> 00:16:04,910
+Então, eu criei essa skill aqui. Eh, eu
+criei skill de cases, né? Então, ele
+
+888
+00:16:04,910 --> 00:16:04,920
+criei skill de cases, né? Então, ele
+ 
+
+889
+00:16:04,920 --> 00:16:07,430
+criei skill de cases, né? Então, ele
+fica com um casezinho assim também. É
+
+890
+00:16:07,430 --> 00:16:07,440
+fica com um casezinho assim também. É
+ 
+
+891
+00:16:07,440 --> 00:16:10,389
+fica com um casezinho assim também. É
+assim, nada muito genial, né? Essa aqui
+
+892
+00:16:10,389 --> 00:16:10,399
+assim, nada muito genial, né? Essa aqui
+ 
+
+893
+00:16:10,399 --> 00:16:12,590
+assim, nada muito genial, né? Essa aqui
+também de novo casezinho assim. E a
+
+894
+00:16:12,590 --> 00:16:12,600
+também de novo casezinho assim. E a
+ 
+
+895
+00:16:12,600 --> 00:16:15,550
+também de novo casezinho assim. E a
+gente criou uma de fazer atualizações de
+
+896
+00:16:15,550 --> 00:16:15,560
+gente criou uma de fazer atualizações de
+ 
+
+897
+00:16:15,560 --> 00:16:17,350
+gente criou uma de fazer atualizações de
+AI, né? Então, essa aqui é foi meu
+
+898
+00:16:17,350 --> 00:16:17,360
+AI, né? Então, essa aqui é foi meu
+ 
+
+899
+00:16:17,360 --> 00:16:19,069
+AI, né? Então, essa aqui é foi meu
+próprio Cloud que gerou ela usando o
+
+900
+00:16:19,069 --> 00:16:19,079
+próprio Cloud que gerou ela usando o
+ 
+
+901
+00:16:19,079 --> 00:16:22,110
+próprio Cloud que gerou ela usando o
+openla. E ele busca atualizações que
+
+902
+00:16:22,110 --> 00:16:22,120
+openla. E ele busca atualizações que
+ 
+
+903
+00:16:22,120 --> 00:16:23,870
+openla. E ele busca atualizações que
+saem, por exemplo, de novas
+
+904
+00:16:23,870 --> 00:16:23,880
+saem, por exemplo, de novas
+ 
+
+905
+00:16:23,880 --> 00:16:26,990
+saem, por exemplo, de novas
+funcionalidades da IA e ele gera tipo o
+
+906
+00:16:26,990 --> 00:16:27,000
+funcionalidades da IA e ele gera tipo o
+ 
+
+907
+00:16:27,000 --> 00:16:29,350
+funcionalidades da IA e ele gera tipo o
+próprio carrossel automaticamente.
+
+908
+00:16:29,350 --> 00:16:29,360
+próprio carrossel automaticamente.
+ 
+
+909
+00:16:29,360 --> 00:16:31,269
+próprio carrossel automaticamente.
+Loucura, né? Muito massa. Então,
+
+910
+00:16:31,269 --> 00:16:31,279
+Loucura, né? Muito massa. Então,
+ 
+
+911
+00:16:31,279 --> 00:16:32,470
+Loucura, né? Muito massa. Então,
+realmente demora um tempo para você
+
+912
+00:16:32,470 --> 00:16:32,480
+realmente demora um tempo para você
+ 
+
+913
+00:16:32,480 --> 00:16:34,069
+realmente demora um tempo para você
+criar essas skills, mas uma vez que você
+
+914
+00:16:34,069 --> 00:16:34,079
+criar essas skills, mas uma vez que você
+ 
+
+915
+00:16:34,079 --> 00:16:36,509
+criar essas skills, mas uma vez que você
+faz é só fazer e refinar ela, né?
+
+916
+00:16:36,509 --> 00:16:36,519
+faz é só fazer e refinar ela, né?
+ 
+
+917
+00:16:36,519 --> 00:16:38,710
+faz é só fazer e refinar ela, né?
+Inclusive vou dar uma dica para você.
+
+918
+00:16:38,710 --> 00:16:38,720
+Inclusive vou dar uma dica para você.
+ 
+
+919
+00:16:38,720 --> 00:16:41,430
+Inclusive vou dar uma dica para você.
+Eh, é muito importante você transformar
+
+920
+00:16:41,430 --> 00:16:41,440
+Eh, é muito importante você transformar
+ 
+
+921
+00:16:41,440 --> 00:16:43,710
+Eh, é muito importante você transformar
+qualquer tipo de processo repetitivo em
+
+922
+00:16:43,710 --> 00:16:43,720
+qualquer tipo de processo repetitivo em
+ 
+
+923
+00:16:43,720 --> 00:16:46,670
+qualquer tipo de processo repetitivo em
+skills, porque se você transforma isso
+
+924
+00:16:46,670 --> 00:16:46,680
+skills, porque se você transforma isso
+ 
+
+925
+00:16:46,680 --> 00:16:49,949
+skills, porque se você transforma isso
+numa automação ou usando o open Chrome,
+
+926
+00:16:49,949 --> 00:16:49,959
+numa automação ou usando o open Chrome,
+ 
+
+927
+00:16:49,959 --> 00:16:52,550
+numa automação ou usando o open Chrome,
+o problema é que ele não consegue
+
+928
+00:16:52,550 --> 00:16:52,560
+o problema é que ele não consegue
+ 
+
+929
+00:16:52,560 --> 00:16:54,670
+o problema é que ele não consegue
+melhorar e otimizar com o tempo uma
+
+930
+00:16:54,670 --> 00:16:54,680
+melhorar e otimizar com o tempo uma
+ 
+
+931
+00:16:54,680 --> 00:16:57,829
+melhorar e otimizar com o tempo uma
+skill. Além de você otimizar e fazer
+
+932
+00:16:57,829 --> 00:16:57,839
+skill. Além de você otimizar e fazer
+ 
+
+933
+00:16:57,839 --> 00:17:00,230
+skill. Além de você otimizar e fazer
+pequenos ajustes em pequenas etapas da
+
+934
+00:17:00,230 --> 00:17:00,240
+pequenos ajustes em pequenas etapas da
+ 
+
+935
+00:17:00,240 --> 00:17:02,189
+pequenos ajustes em pequenas etapas da
+skill e não ficar mexendo no prompt
+
+936
+00:17:02,189 --> 00:17:02,199
+skill e não ficar mexendo no prompt
+ 
+
+937
+00:17:02,199 --> 00:17:03,670
+skill e não ficar mexendo no prompt
+inteiro, você também pode levar essa
+
+938
+00:17:03,670 --> 00:17:03,680
+inteiro, você também pode levar essa
+ 
+
+939
+00:17:03,680 --> 00:17:05,470
+inteiro, você também pode levar essa
+skill para qualquer outra ferramenta de
+
+940
+00:17:05,470 --> 00:17:05,480
+skill para qualquer outra ferramenta de
+ 
+
+941
+00:17:05,480 --> 00:17:07,710
+skill para qualquer outra ferramenta de
+IA, né? você pode levar lá do Cloud pro
+
+942
+00:17:07,710 --> 00:17:07,720
+IA, né? você pode levar lá do Cloud pro
+ 
+
+943
+00:17:07,720 --> 00:17:10,270
+IA, né? você pode levar lá do Cloud pro
+OpenCla e assim por diante, tá? Então
+
+944
+00:17:10,270 --> 00:17:10,280
+OpenCla e assim por diante, tá? Então
+ 
+
+945
+00:17:10,280 --> 00:17:12,230
+OpenCla e assim por diante, tá? Então
+ele falou que ele fez as skills aqui,
+
+946
+00:17:12,230 --> 00:17:12,240
+ele falou que ele fez as skills aqui,
+ 
+
+947
+00:17:12,240 --> 00:17:14,230
+ele falou que ele fez as skills aqui,
+ele falou que o Snuggle é um aplicativo
+
+948
+00:17:14,230 --> 00:17:14,240
+ele falou que o Snuggle é um aplicativo
+ 
+
+949
+00:17:14,240 --> 00:17:17,630
+ele falou que o Snuggle é um aplicativo
+de makeover, né, de construir e e vamos
+
+950
+00:17:17,630 --> 00:17:17,640
+de makeover, né, de construir e e vamos
+ 
+
+951
+00:17:17,640 --> 00:17:20,949
+de makeover, né, de construir e e vamos
+dizer e reformar ali, mostrar a sala com
+
+952
+00:17:20,949 --> 00:17:20,959
+dizer e reformar ali, mostrar a sala com
+ 
+
+953
+00:17:20,959 --> 00:17:23,510
+dizer e reformar ali, mostrar a sala com
+uma visualização, né? Não sei como
+
+954
+00:17:23,510 --> 00:17:23,520
+uma visualização, né? Não sei como
+ 
+
+955
+00:17:23,520 --> 00:17:25,390
+uma visualização, né? Não sei como
+traduzir a palavra exata de makeover.
+
+956
+00:17:25,390 --> 00:17:25,400
+traduzir a palavra exata de makeover.
+ 
+
+957
+00:17:25,400 --> 00:17:27,669
+traduzir a palavra exata de makeover.
+Então é um desafio, né, que ele ele diz
+
+958
+00:17:27,669 --> 00:17:27,679
+Então é um desafio, né, que ele ele diz
+ 
+
+959
+00:17:27,679 --> 00:17:29,669
+Então é um desafio, né, que ele ele diz
+que precisa de consistência, né, para
+
+960
+00:17:29,669 --> 00:17:29,679
+que precisa de consistência, né, para
+ 
+
+961
+00:17:29,679 --> 00:17:31,789
+que precisa de consistência, né, para
+você acertar, tipo, esse makeover, né,
+
+962
+00:17:31,789 --> 00:17:31,799
+você acertar, tipo, esse makeover, né,
+ 
+
+963
+00:17:31,799 --> 00:17:33,830
+você acertar, tipo, esse makeover, né,
+da sala dele. Então você precisa da
+
+964
+00:17:33,830 --> 00:17:33,840
+da sala dele. Então você precisa da
+ 
+
+965
+00:17:33,840 --> 00:17:37,270
+da sala dele. Então você precisa da
+mesma sala nos seis slides, só que no em
+
+966
+00:17:37,270 --> 00:17:37,280
+mesma sala nos seis slides, só que no em
+ 
+
+967
+00:17:37,280 --> 00:17:39,510
+mesma sala nos seis slides, só que no em
+diferentes estilos, né? Então ele diz
+
+968
+00:17:39,510 --> 00:17:39,520
+diferentes estilos, né? Então ele diz
+ 
+
+969
+00:17:39,520 --> 00:17:41,870
+diferentes estilos, né? Então ele diz
+que se a janela move de lugar ou as
+
+970
+00:17:41,870 --> 00:17:41,880
+que se a janela move de lugar ou as
+ 
+
+971
+00:17:41,880 --> 00:17:45,150
+que se a janela move de lugar ou as
+camas mudam de tamanho, tipo, o negócio
+
+972
+00:17:45,150 --> 00:17:45,160
+camas mudam de tamanho, tipo, o negócio
+ 
+
+973
+00:17:45,160 --> 00:17:47,350
+camas mudam de tamanho, tipo, o negócio
+vai embora e perde credibilidade, né?
+
+974
+00:17:47,350 --> 00:17:47,360
+vai embora e perde credibilidade, né?
+ 
+
+975
+00:17:47,360 --> 00:17:50,630
+vai embora e perde credibilidade, né?
+Então o que ele faz é que ele usa a API,
+
+976
+00:17:50,630 --> 00:17:50,640
+Então o que ele faz é que ele usa a API,
+ 
+
+977
+00:17:50,640 --> 00:17:53,830
+Então o que ele faz é que ele usa a API,
+né, da Open AI, e para criar o TikTok
+
+978
+00:17:53,830 --> 00:17:53,840
+né, da Open AI, e para criar o TikTok
+ 
+
+979
+00:17:53,840 --> 00:17:55,669
+né, da Open AI, e para criar o TikTok
+use cases, né? Então ele falou que o
+
+980
+00:17:55,669 --> 00:17:55,679
+use cases, né? Então ele falou que o
+ 
+
+981
+00:17:55,679 --> 00:17:57,510
+use cases, né? Então ele falou que o
+Larry fez uma excelente trabalho, tá?
+
+982
+00:17:57,510 --> 00:17:57,520
+Larry fez uma excelente trabalho, tá?
+ 
+
+983
+00:17:57,520 --> 00:18:00,190
+Larry fez uma excelente trabalho, tá?
+Então solução dele foi Lock the
+
+984
+00:18:00,190 --> 00:18:00,200
+Então solução dele foi Lock the
+ 
+
+985
+00:18:00,200 --> 00:18:02,669
+Então solução dele foi Lock the
+Architecture, né? Então ele diz que o
+
+986
+00:18:02,669 --> 00:18:02,679
+Architecture, né? Então ele diz que o
+ 
+
+987
+00:18:02,679 --> 00:18:05,149
+Architecture, né? Então ele diz que o
+Larry escreveu incrivelmente detalhado
+
+988
+00:18:05,149 --> 00:18:05,159
+Larry escreveu incrivelmente detalhado
+ 
+
+989
+00:18:05,159 --> 00:18:07,549
+Larry escreveu incrivelmente detalhado
+uma sala, uma descrição de uma sala. Ele
+
+990
+00:18:07,549 --> 00:18:07,559
+uma sala, uma descrição de uma sala. Ele
+ 
+
+991
+00:18:07,559 --> 00:18:10,510
+uma sala, uma descrição de uma sala. Ele
+copia e cola essa descrição perfeita em
+
+992
+00:18:10,510 --> 00:18:10,520
+copia e cola essa descrição perfeita em
+ 
+
+993
+00:18:10,520 --> 00:18:13,909
+copia e cola essa descrição perfeita em
+todo o prompt. a dimensão da sala, eh as
+
+994
+00:18:13,909 --> 00:18:13,919
+todo o prompt. a dimensão da sala, eh as
+ 
+
+995
+00:18:13,919 --> 00:18:16,230
+todo o prompt. a dimensão da sala, eh as
+janelas, quantas janelas tem a posição
+
+996
+00:18:16,230 --> 00:18:16,240
+janelas, quantas janelas tem a posição
+ 
+
+997
+00:18:16,240 --> 00:18:18,830
+janelas, quantas janelas tem a posição
+das janelas, a posição da porta, o
+
+998
+00:18:18,830 --> 00:18:18,840
+das janelas, a posição da porta, o
+ 
+
+999
+00:18:18,840 --> 00:18:22,029
+das janelas, a posição da porta, o
+ângulo da câmera, os móveis na sala, o a
+
+1000
+00:18:22,029 --> 00:18:22,039
+ângulo da câmera, os móveis na sala, o a
+ 
+
+1001
+00:18:22,039 --> 00:18:25,590
+ângulo da câmera, os móveis na sala, o a
+profundidade do teto, o chão, tudo tudo
+
+1002
+00:18:25,590 --> 00:18:25,600
+profundidade do teto, o chão, tudo tudo
+ 
+
+1003
+00:18:25,600 --> 00:18:28,029
+profundidade do teto, o chão, tudo tudo
+pré-determinado. Então ele já tem na
+
+1004
+00:18:28,029 --> 00:18:28,039
+pré-determinado. Então ele já tem na
+ 
+
+1005
+00:18:28,039 --> 00:18:30,310
+pré-determinado. Então ele já tem na
+skill dele todas as coisas que ele
+
+1006
+00:18:30,310 --> 00:18:30,320
+skill dele todas as coisas que ele
+ 
+
+1007
+00:18:30,320 --> 00:18:31,990
+skill dele todas as coisas que ele
+precisa pensar para ele manter o mesmo
+
+1008
+00:18:31,990 --> 00:18:32,000
+precisa pensar para ele manter o mesmo
+ 
+
+1009
+00:18:32,000 --> 00:18:33,990
+precisa pensar para ele manter o mesmo
+padrão sempre, né? O que ele disse que
+
+1010
+00:18:33,990 --> 00:18:34,000
+padrão sempre, né? O que ele disse que
+ 
+
+1011
+00:18:34,000 --> 00:18:36,990
+padrão sempre, né? O que ele disse que
+muda entre os slides é a cor das
+
+1012
+00:18:36,990 --> 00:18:37,000
+muda entre os slides é a cor das
+ 
+
+1013
+00:18:37,000 --> 00:18:40,549
+muda entre os slides é a cor das
+paredes, é o bearing, né? bering, tipo o
+
+1014
+00:18:40,549 --> 00:18:40,559
+paredes, é o bearing, né? bering, tipo o
+ 
+
+1015
+00:18:40,559 --> 00:18:42,630
+paredes, é o bearing, né? bering, tipo o
+a cama, o ambiente e tal, a decoração e
+
+1016
+00:18:42,630 --> 00:18:42,640
+a cama, o ambiente e tal, a decoração e
+ 
+
+1017
+00:18:42,640 --> 00:18:44,909
+a cama, o ambiente e tal, a decoração e
+as luzes, né? Então aqui um exemplo de
+
+1018
+00:18:44,909 --> 00:18:44,919
+as luzes, né? Então aqui um exemplo de
+ 
+
+1019
+00:18:44,919 --> 00:18:47,149
+as luzes, né? Então aqui um exemplo de
+um prompt, tá? Então ele diz aqui, ó,
+
+1020
+00:18:47,149 --> 00:18:47,159
+um prompt, tá? Então ele diz aqui, ó,
+ 
+
+1021
+00:18:47,159 --> 00:18:49,590
+um prompt, tá? Então ele diz aqui, ó,
+uma foto de um iPhone, de uma pequena
+
+1022
+00:18:49,590 --> 00:18:49,600
+uma foto de um iPhone, de uma pequena
+ 
+
+1023
+00:18:49,600 --> 00:18:52,310
+uma foto de um iPhone, de uma pequena
+sala no Reino Unido, que tem um estilo
+
+1024
+00:18:52,310 --> 00:18:52,320
+sala no Reino Unido, que tem um estilo
+ 
+
+1025
+00:18:52,320 --> 00:18:54,390
+sala no Reino Unido, que tem um estilo
+de cozinha assim, blá blá blá, que tem
+
+1026
+00:18:54,390 --> 00:18:54,400
+de cozinha assim, blá blá blá, que tem
+ 
+
+1027
+00:18:54,400 --> 00:18:56,549
+de cozinha assim, blá blá blá, que tem
+uma foto assim, que tem um counter.
+
+1028
+00:18:56,549 --> 00:18:56,559
+uma foto assim, que tem um counter.
+ 
+
+1029
+00:18:56,559 --> 00:18:58,270
+uma foto assim, que tem um counter.
+Então assim, aqui tá o prompt, né? Não
+
+1030
+00:18:58,270 --> 00:18:58,280
+Então assim, aqui tá o prompt, né? Não
+ 
+
+1031
+00:18:58,280 --> 00:19:00,990
+Então assim, aqui tá o prompt, né? Não
+vou escrever o prompt aqui, né? Mas eu
+
+1032
+00:19:00,990 --> 00:19:01,000
+vou escrever o prompt aqui, né? Mas eu
+ 
+
+1033
+00:19:01,000 --> 00:19:02,630
+vou escrever o prompt aqui, né? Mas eu
+acho que é legal. Você pode pegar esse
+
+1034
+00:19:02,630 --> 00:19:02,640
+acho que é legal. Você pode pegar esse
+ 
+
+1035
+00:19:02,640 --> 00:19:05,549
+acho que é legal. Você pode pegar esse
+artigo, ele tá na descrição, e o testar,
+
+1036
+00:19:05,549 --> 00:19:05,559
+artigo, ele tá na descrição, e o testar,
+ 
+
+1037
+00:19:05,559 --> 00:19:07,470
+artigo, ele tá na descrição, e o testar,
+né, para ver como ele sai. Mas é algo
+
+1038
+00:19:07,470 --> 00:19:07,480
+né, para ver como ele sai. Mas é algo
+ 
+
+1039
+00:19:07,480 --> 00:19:08,710
+né, para ver como ele sai. Mas é algo
+que você pode fazer. Inclusive, você
+
+1040
+00:19:08,710 --> 00:19:08,720
+que você pode fazer. Inclusive, você
+ 
+
+1041
+00:19:08,720 --> 00:19:10,710
+que você pode fazer. Inclusive, você
+pode copiar o aplicativo do Larry e
+
+1042
+00:19:10,710 --> 00:19:10,720
+pode copiar o aplicativo do Larry e
+ 
+
+1043
+00:19:10,720 --> 00:19:12,870
+pode copiar o aplicativo do Larry e
+fazer uma versão brasileira. Então, saia
+
+1044
+00:19:12,870 --> 00:19:12,880
+fazer uma versão brasileira. Então, saia
+ 
+
+1045
+00:19:12,880 --> 00:19:15,350
+fazer uma versão brasileira. Então, saia
+desse vídeo aqui, executa a mesma coisa.
+
+1046
+00:19:15,350 --> 00:19:15,360
+desse vídeo aqui, executa a mesma coisa.
+ 
+
+1047
+00:19:15,360 --> 00:19:18,750
+desse vídeo aqui, executa a mesma coisa.
+Eh, então o que ele diz aqui que é o a
+
+1048
+00:19:18,750 --> 00:19:18,760
+Eh, então o que ele diz aqui que é o a
+ 
+
+1049
+00:19:18,760 --> 00:19:21,110
+Eh, então o que ele diz aqui que é o a
+única coisa que muda, né, é o The Bold
+
+1050
+00:19:21,110 --> 00:19:21,120
+única coisa que muda, né, é o The Bold
+ 
+
+1051
+00:19:21,120 --> 00:19:22,669
+única coisa que muda, né, é o The Bold
+Party is the only thing that changes,
+
+1052
+00:19:22,669 --> 00:19:22,679
+Party is the only thing that changes,
+ 
+
+1053
+00:19:22,679 --> 00:19:24,470
+Party is the only thing that changes,
+né? Então ele só faz algumas pequenas
+
+1054
+00:19:24,470 --> 00:19:24,480
+né? Então ele só faz algumas pequenas
+ 
+
+1055
+00:19:24,480 --> 00:19:26,990
+né? Então ele só faz algumas pequenas
+mudanças ali dentro, né? E que é o que a
+
+1056
+00:19:26,990 --> 00:19:27,000
+mudanças ali dentro, né? E que é o que a
+ 
+
+1057
+00:19:27,000 --> 00:19:28,750
+mudanças ali dentro, né? E que é o que a
+gente viu ali nos designs, né? Então, no
+
+1058
+00:19:28,750 --> 00:19:28,760
+gente viu ali nos designs, né? Então, no
+ 
+
+1059
+00:19:28,760 --> 00:19:30,909
+gente viu ali nos designs, né? Então, no
+final do dia, tipo, ele mantém mesmo o
+
+1060
+00:19:30,909 --> 00:19:30,919
+final do dia, tipo, ele mantém mesmo o
+ 
+
+1061
+00:19:30,919 --> 00:19:33,390
+final do dia, tipo, ele mantém mesmo o
+padrão, ele só muda tipo umas pequenas
+
+1062
+00:19:33,390 --> 00:19:33,400
+padrão, ele só muda tipo umas pequenas
+ 
+
+1063
+00:19:33,400 --> 00:19:35,630
+padrão, ele só muda tipo umas pequenas
+coisas dentro, né? Que não são tão
+
+1064
+00:19:35,630 --> 00:19:35,640
+coisas dentro, né? Que não são tão
+ 
+
+1065
+00:19:35,640 --> 00:19:37,310
+coisas dentro, né? Que não são tão
+pequenas coisas, né? Mas você vê aqui,
+
+1066
+00:19:37,310 --> 00:19:37,320
+pequenas coisas, né? Mas você vê aqui,
+ 
+
+1067
+00:19:37,320 --> 00:19:39,470
+pequenas coisas, né? Mas você vê aqui,
+né? Tipo, por exemplo, ele mantém a
+
+1068
+00:19:39,470 --> 00:19:39,480
+né? Tipo, por exemplo, ele mantém a
+ 
+
+1069
+00:19:39,480 --> 00:19:41,630
+né? Tipo, por exemplo, ele mantém a
+mesma dimensão da sala, os mesmos
+
+1070
+00:19:41,630 --> 00:19:41,640
+mesma dimensão da sala, os mesmos
+ 
+
+1071
+00:19:41,640 --> 00:19:44,270
+mesma dimensão da sala, os mesmos
+coisas, né? Mas aqui, ó, ele troca aqui,
+
+1072
+00:19:44,270 --> 00:19:44,280
+coisas, né? Mas aqui, ó, ele troca aqui,
+ 
+
+1073
+00:19:44,280 --> 00:19:46,310
+coisas, né? Mas aqui, ó, ele troca aqui,
+né? Então, tipo, aqui ele tá num ângulo,
+
+1074
+00:19:46,310 --> 00:19:46,320
+né? Então, tipo, aqui ele tá num ângulo,
+ 
+
+1075
+00:19:46,320 --> 00:19:48,710
+né? Então, tipo, aqui ele tá num ângulo,
+né? Com a janela aqui na esquerda, com a
+
+1076
+00:19:48,710 --> 00:19:48,720
+né? Com a janela aqui na esquerda, com a
+ 
+
+1077
+00:19:48,720 --> 00:19:50,870
+né? Com a janela aqui na esquerda, com a
+porta semiaberta aqui, né? Então, aqui
+
+1078
+00:19:50,870 --> 00:19:50,880
+porta semiaberta aqui, né? Então, aqui
+ 
+
+1079
+00:19:50,880 --> 00:19:53,390
+porta semiaberta aqui, né? Então, aqui
+dentro ele mostra também a porta, tá
+
+1080
+00:19:53,390 --> 00:19:53,400
+dentro ele mostra também a porta, tá
+ 
+
+1081
+00:19:53,400 --> 00:19:55,590
+dentro ele mostra também a porta, tá
+vendo? Só que ele mostra como se tivesse
+
+1082
+00:19:55,590 --> 00:19:55,600
+vendo? Só que ele mostra como se tivesse
+ 
+
+1083
+00:19:55,600 --> 00:19:58,149
+vendo? Só que ele mostra como se tivesse
+de outro ângulo da porta, né? Então
+
+1084
+00:19:58,149 --> 00:19:58,159
+de outro ângulo da porta, né? Então
+ 
+
+1085
+00:19:58,159 --> 00:20:01,710
+de outro ângulo da porta, né? Então
+ficou meio estranho essa aqui pensando
+
+1086
+00:20:01,710 --> 00:20:01,720
+ficou meio estranho essa aqui pensando
+ 
+
+1087
+00:20:01,720 --> 00:20:03,710
+ficou meio estranho essa aqui pensando
+que a porta tava do lado esquerdo e não
+
+1088
+00:20:03,710 --> 00:20:03,720
+que a porta tava do lado esquerdo e não
+ 
+
+1089
+00:20:03,720 --> 00:20:05,750
+que a porta tava do lado esquerdo e não
+do lado direito. E aqui a porta voltou
+
+1090
+00:20:05,750 --> 00:20:05,760
+do lado direito. E aqui a porta voltou
+ 
+
+1091
+00:20:05,760 --> 00:20:07,789
+do lado direito. E aqui a porta voltou
+pro lado esquerdo. Mas enfim, anyway, eu
+
+1092
+00:20:07,789 --> 00:20:07,799
+pro lado esquerdo. Mas enfim, anyway, eu
+ 
+
+1093
+00:20:07,799 --> 00:20:09,190
+pro lado esquerdo. Mas enfim, anyway, eu
+acho que a galera nem repara nesses
+
+1094
+00:20:09,190 --> 00:20:09,200
+acho que a galera nem repara nesses
+ 
+
+1095
+00:20:09,200 --> 00:20:10,870
+acho que a galera nem repara nesses
+detalhes aqui no dia a dia, né? Tipo,
+
+1096
+00:20:10,870 --> 00:20:10,880
+detalhes aqui no dia a dia, né? Tipo,
+ 
+
+1097
+00:20:10,880 --> 00:20:12,990
+detalhes aqui no dia a dia, né? Tipo,
+você não vai abrir o carro e ficar tipo:
+
+1098
+00:20:12,990 --> 00:20:13,000
+você não vai abrir o carro e ficar tipo:
+ 
+
+1099
+00:20:13,000 --> 00:20:13,549
+você não vai abrir o carro e ficar tipo:
+"
+
+1100
+00:20:13,549 --> 00:20:13,559
+"
+ 
+
+1101
+00:20:13,559 --> 00:20:15,070
+"
+Olha aqui, olha aqui a porta aqui tá
+
+1102
+00:20:15,070 --> 00:20:15,080
+Olha aqui, olha aqui a porta aqui tá
+ 
+
+1103
+00:20:15,080 --> 00:20:16,549
+Olha aqui, olha aqui a porta aqui tá
+diferente, né?" Mas eu achei que ficou
+
+1104
+00:20:16,549 --> 00:20:16,559
+diferente, né?" Mas eu achei que ficou
+ 
+
+1105
+00:20:16,559 --> 00:20:18,990
+diferente, né?" Mas eu achei que ficou
+bem legal assim mesmo, né? Então vamos
+
+1106
+00:20:18,990 --> 00:20:19,000
+bem legal assim mesmo, né? Então vamos
+ 
+
+1107
+00:20:19,000 --> 00:20:21,070
+bem legal assim mesmo, né? Então vamos
+ver o que Larry falou, né? Então o Larry
+
+1108
+00:20:21,070 --> 00:20:21,080
+ver o que Larry falou, né? Então o Larry
+ 
+
+1109
+00:20:21,080 --> 00:20:22,510
+ver o que Larry falou, né? Então o Larry
+disse que você precisa ser muito
+
+1110
+00:20:22,510 --> 00:20:22,520
+disse que você precisa ser muito
+ 
+
+1111
+00:20:22,520 --> 00:20:24,430
+disse que você precisa ser muito
+específico. Então ele falou que no
+
+1112
+00:20:24,430 --> 00:20:24,440
+específico. Então ele falou que no
+ 
+
+1113
+00:20:24,440 --> 00:20:26,149
+específico. Então ele falou que no
+início ele tava escrevendo promptes como
+
+1114
+00:20:26,149 --> 00:20:26,159
+início ele tava escrevendo promptes como
+ 
+
+1115
+00:20:26,159 --> 00:20:28,590
+início ele tava escrevendo promptes como
+uma cozinha moderna, né, uma cozinha
+
+1116
+00:20:28,590 --> 00:20:28,600
+uma cozinha moderna, né, uma cozinha
+ 
+
+1117
+00:20:28,600 --> 00:20:31,270
+uma cozinha moderna, né, uma cozinha
+legal e que a Iá dava uma sala diferente
+
+1118
+00:20:31,270 --> 00:20:31,280
+legal e que a Iá dava uma sala diferente
+ 
+
+1119
+00:20:31,280 --> 00:20:33,789
+legal e que a Iá dava uma sala diferente
+todas as vezes, que a janela aparecia e
+
+1120
+00:20:33,789 --> 00:20:33,799
+todas as vezes, que a janela aparecia e
+ 
+
+1121
+00:20:33,799 --> 00:20:36,110
+todas as vezes, que a janela aparecia e
+desaparecia, que os móveis eram
+
+1122
+00:20:36,110 --> 00:20:36,120
+desaparecia, que os móveis eram
+ 
+
+1123
+00:20:36,120 --> 00:20:38,870
+desaparecia, que os móveis eram
+diferentes, né, que parecia falso porque
+
+1124
+00:20:38,870 --> 00:20:38,880
+diferentes, né, que parecia falso porque
+ 
+
+1125
+00:20:38,880 --> 00:20:41,390
+diferentes, né, que parecia falso porque
+era falso e não era o mesmo a mesma sala
+
+1126
+00:20:41,390 --> 00:20:41,400
+era falso e não era o mesmo a mesma sala
+ 
+
+1127
+00:20:41,400 --> 00:20:43,510
+era falso e não era o mesmo a mesma sala
+sendo feito redesign, eram seis salas
+
+1128
+00:20:43,510 --> 00:20:43,520
+sendo feito redesign, eram seis salas
+ 
+
+1129
+00:20:43,520 --> 00:20:45,310
+sendo feito redesign, eram seis salas
+completamente diferentes. Então o que
+
+1130
+00:20:45,310 --> 00:20:45,320
+completamente diferentes. Então o que
+ 
+
+1131
+00:20:45,320 --> 00:20:48,710
+completamente diferentes. Então o que
+ele fez para resolver isso foi ser
+
+1132
+00:20:48,710 --> 00:20:48,720
+ele fez para resolver isso foi ser
+ 
+
+1133
+00:20:48,720 --> 00:20:51,230
+ele fez para resolver isso foi ser
+obsessivamente específico sobre a
+
+1134
+00:20:51,230 --> 00:20:51,240
+obsessivamente específico sobre a
+ 
+
+1135
+00:20:51,240 --> 00:20:54,310
+obsessivamente específico sobre a
+arquitetura e o que que muda, né, no
+
+1136
+00:20:54,310 --> 00:20:54,320
+arquitetura e o que que muda, né, no
+ 
+
+1137
+00:20:54,320 --> 00:20:56,390
+arquitetura e o que que muda, né, no
+estilo dessa arquitetura, né? Então ele
+
+1138
+00:20:56,390 --> 00:20:56,400
+estilo dessa arquitetura, né? Então ele
+ 
+
+1139
+00:20:56,400 --> 00:20:58,630
+estilo dessa arquitetura, né? Então ele
+também aprendeu o que que é o before,
+
+1140
+00:20:58,630 --> 00:20:58,640
+também aprendeu o que que é o before,
+ 
+
+1141
+00:20:58,640 --> 00:21:00,870
+também aprendeu o que que é o before,
+né? O que que a sala precisa para ela
+
+1142
+00:21:00,870 --> 00:21:00,880
+né? O que que a sala precisa para ela
+ 
+
+1143
+00:21:00,880 --> 00:21:03,549
+né? O que que a sala precisa para ela
+parecer moderna, mas para ele não
+
+1144
+00:21:03,549 --> 00:21:03,559
+parecer moderna, mas para ele não
+ 
+
+1145
+00:21:03,559 --> 00:21:05,710
+parecer moderna, mas para ele não
+delirar, né? Então ele colocou aqui tipo
+
+1146
+00:21:05,710 --> 00:21:05,720
+delirar, né? Então ele colocou aqui tipo
+ 
+
+1147
+00:21:05,720 --> 00:21:09,669
+delirar, né? Então ele colocou aqui tipo
+uma TV, colocou e eh
+
+1148
+00:21:09,669 --> 00:21:09,679
+uma TV, colocou e eh
+ 
+
+1149
+00:21:09,679 --> 00:21:12,710
+uma TV, colocou e eh
+é e xícara, pratos e tal nos móveis,
+
+1150
+00:21:12,710 --> 00:21:12,720
+é e xícara, pratos e tal nos móveis,
+ 
+
+1151
+00:21:12,720 --> 00:21:14,669
+é e xícara, pratos e tal nos móveis,
+controle remoto no sofá. Então ele
+
+1152
+00:21:14,669 --> 00:21:14,679
+controle remoto no sofá. Então ele
+ 
+
+1153
+00:21:14,679 --> 00:21:16,750
+controle remoto no sofá. Então ele
+colocou sinais de vida, né? Porque ele
+
+1154
+00:21:16,750 --> 00:21:16,760
+colocou sinais de vida, né? Porque ele
+ 
+
+1155
+00:21:16,760 --> 00:21:19,590
+colocou sinais de vida, né? Porque ele
+diz que sem esses itens do dia a dia a
+
+1156
+00:21:19,590 --> 00:21:19,600
+diz que sem esses itens do dia a dia a
+ 
+
+1157
+00:21:19,600 --> 00:21:22,149
+diz que sem esses itens do dia a dia a
+sala parece vazia e parece que tem casas
+
+1158
+00:21:22,149 --> 00:21:22,159
+sala parece vazia e parece que tem casas
+ 
+
+1159
+00:21:22,159 --> 00:21:23,630
+sala parece vazia e parece que tem casas
+que tipo ninguém tá morando e ninguém
+
+1160
+00:21:23,630 --> 00:21:23,640
+que tipo ninguém tá morando e ninguém
+ 
+
+1161
+00:21:23,640 --> 00:21:25,470
+que tipo ninguém tá morando e ninguém
+vai se relacionar com os carros céis,
+
+1162
+00:21:25,470 --> 00:21:25,480
+vai se relacionar com os carros céis,
+ 
+
+1163
+00:21:25,480 --> 00:21:27,029
+vai se relacionar com os carros céis,
+né? Então como que ele faz para postar?
+
+1164
+00:21:27,029 --> 00:21:27,039
+né? Então como que ele faz para postar?
+ 
+
+1165
+00:21:27,039 --> 00:21:29,710
+né? Então como que ele faz para postar?
+Ele posta através desse posts, né?
+
+1166
+00:21:29,710 --> 00:21:29,720
+Ele posta através desse posts, né?
+ 
+
+1167
+00:21:29,720 --> 00:21:31,669
+Ele posta através desse posts, né?
+Social media scalaring tool, né? Com
+
+1168
+00:21:31,669 --> 00:21:31,679
+Social media scalaring tool, né? Com
+ 
+
+1169
+00:21:31,679 --> 00:21:34,110
+Social media scalaring tool, né? Com
+API. Ele ele escolheu porque ele já tem
+
+1170
+00:21:34,110 --> 00:21:34,120
+API. Ele ele escolheu porque ele já tem
+ 
+
+1171
+00:21:34,120 --> 00:21:35,830
+API. Ele ele escolheu porque ele já tem
+API. Beleza, a gente já passou por isso
+
+1172
+00:21:35,830 --> 00:21:35,840
+API. Beleza, a gente já passou por isso
+ 
+
+1173
+00:21:35,840 --> 00:21:37,430
+API. Beleza, a gente já passou por isso
+aqui no começo do vídeo. E o que ele
+
+1174
+00:21:37,430 --> 00:21:37,440
+aqui no começo do vídeo. E o que ele
+ 
+
+1175
+00:21:37,440 --> 00:21:41,350
+aqui no começo do vídeo. E o que ele
+faz, né? Ele ele posta é ele faz o
+
+1176
+00:21:41,350 --> 00:21:41,360
+faz, né? Ele ele posta é ele faz o
+ 
+
+1177
+00:21:41,360 --> 00:21:43,950
+faz, né? Ele ele posta é ele faz o
+upload dos slidhs como draft. Então,
+
+1178
+00:21:43,950 --> 00:21:43,960
+upload dos slidhs como draft. Então,
+ 
+
+1179
+00:21:43,960 --> 00:21:46,029
+upload dos slidhs como draft. Então,
+olha só, ele não posta diretamente.
+
+1180
+00:21:46,029 --> 00:21:46,039
+olha só, ele não posta diretamente.
+ 
+
+1181
+00:21:46,039 --> 00:21:47,870
+olha só, ele não posta diretamente.
+Então, ele diz que ele posta como draft.
+
+1182
+00:21:47,870 --> 00:21:47,880
+Então, ele diz que ele posta como draft.
+ 
+
+1183
+00:21:47,880 --> 00:21:50,830
+Então, ele diz que ele posta como draft.
+Então, ele coloca aqui e com a label,
+
+1184
+00:21:50,830 --> 00:21:50,840
+Então, ele coloca aqui e com a label,
+ 
+
+1185
+00:21:50,840 --> 00:21:53,950
+Então, ele coloca aqui e com a label,
+né, privacy level self only, que diz que
+
+1186
+00:21:53,950 --> 00:21:53,960
+né, privacy level self only, que diz que
+ 
+
+1187
+00:21:53,960 --> 00:21:56,789
+né, privacy level self only, que diz que
+ele cai no TikTok draft folder. Por que
+
+1188
+00:21:56,789 --> 00:21:56,799
+ele cai no TikTok draft folder. Por que
+ 
+
+1189
+00:21:56,799 --> 00:22:00,870
+ele cai no TikTok draft folder. Por que
+draft? Porque música é tudo no TikTok.
+
+1190
+00:22:00,870 --> 00:22:00,880
+draft? Porque música é tudo no TikTok.
+ 
+
+1191
+00:22:00,880 --> 00:22:02,230
+draft? Porque música é tudo no TikTok.
+Então ele diz que você colocar um
+
+1192
+00:22:02,230 --> 00:22:02,240
+Então ele diz que você colocar um
+ 
+
+1193
+00:22:02,240 --> 00:22:04,190
+Então ele diz que você colocar um
+trending sound, né, uma música trending
+
+1194
+00:22:04,190 --> 00:22:04,200
+trending sound, né, uma música trending
+ 
+
+1195
+00:22:04,200 --> 00:22:07,070
+trending sound, né, uma música trending
+nos seus slidhs, eh, massivamente
+
+1196
+00:22:07,070 --> 00:22:07,080
+nos seus slidhs, eh, massivamente
+ 
+
+1197
+00:22:07,080 --> 00:22:09,110
+nos seus slidhs, eh, massivamente
+aumenta o alcance, mas você não pode
+
+1198
+00:22:09,110 --> 00:22:09,120
+aumenta o alcance, mas você não pode
+ 
+
+1199
+00:22:09,120 --> 00:22:12,149
+aumenta o alcance, mas você não pode
+adicionar música via API e ele não quer
+
+1200
+00:22:12,149 --> 00:22:12,159
+adicionar música via API e ele não quer
+ 
+
+1201
+00:22:12,159 --> 00:22:14,870
+adicionar música via API e ele não quer
+que o TikTok jogue uma música aleatória.
+
+1202
+00:22:14,870 --> 00:22:14,880
+que o TikTok jogue uma música aleatória.
+ 
+
+1203
+00:22:14,880 --> 00:22:17,029
+que o TikTok jogue uma música aleatória.
+Então ele diz que músicas virais, né,
+
+1204
+00:22:17,029 --> 00:22:17,039
+Então ele diz que músicas virais, né,
+ 
+
+1205
+00:22:17,039 --> 00:22:20,029
+Então ele diz que músicas virais, né,
+música trending, mudam constantemente e
+
+1206
+00:22:20,029 --> 00:22:20,039
+música trending, mudam constantemente e
+ 
+
+1207
+00:22:20,039 --> 00:22:22,950
+música trending, mudam constantemente e
+a a livraria de música do TikTok precisa
+
+1208
+00:22:22,950 --> 00:22:22,960
+a a livraria de música do TikTok precisa
+ 
+
+1209
+00:22:22,960 --> 00:22:25,470
+a a livraria de música do TikTok precisa
+de um manualmente um que você vai lá e
+
+1210
+00:22:25,470 --> 00:22:25,480
+de um manualmente um que você vai lá e
+ 
+
+1211
+00:22:25,480 --> 00:22:27,269
+de um manualmente um que você vai lá e
+escolha a música, né? Então o processo é
+
+1212
+00:22:27,269 --> 00:22:27,279
+escolha a música, né? Então o processo é
+ 
+
+1213
+00:22:27,279 --> 00:22:29,470
+escolha a música, né? Então o processo é
+simples, ó. O Larry gera imagem,
+
+1214
+00:22:29,470 --> 00:22:29,480
+simples, ó. O Larry gera imagem,
+ 
+
+1215
+00:22:29,480 --> 00:22:32,029
+simples, ó. O Larry gera imagem,
+adiciona os textos e escreve o caption,
+
+1216
+00:22:32,029 --> 00:22:32,039
+adiciona os textos e escreve o caption,
+ 
+
+1217
+00:22:32,039 --> 00:22:34,110
+adiciona os textos e escreve o caption,
+né, que é a descrição aqui das fotos,
+
+1218
+00:22:34,110 --> 00:22:34,120
+né, que é a descrição aqui das fotos,
+ 
+
+1219
+00:22:34,120 --> 00:22:37,269
+né, que é a descrição aqui das fotos,
+tá? Então esse aqui é o caption, né?
+
+1220
+00:22:37,269 --> 00:22:37,279
+tá? Então esse aqui é o caption, né?
+ 
+
+1221
+00:22:37,279 --> 00:22:39,230
+tá? Então esse aqui é o caption, né?
+Então esse textinho aqui com as cinco
+
+1222
+00:22:39,230 --> 00:22:39,240
+Então esse textinho aqui com as cinco
+ 
+
+1223
+00:22:39,240 --> 00:22:43,149
+Então esse textinho aqui com as cinco
+hashtags, né? 1 2 3 4 5. Aham. Então o
+
+1224
+00:22:43,149 --> 00:22:43,159
+hashtags, né? 1 2 3 4 5. Aham. Então o
+ 
+
+1225
+00:22:43,159 --> 00:22:45,149
+hashtags, né? 1 2 3 4 5. Aham. Então o
+Larry faz o upload de tudo no TikTok
+
+1226
+00:22:45,149 --> 00:22:45,159
+Larry faz o upload de tudo no TikTok
+ 
+
+1227
+00:22:45,159 --> 00:22:47,350
+Larry faz o upload de tudo no TikTok
+usando posts. O Larry manda para ele o
+
+1228
+00:22:47,350 --> 00:22:47,360
+usando posts. O Larry manda para ele o
+ 
+
+1229
+00:22:47,360 --> 00:22:49,070
+usando posts. O Larry manda para ele o
+caption numa mensagem. Então ele disse
+
+1230
+00:22:49,070 --> 00:22:49,080
+caption numa mensagem. Então ele disse
+ 
+
+1231
+00:22:49,080 --> 00:22:51,390
+caption numa mensagem. Então ele disse
+que não pode colocar o caption num draft
+
+1232
+00:22:51,390 --> 00:22:51,400
+que não pode colocar o caption num draft
+ 
+
+1233
+00:22:51,400 --> 00:22:52,950
+que não pode colocar o caption num draft
+post. É, ele falou que não dá para
+
+1234
+00:22:52,950 --> 00:22:52,960
+post. É, ele falou que não dá para
+ 
+
+1235
+00:22:52,960 --> 00:22:55,149
+post. É, ele falou que não dá para
+colocar num draft, né? O caption. Ele
+
+1236
+00:22:55,149 --> 00:22:55,159
+colocar num draft, né? O caption. Ele
+ 
+
+1237
+00:22:55,159 --> 00:22:57,269
+colocar num draft, né? O caption. Ele
+abre o TikTok, escolhe uma música
+
+1238
+00:22:57,269 --> 00:22:57,279
+abre o TikTok, escolhe uma música
+ 
+
+1239
+00:22:57,279 --> 00:22:59,310
+abre o TikTok, escolhe uma música
+trending, cola o caption, né, a
+
+1240
+00:22:59,310 --> 00:22:59,320
+trending, cola o caption, né, a
+ 
+
+1241
+00:22:59,320 --> 00:23:01,470
+trending, cola o caption, né, a
+descrição e clica em publicar. Então ele
+
+1242
+00:23:01,470 --> 00:23:01,480
+descrição e clica em publicar. Então ele
+ 
+
+1243
+00:23:01,480 --> 00:23:04,070
+descrição e clica em publicar. Então ele
+falou que a parte dele toma 60 segundos,
+
+1244
+00:23:04,070 --> 00:23:04,080
+falou que a parte dele toma 60 segundos,
+ 
+
+1245
+00:23:04,080 --> 00:23:06,470
+falou que a parte dele toma 60 segundos,
+a parte do Larry toma entre 15 e 30
+
+1246
+00:23:06,470 --> 00:23:06,480
+a parte do Larry toma entre 15 e 30
+ 
+
+1247
+00:23:06,480 --> 00:23:08,669
+a parte do Larry toma entre 15 e 30
+minutos. Então ele falou que essa é a
+
+1248
+00:23:08,669 --> 00:23:08,679
+minutos. Então ele falou que essa é a
+ 
+
+1249
+00:23:08,679 --> 00:23:10,630
+minutos. Então ele falou que essa é a
+mágica. O Larry que é a IA dele que
+
+1250
+00:23:10,630 --> 00:23:10,640
+mágica. O Larry que é a IA dele que
+ 
+
+1251
+00:23:10,640 --> 00:23:12,230
+mágica. O Larry que é a IA dele que
+tanto faz, se você vai usar open cl,
+
+1252
+00:23:12,230 --> 00:23:12,240
+tanto faz, se você vai usar open cl,
+ 
+
+1253
+00:23:12,240 --> 00:23:14,710
+tanto faz, se você vai usar open cl,
+Cloud, etc. Faz 95% do trabalho. Então
+
+1254
+00:23:14,710 --> 00:23:14,720
+Cloud, etc. Faz 95% do trabalho. Então
+ 
+
+1255
+00:23:14,720 --> 00:23:16,310
+Cloud, etc. Faz 95% do trabalho. Então
+assim, só para a gente abrir um um
+
+1256
+00:23:16,310 --> 00:23:16,320
+assim, só para a gente abrir um um
+ 
+
+1257
+00:23:16,320 --> 00:23:18,190
+assim, só para a gente abrir um um
+parênteses aqui, né, assim, o processo é
+
+1258
+00:23:18,190 --> 00:23:18,200
+parênteses aqui, né, assim, o processo é
+ 
+
+1259
+00:23:18,200 --> 00:23:20,750
+parênteses aqui, né, assim, o processo é
+muito simples, tá? Então como você pode
+
+1260
+00:23:20,750 --> 00:23:20,760
+muito simples, tá? Então como você pode
+ 
+
+1261
+00:23:20,760 --> 00:23:23,029
+muito simples, tá? Então como você pode
+replicar essa mesma lógica, né? Então, o
+
+1262
+00:23:23,029 --> 00:23:23,039
+replicar essa mesma lógica, né? Então, o
+ 
+
+1263
+00:23:23,039 --> 00:23:25,070
+replicar essa mesma lógica, né? Então, o
+que você pode fazer é criar no seu
+
+1264
+00:23:25,070 --> 00:23:25,080
+que você pode fazer é criar no seu
+ 
+
+1265
+00:23:25,080 --> 00:23:28,430
+que você pode fazer é criar no seu
+computador uma pasta aonde você vai
+
+1266
+00:23:28,430 --> 00:23:28,440
+computador uma pasta aonde você vai
+ 
+
+1267
+00:23:28,440 --> 00:23:30,269
+computador uma pasta aonde você vai
+pegar, por exemplo, aqui, você pode
+
+1268
+00:23:30,269 --> 00:23:30,279
+pegar, por exemplo, aqui, você pode
+ 
+
+1269
+00:23:30,279 --> 00:23:32,430
+pegar, por exemplo, aqui, você pode
+entrar aqui no próprio perfil do Snuggly
+
+1270
+00:23:32,430 --> 00:23:32,440
+entrar aqui no próprio perfil do Snuggly
+ 
+
+1271
+00:23:32,440 --> 00:23:35,230
+entrar aqui no próprio perfil do Snuggly
+App, você pode, tipo, eh, qualquer outra
+
+1272
+00:23:35,230 --> 00:23:35,240
+App, você pode, tipo, eh, qualquer outra
+ 
+
+1273
+00:23:35,240 --> 00:23:36,630
+App, você pode, tipo, eh, qualquer outra
+vertical, qualquer outro nicho,
+
+1274
+00:23:36,630 --> 00:23:36,640
+vertical, qualquer outro nicho,
+ 
+
+1275
+00:23:36,640 --> 00:23:38,190
+vertical, qualquer outro nicho,
+funcionaria algo parecido, né? Então
+
+1276
+00:23:38,190 --> 00:23:38,200
+funcionaria algo parecido, né? Então
+ 
+
+1277
+00:23:38,200 --> 00:23:41,710
+funcionaria algo parecido, né? Então
+você pede pro cloud ele criar para você
+
+1278
+00:23:41,710 --> 00:23:41,720
+você pede pro cloud ele criar para você
+ 
+
+1279
+00:23:41,720 --> 00:23:46,430
+você pede pro cloud ele criar para você
+eh um contexto, né, de de como montar,
+
+1280
+00:23:46,430 --> 00:23:46,440
+eh um contexto, né, de de como montar,
+ 
+
+1281
+00:23:46,440 --> 00:23:48,510
+eh um contexto, né, de de como montar,
+por exemplo, fotos para algum nicho
+
+1282
+00:23:48,510 --> 00:23:48,520
+por exemplo, fotos para algum nicho
+ 
+
+1283
+00:23:48,520 --> 00:23:50,310
+por exemplo, fotos para algum nicho
+específico. Então você cria um documento
+
+1284
+00:23:50,310 --> 00:23:50,320
+específico. Então você cria um documento
+ 
+
+1285
+00:23:50,320 --> 00:23:52,230
+específico. Então você cria um documento
+de contexto sobre os seus objetivos,
+
+1286
+00:23:52,230 --> 00:23:52,240
+de contexto sobre os seus objetivos,
+ 
+
+1287
+00:23:52,240 --> 00:23:53,789
+de contexto sobre os seus objetivos,
+sobre o que você quer construir, o que
+
+1288
+00:23:53,789 --> 00:23:53,799
+sobre o que você quer construir, o que
+ 
+
+1289
+00:23:53,799 --> 00:23:55,470
+sobre o que você quer construir, o que
+você quer fazer, né? A gente pode,
+
+1290
+00:23:55,470 --> 00:23:55,480
+você quer fazer, né? A gente pode,
+ 
+
+1291
+00:23:55,480 --> 00:23:57,350
+você quer fazer, né? A gente pode,
+inclusive fazer isso juntos aqui. Eu só
+
+1292
+00:23:57,350 --> 00:23:57,360
+inclusive fazer isso juntos aqui. Eu só
+ 
+
+1293
+00:23:57,360 --> 00:23:58,750
+inclusive fazer isso juntos aqui. Eu só
+não queria me alongar muito no vídeo
+
+1294
+00:23:58,750 --> 00:23:58,760
+não queria me alongar muito no vídeo
+ 
+
+1295
+00:23:58,760 --> 00:24:01,230
+não queria me alongar muito no vídeo
+porque senão eu eu eh enfim, vai ser um
+
+1296
+00:24:01,230 --> 00:24:01,240
+porque senão eu eu eh enfim, vai ser um
+ 
+
+1297
+00:24:01,240 --> 00:24:03,510
+porque senão eu eu eh enfim, vai ser um
+vídeo de 50 minutos e muitos meus vídeos
+
+1298
+00:24:03,510 --> 00:24:03,520
+vídeo de 50 minutos e muitos meus vídeos
+ 
+
+1299
+00:24:03,520 --> 00:24:04,990
+vídeo de 50 minutos e muitos meus vídeos
+t 50 minutos. Mas assim, o que eu queria
+
+1300
+00:24:04,990 --> 00:24:05,000
+t 50 minutos. Mas assim, o que eu queria
+ 
+
+1301
+00:24:05,000 --> 00:24:06,870
+t 50 minutos. Mas assim, o que eu queria
+falar é, você pode criar então esse
+
+1302
+00:24:06,870 --> 00:24:06,880
+falar é, você pode criar então esse
+ 
+
+1303
+00:24:06,880 --> 00:24:08,990
+falar é, você pode criar então esse
+contexto explicando o projeto e tudo que
+
+1304
+00:24:08,990 --> 00:24:09,000
+contexto explicando o projeto e tudo que
+ 
+
+1305
+00:24:09,000 --> 00:24:11,070
+contexto explicando o projeto e tudo que
+você quer construir. Você pega todas as
+
+1306
+00:24:11,070 --> 00:24:11,080
+você quer construir. Você pega todas as
+ 
+
+1307
+00:24:11,080 --> 00:24:13,230
+você quer construir. Você pega todas as
+chaves APIs, então você pega o posts ou
+
+1308
+00:24:13,230 --> 00:24:13,240
+chaves APIs, então você pega o posts ou
+ 
+
+1309
+00:24:13,240 --> 00:24:14,630
+chaves APIs, então você pega o posts ou
+você pega o buffer, tanto faz a
+
+1310
+00:24:14,630 --> 00:24:14,640
+você pega o buffer, tanto faz a
+ 
+
+1311
+00:24:14,640 --> 00:24:16,549
+você pega o buffer, tanto faz a
+ferramenta, você pega todas as chaves
+
+1312
+00:24:16,549 --> 00:24:16,559
+ferramenta, você pega todas as chaves
+ 
+
+1313
+00:24:16,559 --> 00:24:18,750
+ferramenta, você pega todas as chaves
+API. Então você tem numa pasta o
+
+1314
+00:24:18,750 --> 00:24:18,760
+API. Então você tem numa pasta o
+ 
+
+1315
+00:24:18,760 --> 00:24:20,710
+API. Então você tem numa pasta o
+documento de contexto, documento com as
+
+1316
+00:24:20,710 --> 00:24:20,720
+documento de contexto, documento com as
+ 
+
+1317
+00:24:20,720 --> 00:24:23,110
+documento de contexto, documento com as
+chaves APIs. Você pode pôr exemplos de
+
+1318
+00:24:23,110 --> 00:24:23,120
+chaves APIs. Você pode pôr exemplos de
+ 
+
+1319
+00:24:23,120 --> 00:24:25,789
+chaves APIs. Você pode pôr exemplos de
+carrocéis, de benchmarks desse mercado
+
+1320
+00:24:25,789 --> 00:24:25,799
+carrocéis, de benchmarks desse mercado
+ 
+
+1321
+00:24:25,799 --> 00:24:28,149
+carrocéis, de benchmarks desse mercado
+lá dentro. Você pode fazer todo o
+
+1322
+00:24:28,149 --> 00:24:28,159
+lá dentro. Você pode fazer todo o
+ 
+
+1323
+00:24:28,159 --> 00:24:30,190
+lá dentro. Você pode fazer todo o
+processo de pôr tudo dentro de uma
+
+1324
+00:24:30,190 --> 00:24:30,200
+processo de pôr tudo dentro de uma
+ 
+
+1325
+00:24:30,200 --> 00:24:32,789
+processo de pôr tudo dentro de uma
+pasta. E você pode fazer tudo isso aqui
+
+1326
+00:24:32,789 --> 00:24:32,799
+pasta. E você pode fazer tudo isso aqui
+ 
+
+1327
+00:24:32,799 --> 00:24:34,350
+pasta. E você pode fazer tudo isso aqui
+que você tá aprendendo aqui comigo,
+
+1328
+00:24:34,350 --> 00:24:34,360
+que você tá aprendendo aqui comigo,
+ 
+
+1329
+00:24:34,360 --> 00:24:36,710
+que você tá aprendendo aqui comigo,
+usando o cloud Cork, por exemplo, aonde
+
+1330
+00:24:36,710 --> 00:24:36,720
+usando o cloud Cork, por exemplo, aonde
+ 
+
+1331
+00:24:36,720 --> 00:24:39,110
+usando o cloud Cork, por exemplo, aonde
+você vem aqui e coloca a pasta que você
+
+1332
+00:24:39,110 --> 00:24:39,120
+você vem aqui e coloca a pasta que você
+ 
+
+1333
+00:24:39,120 --> 00:24:41,510
+você vem aqui e coloca a pasta que você
+quer trabalhar. E você também pode fazer
+
+1334
+00:24:41,510 --> 00:24:41,520
+quer trabalhar. E você também pode fazer
+ 
+
+1335
+00:24:41,520 --> 00:24:44,029
+quer trabalhar. E você também pode fazer
+tudo isso pelo open, né? Então aqui no
+
+1336
+00:24:44,029 --> 00:24:44,039
+tudo isso pelo open, né? Então aqui no
+ 
+
+1337
+00:24:44,039 --> 00:24:46,710
+tudo isso pelo open, né? Então aqui no
+meu caso, eu uso muito a amora, né?
+
+1338
+00:24:46,710 --> 00:24:46,720
+meu caso, eu uso muito a amora, né?
+ 
+
+1339
+00:24:46,720 --> 00:24:48,430
+meu caso, eu uso muito a amora, né?
+Então vale muito a pena. Qualquer um dos
+
+1340
+00:24:48,430 --> 00:24:48,440
+Então vale muito a pena. Qualquer um dos
+ 
+
+1341
+00:24:48,440 --> 00:24:50,149
+Então vale muito a pena. Qualquer um dos
+dois é super tranquilo de fazer.
+
+1342
+00:24:50,149 --> 00:24:50,159
+dois é super tranquilo de fazer.
+ 
+
+1343
+00:24:50,159 --> 00:24:52,789
+dois é super tranquilo de fazer.
+Basicamente você pode criar de contexto
+
+1344
+00:24:52,789 --> 00:24:52,799
+Basicamente você pode criar de contexto
+ 
+
+1345
+00:24:52,799 --> 00:24:54,350
+Basicamente você pode criar de contexto
+um documento onde você simplesmente
+
+1346
+00:24:54,350 --> 00:24:54,360
+um documento onde você simplesmente
+ 
+
+1347
+00:24:54,360 --> 00:24:56,430
+um documento onde você simplesmente
+copia esse artigo inteiro aqui e joga
+
+1348
+00:24:56,430 --> 00:24:56,440
+copia esse artigo inteiro aqui e joga
+ 
+
+1349
+00:24:56,440 --> 00:24:59,470
+copia esse artigo inteiro aqui e joga
+para para criar o contexto, né? Então,
+
+1350
+00:24:59,470 --> 00:24:59,480
+para para criar o contexto, né? Então,
+ 
+
+1351
+00:24:59,480 --> 00:25:02,110
+para para criar o contexto, né? Então,
+como que o Larry aprende e melhora, né?
+
+1352
+00:25:02,110 --> 00:25:02,120
+como que o Larry aprende e melhora, né?
+ 
+
+1353
+00:25:02,120 --> 00:25:04,190
+como que o Larry aprende e melhora, né?
+Então, o Larry tem as skills. Então, de
+
+1354
+00:25:04,190 --> 00:25:04,200
+Então, o Larry tem as skills. Então, de
+ 
+
+1355
+00:25:04,200 --> 00:25:05,630
+Então, o Larry tem as skills. Então, de
+novo, dentro dessa pasta que a gente
+
+1356
+00:25:05,630 --> 00:25:05,640
+novo, dentro dessa pasta que a gente
+ 
+
+1357
+00:25:05,640 --> 00:25:07,470
+novo, dentro dessa pasta que a gente
+falou agora, você pode colocar skills lá
+
+1358
+00:25:07,470 --> 00:25:07,480
+falou agora, você pode colocar skills lá
+ 
+
+1359
+00:25:07,480 --> 00:25:08,909
+falou agora, você pode colocar skills lá
+dentro, tá? Então, skills, eles são
+
+1360
+00:25:08,909 --> 00:25:08,919
+dentro, tá? Então, skills, eles são
+ 
+
+1361
+00:25:08,919 --> 00:25:11,630
+dentro, tá? Então, skills, eles são
+esses documentos que ensinam ele a criar
+
+1362
+00:25:11,630 --> 00:25:11,640
+esses documentos que ensinam ele a criar
+ 
+
+1363
+00:25:11,640 --> 00:25:13,310
+esses documentos que ensinam ele a criar
+workflows específicos, tá? [música]
+
+1364
+00:25:13,310 --> 00:25:13,320
+workflows específicos, tá? [música]
+ 
+
+1365
+00:25:13,320 --> 00:25:15,750
+workflows específicos, tá? [música]
+Então, ele disse que a skill do TikTok
+
+1366
+00:25:15,750 --> 00:25:15,760
+Então, ele disse que a skill do TikTok
+ 
+
+1367
+00:25:15,760 --> 00:25:18,070
+Então, ele disse que a skill do TikTok
+tem mais de 500 linhas, tem todas as
+
+1368
+00:25:18,070 --> 00:25:18,080
+tem mais de 500 linhas, tem todas as
+ 
+
+1369
+00:25:18,080 --> 00:25:20,710
+tem mais de 500 linhas, tem todas as
+regras, todos os formatos, né, todas as
+
+1370
+00:25:20,710 --> 00:25:20,720
+regras, todos os formatos, né, todas as
+ 
+
+1371
+00:25:20,720 --> 00:25:23,070
+regras, todos os formatos, né, todas as
+lições aprendidas de todas as coisas que
+
+1372
+00:25:23,070 --> 00:25:23,080
+lições aprendidas de todas as coisas que
+ 
+
+1373
+00:25:23,080 --> 00:25:25,029
+lições aprendidas de todas as coisas que
+ele falhou. Ele disse que também que o
+
+1374
+00:25:25,029 --> 00:25:25,039
+ele falhou. Ele disse que também que o
+ 
+
+1375
+00:25:25,039 --> 00:25:27,310
+ele falhou. Ele disse que também que o
+Larry tem arquivos de memória, então uma
+
+1376
+00:25:27,310 --> 00:25:27,320
+Larry tem arquivos de memória, então uma
+ 
+
+1377
+00:25:27,320 --> 00:25:29,510
+Larry tem arquivos de memória, então uma
+memória persistente de longo prazo que
+
+1378
+00:25:29,510 --> 00:25:29,520
+memória persistente de longo prazo que
+ 
+
+1379
+00:25:29,520 --> 00:25:31,149
+memória persistente de longo prazo que
+persiste em todas as sessões. Então
+
+1380
+00:25:31,149 --> 00:25:31,159
+persiste em todas as sessões. Então
+ 
+
+1381
+00:25:31,159 --> 00:25:33,350
+persiste em todas as sessões. Então
+todos os posts, todos os view counts,
+
+1382
+00:25:33,350 --> 00:25:33,360
+todos os posts, todos os view counts,
+ 
+
+1383
+00:25:33,360 --> 00:25:35,909
+todos os posts, todos os view counts,
+todos os insightes são postos nessa
+
+1384
+00:25:35,909 --> 00:25:35,919
+todos os insightes são postos nessa
+ 
+
+1385
+00:25:35,919 --> 00:25:38,110
+todos os insightes são postos nessa
+memória. Então quando ele pede para
+
+1386
+00:25:38,110 --> 00:25:38,120
+memória. Então quando ele pede para
+ 
+
+1387
+00:25:38,120 --> 00:25:40,230
+memória. Então quando ele pede para
+fazer um brainstorm de hooks, ele não
+
+1388
+00:25:40,230 --> 00:25:40,240
+fazer um brainstorm de hooks, ele não
+ 
+
+1389
+00:25:40,240 --> 00:25:42,789
+fazer um brainstorm de hooks, ele não
+está adivinhando, ele está referenciando
+
+1390
+00:25:42,789 --> 00:25:42,799
+está adivinhando, ele está referenciando
+ 
+
+1391
+00:25:42,799 --> 00:25:44,830
+está adivinhando, ele está referenciando
+um dado real. O que ele faz também é que
+
+1392
+00:25:44,830 --> 00:25:44,840
+um dado real. O que ele faz também é que
+ 
+
+1393
+00:25:44,840 --> 00:25:47,590
+um dado real. O que ele faz também é que
+ele não posta reativamente. Ele senta
+
+1394
+00:25:47,590 --> 00:25:47,600
+ele não posta reativamente. Ele senta
+ 
+
+1395
+00:25:47,600 --> 00:25:50,430
+ele não posta reativamente. Ele senta
+com Larry e faz um brainstorm de 10 a 15
+
+1396
+00:25:50,430 --> 00:25:50,440
+com Larry e faz um brainstorm de 10 a 15
+ 
+
+1397
+00:25:50,440 --> 00:25:52,750
+com Larry e faz um brainstorm de 10 a 15
+hooks de uma só vez. Ele diz que ele
+
+1398
+00:25:52,750 --> 00:25:52,760
+hooks de uma só vez. Ele diz que ele
+ 
+
+1399
+00:25:52,760 --> 00:25:54,830
+hooks de uma só vez. Ele diz que ele
+olha o que que tá funcionando e
+
+1400
+00:25:54,830 --> 00:25:54,840
+olha o que que tá funcionando e
+ 
+
+1401
+00:25:54,840 --> 00:25:57,870
+olha o que que tá funcionando e
+referencia esses dados no performance
+
+1402
+00:25:57,870 --> 00:25:57,880
+referencia esses dados no performance
+ 
+
+1403
+00:25:57,880 --> 00:25:59,430
+referencia esses dados no performance
+dele, né? Então ele pega os dados que tá
+
+1404
+00:25:59,430 --> 00:25:59,440
+dele, né? Então ele pega os dados que tá
+ 
+
+1405
+00:25:59,440 --> 00:26:01,630
+dele, né? Então ele pega os dados que tá
+performando ou não e ele pega os que
+
+1406
+00:26:01,630 --> 00:26:01,640
+performando ou não e ele pega os que
+ 
+
+1407
+00:26:01,640 --> 00:26:03,630
+performando ou não e ele pega os que
+podem e performar melhor baseado em
+
+1408
+00:26:03,630 --> 00:26:03,640
+podem e performar melhor baseado em
+ 
+
+1409
+00:26:03,640 --> 00:26:05,350
+podem e performar melhor baseado em
+dados nos próximos dias. Então ele diz
+
+1410
+00:26:05,350 --> 00:26:05,360
+dados nos próximos dias. Então ele diz
+ 
+
+1411
+00:26:05,360 --> 00:26:07,549
+dados nos próximos dias. Então ele diz
+que o Larry vem com todos os hooks, ele
+
+1412
+00:26:07,549 --> 00:26:07,559
+que o Larry vem com todos os hooks, ele
+ 
+
+1413
+00:26:07,559 --> 00:26:10,590
+que o Larry vem com todos os hooks, ele
+mesmo. Então ele fala assim, tipo, ah, o
+
+1414
+00:26:10,590 --> 00:26:10,600
+mesmo. Então ele fala assim, tipo, ah, o
+ 
+
+1415
+00:26:10,600 --> 00:26:12,149
+mesmo. Então ele fala assim, tipo, ah, o
+meu landlord aqui, ele não queria
+
+1416
+00:26:12,149 --> 00:26:12,159
+meu landlord aqui, ele não queria
+ 
+
+1417
+00:26:12,159 --> 00:26:14,510
+meu landlord aqui, ele não queria
+renovar aqui até eu mostrar para ele
+
+1418
+00:26:14,510 --> 00:26:14,520
+renovar aqui até eu mostrar para ele
+ 
+
+1419
+00:26:14,520 --> 00:26:16,830
+renovar aqui até eu mostrar para ele
+essa foto aqui. Ah, meu namorado não
+
+1420
+00:26:16,830 --> 00:26:16,840
+essa foto aqui. Ah, meu namorado não
+ 
+
+1421
+00:26:16,840 --> 00:26:20,230
+essa foto aqui. Ah, meu namorado não
+queria eh pagar para pelo nosso quarto
+
+1422
+00:26:20,230 --> 00:26:20,240
+queria eh pagar para pelo nosso quarto
+ 
+
+1423
+00:26:20,240 --> 00:26:22,029
+queria eh pagar para pelo nosso quarto
+até a gente mostrar isso, né? Então ele
+
+1424
+00:26:22,029 --> 00:26:22,039
+até a gente mostrar isso, né? Então ele
+ 
+
+1425
+00:26:22,039 --> 00:26:23,710
+até a gente mostrar isso, né? Então ele
+falou que ele pega tipo umas linhas de
+
+1426
+00:26:23,710 --> 00:26:23,720
+falou que ele pega tipo umas linhas de
+ 
+
+1427
+00:26:23,720 --> 00:26:25,549
+falou que ele pega tipo umas linhas de
+hooks igual esse, às vezes ele faz um
+
+1428
+00:26:25,549 --> 00:26:25,559
+hooks igual esse, às vezes ele faz um
+ 
+
+1429
+00:26:25,559 --> 00:26:27,789
+hooks igual esse, às vezes ele faz um
+pequeno ajuste e tal e ele posta isso,
+
+1430
+00:26:27,789 --> 00:26:27,799
+pequeno ajuste e tal e ele posta isso,
+ 
+
+1431
+00:26:27,799 --> 00:26:30,389
+pequeno ajuste e tal e ele posta isso,
+né? Então ele agenda, né? Então ele
+
+1432
+00:26:30,389 --> 00:26:30,399
+né? Então ele agenda, né? Então ele
+ 
+
+1433
+00:26:30,399 --> 00:26:34,389
+né? Então ele agenda, né? Então ele
+agenda vários posts, né? Ele usa eh o
+
+1434
+00:26:34,389 --> 00:26:34,399
+agenda vários posts, né? Ele usa eh o
+ 
+
+1435
+00:26:34,399 --> 00:26:38,149
+agenda vários posts, né? Ele usa eh o
+Larry, né, para fazer eh um overnight
+
+1436
+00:26:38,149 --> 00:26:38,159
+Larry, né, para fazer eh um overnight
+ 
+
+1437
+00:26:38,159 --> 00:26:41,149
+Larry, né, para fazer eh um overnight
+using OPAI New Bet, né? Então que ele
+
+1438
+00:26:41,149 --> 00:26:41,159
+using OPAI New Bet, né? Então que ele
+ 
+
+1439
+00:26:41,159 --> 00:26:44,710
+using OPAI New Bet, né? Então que ele
+usa essa ferramenta New Bet, que é 50%
+
+1440
+00:26:44,710 --> 00:26:44,720
+usa essa ferramenta New Bet, que é 50%
+ 
+
+1441
+00:26:44,720 --> 00:26:46,870
+usa essa ferramenta New Bet, que é 50%
+mais barato que essa de geração em tempo
+
+1442
+00:26:46,870 --> 00:26:46,880
+mais barato que essa de geração em tempo
+ 
+
+1443
+00:26:46,880 --> 00:26:48,430
+mais barato que essa de geração em tempo
+real. Então ele o que ele faz é que ele
+
+1444
+00:26:48,430 --> 00:26:48,440
+real. Então ele o que ele faz é que ele
+ 
+
+1445
+00:26:48,440 --> 00:26:51,190
+real. Então ele o que ele faz é que ele
+deixa gerando um monte de fotos de
+
+1446
+00:26:51,190 --> 00:26:51,200
+deixa gerando um monte de fotos de
+ 
+
+1447
+00:26:51,200 --> 00:26:53,149
+deixa gerando um monte de fotos de
+madrugada usando Chromes, né, que ele
+
+1448
+00:26:53,149 --> 00:26:53,159
+madrugada usando Chromes, né, que ele
+ 
+
+1449
+00:26:53,159 --> 00:26:54,630
+madrugada usando Chromes, né, que ele
+deixa esse agendamento recorrente, que
+
+1450
+00:26:54,630 --> 00:26:54,640
+deixa esse agendamento recorrente, que
+ 
+
+1451
+00:26:54,640 --> 00:26:56,909
+deixa esse agendamento recorrente, que
+inclusive o Clou também tem aqui agora
+
+1452
+00:26:56,909 --> 00:26:56,919
+inclusive o Clou também tem aqui agora
+ 
+
+1453
+00:26:56,919 --> 00:26:59,029
+inclusive o Clou também tem aqui agora
+Chrons, né, que permite você agendar
+
+1454
+00:26:59,029 --> 00:26:59,039
+Chrons, né, que permite você agendar
+ 
+
+1455
+00:26:59,039 --> 00:27:02,110
+Chrons, né, que permite você agendar
+tarefas repetidas, né? Então o Larry tem
+
+1456
+00:27:02,110 --> 00:27:02,120
+tarefas repetidas, né? Então o Larry tem
+ 
+
+1457
+00:27:02,120 --> 00:27:04,830
+tarefas repetidas, né? Então o Larry tem
+acesso a também do Revenue Cat
+
+1458
+00:27:04,830 --> 00:27:04,840
+acesso a também do Revenue Cat
+ 
+
+1459
+00:27:04,840 --> 00:27:06,710
+acesso a também do Revenue Cat
+Analytics, né? Então ele também tem uma
+
+1460
+00:27:06,710 --> 00:27:06,720
+Analytics, né? Então ele também tem uma
+ 
+
+1461
+00:27:06,720 --> 00:27:11,710
+Analytics, né? Então ele também tem uma
+skill desse Revenue Cats
+
+1462
+00:27:11,710 --> 00:27:11,720
+
+ 
+
+1463
+00:27:11,720 --> 00:27:13,990
+
+e customer subscription, de assinaturas,
+
+1464
+00:27:13,990 --> 00:27:14,000
+e customer subscription, de assinaturas,
+ 
+
+1465
+00:27:14,000 --> 00:27:16,110
+e customer subscription, de assinaturas,
+de cancelamento, todas as métricas
+
+1466
+00:27:16,110 --> 00:27:16,120
+de cancelamento, todas as métricas
+ 
+
+1467
+00:27:16,120 --> 00:27:18,990
+de cancelamento, todas as métricas
+importantes para ele e mapear e também
+
+1468
+00:27:18,990 --> 00:27:19,000
+importantes para ele e mapear e também
+ 
+
+1469
+00:27:19,000 --> 00:27:20,870
+importantes para ele e mapear e também
+traz sugestões de melhorias, tá? Então
+
+1470
+00:27:20,870 --> 00:27:20,880
+traz sugestões de melhorias, tá? Então
+ 
+
+1471
+00:27:20,880 --> 00:27:22,630
+traz sugestões de melhorias, tá? Então
+isso aqui é bem legal, tá? Aí o Larry
+
+1472
+00:27:22,630 --> 00:27:22,640
+isso aqui é bem legal, tá? Aí o Larry
+ 
+
+1473
+00:27:22,640 --> 00:27:24,430
+isso aqui é bem legal, tá? Aí o Larry
+aqui, né? Então o Larry falou assim que
+
+1474
+00:27:24,430 --> 00:27:24,440
+aqui, né? Então o Larry falou assim que
+ 
+
+1475
+00:27:24,440 --> 00:27:26,269
+aqui, né? Então o Larry falou assim que
+essas skills elas são genuinamente a
+
+1476
+00:27:26,269 --> 00:27:26,279
+essas skills elas são genuinamente a
+ 
+
+1477
+00:27:26,279 --> 00:27:28,029
+essas skills elas são genuinamente a
+coisa mais importante em todo o sistema.
+
+1478
+00:27:28,029 --> 00:27:28,039
+coisa mais importante em todo o sistema.
+ 
+
+1479
+00:27:28,039 --> 00:27:31,190
+coisa mais importante em todo o sistema.
+E aqui eu concordo 1000%. Então, se você
+
+1480
+00:27:31,190 --> 00:27:31,200
+E aqui eu concordo 1000%. Então, se você
+ 
+
+1481
+00:27:31,200 --> 00:27:33,070
+E aqui eu concordo 1000%. Então, se você
+tá montando o seu agente de A,
+
+1482
+00:27:33,070 --> 00:27:33,080
+tá montando o seu agente de A,
+ 
+
+1483
+00:27:33,080 --> 00:27:35,230
+tá montando o seu agente de A,
+lembre-se, não importa se você tem 1,
+
+1484
+00:27:35,230 --> 00:27:35,240
+lembre-se, não importa se você tem 1,
+ 
+
+1485
+00:27:35,240 --> 00:27:37,750
+lembre-se, não importa se você tem 1,
+10, 100 agentes. Os agentes só vão
+
+1486
+00:27:37,750 --> 00:27:37,760
+10, 100 agentes. Os agentes só vão
+ 
+
+1487
+00:27:37,760 --> 00:27:40,549
+10, 100 agentes. Os agentes só vão
+performar com excelência se você criar
+
+1488
+00:27:40,549 --> 00:27:40,559
+performar com excelência se você criar
+ 
+
+1489
+00:27:40,559 --> 00:27:42,630
+performar com excelência se você criar
+skills para eles, tá? Então, o que que
+
+1490
+00:27:42,630 --> 00:27:42,640
+skills para eles, tá? Então, o que que
+ 
+
+1491
+00:27:42,640 --> 00:27:45,430
+skills para eles, tá? Então, o que que
+ele diz? Que eles eh t essas skills, né?
+
+1492
+00:27:45,430 --> 00:27:45,440
+ele diz? Que eles eh t essas skills, né?
+ 
+
+1493
+00:27:45,440 --> 00:27:47,870
+ele diz? Que eles eh t essas skills, né?
+Então, que as skills elas são úteis para
+
+1494
+00:27:47,870 --> 00:27:47,880
+Então, que as skills elas são úteis para
+ 
+
+1495
+00:27:47,880 --> 00:27:50,630
+Então, que as skills elas são úteis para
+ele e que elas dão para ele um norte,
+
+1496
+00:27:50,630 --> 00:27:50,640
+ele e que elas dão para ele um norte,
+ 
+
+1497
+00:27:50,640 --> 00:27:52,389
+ele e que elas dão para ele um norte,
+né? Então, quando ele erra alguma coisa,
+
+1498
+00:27:52,389 --> 00:27:52,399
+né? Então, quando ele erra alguma coisa,
+ 
+
+1499
+00:27:52,399 --> 00:27:54,070
+né? Então, quando ele erra alguma coisa,
+como um tamanho da imagem, como um texto
+
+1500
+00:27:54,070 --> 00:27:54,080
+como um tamanho da imagem, como um texto
+ 
+
+1501
+00:27:54,080 --> 00:27:55,430
+como um tamanho da imagem, como um texto
+que não dá para ler ou um hook que
+
+1502
+00:27:55,430 --> 00:27:55,440
+que não dá para ler ou um hook que
+ 
+
+1503
+00:27:55,440 --> 00:27:58,789
+que não dá para ler ou um hook que
+flopou, o Oly, né? Oliver conta para ele
+
+1504
+00:27:58,789 --> 00:27:58,799
+flopou, o Oly, né? Oliver conta para ele
+ 
+
+1505
+00:27:58,799 --> 00:28:00,789
+flopou, o Oly, né? Oliver conta para ele
+e ele atualiza a própria skill dele para
+
+1506
+00:28:00,789 --> 00:28:00,799
+e ele atualiza a própria skill dele para
+ 
+
+1507
+00:28:00,799 --> 00:28:02,389
+e ele atualiza a própria skill dele para
+que ele nunca faça o mesmo erro duas
+
+1508
+00:28:02,389 --> 00:28:02,399
+que ele nunca faça o mesmo erro duas
+ 
+
+1509
+00:28:02,399 --> 00:28:04,350
+que ele nunca faça o mesmo erro duas
+vezes, tá? Então ele tem um efeito de
+
+1510
+00:28:04,350 --> 00:28:04,360
+vezes, tá? Então ele tem um efeito de
+ 
+
+1511
+00:28:04,360 --> 00:28:06,430
+vezes, tá? Então ele tem um efeito de
+compound, né? Igual juros composto.
+
+1512
+00:28:06,430 --> 00:28:06,440
+compound, né? Igual juros composto.
+ 
+
+1513
+00:28:06,440 --> 00:28:09,149
+compound, né? Igual juros composto.
+Então todas as as erros viram uma regra
+
+1514
+00:28:09,149 --> 00:28:09,159
+Então todas as as erros viram uma regra
+ 
+
+1515
+00:28:09,159 --> 00:28:11,789
+Então todas as as erros viram uma regra
+e todo o sucesso vira uma fórmula. Hum,
+
+1516
+00:28:11,789 --> 00:28:11,799
+e todo o sucesso vira uma fórmula. Hum,
+ 
+
+1517
+00:28:11,799 --> 00:28:13,789
+e todo o sucesso vira uma fórmula. Hum,
+poderosa essa frase. Então o chick doc
+
+1518
+00:28:13,789 --> 00:28:13,799
+poderosa essa frase. Então o chick doc
+ 
+
+1519
+00:28:13,799 --> 00:28:16,310
+poderosa essa frase. Então o chick doc
+dele já foi reescrito, provavelmente 20
+
+1520
+00:28:16,310 --> 00:28:16,320
+dele já foi reescrito, provavelmente 20
+ 
+
+1521
+00:28:16,320 --> 00:28:17,950
+dele já foi reescrito, provavelmente 20
+vezes na primeira semana, tá? Então
+
+1522
+00:28:17,950 --> 00:28:17,960
+vezes na primeira semana, tá? Então
+ 
+
+1523
+00:28:17,960 --> 00:28:20,830
+vezes na primeira semana, tá? Então
+assim, e eu não vou falar e exatamente o
+
+1524
+00:28:20,830 --> 00:28:20,840
+assim, e eu não vou falar e exatamente o
+ 
+
+1525
+00:28:20,840 --> 00:28:23,710
+assim, e eu não vou falar e exatamente o
+que falhou e tal. Eu acho que o que mais
+
+1526
+00:28:23,710 --> 00:28:23,720
+que falhou e tal. Eu acho que o que mais
+ 
+
+1527
+00:28:23,720 --> 00:28:26,509
+que falhou e tal. Eu acho que o que mais
+importa aqui é o processo para você
+
+1528
+00:28:26,509 --> 00:28:26,519
+importa aqui é o processo para você
+ 
+
+1529
+00:28:26,519 --> 00:28:28,990
+importa aqui é o processo para você
+pegar a fotografia da ideia e aplicar
+
+1530
+00:28:28,990 --> 00:28:29,000
+pegar a fotografia da ideia e aplicar
+ 
+
+1531
+00:28:29,000 --> 00:28:31,190
+pegar a fotografia da ideia e aplicar
+isso pros seus negócios. A moral, eu
+
+1532
+00:28:31,190 --> 00:28:31,200
+isso pros seus negócios. A moral, eu
+ 
+
+1533
+00:28:31,200 --> 00:28:33,870
+isso pros seus negócios. A moral, eu
+acho que tem aqui nesse artigo, né? Eh,
+
+1534
+00:28:33,870 --> 00:28:33,880
+acho que tem aqui nesse artigo, né? Eh,
+ 
+
+1535
+00:28:33,880 --> 00:28:35,350
+acho que tem aqui nesse artigo, né? Eh,
+vou pular a parte de falha, tá? Se você
+
+1536
+00:28:35,350 --> 00:28:35,360
+vou pular a parte de falha, tá? Se você
+ 
+
+1537
+00:28:35,360 --> 00:28:36,950
+vou pular a parte de falha, tá? Se você
+quiser, você pode ler aqui. Mas eu acho
+
+1538
+00:28:36,950 --> 00:28:36,960
+quiser, você pode ler aqui. Mas eu acho
+ 
+
+1539
+00:28:36,960 --> 00:28:39,509
+quiser, você pode ler aqui. Mas eu acho
+que a moral que a moral que a gente pode
+
+1540
+00:28:39,509 --> 00:28:39,519
+que a moral que a moral que a gente pode
+ 
+
+1541
+00:28:39,519 --> 00:28:41,070
+que a moral que a moral que a gente pode
+tirar aqui desse artigo, que
+
+1542
+00:28:41,070 --> 00:28:41,080
+tirar aqui desse artigo, que
+ 
+
+1543
+00:28:41,080 --> 00:28:42,870
+tirar aqui desse artigo, que
+independente de Larry, de OpenCloud,
+
+1544
+00:28:42,870 --> 00:28:42,880
+independente de Larry, de OpenCloud,
+ 
+
+1545
+00:28:42,880 --> 00:28:44,950
+independente de Larry, de OpenCloud,
+qualquer coisa, é relativamente simples
+
+1546
+00:28:44,950 --> 00:28:44,960
+qualquer coisa, é relativamente simples
+ 
+
+1547
+00:28:44,960 --> 00:28:47,230
+qualquer coisa, é relativamente simples
+hoje em dia, você usando APIs de
+
+1548
+00:28:47,230 --> 00:28:47,240
+hoje em dia, você usando APIs de
+ 
+
+1549
+00:28:47,240 --> 00:28:49,310
+hoje em dia, você usando APIs de
+ferramentas de redes sociais para você
+
+1550
+00:28:49,310 --> 00:28:49,320
+ferramentas de redes sociais para você
+ 
+
+1551
+00:28:49,320 --> 00:28:52,230
+ferramentas de redes sociais para você
+postar conteúdos automatizados. Então,
+
+1552
+00:28:52,230 --> 00:28:52,240
+postar conteúdos automatizados. Então,
+ 
+
+1553
+00:28:52,240 --> 00:28:54,389
+postar conteúdos automatizados. Então,
+se você tem um microSAS, você tem um SAS
+
+1554
+00:28:54,389 --> 00:28:54,399
+se você tem um microSAS, você tem um SAS
+ 
+
+1555
+00:28:54,399 --> 00:28:57,029
+se você tem um microSAS, você tem um SAS
+que ele resolve um problema específico e
+
+1556
+00:28:57,029 --> 00:28:57,039
+que ele resolve um problema específico e
+ 
+
+1557
+00:28:57,039 --> 00:28:59,269
+que ele resolve um problema específico e
+se ele provavelmente trabalha com
+
+1558
+00:28:59,269 --> 00:28:59,279
+se ele provavelmente trabalha com
+ 
+
+1559
+00:28:59,279 --> 00:29:01,630
+se ele provavelmente trabalha com
+imagens de alguma forma, né, seja
+
+1560
+00:29:01,630 --> 00:29:01,640
+imagens de alguma forma, né, seja
+ 
+
+1561
+00:29:01,640 --> 00:29:03,950
+imagens de alguma forma, né, seja
+fotografia, seja qualquer coisa, é é
+
+1562
+00:29:03,950 --> 00:29:03,960
+fotografia, seja qualquer coisa, é é
+ 
+
+1563
+00:29:03,960 --> 00:29:06,430
+fotografia, seja qualquer coisa, é é
+muito fácil, entre várias aspas, você
+
+1564
+00:29:06,430 --> 00:29:06,440
+muito fácil, entre várias aspas, você
+ 
+
+1565
+00:29:06,440 --> 00:29:07,990
+muito fácil, entre várias aspas, você
+automatizar a criação desse conteúdo com
+
+1566
+00:29:07,990 --> 00:29:08,000
+automatizar a criação desse conteúdo com
+ 
+
+1567
+00:29:08,000 --> 00:29:09,269
+automatizar a criação desse conteúdo com
+o IA, né? Então eu acho que aqui tem uma
+
+1568
+00:29:09,269 --> 00:29:09,279
+o IA, né? Então eu acho que aqui tem uma
+ 
+
+1569
+00:29:09,279 --> 00:29:11,230
+o IA, né? Então eu acho que aqui tem uma
+bela de uma ideia pra gente monetizar
+
+1570
+00:29:11,230 --> 00:29:11,240
+bela de uma ideia pra gente monetizar
+ 
+
+1571
+00:29:11,240 --> 00:29:13,350
+bela de uma ideia pra gente monetizar
+esses projetos online criando conteúdo
+
+1572
+00:29:13,350 --> 00:29:13,360
+esses projetos online criando conteúdo
+ 
+
+1573
+00:29:13,360 --> 00:29:15,230
+esses projetos online criando conteúdo
+com IA, né, que eu acho que é uma grande
+
+1574
+00:29:15,230 --> 00:29:15,240
+com IA, né, que eu acho que é uma grande
+ 
+
+1575
+00:29:15,240 --> 00:29:17,590
+com IA, né, que eu acho que é uma grande
+tendência também nos próximos meses, tá?
+
+1576
+00:29:17,590 --> 00:29:17,600
+tendência também nos próximos meses, tá?
+ 
+
+1577
+00:29:17,600 --> 00:29:19,909
+tendência também nos próximos meses, tá?
+Então o que que ele falou que ele teve
+
+1578
+00:29:19,909 --> 00:29:19,919
+Então o que que ele falou que ele teve
+ 
+
+1579
+00:29:19,919 --> 00:29:22,070
+Então o que que ele falou que ele teve
+muito sucesso? Ele falou assim: "Ah, o
+
+1580
+00:29:22,070 --> 00:29:22,080
+muito sucesso? Ele falou assim: "Ah, o
+ 
+
+1581
+00:29:22,080 --> 00:29:24,070
+muito sucesso? Ele falou assim: "Ah, o
+my land lord say can change anything."
+
+1582
+00:29:24,070 --> 00:29:24,080
+my land lord say can change anything."
+ 
+
+1583
+00:29:24,080 --> 00:29:26,470
+my land lord say can change anything."
+So I showed her that what AI thinks it
+
+1584
+00:29:26,470 --> 00:29:26,480
+So I showed her that what AI thinks it
+ 
+
+1585
+00:29:26,480 --> 00:29:27,990
+So I showed her that what AI thinks it
+could look like. Ele falou assim, ah,
+
+1586
+00:29:27,990 --> 00:29:28,000
+could look like. Ele falou assim, ah,
+ 
+
+1587
+00:29:28,000 --> 00:29:29,990
+could look like. Ele falou assim, ah,
+que a pessoa que aluga a sala para ele
+
+1588
+00:29:29,990 --> 00:29:30,000
+que a pessoa que aluga a sala para ele
+ 
+
+1589
+00:29:30,000 --> 00:29:32,430
+que a pessoa que aluga a sala para ele
+diz que ele não podia mudar nada até ele
+
+1590
+00:29:32,430 --> 00:29:32,440
+diz que ele não podia mudar nada até ele
+ 
+
+1591
+00:29:32,440 --> 00:29:35,350
+diz que ele não podia mudar nada até ele
+mostrar uma foto de sobre como poderia
+
+1592
+00:29:35,350 --> 00:29:35,360
+mostrar uma foto de sobre como poderia
+ 
+
+1593
+00:29:35,360 --> 00:29:38,070
+mostrar uma foto de sobre como poderia
+aparecer a sala. 234.000 views. Então,
+
+1594
+00:29:38,070 --> 00:29:38,080
+aparecer a sala. 234.000 views. Então,
+ 
+
+1595
+00:29:38,080 --> 00:29:40,190
+aparecer a sala. 234.000 views. Então,
+esse post teve mais views do que tudo
+
+1596
+00:29:40,190 --> 00:29:40,200
+esse post teve mais views do que tudo
+ 
+
+1597
+00:29:40,200 --> 00:29:43,430
+esse post teve mais views do que tudo
+que foi combinado e imediatamente eles
+
+1598
+00:29:43,430 --> 00:29:43,440
+que foi combinado e imediatamente eles
+ 
+
+1599
+00:29:43,440 --> 00:29:46,430
+que foi combinado e imediatamente eles
+entenderam o porquê. Não era sobre eles,
+
+1600
+00:29:46,430 --> 00:29:46,440
+entenderam o porquê. Não era sobre eles,
+ 
+
+1601
+00:29:46,440 --> 00:29:49,070
+entenderam o porquê. Não era sobre eles,
+era sobre as reações das pessoas. um
+
+1602
+00:29:49,070 --> 00:29:49,080
+era sobre as reações das pessoas. um
+ 
+
+1603
+00:29:49,080 --> 00:29:51,669
+era sobre as reações das pessoas. um
+landlord, um conflito, mostrando para
+
+1604
+00:29:51,669 --> 00:29:51,679
+landlord, um conflito, mostrando para
+ 
+
+1605
+00:29:51,679 --> 00:29:54,750
+landlord, um conflito, mostrando para
+eles alguma coisa e assistindo ele mudar
+
+1606
+00:29:54,750 --> 00:29:54,760
+eles alguma coisa e assistindo ele mudar
+ 
+
+1607
+00:29:54,760 --> 00:29:56,430
+eles alguma coisa e assistindo ele mudar
+a ideia dele, né? Então o carrocel foi
+
+1608
+00:29:56,430 --> 00:29:56,440
+a ideia dele, né? Então o carrocel foi
+ 
+
+1609
+00:29:56,440 --> 00:29:58,669
+a ideia dele, né? Então o carrocel foi
+mostrando como o land foi mudando a
+
+1610
+00:29:58,669 --> 00:29:58,679
+mostrando como o land foi mudando a
+ 
+
+1611
+00:29:58,679 --> 00:30:00,950
+mostrando como o land foi mudando a
+ideia dele, né? Então ele ele tentou
+
+1612
+00:30:00,950 --> 00:30:00,960
+ideia dele, né? Então ele ele tentou
+ 
+
+1613
+00:30:00,960 --> 00:30:03,470
+ideia dele, né? Então ele ele tentou
+mesmo o hook de novo. I showed my mom
+
+1614
+00:30:03,470 --> 00:30:03,480
+mesmo o hook de novo. I showed my mom
+ 
+
+1615
+00:30:03,480 --> 00:30:05,830
+mesmo o hook de novo. I showed my mom
+what AI thinks
+
+1616
+00:30:05,830 --> 00:30:05,840
+what AI thinks
+ 
+
+1617
+00:30:05,840 --> 00:30:07,990
+what AI thinks
+or living rule could be, né? Então ele
+
+1618
+00:30:07,990 --> 00:30:08,000
+or living rule could be, né? Então ele
+ 
+
+1619
+00:30:08,000 --> 00:30:10,110
+or living rule could be, né? Então ele
+mostrou pra mãe dele o que a IA acha que
+
+1620
+00:30:10,110 --> 00:30:10,120
+mostrou pra mãe dele o que a IA acha que
+ 
+
+1621
+00:30:10,120 --> 00:30:13,269
+mostrou pra mãe dele o que a IA acha que
+a sala dele poderia ser. 170.000 views.
+
+1622
+00:30:13,269 --> 00:30:13,279
+a sala dele poderia ser. 170.000 views.
+ 
+
+1623
+00:30:13,279 --> 00:30:16,070
+a sala dele poderia ser. 170.000 views.
+De novo, My landlord de novo, 150.000
+
+1624
+00:30:16,070 --> 00:30:16,080
+De novo, My landlord de novo, 150.000
+ 
+
+1625
+00:30:16,080 --> 00:30:17,789
+De novo, My landlord de novo, 150.000
+1000 views. Então a fórmula era muito
+
+1626
+00:30:17,789 --> 00:30:17,799
+1000 views. Então a fórmula era muito
+ 
+
+1627
+00:30:17,799 --> 00:30:21,149
+1000 views. Então a fórmula era muito
+claro. Outra pessoa, conflito ou dúvida,
+
+1628
+00:30:21,149 --> 00:30:21,159
+claro. Outra pessoa, conflito ou dúvida,
+ 
+
+1629
+00:30:21,159 --> 00:30:23,909
+claro. Outra pessoa, conflito ou dúvida,
+mostrou para eles a Iá e eles mudaram a
+
+1630
+00:30:23,909 --> 00:30:23,919
+mostrou para eles a Iá e eles mudaram a
+ 
+
+1631
+00:30:23,919 --> 00:30:27,149
+mostrou para eles a Iá e eles mudaram a
+mente deles. Então esse aqui é o segredo
+
+1632
+00:30:27,149 --> 00:30:27,159
+mente deles. Então esse aqui é o segredo
+ 
+
+1633
+00:30:27,159 --> 00:30:29,669
+mente deles. Então esse aqui é o segredo
+dos carrosséis dele. Então veja o
+
+1634
+00:30:29,669 --> 00:30:29,679
+dos carrosséis dele. Então veja o
+ 
+
+1635
+00:30:29,679 --> 00:30:31,830
+dos carrosséis dele. Então veja o
+raciocínio construído aqui. Achei isso
+
+1636
+00:30:31,830 --> 00:30:31,840
+raciocínio construído aqui. Achei isso
+ 
+
+1637
+00:30:31,840 --> 00:30:34,909
+raciocínio construído aqui. Achei isso
+muito legal, né? Então pove, né? O point
+
+1638
+00:30:34,909 --> 00:30:34,919
+muito legal, né? Então pove, né? O point
+ 
+
+1639
+00:30:34,919 --> 00:30:37,590
+muito legal, né? Então pove, né? O point
+of view de outra pessoa. Então é uma
+
+1640
+00:30:37,590 --> 00:30:37,600
+of view de outra pessoa. Então é uma
+ 
+
+1641
+00:30:37,600 --> 00:30:40,110
+of view de outra pessoa. Então é uma
+outra pessoa falando isso aqui não era
+
+1642
+00:30:40,110 --> 00:30:40,120
+outra pessoa falando isso aqui não era
+ 
+
+1643
+00:30:40,120 --> 00:30:43,990
+outra pessoa falando isso aqui não era
+legal. e mostra uma foto até eu mostrar
+
+1644
+00:30:43,990 --> 00:30:44,000
+legal. e mostra uma foto até eu mostrar
+ 
+
+1645
+00:30:44,000 --> 00:30:46,669
+legal. e mostra uma foto até eu mostrar
+isso paraa IA e eles mudarem a mente
+
+1646
+00:30:46,669 --> 00:30:46,679
+isso paraa IA e eles mudarem a mente
+ 
+
+1647
+00:30:46,679 --> 00:30:48,870
+isso paraa IA e eles mudarem a mente
+deles, né? Então, todos os posts que
+
+1648
+00:30:48,870 --> 00:30:48,880
+deles, né? Então, todos os posts que
+ 
+
+1649
+00:30:48,880 --> 00:30:51,230
+deles, né? Então, todos os posts que
+seguiram essa fórmula tiveram 50k no
+
+1650
+00:30:51,230 --> 00:30:51,240
+seguiram essa fórmula tiveram 50k no
+ 
+
+1651
+00:30:51,240 --> 00:30:53,870
+seguiram essa fórmula tiveram 50k no
+mínimo de views e o mais claro de todos,
+
+1652
+00:30:53,870 --> 00:30:53,880
+mínimo de views e o mais claro de todos,
+ 
+
+1653
+00:30:53,880 --> 00:30:57,190
+mínimo de views e o mais claro de todos,
+né? 100K. Então, alguns números, tá?
+
+1654
+00:30:57,190 --> 00:30:57,200
+né? 100K. Então, alguns números, tá?
+ 
+
+1655
+00:30:57,200 --> 00:30:59,710
+né? 100K. Então, alguns números, tá?
+500.000 views no TikTok em uma semana,
+
+1656
+00:30:59,710 --> 00:30:59,720
+500.000 views no TikTok em uma semana,
+ 
+
+1657
+00:30:59,720 --> 00:31:02,629
+500.000 views no TikTok em uma semana,
+234.000 views no top post, quatro posts
+
+1658
+00:31:02,629 --> 00:31:02,639
+234.000 views no top post, quatro posts
+ 
+
+1659
+00:31:02,639 --> 00:31:04,789
+234.000 views no top post, quatro posts
+com mais de 100.000 1000 views, 108
+
+1660
+00:31:04,789 --> 00:31:04,799
+com mais de 100.000 1000 views, 108
+ 
+
+1661
+00:31:04,799 --> 00:31:08,029
+com mais de 100.000 1000 views, 108
+assinantes nos dois aplicativos, 588 de
+
+1662
+00:31:08,029 --> 00:31:08,039
+assinantes nos dois aplicativos, 588 de
+ 
+
+1663
+00:31:08,039 --> 00:31:11,110
+assinantes nos dois aplicativos, 588 de
+MRR crescendo rápido e um custo por post
+
+1664
+00:31:11,110 --> 00:31:11,120
+MRR crescendo rápido e um custo por post
+ 
+
+1665
+00:31:11,120 --> 00:31:14,629
+MRR crescendo rápido e um custo por post
+de 0.50 centavos, tá? E o tempo do OL
+
+1666
+00:31:14,629 --> 00:31:14,639
+de 0.50 centavos, tá? E o tempo do OL
+ 
+
+1667
+00:31:14,639 --> 00:31:16,629
+de 0.50 centavos, tá? E o tempo do OL
+foi 60 segundos adicionando música e
+
+1668
+00:31:16,629 --> 00:31:16,639
+foi 60 segundos adicionando música e
+ 
+
+1669
+00:31:16,639 --> 00:31:18,909
+foi 60 segundos adicionando música e
+publicando, tá? Então, como você pode
+
+1670
+00:31:18,909 --> 00:31:18,919
+publicando, tá? Então, como você pode
+ 
+
+1671
+00:31:18,919 --> 00:31:20,750
+publicando, tá? Então, como você pode
+fazer isso, tá? Ele falou que ele tem
+
+1672
+00:31:20,750 --> 00:31:20,760
+fazer isso, tá? Ele falou que ele tem
+ 
+
+1673
+00:31:20,760 --> 00:31:22,789
+fazer isso, tá? Ele falou que ele tem
+uma máquina aqui rodando Linux, então
+
+1674
+00:31:22,789 --> 00:31:22,799
+uma máquina aqui rodando Linux, então
+ 
+
+1675
+00:31:22,799 --> 00:31:24,789
+uma máquina aqui rodando Linux, então
+ele tem um computador velho, um HPB Pie
+
+1676
+00:31:24,789 --> 00:31:24,799
+ele tem um computador velho, um HPB Pie
+ 
+
+1677
+00:31:24,799 --> 00:31:27,509
+ele tem um computador velho, um HPB Pie
+ou uma VPS barata, né? Ou um Mac Mini,
+
+1678
+00:31:27,509 --> 00:31:27,519
+ou uma VPS barata, né? Ou um Mac Mini,
+ 
+
+1679
+00:31:27,519 --> 00:31:28,830
+ou uma VPS barata, né? Ou um Mac Mini,
+se você tem grana, e você tem que
+
+1680
+00:31:28,830 --> 00:31:28,840
+se você tem grana, e você tem que
+ 
+
+1681
+00:31:28,840 --> 00:31:30,549
+se você tem grana, e você tem que
+instalar um bunto e você depois tem que
+
+1682
+00:31:30,549 --> 00:31:30,559
+instalar um bunto e você depois tem que
+ 
+
+1683
+00:31:30,559 --> 00:31:32,310
+instalar um bunto e você depois tem que
+instalar o Open Claw, que é de graça,
+
+1684
+00:31:32,310 --> 00:31:32,320
+instalar o Open Claw, que é de graça,
+ 
+
+1685
+00:31:32,320 --> 00:31:34,389
+instalar o Open Claw, que é de graça,
+né? E aí você coloca a chave de imagem
+
+1686
+00:31:34,389 --> 00:31:34,399
+né? E aí você coloca a chave de imagem
+ 
+
+1687
+00:31:34,399 --> 00:31:37,190
+né? E aí você coloca a chave de imagem
+de geração e você se cadastra no posts,
+
+1688
+00:31:37,190 --> 00:31:37,200
+de geração e você se cadastra no posts,
+ 
+
+1689
+00:31:37,200 --> 00:31:39,549
+de geração e você se cadastra no posts,
+tá? Depois você cria suas skills. Então
+
+1690
+00:31:39,549 --> 00:31:39,559
+tá? Depois você cria suas skills. Então
+ 
+
+1691
+00:31:39,559 --> 00:31:41,310
+tá? Depois você cria suas skills. Então
+se você quer usar o open para esse
+
+1692
+00:31:41,310 --> 00:31:41,320
+se você quer usar o open para esse
+ 
+
+1693
+00:31:41,320 --> 00:31:42,590
+se você quer usar o open para esse
+processo de novo, tanto faz a
+
+1694
+00:31:42,590 --> 00:31:42,600
+processo de novo, tanto faz a
+ 
+
+1695
+00:31:42,600 --> 00:31:44,389
+processo de novo, tanto faz a
+ferramenta. Eu tenho esse mini curso
+
+1696
+00:31:44,389 --> 00:31:44,399
+ferramenta. Eu tenho esse mini curso
+ 
+
+1697
+00:31:44,399 --> 00:31:46,470
+ferramenta. Eu tenho esse mini curso
+aqui de OpenCall que eu te ensino em 3
+
+1698
+00:31:46,470 --> 00:31:46,480
+aqui de OpenCall que eu te ensino em 3
+ 
+
+1699
+00:31:46,480 --> 00:31:48,909
+aqui de OpenCall que eu te ensino em 3
+horas a você montar o seu próprio agente
+
+1700
+00:31:48,909 --> 00:31:48,919
+horas a você montar o seu próprio agente
+ 
+
+1701
+00:31:48,919 --> 00:31:52,230
+horas a você montar o seu próprio agente
+que faz literalmente tudo que o Harry tá
+
+1702
+00:31:52,230 --> 00:31:52,240
+que faz literalmente tudo que o Harry tá
+ 
+
+1703
+00:31:52,240 --> 00:31:54,590
+que faz literalmente tudo que o Harry tá
+fazendo para vocês, tá? Então aqui a
+
+1704
+00:31:54,590 --> 00:31:54,600
+fazendo para vocês, tá? Então aqui a
+ 
+
+1705
+00:31:54,600 --> 00:31:56,909
+fazendo para vocês, tá? Então aqui a
+gente tem aqui, quer ver? Então você vai
+
+1706
+00:31:56,909 --> 00:31:56,919
+gente tem aqui, quer ver? Então você vai
+ 
+
+1707
+00:31:56,919 --> 00:31:58,990
+gente tem aqui, quer ver? Então você vai
+aprender a montar segurança, identidade,
+
+1708
+00:31:58,990 --> 00:31:59,000
+aprender a montar segurança, identidade,
+ 
+
+1709
+00:31:59,000 --> 00:32:00,870
+aprender a montar segurança, identidade,
+memória, blá blá blá blá blá, para uma
+
+1710
+00:32:00,870 --> 00:32:00,880
+memória, blá blá blá blá blá, para uma
+ 
+
+1711
+00:32:00,880 --> 00:32:03,950
+memória, blá blá blá blá blá, para uma
+bagatela de R$ 97 que pode mudar a sua
+
+1712
+00:32:03,950 --> 00:32:03,960
+bagatela de R$ 97 que pode mudar a sua
+ 
+
+1713
+00:32:03,960 --> 00:32:05,750
+bagatela de R$ 97 que pode mudar a sua
+vida. Então se você acha que faz sentido
+
+1714
+00:32:05,750 --> 00:32:05,760
+vida. Então se você acha que faz sentido
+ 
+
+1715
+00:32:05,760 --> 00:32:07,509
+vida. Então se você acha que faz sentido
+para você, você pode usar esse OpenCloud
+
+1716
+00:32:07,509 --> 00:32:07,519
+para você, você pode usar esse OpenCloud
+ 
+
+1717
+00:32:07,519 --> 00:32:09,149
+para você, você pode usar esse OpenCloud
+para você aprender a montar o seu, né,
+
+1718
+00:32:09,149 --> 00:32:09,159
+para você aprender a montar o seu, né,
+ 
+
+1719
+00:32:09,159 --> 00:32:11,669
+para você aprender a montar o seu, né,
+seguir a esses passos aqui. Então aqui
+
+1720
+00:32:11,669 --> 00:32:11,679
+seguir a esses passos aqui. Então aqui
+ 
+
+1721
+00:32:11,679 --> 00:32:14,149
+seguir a esses passos aqui. Então aqui
+ele passa o tamanho das imagens, tem que
+
+1722
+00:32:14,149 --> 00:32:14,159
+ele passa o tamanho das imagens, tem que
+ 
+
+1723
+00:32:14,159 --> 00:32:16,990
+ele passa o tamanho das imagens, tem que
+ter, né, os templates, os prompts, blá
+
+1724
+00:32:16,990 --> 00:32:17,000
+ter, né, os templates, os prompts, blá
+ 
+
+1725
+00:32:17,000 --> 00:32:18,590
+ter, né, os templates, os prompts, blá
+blá blá, né? E ele diz que você tem que
+
+1726
+00:32:18,590 --> 00:32:18,600
+blá blá, né? E ele diz que você tem que
+ 
+
+1727
+00:32:18,600 --> 00:32:21,269
+blá blá, né? E ele diz que você tem que
+começar a postar e itinerar, que os seus
+
+1728
+00:32:21,269 --> 00:32:21,279
+começar a postar e itinerar, que os seus
+ 
+
+1729
+00:32:21,279 --> 00:32:22,590
+começar a postar e itinerar, que os seus
+primeiros posts provavelmente vão ser
+
+1730
+00:32:22,590 --> 00:32:22,600
+primeiros posts provavelmente vão ser
+ 
+
+1731
+00:32:22,600 --> 00:32:25,350
+primeiros posts provavelmente vão ser
+ruins e tá tudo bem e que depois você
+
+1732
+00:32:25,350 --> 00:32:25,360
+ruins e tá tudo bem e que depois você
+ 
+
+1733
+00:32:25,360 --> 00:32:27,430
+ruins e tá tudo bem e que depois você
+vai entender o que que foi errado,
+
+1734
+00:32:27,430 --> 00:32:27,440
+vai entender o que que foi errado,
+ 
+
+1735
+00:32:27,440 --> 00:32:29,230
+vai entender o que que foi errado,
+atualizar suas skills e continuar
+
+1736
+00:32:29,230 --> 00:32:29,240
+atualizar suas skills e continuar
+ 
+
+1737
+00:32:29,240 --> 00:32:30,870
+atualizar suas skills e continuar
+postando, tá bom? Então galera, o vídeo
+
+1738
+00:32:30,870 --> 00:32:30,880
+postando, tá bom? Então galera, o vídeo
+ 
+
+1739
+00:32:30,880 --> 00:32:33,190
+postando, tá bom? Então galera, o vídeo
+de hoje é um vídeo simples, com uma
+
+1740
+00:32:33,190 --> 00:32:33,200
+de hoje é um vídeo simples, com uma
+ 
+
+1741
+00:32:33,200 --> 00:32:35,629
+de hoje é um vídeo simples, com uma
+mensagem clara, que é a seguinte: na era
+
+1742
+00:32:35,629 --> 00:32:35,639
+mensagem clara, que é a seguinte: na era
+ 
+
+1743
+00:32:35,639 --> 00:32:38,389
+mensagem clara, que é a seguinte: na era
+da IA, todo mundo pode construir um
+
+1744
+00:32:38,389 --> 00:32:38,399
+da IA, todo mundo pode construir um
+ 
+
+1745
+00:32:38,399 --> 00:32:40,389
+da IA, todo mundo pode construir um
+canal de distribuição. Todo mundo pode
+
+1746
+00:32:40,389 --> 00:32:40,399
+canal de distribuição. Todo mundo pode
+ 
+
+1747
+00:32:40,399 --> 00:32:43,269
+canal de distribuição. Todo mundo pode
+ter uma IA, um agente que produz
+
+1748
+00:32:43,269 --> 00:32:43,279
+ter uma IA, um agente que produz
+ 
+
+1749
+00:32:43,279 --> 00:32:45,389
+ter uma IA, um agente que produz
+conteúdo para você. O que você precisa
+
+1750
+00:32:45,389 --> 00:32:45,399
+conteúdo para você. O que você precisa
+ 
+
+1751
+00:32:45,399 --> 00:32:48,110
+conteúdo para você. O que você precisa
+fazer é pôr a mão na massa, construir
+
+1752
+00:32:48,110 --> 00:32:48,120
+fazer é pôr a mão na massa, construir
+ 
+
+1753
+00:32:48,120 --> 00:32:50,669
+fazer é pôr a mão na massa, construir
+alguma coisa e jogar pro mercado. Porque
+
+1754
+00:32:50,669 --> 00:32:50,679
+alguma coisa e jogar pro mercado. Porque
+ 
+
+1755
+00:32:50,679 --> 00:32:53,909
+alguma coisa e jogar pro mercado. Porque
+o que importa numa era onde construir
+
+1756
+00:32:53,909 --> 00:32:53,919
+o que importa numa era onde construir
+ 
+
+1757
+00:32:53,919 --> 00:32:56,990
+o que importa numa era onde construir
+vira uma commodity vai ser distribuição,
+
+1758
+00:32:56,990 --> 00:32:57,000
+vira uma commodity vai ser distribuição,
+ 
+
+1759
+00:32:57,000 --> 00:32:58,269
+vira uma commodity vai ser distribuição,
+tá bom? Então, espero que vocês tenham
+
+1760
+00:32:58,269 --> 00:32:58,279
+tá bom? Então, espero que vocês tenham
+ 
+
+1761
+00:32:58,279 --> 00:32:59,710
+tá bom? Então, espero que vocês tenham
+curtido o vídeo de hoje. Comenta aí se
+
+1762
+00:32:59,710 --> 00:32:59,720
+curtido o vídeo de hoje. Comenta aí se
+ 
+
+1763
+00:32:59,720 --> 00:33:01,509
+curtido o vídeo de hoje. Comenta aí se
+você curtiu, manda aí suas ideias. Se
+
+1764
+00:33:01,509 --> 00:33:01,519
+você curtiu, manda aí suas ideias. Se
+ 
+
+1765
+00:33:01,519 --> 00:33:03,110
+você curtiu, manda aí suas ideias. Se
+você tiver uma ideia de algum nicho,
+
+1766
+00:33:03,110 --> 00:33:03,120
+você tiver uma ideia de algum nicho,
+ 
+
+1767
+00:33:03,120 --> 00:33:04,870
+você tiver uma ideia de algum nicho,
+alguma vertical, comenta aí. Eu te dou
+
+1768
+00:33:04,870 --> 00:33:04,880
+alguma vertical, comenta aí. Eu te dou
+ 
+
+1769
+00:33:04,880 --> 00:33:06,590
+alguma vertical, comenta aí. Eu te dou
+meu feedback da sua ideia, tá bom? Tamo
+
+1770
+00:33:06,590 --> 00:33:06,600
+meu feedback da sua ideia, tá bom? Tamo
+ 
+
+1771
+00:33:06,600 --> 00:33:09,480
+meu feedback da sua ideia, tá bom? Tamo
+junto.
+

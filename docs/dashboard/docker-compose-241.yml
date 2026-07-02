@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  dashboard:
+    image: nginx:alpine
+    container_name: omega-dashboard
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    volumes:
+      - /root/.openclaw/workspace/docs/dashboard/index.html:/usr/share/nginx/html/index.html:ro
+    networks:
+      - dokploy-network
+
+networks:
+  dokploy-network:
+    external: true

@@ -1,0 +1,6875 @@
+1
+00:00:00,000 --> 00:00:02,230
+
+criar um agente de A ou ter um agente A
+
+2
+00:00:02,230 --> 00:00:02,240
+criar um agente de A ou ter um agente A
+ 
+
+3
+00:00:02,240 --> 00:00:03,830
+criar um agente de A ou ter um agente A
+em paralelo dentro da sua empresa,
+
+4
+00:00:03,830 --> 00:00:03,840
+em paralelo dentro da sua empresa,
+ 
+
+5
+00:00:03,840 --> 00:00:05,550
+em paralelo dentro da sua empresa,
+dentro da sua operação. Você não quer só
+
+6
+00:00:05,550 --> 00:00:05,560
+dentro da sua operação. Você não quer só
+ 
+
+7
+00:00:05,560 --> 00:00:07,470
+dentro da sua operação. Você não quer só
+um chat para ficar respondendo ali igual
+
+8
+00:00:07,470 --> 00:00:07,480
+um chat para ficar respondendo ali igual
+ 
+
+9
+00:00:07,480 --> 00:00:09,070
+um chat para ficar respondendo ali igual
+a gente vê em ferramentas, e sim você
+
+10
+00:00:09,070 --> 00:00:09,080
+a gente vê em ferramentas, e sim você
+ 
+
+11
+00:00:09,080 --> 00:00:11,190
+a gente vê em ferramentas, e sim você
+quer agentes e suagentes especialistas,
+
+12
+00:00:11,190 --> 00:00:11,200
+quer agentes e suagentes especialistas,
+ 
+
+13
+00:00:11,200 --> 00:00:13,110
+quer agentes e suagentes especialistas,
+mas que tenham autonomia para realizar
+
+14
+00:00:13,110 --> 00:00:13,120
+mas que tenham autonomia para realizar
+ 
+
+15
+00:00:13,120 --> 00:00:15,270
+mas que tenham autonomia para realizar
+operações, fazer tarefas, seja
+
+16
+00:00:15,270 --> 00:00:15,280
+operações, fazer tarefas, seja
+ 
+
+17
+00:00:15,280 --> 00:00:17,550
+operações, fazer tarefas, seja
+monitorar, escrever código, fazer code
+
+18
+00:00:17,550 --> 00:00:17,560
+monitorar, escrever código, fazer code
+ 
+
+19
+00:00:17,560 --> 00:00:19,550
+monitorar, escrever código, fazer code
+review e também agendar tarefas para
+
+20
+00:00:19,550 --> 00:00:19,560
+review e também agendar tarefas para
+ 
+
+21
+00:00:19,560 --> 00:00:21,189
+review e também agendar tarefas para
+ela. E o OpenCloud é uma das ferramentas
+
+22
+00:00:21,189 --> 00:00:21,199
+ela. E o OpenCloud é uma das ferramentas
+ 
+
+23
+00:00:21,199 --> 00:00:22,910
+ela. E o OpenCloud é uma das ferramentas
+que eu tô utilizando cada vez mais aqui
+
+24
+00:00:22,910 --> 00:00:22,920
+que eu tô utilizando cada vez mais aqui
+ 
+
+25
+00:00:22,920 --> 00:00:24,470
+que eu tô utilizando cada vez mais aqui
+dentro. E eu vou te mostrar nesse vídeo
+
+26
+00:00:24,470 --> 00:00:24,480
+dentro. E eu vou te mostrar nesse vídeo
+ 
+
+27
+00:00:24,480 --> 00:00:26,710
+dentro. E eu vou te mostrar nesse vídeo
+aqui como implementar ele do zero para
+
+28
+00:00:26,710 --> 00:00:26,720
+aqui como implementar ele do zero para
+ 
+
+29
+00:00:26,720 --> 00:00:28,429
+aqui como implementar ele do zero para
+você começar a utilizar e qual caso de
+
+30
+00:00:28,429 --> 00:00:28,439
+você começar a utilizar e qual caso de
+ 
+
+31
+00:00:28,439 --> 00:00:29,790
+você começar a utilizar e qual caso de
+uso a gente pode implementar. Então,
+
+32
+00:00:29,790 --> 00:00:29,800
+uso a gente pode implementar. Então,
+ 
+
+33
+00:00:29,800 --> 00:00:31,109
+uso a gente pode implementar. Então,
+bora lá. Fala turma, seja muito
+
+34
+00:00:31,109 --> 00:00:31,119
+bora lá. Fala turma, seja muito
+ 
+
+35
+00:00:31,119 --> 00:00:32,709
+bora lá. Fala turma, seja muito
+bem-vinda a mais um vídeo aqui no canal.
+
+36
+00:00:32,709 --> 00:00:32,719
+bem-vinda a mais um vídeo aqui no canal.
+ 
+
+37
+00:00:32,719 --> 00:00:34,470
+bem-vinda a mais um vídeo aqui no canal.
+Se tem uma das ferramentas que, cara, eu
+
+38
+00:00:34,470 --> 00:00:34,480
+Se tem uma das ferramentas que, cara, eu
+ 
+
+39
+00:00:34,480 --> 00:00:36,190
+Se tem uma das ferramentas que, cara, eu
+tô utilizando muito dentro aqui da
+
+40
+00:00:36,190 --> 00:00:36,200
+tô utilizando muito dentro aqui da
+ 
+
+41
+00:00:36,200 --> 00:00:38,670
+tô utilizando muito dentro aqui da
+empresa também para monitoramento, code
+
+42
+00:00:38,670 --> 00:00:38,680
+empresa também para monitoramento, code
+ 
+
+43
+00:00:38,680 --> 00:00:40,790
+empresa também para monitoramento, code
+review, ter agentes e agendar tarefas e
+
+44
+00:00:40,790 --> 00:00:40,800
+review, ter agentes e agendar tarefas e
+ 
+
+45
+00:00:40,800 --> 00:00:43,350
+review, ter agentes e agendar tarefas e
+dar autonomia para ele, é o OpenCloud. É
+
+46
+00:00:43,350 --> 00:00:43,360
+dar autonomia para ele, é o OpenCloud. É
+ 
+
+47
+00:00:43,360 --> 00:00:45,510
+dar autonomia para ele, é o OpenCloud. É
+uma ferramenta que é muito nova, não só
+
+48
+00:00:45,510 --> 00:00:45,520
+uma ferramenta que é muito nova, não só
+ 
+
+49
+00:00:45,520 --> 00:00:47,750
+uma ferramenta que é muito nova, não só
+pra gente poder ter um agente ali para
+
+50
+00:00:47,750 --> 00:00:47,760
+pra gente poder ter um agente ali para
+ 
+
+51
+00:00:47,760 --> 00:00:49,510
+pra gente poder ter um agente ali para
+escrever e mandar pergunta, ele
+
+52
+00:00:49,510 --> 00:00:49,520
+escrever e mandar pergunta, ele
+ 
+
+53
+00:00:49,520 --> 00:00:52,029
+escrever e mandar pergunta, ele
+responder, e sim para ele ter autonomia
+
+54
+00:00:52,029 --> 00:00:52,039
+responder, e sim para ele ter autonomia
+ 
+
+55
+00:00:52,039 --> 00:00:53,950
+responder, e sim para ele ter autonomia
+dentro da sua VPS ou dentro da sua
+
+56
+00:00:53,950 --> 00:00:53,960
+dentro da sua VPS ou dentro da sua
+ 
+
+57
+00:00:53,960 --> 00:00:56,189
+dentro da sua VPS ou dentro da sua
+máquina para que ele realize operações.
+
+58
+00:00:56,189 --> 00:00:56,199
+máquina para que ele realize operações.
+ 
+
+59
+00:00:56,199 --> 00:00:57,869
+máquina para que ele realize operações.
+Então ele até fala aqui, por exemplo, o
+
+60
+00:00:57,869 --> 00:00:57,879
+Então ele até fala aqui, por exemplo, o
+ 
+
+61
+00:00:57,879 --> 00:00:59,110
+Então ele até fala aqui, por exemplo, o
+que que ele pode fazer, né? Ele pode
+
+62
+00:00:59,110 --> 00:00:59,120
+que que ele pode fazer, né? Ele pode
+ 
+
+63
+00:00:59,120 --> 00:01:00,549
+que que ele pode fazer, né? Ele pode
+rodar na sua máquina ou numa
+
+64
+00:01:00,549 --> 00:01:00,559
+rodar na sua máquina ou numa
+ 
+
+65
+00:01:00,559 --> 00:01:01,950
+rodar na sua máquina ou numa
+infraestrutura, que é o que você vai
+
+66
+00:01:01,950 --> 00:01:01,960
+infraestrutura, que é o que você vai
+ 
+
+67
+00:01:01,960 --> 00:01:03,430
+infraestrutura, que é o que você vai
+aprender nesse vídeo. Vou colocar, a
+
+68
+00:01:03,430 --> 00:01:03,440
+aprender nesse vídeo. Vou colocar, a
+ 
+
+69
+00:01:03,440 --> 00:01:05,270
+aprender nesse vídeo. Vou colocar, a
+gente vai colocar ali no ar. E como que
+
+70
+00:01:05,270 --> 00:01:05,280
+gente vai colocar ali no ar. E como que
+ 
+
+71
+00:01:05,280 --> 00:01:06,469
+gente vai colocar ali no ar. E como que
+você pode fazer isso de forma
+
+72
+00:01:06,469 --> 00:01:06,479
+você pode fazer isso de forma
+ 
+
+73
+00:01:06,479 --> 00:01:09,270
+você pode fazer isso de forma
+organizada, estruturada e utilizar ele.
+
+74
+00:01:09,270 --> 00:01:09,280
+organizada, estruturada e utilizar ele.
+ 
+
+75
+00:01:09,280 --> 00:01:11,149
+organizada, estruturada e utilizar ele.
+Então você pode ter e conversar com
+
+76
+00:01:11,149 --> 00:01:11,159
+Então você pode ter e conversar com
+ 
+
+77
+00:01:11,159 --> 00:01:13,390
+Então você pode ter e conversar com
+esses seus agentes e não um só. Você
+
+78
+00:01:13,390 --> 00:01:13,400
+esses seus agentes e não um só. Você
+ 
+
+79
+00:01:13,400 --> 00:01:15,190
+esses seus agentes e não um só. Você
+pode ter mais de um agente, você pode
+
+80
+00:01:15,190 --> 00:01:15,200
+pode ter mais de um agente, você pode
+ 
+
+81
+00:01:15,200 --> 00:01:17,990
+pode ter mais de um agente, você pode
+delegar também e ele ter autonomia, seja
+
+82
+00:01:17,990 --> 00:01:18,000
+delegar também e ele ter autonomia, seja
+ 
+
+83
+00:01:18,000 --> 00:01:19,350
+delegar também e ele ter autonomia, seja
+dentro de um WhatsApp, Telegram ou
+
+84
+00:01:19,350 --> 00:01:19,360
+dentro de um WhatsApp, Telegram ou
+ 
+
+85
+00:01:19,360 --> 00:01:20,870
+dentro de um WhatsApp, Telegram ou
+qualquer outra ferramenta de chat
+
+86
+00:01:20,870 --> 00:01:20,880
+qualquer outra ferramenta de chat
+ 
+
+87
+00:01:20,880 --> 00:01:22,390
+qualquer outra ferramenta de chat
+também. Você pode conversar com ele,
+
+88
+00:01:22,390 --> 00:01:22,400
+também. Você pode conversar com ele,
+ 
+
+89
+00:01:22,400 --> 00:01:25,030
+também. Você pode conversar com ele,
+pedir para ele realizar operação. Você
+
+90
+00:01:25,030 --> 00:01:25,040
+pedir para ele realizar operação. Você
+ 
+
+91
+00:01:25,040 --> 00:01:26,789
+pedir para ele realizar operação. Você
+pode ter a memória persistente, não só
+
+92
+00:01:26,789 --> 00:01:26,799
+pode ter a memória persistente, não só
+ 
+
+93
+00:01:26,799 --> 00:01:28,910
+pode ter a memória persistente, não só
+uma memória curta ali, um contexto
+
+94
+00:01:28,910 --> 00:01:28,920
+uma memória curta ali, um contexto
+ 
+
+95
+00:01:28,920 --> 00:01:30,749
+uma memória curta ali, um contexto
+também que ele gerencie e crie contexto,
+
+96
+00:01:30,749 --> 00:01:30,759
+também que ele gerencie e crie contexto,
+ 
+
+97
+00:01:30,759 --> 00:01:32,749
+também que ele gerencie e crie contexto,
+ele salve também. Ele tem acesso ao
+
+98
+00:01:32,749 --> 00:01:32,759
+ele salve também. Ele tem acesso ao
+ 
+
+99
+00:01:32,759 --> 00:01:34,030
+ele salve também. Ele tem acesso ao
+navegador. Então, basicamente a gente
+
+100
+00:01:34,030 --> 00:01:34,040
+navegador. Então, basicamente a gente
+ 
+
+101
+00:01:34,040 --> 00:01:35,550
+navegador. Então, basicamente a gente
+consegue falar para ele pesquisar e
+
+102
+00:01:35,550 --> 00:01:35,560
+consegue falar para ele pesquisar e
+ 
+
+103
+00:01:35,560 --> 00:01:37,630
+consegue falar para ele pesquisar e
+integrar com ferramentas. Então ele até
+
+104
+00:01:37,630 --> 00:01:37,640
+integrar com ferramentas. Então ele até
+ 
+
+105
+00:01:37,640 --> 00:01:39,069
+integrar com ferramentas. Então ele até
+coloca ali, né, a gente pode integrar
+
+106
+00:01:39,069 --> 00:01:39,079
+coloca ali, né, a gente pode integrar
+ 
+
+107
+00:01:39,079 --> 00:01:40,469
+coloca ali, né, a gente pode integrar
+com skills para ele aprender, por
+
+108
+00:01:40,469 --> 00:01:40,479
+com skills para ele aprender, por
+ 
+
+109
+00:01:40,479 --> 00:01:42,429
+com skills para ele aprender, por
+exemplo, sobre código ou outras skills
+
+110
+00:01:42,429 --> 00:01:42,439
+exemplo, sobre código ou outras skills
+ 
+
+111
+00:01:42,439 --> 00:01:43,950
+exemplo, sobre código ou outras skills
+que a gente pode instalar e também
+
+112
+00:01:43,950 --> 00:01:43,960
+que a gente pode instalar e também
+ 
+
+113
+00:01:43,960 --> 00:01:45,590
+que a gente pode instalar e também
+plugins para ele se integrar com
+
+114
+00:01:45,590 --> 00:01:45,600
+plugins para ele se integrar com
+ 
+
+115
+00:01:45,600 --> 00:01:47,709
+plugins para ele se integrar com
+ferramenta, que é o que dá muito poder a
+
+116
+00:01:47,709 --> 00:01:47,719
+ferramenta, que é o que dá muito poder a
+ 
+
+117
+00:01:47,719 --> 00:01:49,469
+ferramenta, que é o que dá muito poder a
+ele e que eu utilizo muito também para
+
+118
+00:01:49,469 --> 00:01:49,479
+ele e que eu utilizo muito também para
+ 
+
+119
+00:01:49,479 --> 00:01:51,030
+ele e que eu utilizo muito também para
+monitoramento, por exemplo, do stack
+
+120
+00:01:51,030 --> 00:01:51,040
+monitoramento, por exemplo, do stack
+ 
+
+121
+00:01:51,040 --> 00:01:52,950
+monitoramento, por exemplo, do stack
+vaga, pra gente monitorar todo o stack
+
+122
+00:01:52,950 --> 00:01:52,960
+vaga, pra gente monitorar todo o stack
+ 
+
+123
+00:01:52,960 --> 00:01:55,030
+vaga, pra gente monitorar todo o stack
+vaga, ele faz isso por baixo dos panos.
+
+124
+00:01:55,030 --> 00:01:55,040
+vaga, ele faz isso por baixo dos panos.
+ 
+
+125
+00:01:55,040 --> 00:01:56,310
+vaga, ele faz isso por baixo dos panos.
+Então, bora ver isso aqui na prática,
+
+126
+00:01:56,310 --> 00:01:56,320
+Então, bora ver isso aqui na prática,
+ 
+
+127
+00:01:56,320 --> 00:01:58,350
+Então, bora ver isso aqui na prática,
+né? Então, o open cloud ele não vai ser
+
+128
+00:01:58,350 --> 00:01:58,360
+né? Então, o open cloud ele não vai ser
+ 
+
+129
+00:01:58,360 --> 00:02:00,190
+né? Então, o open cloud ele não vai ser
+apenas um chat. Se você quer apenas um
+
+130
+00:02:00,190 --> 00:02:00,200
+apenas um chat. Se você quer apenas um
+ 
+
+131
+00:02:00,200 --> 00:02:01,670
+apenas um chat. Se você quer apenas um
+chat ali que vai conversar, responder,
+
+132
+00:02:01,670 --> 00:02:01,680
+chat ali que vai conversar, responder,
+ 
+
+133
+00:02:01,680 --> 00:02:02,990
+chat ali que vai conversar, responder,
+não, ele é muito mais que isso. A gente
+
+134
+00:02:02,990 --> 00:02:03,000
+não, ele é muito mais que isso. A gente
+ 
+
+135
+00:02:03,000 --> 00:02:05,310
+não, ele é muito mais que isso. A gente
+consegue ter agentes, subagentes, então
+
+136
+00:02:05,310 --> 00:02:05,320
+consegue ter agentes, subagentes, então
+ 
+
+137
+00:02:05,320 --> 00:02:06,990
+consegue ter agentes, subagentes, então
+tratar meio que como assistente da sua
+
+138
+00:02:06,990 --> 00:02:07,000
+tratar meio que como assistente da sua
+ 
+
+139
+00:02:07,000 --> 00:02:08,710
+tratar meio que como assistente da sua
+empresa, como um estagiário que você
+
+140
+00:02:08,710 --> 00:02:08,720
+empresa, como um estagiário que você
+ 
+
+141
+00:02:08,720 --> 00:02:10,710
+empresa, como um estagiário que você
+pode pedir para ele fazer operações,
+
+142
+00:02:10,710 --> 00:02:10,720
+pode pedir para ele fazer operações,
+ 
+
+143
+00:02:10,720 --> 00:02:12,510
+pode pedir para ele fazer operações,
+agendar operações, por exemplo. Então
+
+144
+00:02:12,510 --> 00:02:12,520
+agendar operações, por exemplo. Então
+ 
+
+145
+00:02:12,520 --> 00:02:14,670
+agendar operações, por exemplo. Então
+ele tem autonomia de gerenciar agentes e
+
+146
+00:02:14,670 --> 00:02:14,680
+ele tem autonomia de gerenciar agentes e
+ 
+
+147
+00:02:14,680 --> 00:02:15,949
+ele tem autonomia de gerenciar agentes e
+suagentes. Então você pode criar um
+
+148
+00:02:15,949 --> 00:02:15,959
+suagentes. Então você pode criar um
+ 
+
+149
+00:02:15,959 --> 00:02:17,710
+suagentes. Então você pode criar um
+agente especialista em tal assunto, que
+
+150
+00:02:17,710 --> 00:02:17,720
+agente especialista em tal assunto, que
+ 
+
+151
+00:02:17,720 --> 00:02:19,550
+agente especialista em tal assunto, que
+ele vai ser acionado em tal hora, que a
+
+152
+00:02:19,550 --> 00:02:19,560
+ele vai ser acionado em tal hora, que a
+ 
+
+153
+00:02:19,560 --> 00:02:21,509
+ele vai ser acionado em tal hora, que a
+responsabilidade dele é tal coisa. Então
+
+154
+00:02:21,509 --> 00:02:21,519
+responsabilidade dele é tal coisa. Então
+ 
+
+155
+00:02:21,519 --> 00:02:22,670
+responsabilidade dele é tal coisa. Então
+a gente pode fazer isso aqui que é
+
+156
+00:02:22,670 --> 00:02:22,680
+a gente pode fazer isso aqui que é
+ 
+
+157
+00:02:22,680 --> 00:02:24,509
+a gente pode fazer isso aqui que é
+sensacional. E além disso, alguns casos
+
+158
+00:02:24,509 --> 00:02:24,519
+sensacional. E além disso, alguns casos
+ 
+
+159
+00:02:24,519 --> 00:02:26,070
+sensacional. E além disso, alguns casos
+de uso, né? Então, por exemplo, pra
+
+160
+00:02:26,070 --> 00:02:26,080
+de uso, né? Então, por exemplo, pra
+ 
+
+161
+00:02:26,080 --> 00:02:28,229
+de uso, né? Então, por exemplo, pra
+gente poder gerar briefing automático,
+
+162
+00:02:28,229 --> 00:02:28,239
+gente poder gerar briefing automático,
+ 
+
+163
+00:02:28,239 --> 00:02:30,509
+gente poder gerar briefing automático,
+agenda de objetivo da semana, lembrete
+
+164
+00:02:30,509 --> 00:02:30,519
+agenda de objetivo da semana, lembrete
+ 
+
+165
+00:02:30,519 --> 00:02:32,270
+agenda de objetivo da semana, lembrete
+relevante, automação do calendário, da
+
+166
+00:02:32,270 --> 00:02:32,280
+relevante, automação do calendário, da
+ 
+
+167
+00:02:32,280 --> 00:02:34,430
+relevante, automação do calendário, da
+rotina. No caso aqui eu utilizo, por
+
+168
+00:02:34,430 --> 00:02:34,440
+rotina. No caso aqui eu utilizo, por
+ 
+
+169
+00:02:34,440 --> 00:02:37,110
+rotina. No caso aqui eu utilizo, por
+exemplo, a pipeline, onde ele faz um
+
+170
+00:02:37,110 --> 00:02:37,120
+exemplo, a pipeline, onde ele faz um
+ 
+
+171
+00:02:37,120 --> 00:02:38,990
+exemplo, a pipeline, onde ele faz um
+code review, ele faz um monitoramento de
+
+172
+00:02:38,990 --> 00:02:39,000
+code review, ele faz um monitoramento de
+ 
+
+173
+00:02:39,000 --> 00:02:40,869
+code review, ele faz um monitoramento de
+um projeto nosso, ele faz aqui dentro
+
+174
+00:02:40,869 --> 00:02:40,879
+um projeto nosso, ele faz aqui dentro
+ 
+
+175
+00:02:40,879 --> 00:02:43,110
+um projeto nosso, ele faz aqui dentro
+também o monitoramento é do SAS lá do
+
+176
+00:02:43,110 --> 00:02:43,120
+também o monitoramento é do SAS lá do
+ 
+
+177
+00:02:43,120 --> 00:02:44,630
+também o monitoramento é do SAS lá do
+Stack Vaga. Quando a gente faz a
+
+178
+00:02:44,630 --> 00:02:44,640
+Stack Vaga. Quando a gente faz a
+ 
+
+179
+00:02:44,640 --> 00:02:46,470
+Stack Vaga. Quando a gente faz a
+aplicação de novas vagas que chegam lá
+
+180
+00:02:46,470 --> 00:02:46,480
+aplicação de novas vagas que chegam lá
+ 
+
+181
+00:02:46,480 --> 00:02:48,309
+aplicação de novas vagas que chegam lá
+dentro do SAS, ele roda ali por baixo
+
+182
+00:02:48,309 --> 00:02:48,319
+dentro do SAS, ele roda ali por baixo
+ 
+
+183
+00:02:48,319 --> 00:02:50,030
+dentro do SAS, ele roda ali por baixo
+para ver se tá certinho antes de chegar
+
+184
+00:02:50,030 --> 00:02:50,040
+para ver se tá certinho antes de chegar
+ 
+
+185
+00:02:50,040 --> 00:02:51,710
+para ver se tá certinho antes de chegar
+para vocês ali dentro do stack vaga.
+
+186
+00:02:51,710 --> 00:02:51,720
+para vocês ali dentro do stack vaga.
+ 
+
+187
+00:02:51,720 --> 00:02:53,869
+para vocês ali dentro do stack vaga.
+Então tudo ele faz isso aqui. Bora
+
+188
+00:02:53,869 --> 00:02:53,879
+Então tudo ele faz isso aqui. Bora
+ 
+
+189
+00:02:53,879 --> 00:02:55,229
+Então tudo ele faz isso aqui. Bora
+entender na prática. Então, como que a
+
+190
+00:02:55,229 --> 00:02:55,239
+entender na prática. Então, como que a
+ 
+
+191
+00:02:55,239 --> 00:02:57,309
+entender na prática. Então, como que a
+gente pode utilizar o OpenCloud, né?
+
+192
+00:02:57,309 --> 00:02:57,319
+gente pode utilizar o OpenCloud, né?
+ 
+
+193
+00:02:57,319 --> 00:02:59,030
+gente pode utilizar o OpenCloud, né?
+Como que a gente consegue instalar, mas
+
+194
+00:02:59,030 --> 00:02:59,040
+Como que a gente consegue instalar, mas
+ 
+
+195
+00:02:59,040 --> 00:03:00,470
+Como que a gente consegue instalar, mas
+não instalar ele dentro do seu
+
+196
+00:03:00,470 --> 00:03:00,480
+não instalar ele dentro do seu
+ 
+
+197
+00:03:00,480 --> 00:03:02,470
+não instalar ele dentro do seu
+computador? Já instalei no num Macenho
+
+198
+00:03:02,470 --> 00:03:02,480
+computador? Já instalei no num Macenho
+ 
+
+199
+00:03:02,480 --> 00:03:04,229
+computador? Já instalei no num Macenho
+aqui, só de teste, a gente instalou
+
+200
+00:03:04,229 --> 00:03:04,239
+aqui, só de teste, a gente instalou
+ 
+
+201
+00:03:04,239 --> 00:03:06,030
+aqui, só de teste, a gente instalou
+aqui, mas não fica legal, ainda mais
+
+202
+00:03:06,030 --> 00:03:06,040
+aqui, mas não fica legal, ainda mais
+ 
+
+203
+00:03:06,040 --> 00:03:07,470
+aqui, mas não fica legal, ainda mais
+porque você quer ter isso dentro de uma
+
+204
+00:03:07,470 --> 00:03:07,480
+porque você quer ter isso dentro de uma
+ 
+
+205
+00:03:07,480 --> 00:03:09,750
+porque você quer ter isso dentro de uma
+infra e você quer ter segurança também.
+
+206
+00:03:09,750 --> 00:03:09,760
+infra e você quer ter segurança também.
+ 
+
+207
+00:03:09,760 --> 00:03:11,309
+infra e você quer ter segurança também.
+Então, para isso, a gente vai instalar
+
+208
+00:03:11,309 --> 00:03:11,319
+Então, para isso, a gente vai instalar
+ 
+
+209
+00:03:11,319 --> 00:03:13,110
+Então, para isso, a gente vai instalar
+dentro de uma infraestrutura, dentro de
+
+210
+00:03:13,110 --> 00:03:13,120
+dentro de uma infraestrutura, dentro de
+ 
+
+211
+00:03:13,120 --> 00:03:14,949
+dentro de uma infraestrutura, dentro de
+uma VPS. Então, bora fazer isso aqui do
+
+212
+00:03:14,949 --> 00:03:14,959
+uma VPS. Então, bora fazer isso aqui do
+ 
+
+213
+00:03:14,959 --> 00:03:16,830
+uma VPS. Então, bora fazer isso aqui do
+zero pra gente aprender como instalar e
+
+214
+00:03:16,830 --> 00:03:16,840
+zero pra gente aprender como instalar e
+ 
+
+215
+00:03:16,840 --> 00:03:18,830
+zero pra gente aprender como instalar e
+como utilizar o OpenCloud na prática
+
+216
+00:03:18,830 --> 00:03:18,840
+como utilizar o OpenCloud na prática
+ 
+
+217
+00:03:18,840 --> 00:03:20,309
+como utilizar o OpenCloud na prática
+para você ver nesse vídeo aqui. Então,
+
+218
+00:03:20,309 --> 00:03:20,319
+para você ver nesse vídeo aqui. Então,
+ 
+
+219
+00:03:20,319 --> 00:03:22,030
+para você ver nesse vídeo aqui. Então,
+bora lá. Então, vamos lá. Primeiro passo
+
+220
+00:03:22,030 --> 00:03:22,040
+bora lá. Então, vamos lá. Primeiro passo
+ 
+
+221
+00:03:22,040 --> 00:03:23,630
+bora lá. Então, vamos lá. Primeiro passo
+aqui, a gente instalar ela dentro de uma
+
+222
+00:03:23,630 --> 00:03:23,640
+aqui, a gente instalar ela dentro de uma
+ 
+
+223
+00:03:23,640 --> 00:03:25,509
+aqui, a gente instalar ela dentro de uma
+infraestrutura. Aqui a gente vai usar a
+
+224
+00:03:25,509 --> 00:03:25,519
+infraestrutura. Aqui a gente vai usar a
+ 
+
+225
+00:03:25,519 --> 00:03:27,750
+infraestrutura. Aqui a gente vai usar a
+VPS. A gente vai usar a VPS da Hoshinger
+
+226
+00:03:27,750 --> 00:03:27,760
+VPS. A gente vai usar a VPS da Hoshinger
+ 
+
+227
+00:03:27,760 --> 00:03:29,550
+VPS. A gente vai usar a VPS da Hoshinger
+pra gente ter uma máquina na nuvem, pra
+
+228
+00:03:29,550 --> 00:03:29,560
+pra gente ter uma máquina na nuvem, pra
+ 
+
+229
+00:03:29,560 --> 00:03:31,550
+pra gente ter uma máquina na nuvem, pra
+gente poder instalar lá dentro o nosso
+
+230
+00:03:31,550 --> 00:03:31,560
+gente poder instalar lá dentro o nosso
+ 
+
+231
+00:03:31,560 --> 00:03:33,270
+gente poder instalar lá dentro o nosso
+OpenCloud e a gente conseguir gerenciar
+
+232
+00:03:33,270 --> 00:03:33,280
+OpenCloud e a gente conseguir gerenciar
+ 
+
+233
+00:03:33,280 --> 00:03:35,190
+OpenCloud e a gente conseguir gerenciar
+ele de qualquer lugar. Mas não só isso,
+
+234
+00:03:35,190 --> 00:03:35,200
+ele de qualquer lugar. Mas não só isso,
+ 
+
+235
+00:03:35,200 --> 00:03:36,830
+ele de qualquer lugar. Mas não só isso,
+né? Eu vou utilizar aqui a Hostinger,
+
+236
+00:03:36,830 --> 00:03:36,840
+né? Eu vou utilizar aqui a Hostinger,
+ 
+
+237
+00:03:36,840 --> 00:03:38,789
+né? Eu vou utilizar aqui a Hostinger,
+que é parceira aqui do canal, inclusive
+
+238
+00:03:38,789 --> 00:03:38,799
+que é parceira aqui do canal, inclusive
+ 
+
+239
+00:03:38,799 --> 00:03:41,589
+que é parceira aqui do canal, inclusive
+principalmente, né, pela custobenefício,
+
+240
+00:03:41,589 --> 00:03:41,599
+principalmente, né, pela custobenefício,
+ 
+
+241
+00:03:41,599 --> 00:03:43,149
+principalmente, né, pela custobenefício,
+pela infraestrutura que ela já traz pra
+
+242
+00:03:43,149 --> 00:03:43,159
+pela infraestrutura que ela já traz pra
+ 
+
+243
+00:03:43,159 --> 00:03:45,070
+pela infraestrutura que ela já traz pra
+gente. A gente tem todo o suporte aqui e
+
+244
+00:03:45,070 --> 00:03:45,080
+gente. A gente tem todo o suporte aqui e
+ 
+
+245
+00:03:45,080 --> 00:03:47,070
+gente. A gente tem todo o suporte aqui e
+além disso, cara, é muito acessível, né?
+
+246
+00:03:47,070 --> 00:03:47,080
+além disso, cara, é muito acessível, né?
+ 
+
+247
+00:03:47,080 --> 00:03:49,550
+além disso, cara, é muito acessível, né?
+Então você pega ali 43, eu já vou
+
+248
+00:03:49,550 --> 00:03:49,560
+Então você pega ali 43, eu já vou
+ 
+
+249
+00:03:49,560 --> 00:03:50,990
+Então você pega ali 43, eu já vou
+configurar tudo com vocês do zero e
+
+250
+00:03:50,990 --> 00:03:51,000
+configurar tudo com vocês do zero e
+ 
+
+251
+00:03:51,000 --> 00:03:52,390
+configurar tudo com vocês do zero e
+pegar ela aqui também, né? Que a que eu
+
+252
+00:03:52,390 --> 00:03:52,400
+pegar ela aqui também, né? Que a que eu
+ 
+
+253
+00:03:52,400 --> 00:03:54,270
+pegar ela aqui também, né? Que a que eu
+vou utilizar KVM2, por exemplo. Você
+
+254
+00:03:54,270 --> 00:03:54,280
+vou utilizar KVM2, por exemplo. Você
+ 
+
+255
+00:03:54,280 --> 00:03:57,750
+vou utilizar KVM2, por exemplo. Você
+pega aqui R3,99 por mês, 2 VCPU, dois
+
+256
+00:03:57,750 --> 00:03:57,760
+pega aqui R3,99 por mês, 2 VCPU, dois
+ 
+
+257
+00:03:57,760 --> 00:04:00,350
+pega aqui R3,99 por mês, 2 VCPU, dois
+núcleos ali, 8 GB de RAM, 100 GB de
+
+258
+00:04:00,350 --> 00:04:00,360
+núcleos ali, 8 GB de RAM, 100 GB de
+ 
+
+259
+00:04:00,360 --> 00:04:02,630
+núcleos ali, 8 GB de RAM, 100 GB de
+armazenamento de espaço e 8 ter de
+
+260
+00:04:02,630 --> 00:04:02,640
+armazenamento de espaço e 8 ter de
+ 
+
+261
+00:04:02,640 --> 00:04:04,270
+armazenamento de espaço e 8 ter de
+largura de banda. Isso aqui que eu vou
+
+262
+00:04:04,270 --> 00:04:04,280
+largura de banda. Isso aqui que eu vou
+ 
+
+263
+00:04:04,280 --> 00:04:05,309
+largura de banda. Isso aqui que eu vou
+te mostrar, a forma que eu vou te
+
+264
+00:04:05,309 --> 00:04:05,319
+te mostrar, a forma que eu vou te
+ 
+
+265
+00:04:05,319 --> 00:04:07,030
+te mostrar, a forma que eu vou te
+mostrar que a gente vai configurar aqui.
+
+266
+00:04:07,030 --> 00:04:07,040
+mostrar que a gente vai configurar aqui.
+ 
+
+267
+00:04:07,040 --> 00:04:09,149
+mostrar que a gente vai configurar aqui.
+Basicamente você vai usar o OpenCloud, a
+
+268
+00:04:09,149 --> 00:04:09,159
+Basicamente você vai usar o OpenCloud, a
+ 
+
+269
+00:04:09,159 --> 00:04:10,470
+Basicamente você vai usar o OpenCloud, a
+gente vai configurar de uma forma dentro
+
+270
+00:04:10,470 --> 00:04:10,480
+gente vai configurar de uma forma dentro
+ 
+
+271
+00:04:10,480 --> 00:04:11,869
+gente vai configurar de uma forma dentro
+do Docker que depois se você quer
+
+272
+00:04:11,869 --> 00:04:11,879
+do Docker que depois se você quer
+ 
+
+273
+00:04:11,879 --> 00:04:13,670
+do Docker que depois se você quer
+colocar mais projetos ou até mais um
+
+274
+00:04:13,670 --> 00:04:13,680
+colocar mais projetos ou até mais um
+ 
+
+275
+00:04:13,680 --> 00:04:15,509
+colocar mais projetos ou até mais um
+open cloud ali dentro ou um banco de
+
+276
+00:04:15,509 --> 00:04:15,519
+open cloud ali dentro ou um banco de
+ 
+
+277
+00:04:15,519 --> 00:04:17,229
+open cloud ali dentro ou um banco de
+dados dentro da mesma VPS, a gente
+
+278
+00:04:17,229 --> 00:04:17,239
+dados dentro da mesma VPS, a gente
+ 
+
+279
+00:04:17,239 --> 00:04:18,830
+dados dentro da mesma VPS, a gente
+consegue colocar tudo dentro da
+
+280
+00:04:18,830 --> 00:04:18,840
+consegue colocar tudo dentro da
+ 
+
+281
+00:04:18,840 --> 00:04:20,909
+consegue colocar tudo dentro da
+infraestrutura da Hostinger. Então é uma
+
+282
+00:04:20,909 --> 00:04:20,919
+infraestrutura da Hostinger. Então é uma
+ 
+
+283
+00:04:20,919 --> 00:04:23,189
+infraestrutura da Hostinger. Então é uma
+VPS, cara, que é muito forte, ótimo
+
+284
+00:04:23,189 --> 00:04:23,199
+VPS, cara, que é muito forte, ótimo
+ 
+
+285
+00:04:23,199 --> 00:04:24,830
+VPS, cara, que é muito forte, ótimo
+custo benefício pra gente aqui. Então
+
+286
+00:04:24,830 --> 00:04:24,840
+custo benefício pra gente aqui. Então
+ 
+
+287
+00:04:24,840 --> 00:04:26,790
+custo benefício pra gente aqui. Então
+vou usar aqui a KVM2. Se você quiser
+
+288
+00:04:26,790 --> 00:04:26,800
+vou usar aqui a KVM2. Se você quiser
+ 
+
+289
+00:04:26,800 --> 00:04:28,510
+vou usar aqui a KVM2. Se você quiser
+depois escalar mais para projetos, ter
+
+290
+00:04:28,510 --> 00:04:28,520
+depois escalar mais para projetos, ter
+ 
+
+291
+00:04:28,520 --> 00:04:30,230
+depois escalar mais para projetos, ter
+mais projetos no ar, aí eu utilizo aqui
+
+292
+00:04:30,230 --> 00:04:30,240
+mais projetos no ar, aí eu utilizo aqui
+ 
+
+293
+00:04:30,240 --> 00:04:32,390
+mais projetos no ar, aí eu utilizo aqui
+dentro dos projetos aqui o KVM4, que aí
+
+294
+00:04:32,390 --> 00:04:32,400
+dentro dos projetos aqui o KVM4, que aí
+ 
+
+295
+00:04:32,400 --> 00:04:34,749
+dentro dos projetos aqui o KVM4, que aí
+cara aguenta tranquilamente, né? Então
+
+296
+00:04:34,749 --> 00:04:34,759
+cara aguenta tranquilamente, né? Então
+ 
+
+297
+00:04:34,759 --> 00:04:36,990
+cara aguenta tranquilamente, né? Então
+vamos vir aqui dentro, ó, da KVM2, vou
+
+298
+00:04:36,990 --> 00:04:37,000
+vamos vir aqui dentro, ó, da KVM2, vou
+ 
+
+299
+00:04:37,000 --> 00:04:38,189
+vamos vir aqui dentro, ó, da KVM2, vou
+escolher ela aqui, que é a que eu vou
+
+300
+00:04:38,189 --> 00:04:38,199
+escolher ela aqui, que é a que eu vou
+ 
+
+301
+00:04:38,199 --> 00:04:39,749
+escolher ela aqui, que é a que eu vou
+utilizar. Então aqui dentro uma coisa
+
+302
+00:04:39,749 --> 00:04:39,759
+utilizar. Então aqui dentro uma coisa
+ 
+
+303
+00:04:39,759 --> 00:04:40,909
+utilizar. Então aqui dentro uma coisa
+importante pra gente pegar antes de
+
+304
+00:04:40,909 --> 00:04:40,919
+importante pra gente pegar antes de
+ 
+
+305
+00:04:40,919 --> 00:04:42,590
+importante pra gente pegar antes de
+configurar o período, né? Então uma
+
+306
+00:04:42,590 --> 00:04:42,600
+configurar o período, né? Então uma
+ 
+
+307
+00:04:42,600 --> 00:04:43,950
+configurar o período, né? Então uma
+coisa que eu gosto demais dentro da
+
+308
+00:04:43,950 --> 00:04:43,960
+coisa que eu gosto demais dentro da
+ 
+
+309
+00:04:43,960 --> 00:04:45,270
+coisa que eu gosto demais dentro da
+Hostinger é que quanto mais tempo você
+
+310
+00:04:45,270 --> 00:04:45,280
+Hostinger é que quanto mais tempo você
+ 
+
+311
+00:04:45,280 --> 00:04:47,230
+Hostinger é que quanto mais tempo você
+pega ali, contrata VPS de uma vez, você
+
+312
+00:04:47,230 --> 00:04:47,240
+pega ali, contrata VPS de uma vez, você
+ 
+
+313
+00:04:47,240 --> 00:04:49,469
+pega ali, contrata VPS de uma vez, você
+já tem um desconto muito grande. Então,
+
+314
+00:04:49,469 --> 00:04:49,479
+já tem um desconto muito grande. Então,
+ 
+
+315
+00:04:49,479 --> 00:04:50,950
+já tem um desconto muito grande. Então,
+por exemplo, se eu pegar aqui um mês,
+
+316
+00:04:50,950 --> 00:04:50,960
+por exemplo, se eu pegar aqui um mês,
+ 
+
+317
+00:04:50,960 --> 00:04:52,629
+por exemplo, se eu pegar aqui um mês,
+ela tem um valor um pouco maior, que é
+
+318
+00:04:52,629 --> 00:04:52,639
+ela tem um valor um pouco maior, que é
+ 
+
+319
+00:04:52,639 --> 00:04:54,270
+ela tem um valor um pouco maior, que é
+um mês só. Mas se você pegar, por
+
+320
+00:04:54,270 --> 00:04:54,280
+um mês só. Mas se você pegar, por
+ 
+
+321
+00:04:54,280 --> 00:04:55,550
+um mês só. Mas se você pegar, por
+exemplo, 12 meses, que é o que eu
+
+322
+00:04:55,550 --> 00:04:55,560
+exemplo, 12 meses, que é o que eu
+ 
+
+323
+00:04:55,560 --> 00:04:57,270
+exemplo, 12 meses, que é o que eu
+recomendo demais, primeiro porque vai
+
+324
+00:04:57,270 --> 00:04:57,280
+recomendo demais, primeiro porque vai
+ 
+
+325
+00:04:57,280 --> 00:04:58,909
+recomendo demais, primeiro porque vai
+ficar mais barato por mês, você vai
+
+326
+00:04:58,909 --> 00:04:58,919
+ficar mais barato por mês, você vai
+ 
+
+327
+00:04:58,919 --> 00:05:01,189
+ficar mais barato por mês, você vai
+economizar muita grana e além disso, ela
+
+328
+00:05:01,189 --> 00:05:01,199
+economizar muita grana e além disso, ela
+ 
+
+329
+00:05:01,199 --> 00:05:02,629
+economizar muita grana e além disso, ela
+já vai te dar um domínio aqui, ó, de
+
+330
+00:05:02,629 --> 00:05:02,639
+já vai te dar um domínio aqui, ó, de
+ 
+
+331
+00:05:02,639 --> 00:05:03,950
+já vai te dar um domínio aqui, ó, de
+graça ali. Então você já tem um domínio
+
+332
+00:05:03,950 --> 00:05:03,960
+graça ali. Então você já tem um domínio
+ 
+
+333
+00:05:03,960 --> 00:05:05,550
+graça ali. Então você já tem um domínio
+que você pode registrar depois de graça
+
+334
+00:05:05,550 --> 00:05:05,560
+que você pode registrar depois de graça
+ 
+
+335
+00:05:05,560 --> 00:05:06,950
+que você pode registrar depois de graça
+pro seu projeto ou pro seu site, sem
+
+336
+00:05:06,950 --> 00:05:06,960
+pro seu projeto ou pro seu site, sem
+ 
+
+337
+00:05:06,960 --> 00:05:08,510
+pro seu projeto ou pro seu site, sem
+nenhum problema. Você já ganha um ano
+
+338
+00:05:08,510 --> 00:05:08,520
+nenhum problema. Você já ganha um ano
+ 
+
+339
+00:05:08,520 --> 00:05:10,310
+nenhum problema. Você já ganha um ano
+aqui, ó, de domínio de graça. Então,
+
+340
+00:05:10,310 --> 00:05:10,320
+aqui, ó, de domínio de graça. Então,
+ 
+
+341
+00:05:10,320 --> 00:05:12,070
+aqui, ó, de domínio de graça. Então,
+cara, isso é muito bom. Ou se você
+
+342
+00:05:12,070 --> 00:05:12,080
+cara, isso é muito bom. Ou se você
+ 
+
+343
+00:05:12,080 --> 00:05:13,790
+cara, isso é muito bom. Ou se você
+quiser 24 meses, você vai usar ela por
+
+344
+00:05:13,790 --> 00:05:13,800
+quiser 24 meses, você vai usar ela por
+ 
+
+345
+00:05:13,800 --> 00:05:15,310
+quiser 24 meses, você vai usar ela por
+mais tempo, mais projetos. Eu sei que eu
+
+346
+00:05:15,310 --> 00:05:15,320
+mais tempo, mais projetos. Eu sei que eu
+ 
+
+347
+00:05:15,320 --> 00:05:17,070
+mais tempo, mais projetos. Eu sei que eu
+vou usar por mais projetos aqui dentro
+
+348
+00:05:17,070 --> 00:05:17,080
+vou usar por mais projetos aqui dentro
+ 
+
+349
+00:05:17,080 --> 00:05:18,469
+vou usar por mais projetos aqui dentro
+do canal e dentro para vocês aqui eu vou
+
+350
+00:05:18,469 --> 00:05:18,479
+do canal e dentro para vocês aqui eu vou
+ 
+
+351
+00:05:18,479 --> 00:05:20,070
+do canal e dentro para vocês aqui eu vou
+pegar 12 meses mesmo. Então,
+
+352
+00:05:20,070 --> 00:05:20,080
+pegar 12 meses mesmo. Então,
+ 
+
+353
+00:05:20,080 --> 00:05:21,749
+pegar 12 meses mesmo. Então,
+sensacional. O backup diário ele é
+
+354
+00:05:21,749 --> 00:05:21,759
+sensacional. O backup diário ele é
+ 
+
+355
+00:05:21,759 --> 00:05:23,550
+sensacional. O backup diário ele é
+opcional, não precisa pegar, não, não
+
+356
+00:05:23,550 --> 00:05:23,560
+opcional, não precisa pegar, não, não
+ 
+
+357
+00:05:23,560 --> 00:05:25,350
+opcional, não precisa pegar, não, não
+vou utilizar aqui nesse caso. E uma das
+
+358
+00:05:25,350 --> 00:05:25,360
+vou utilizar aqui nesse caso. E uma das
+ 
+
+359
+00:05:25,360 --> 00:05:27,029
+vou utilizar aqui nesse caso. E uma das
+coisas que é muito boa dentro da
+
+360
+00:05:27,029 --> 00:05:27,039
+coisas que é muito boa dentro da
+ 
+
+361
+00:05:27,039 --> 00:05:28,670
+coisas que é muito boa dentro da
+Hostinger que tem servidor no Brasil.
+
+362
+00:05:28,670 --> 00:05:28,680
+Hostinger que tem servidor no Brasil.
+ 
+
+363
+00:05:28,680 --> 00:05:29,909
+Hostinger que tem servidor no Brasil.
+Então a gente pode pegar aqui, ó,
+
+364
+00:05:29,909 --> 00:05:29,919
+Então a gente pode pegar aqui, ó,
+ 
+
+365
+00:05:29,919 --> 00:05:31,909
+Então a gente pode pegar aqui, ó,
+Brasil. Eu vou escolher aqui a, no meu
+
+366
+00:05:31,909 --> 00:05:31,919
+Brasil. Eu vou escolher aqui a, no meu
+ 
+
+367
+00:05:31,919 --> 00:05:33,390
+Brasil. Eu vou escolher aqui a, no meu
+caso, né, escolhe qual que é a menor
+
+368
+00:05:33,390 --> 00:05:33,400
+caso, né, escolhe qual que é a menor
+ 
+
+369
+00:05:33,400 --> 00:05:34,990
+caso, né, escolhe qual que é a menor
+latência para você. Ele tem servidor
+
+370
+00:05:34,990 --> 00:05:35,000
+latência para você. Ele tem servidor
+ 
+
+371
+00:05:35,000 --> 00:05:37,150
+latência para você. Ele tem servidor
+basicamente em todo mundo aqui. No meu
+
+372
+00:05:37,150 --> 00:05:37,160
+basicamente em todo mundo aqui. No meu
+ 
+
+373
+00:05:37,160 --> 00:05:39,590
+basicamente em todo mundo aqui. No meu
+caso aqui, ó, São Paulo tem a melhor
+
+374
+00:05:39,590 --> 00:05:39,600
+caso aqui, ó, São Paulo tem a melhor
+ 
+
+375
+00:05:39,600 --> 00:05:41,029
+caso aqui, ó, São Paulo tem a melhor
+latência. Então, vou escolher São Paulo
+
+376
+00:05:41,029 --> 00:05:41,039
+latência. Então, vou escolher São Paulo
+ 
+
+377
+00:05:41,039 --> 00:05:43,670
+latência. Então, vou escolher São Paulo
+aqui. Show de bola. E aqui embaixo a
+
+378
+00:05:43,670 --> 00:05:43,680
+aqui. Show de bola. E aqui embaixo a
+ 
+
+379
+00:05:43,680 --> 00:05:44,790
+aqui. Show de bola. E aqui embaixo a
+gente vai escolher qual sistema
+
+380
+00:05:44,790 --> 00:05:44,800
+gente vai escolher qual sistema
+ 
+
+381
+00:05:44,800 --> 00:05:46,790
+gente vai escolher qual sistema
+operacional. A Hostinger, uma coisa
+
+382
+00:05:46,790 --> 00:05:46,800
+operacional. A Hostinger, uma coisa
+ 
+
+383
+00:05:46,800 --> 00:05:48,230
+operacional. A Hostinger, uma coisa
+muito legal, deixa eu até voltar aqui
+
+384
+00:05:48,230 --> 00:05:48,240
+muito legal, deixa eu até voltar aqui
+ 
+
+385
+00:05:48,240 --> 00:05:50,790
+muito legal, deixa eu até voltar aqui
+dentro da VPS dele só para mostrar. Eles
+
+386
+00:05:50,790 --> 00:05:50,800
+dentro da VPS dele só para mostrar. Eles
+ 
+
+387
+00:05:50,800 --> 00:05:52,909
+dentro da VPS dele só para mostrar. Eles
+têm aqui dentro o OpenCloud um click que
+
+388
+00:05:52,909 --> 00:05:52,919
+têm aqui dentro o OpenCloud um click que
+ 
+
+389
+00:05:52,919 --> 00:05:54,870
+têm aqui dentro o OpenCloud um click que
+você basicamente instala já uma VPS só
+
+390
+00:05:54,870 --> 00:05:54,880
+você basicamente instala já uma VPS só
+ 
+
+391
+00:05:54,880 --> 00:05:56,909
+você basicamente instala já uma VPS só
+com OpenCloud ali dentro. Mas no caso, a
+
+392
+00:05:56,909 --> 00:05:56,919
+com OpenCloud ali dentro. Mas no caso, a
+ 
+
+393
+00:05:56,919 --> 00:05:58,430
+com OpenCloud ali dentro. Mas no caso, a
+forma que eu vou te mostrar é, a gente
+
+394
+00:05:58,430 --> 00:05:58,440
+forma que eu vou te mostrar é, a gente
+ 
+
+395
+00:05:58,440 --> 00:06:00,670
+forma que eu vou te mostrar é, a gente
+vai instalar uma VPS aqui dentro e ela
+
+396
+00:06:00,670 --> 00:06:00,680
+vai instalar uma VPS aqui dentro e ela
+ 
+
+397
+00:06:00,680 --> 00:06:02,309
+vai instalar uma VPS aqui dentro e ela
+vai suportar o OpenCloud. E além disso
+
+398
+00:06:02,309 --> 00:06:02,319
+vai suportar o OpenCloud. E além disso
+ 
+
+399
+00:06:02,319 --> 00:06:03,830
+vai suportar o OpenCloud. E além disso
+eu vou mostrar a forma que a gente pode
+
+400
+00:06:03,830 --> 00:06:03,840
+eu vou mostrar a forma que a gente pode
+ 
+
+401
+00:06:03,840 --> 00:06:05,309
+eu vou mostrar a forma que a gente pode
+depois instalar um Docker ali dentro e
+
+402
+00:06:05,309 --> 00:06:05,319
+depois instalar um Docker ali dentro e
+ 
+
+403
+00:06:05,319 --> 00:06:06,990
+depois instalar um Docker ali dentro e
+colocar qualquer outra coisa ali dentro.
+
+404
+00:06:06,990 --> 00:06:07,000
+colocar qualquer outra coisa ali dentro.
+ 
+
+405
+00:06:07,000 --> 00:06:08,870
+colocar qualquer outra coisa ali dentro.
+Muito mais poderoso. Então aqui dentro,
+
+406
+00:06:08,870 --> 00:06:08,880
+Muito mais poderoso. Então aqui dentro,
+ 
+
+407
+00:06:08,880 --> 00:06:10,510
+Muito mais poderoso. Então aqui dentro,
+ó, o que a gente vai fazer é, eu vou
+
+408
+00:06:10,510 --> 00:06:10,520
+ó, o que a gente vai fazer é, eu vou
+ 
+
+409
+00:06:10,520 --> 00:06:12,070
+ó, o que a gente vai fazer é, eu vou
+selecionar aqui o Ubunto. Então você
+
+410
+00:06:12,070 --> 00:06:12,080
+selecionar aqui o Ubunto. Então você
+ 
+
+411
+00:06:12,080 --> 00:06:13,510
+selecionar aqui o Ubunto. Então você
+clica aqui no seleciona o bunto.
+
+412
+00:06:13,510 --> 00:06:13,520
+clica aqui no seleciona o bunto.
+ 
+
+413
+00:06:13,520 --> 00:06:15,550
+clica aqui no seleciona o bunto.
+Seleciona sempre a versão LTS. Vou pegar
+
+414
+00:06:15,550 --> 00:06:15,560
+Seleciona sempre a versão LTS. Vou pegar
+ 
+
+415
+00:06:15,560 --> 00:06:17,550
+Seleciona sempre a versão LTS. Vou pegar
+essa 24.4.
+
+416
+00:06:17,550 --> 00:06:17,560
+essa 24.4.
+ 
+
+417
+00:06:17,560 --> 00:06:19,990
+essa 24.4.
+Essa versão LTS, ó, confirma aqui. Então
+
+418
+00:06:19,990 --> 00:06:20,000
+Essa versão LTS, ó, confirma aqui. Então
+ 
+
+419
+00:06:20,000 --> 00:06:22,230
+Essa versão LTS, ó, confirma aqui. Então
+você pode ver, já selecionou o punto,
+
+420
+00:06:22,230 --> 00:06:22,240
+você pode ver, já selecionou o punto,
+ 
+
+421
+00:06:22,240 --> 00:06:24,350
+você pode ver, já selecionou o punto,
+marquei a latência de show e obviamente,
+
+422
+00:06:24,350 --> 00:06:24,360
+marquei a latência de show e obviamente,
+ 
+
+423
+00:06:24,360 --> 00:06:26,589
+marquei a latência de show e obviamente,
+né, vem aqui dentro, ó, aqui dentro eu
+
+424
+00:06:26,589 --> 00:06:26,599
+né, vem aqui dentro, ó, aqui dentro eu
+ 
+
+425
+00:06:26,599 --> 00:06:28,430
+né, vem aqui dentro, ó, aqui dentro eu
+deixei 12 meses, que já dá um desconto
+
+426
+00:06:28,430 --> 00:06:28,440
+deixei 12 meses, que já dá um desconto
+ 
+
+427
+00:06:28,440 --> 00:06:30,950
+deixei 12 meses, que já dá um desconto
+sensacional. Você já tem o SSL gratuito,
+
+428
+00:06:30,950 --> 00:06:30,960
+sensacional. Você já tem o SSL gratuito,
+ 
+
+429
+00:06:30,960 --> 00:06:32,990
+sensacional. Você já tem o SSL gratuito,
+né, que é o https, o certificado ali,
+
+430
+00:06:32,990 --> 00:06:33,000
+né, que é o https, o certificado ali,
+ 
+
+431
+00:06:33,000 --> 00:06:34,350
+né, que é o https, o certificado ali,
+você já ganha o domínio, vem aqui no
+
+432
+00:06:34,350 --> 00:06:34,360
+você já ganha o domínio, vem aqui no
+ 
+
+433
+00:06:34,360 --> 00:06:36,589
+você já ganha o domínio, vem aqui no
+cupom e, obviamente, coloca o cupom que
+
+434
+00:06:36,589 --> 00:06:36,599
+cupom e, obviamente, coloca o cupom que
+ 
+
+435
+00:06:36,599 --> 00:06:37,749
+cupom e, obviamente, coloca o cupom que
+eu vou deixar que tá aparecendo aí na
+
+436
+00:06:37,749 --> 00:06:37,759
+eu vou deixar que tá aparecendo aí na
+ 
+
+437
+00:06:37,759 --> 00:06:39,309
+eu vou deixar que tá aparecendo aí na
+tela ou clica no link que tá na
+
+438
+00:06:39,309 --> 00:06:39,319
+tela ou clica no link que tá na
+ 
+
+439
+00:06:39,319 --> 00:06:40,909
+tela ou clica no link que tá na
+descrição aí do vídeo que tem um link
+
+440
+00:06:40,909 --> 00:06:40,919
+descrição aí do vídeo que tem um link
+ 
+
+441
+00:06:40,919 --> 00:06:43,230
+descrição aí do vídeo que tem um link
+exclusivo com valor exclusivo para vocês
+
+442
+00:06:43,230 --> 00:06:43,240
+exclusivo com valor exclusivo para vocês
+ 
+
+443
+00:06:43,240 --> 00:06:44,990
+exclusivo com valor exclusivo para vocês
+aí contratarem o serviço aqui que eu
+
+444
+00:06:44,990 --> 00:06:45,000
+aí contratarem o serviço aqui que eu
+ 
+
+445
+00:06:45,000 --> 00:06:46,870
+aí contratarem o serviço aqui que eu
+peguei com a Hostinger, beleza? Então,
+
+446
+00:06:46,870 --> 00:06:46,880
+peguei com a Hostinger, beleza? Então,
+ 
+
+447
+00:06:46,880 --> 00:06:48,270
+peguei com a Hostinger, beleza? Então,
+só colocar o cupom aqui. Eu não posso
+
+448
+00:06:48,270 --> 00:06:48,280
+só colocar o cupom aqui. Eu não posso
+ 
+
+449
+00:06:48,280 --> 00:06:49,589
+só colocar o cupom aqui. Eu não posso
+colocar porque eu tô na minha conta, né?
+
+450
+00:06:49,589 --> 00:06:49,599
+colocar porque eu tô na minha conta, né?
+ 
+
+451
+00:06:49,599 --> 00:06:50,950
+colocar porque eu tô na minha conta, né?
+Não posso, não consigo colocar o meu
+
+452
+00:06:50,950 --> 00:06:50,960
+Não posso, não consigo colocar o meu
+ 
+
+453
+00:06:50,960 --> 00:06:52,950
+Não posso, não consigo colocar o meu
+cupom e continuar aqui e fazer o
+
+454
+00:06:52,950 --> 00:06:52,960
+cupom e continuar aqui e fazer o
+ 
+
+455
+00:06:52,960 --> 00:06:54,469
+cupom e continuar aqui e fazer o
+pagamento e avançar. Eu vou pular essa
+
+456
+00:06:54,469 --> 00:06:54,479
+pagamento e avançar. Eu vou pular essa
+ 
+
+457
+00:06:54,479 --> 00:06:55,710
+pagamento e avançar. Eu vou pular essa
+parte para não mostrar o pagamento e
+
+458
+00:06:55,710 --> 00:06:55,720
+parte para não mostrar o pagamento e
+ 
+
+459
+00:06:55,720 --> 00:06:57,629
+parte para não mostrar o pagamento e
+bora configurar. Maravilha. Então, após
+
+460
+00:06:57,629 --> 00:06:57,639
+bora configurar. Maravilha. Então, após
+ 
+
+461
+00:06:57,639 --> 00:06:59,110
+bora configurar. Maravilha. Então, após
+o pagamento, você cai aqui basicamente
+
+462
+00:06:59,110 --> 00:06:59,120
+o pagamento, você cai aqui basicamente
+ 
+
+463
+00:06:59,120 --> 00:07:01,029
+o pagamento, você cai aqui basicamente
+dentro do seu painel. Se você não tiver
+
+464
+00:07:01,029 --> 00:07:01,039
+dentro do seu painel. Se você não tiver
+ 
+
+465
+00:07:01,039 --> 00:07:02,270
+dentro do seu painel. Se você não tiver
+caído, não tem problema. Você pode
+
+466
+00:07:02,270 --> 00:07:02,280
+caído, não tem problema. Você pode
+ 
+
+467
+00:07:02,280 --> 00:07:04,990
+caído, não tem problema. Você pode
+acessar aqui o hpanel.com
+
+468
+00:07:04,990 --> 00:07:05,000
+acessar aqui o hpanel.com
+ 
+
+469
+00:07:05,000 --> 00:07:06,589
+acessar aqui o hpanel.com
+e você vai ter no seu painel e só você
+
+470
+00:07:06,589 --> 00:07:06,599
+e você vai ter no seu painel e só você
+ 
+
+471
+00:07:06,599 --> 00:07:08,350
+e você vai ter no seu painel e só você
+vir aqui do lado nessa abinha aqui, ó,
+
+472
+00:07:08,350 --> 00:07:08,360
+vir aqui do lado nessa abinha aqui, ó,
+ 
+
+473
+00:07:08,360 --> 00:07:10,830
+vir aqui do lado nessa abinha aqui, ó,
+basicamente VPS. E aí, igual tá
+
+474
+00:07:10,830 --> 00:07:10,840
+basicamente VPS. E aí, igual tá
+ 
+
+475
+00:07:10,840 --> 00:07:12,550
+basicamente VPS. E aí, igual tá
+aparecendo, clicar em gerenciar na VPS
+
+476
+00:07:12,550 --> 00:07:12,560
+aparecendo, clicar em gerenciar na VPS
+ 
+
+477
+00:07:12,560 --> 00:07:14,550
+aparecendo, clicar em gerenciar na VPS
+que você comprou, que você pegou aí.
+
+478
+00:07:14,550 --> 00:07:14,560
+que você comprou, que você pegou aí.
+ 
+
+479
+00:07:14,560 --> 00:07:15,749
+que você comprou, que você pegou aí.
+Então aqui dentro, ó, todo jeito aqui,
+
+480
+00:07:15,749 --> 00:07:15,759
+Então aqui dentro, ó, todo jeito aqui,
+ 
+
+481
+00:07:15,759 --> 00:07:17,070
+Então aqui dentro, ó, todo jeito aqui,
+tá vendo que não tem nada? Acabei de
+
+482
+00:07:17,070 --> 00:07:17,080
+tá vendo que não tem nada? Acabei de
+ 
+
+483
+00:07:17,080 --> 00:07:18,869
+tá vendo que não tem nada? Acabei de
+comprar também. Então, basicamente uma
+
+484
+00:07:18,869 --> 00:07:18,879
+comprar também. Então, basicamente uma
+ 
+
+485
+00:07:18,879 --> 00:07:21,670
+comprar também. Então, basicamente uma
+VPS do zero. Peguei a KVM2, ó, usando o
+
+486
+00:07:21,670 --> 00:07:21,680
+VPS do zero. Peguei a KVM2, ó, usando o
+ 
+
+487
+00:07:21,680 --> 00:07:23,469
+VPS do zero. Peguei a KVM2, ó, usando o
+punto aqui. E aí, o primeiro passo aqui
+
+488
+00:07:23,469 --> 00:07:23,479
+punto aqui. E aí, o primeiro passo aqui
+ 
+
+489
+00:07:23,479 --> 00:07:25,430
+punto aqui. E aí, o primeiro passo aqui
+é a gente vai vir aqui em gerenciador
+
+490
+00:07:25,430 --> 00:07:25,440
+é a gente vai vir aqui em gerenciador
+ 
+
+491
+00:07:25,440 --> 00:07:27,390
+é a gente vai vir aqui em gerenciador
+Docker, que já tem essa opção aqui, fica
+
+492
+00:07:27,390 --> 00:07:27,400
+Docker, que já tem essa opção aqui, fica
+ 
+
+493
+00:07:27,400 --> 00:07:29,029
+Docker, que já tem essa opção aqui, fica
+mais fácil da gente poder instalar. E a
+
+494
+00:07:29,029 --> 00:07:29,039
+mais fácil da gente poder instalar. E a
+ 
+
+495
+00:07:29,039 --> 00:07:30,550
+mais fácil da gente poder instalar. E a
+gente vai instalar aqui o Docker dentro
+
+496
+00:07:30,550 --> 00:07:30,560
+gente vai instalar aqui o Docker dentro
+ 
+
+497
+00:07:30,560 --> 00:07:32,710
+gente vai instalar aqui o Docker dentro
+dessa VPS. Vou instalar aqui o Docker
+
+498
+00:07:32,710 --> 00:07:32,720
+dessa VPS. Vou instalar aqui o Docker
+ 
+
+499
+00:07:32,720 --> 00:07:34,230
+dessa VPS. Vou instalar aqui o Docker
+Manager. Então, a gente vai clicar aqui,
+
+500
+00:07:34,230 --> 00:07:34,240
+Manager. Então, a gente vai clicar aqui,
+ 
+
+501
+00:07:34,240 --> 00:07:36,629
+Manager. Então, a gente vai clicar aqui,
+ó, e ele vai instalar pra gente o Docker
+
+502
+00:07:36,629 --> 00:07:36,639
+ó, e ele vai instalar pra gente o Docker
+ 
+
+503
+00:07:36,639 --> 00:07:38,749
+ó, e ele vai instalar pra gente o Docker
+dentro da nossa VPS. Agora é só aguardar
+
+504
+00:07:38,749 --> 00:07:38,759
+dentro da nossa VPS. Agora é só aguardar
+ 
+
+505
+00:07:38,759 --> 00:07:40,710
+dentro da nossa VPS. Agora é só aguardar
+um pouquinho aqui, né, que ele vai
+
+506
+00:07:40,710 --> 00:07:40,720
+um pouquinho aqui, né, que ele vai
+ 
+
+507
+00:07:40,720 --> 00:07:42,830
+um pouquinho aqui, né, que ele vai
+instalar. Enquanto isso, eu já volto.
+
+508
+00:07:42,830 --> 00:07:42,840
+instalar. Enquanto isso, eu já volto.
+ 
+
+509
+00:07:42,840 --> 00:07:43,950
+instalar. Enquanto isso, eu já volto.
+Maravilha. Já instalou aqui o
+
+510
+00:07:43,950 --> 00:07:43,960
+Maravilha. Já instalou aqui o
+ 
+
+511
+00:07:43,960 --> 00:07:45,589
+Maravilha. Já instalou aqui o
+gerenciador do Docker. Uma das coisas
+
+512
+00:07:45,589 --> 00:07:45,599
+gerenciador do Docker. Uma das coisas
+ 
+
+513
+00:07:45,599 --> 00:07:47,230
+gerenciador do Docker. Uma das coisas
+que a gente pode fazer para instalar o
+
+514
+00:07:47,230 --> 00:07:47,240
+que a gente pode fazer para instalar o
+ 
+
+515
+00:07:47,240 --> 00:07:48,950
+que a gente pode fazer para instalar o
+OpenCloud aqui, por exemplo, como ele é
+
+516
+00:07:48,950 --> 00:07:48,960
+OpenCloud aqui, por exemplo, como ele é
+ 
+
+517
+00:07:48,960 --> 00:07:50,390
+OpenCloud aqui, por exemplo, como ele é
+bem simples, a gente poderia, por
+
+518
+00:07:50,390 --> 00:07:50,400
+bem simples, a gente poderia, por
+ 
+
+519
+00:07:50,400 --> 00:07:52,149
+bem simples, a gente poderia, por
+exemplo, dentro de uma VPS, a gente pode
+
+520
+00:07:52,149 --> 00:07:52,159
+exemplo, dentro de uma VPS, a gente pode
+ 
+
+521
+00:07:52,159 --> 00:07:53,950
+exemplo, dentro de uma VPS, a gente pode
+pegar aqui Mac Linux e a gente pode
+
+522
+00:07:53,950 --> 00:07:53,960
+pegar aqui Mac Linux e a gente pode
+ 
+
+523
+00:07:53,960 --> 00:07:55,790
+pegar aqui Mac Linux e a gente pode
+rodar esse comando dentro de uma VPS com
+
+524
+00:07:55,790 --> 00:07:55,800
+rodar esse comando dentro de uma VPS com
+ 
+
+525
+00:07:55,800 --> 00:07:57,710
+rodar esse comando dentro de uma VPS com
+Ubunto e fazer toda a configuração do
+
+526
+00:07:57,710 --> 00:07:57,720
+Ubunto e fazer toda a configuração do
+ 
+
+527
+00:07:57,720 --> 00:07:59,830
+Ubunto e fazer toda a configuração do
+zero. Mas a Hosinger aqui, ela já tem
+
+528
+00:07:59,830 --> 00:07:59,840
+zero. Mas a Hosinger aqui, ela já tem
+ 
+
+529
+00:07:59,840 --> 00:08:01,510
+zero. Mas a Hosinger aqui, ela já tem
+esse gerenciador de Docker que facilita
+
+530
+00:08:01,510 --> 00:08:01,520
+esse gerenciador de Docker que facilita
+ 
+
+531
+00:08:01,520 --> 00:08:03,029
+esse gerenciador de Docker que facilita
+a gente gerenciar o Docker, tanto
+
+532
+00:08:03,029 --> 00:08:03,039
+a gente gerenciar o Docker, tanto
+ 
+
+533
+00:08:03,039 --> 00:08:04,550
+a gente gerenciar o Docker, tanto
+instalar aqui e colocar um compose
+
+534
+00:08:04,550 --> 00:08:04,560
+instalar aqui e colocar um compose
+ 
+
+535
+00:08:04,560 --> 00:08:06,189
+instalar aqui e colocar um compose
+totalmente do zero, quanto a gente tem
+
+536
+00:08:06,189 --> 00:08:06,199
+totalmente do zero, quanto a gente tem
+ 
+
+537
+00:08:06,199 --> 00:08:08,350
+totalmente do zero, quanto a gente tem
+aqui também, ó, o nosso implantação com
+
+538
+00:08:08,350 --> 00:08:08,360
+aqui também, ó, o nosso implantação com
+ 
+
+539
+00:08:08,360 --> 00:08:10,110
+aqui também, ó, o nosso implantação com
+um clique, que ele já facilita pra gente
+
+540
+00:08:10,110 --> 00:08:10,120
+um clique, que ele já facilita pra gente
+ 
+
+541
+00:08:10,120 --> 00:08:11,790
+um clique, que ele já facilita pra gente
+bastante. Então, tem alguns projetos
+
+542
+00:08:11,790 --> 00:08:11,800
+bastante. Então, tem alguns projetos
+ 
+
+543
+00:08:11,800 --> 00:08:13,189
+bastante. Então, tem alguns projetos
+aqui que a gente já pode instalar de uma
+
+544
+00:08:13,189 --> 00:08:13,199
+aqui que a gente já pode instalar de uma
+ 
+
+545
+00:08:13,199 --> 00:08:15,149
+aqui que a gente já pode instalar de uma
+forma muito fácil. Então, uma delas é o
+
+546
+00:08:15,149 --> 00:08:15,159
+forma muito fácil. Então, uma delas é o
+ 
+
+547
+00:08:15,159 --> 00:08:17,029
+forma muito fácil. Então, uma delas é o
+nosso OpenCloud, por exemplo, ó, tem um
+
+548
+00:08:17,029 --> 00:08:17,039
+nosso OpenCloud, por exemplo, ó, tem um
+ 
+
+549
+00:08:17,039 --> 00:08:18,629
+nosso OpenCloud, por exemplo, ó, tem um
+OpenCloud aqui. Vou clicar em
+
+550
+00:08:18,629 --> 00:08:18,639
+OpenCloud aqui. Vou clicar em
+ 
+
+551
+00:08:18,639 --> 00:08:20,589
+OpenCloud aqui. Vou clicar em
+selecionar. E aí aqui, basicamente, ó,
+
+552
+00:08:20,589 --> 00:08:20,599
+selecionar. E aí aqui, basicamente, ó,
+ 
+
+553
+00:08:20,599 --> 00:08:22,189
+selecionar. E aí aqui, basicamente, ó,
+ele já vai gerar um token que a gente já
+
+554
+00:08:22,189 --> 00:08:22,199
+ele já vai gerar um token que a gente já
+ 
+
+555
+00:08:22,199 --> 00:08:23,830
+ele já vai gerar um token que a gente já
+vai conhecer, que é o do gateway, que a
+
+556
+00:08:23,830 --> 00:08:23,840
+vai conhecer, que é o do gateway, que a
+ 
+
+557
+00:08:23,840 --> 00:08:25,550
+vai conhecer, que é o do gateway, que a
+gente vai usar para poder acessar ele
+
+558
+00:08:25,550 --> 00:08:25,560
+gente vai usar para poder acessar ele
+ 
+
+559
+00:08:25,560 --> 00:08:26,990
+gente vai usar para poder acessar ele
+depois, o nosso open cloud dentro da
+
+560
+00:08:26,990 --> 00:08:27,000
+depois, o nosso open cloud dentro da
+ 
+
+561
+00:08:27,000 --> 00:08:28,830
+depois, o nosso open cloud dentro da
+nuvem, dentro da nossa infra e gerenciar
+
+562
+00:08:28,830 --> 00:08:28,840
+nuvem, dentro da nossa infra e gerenciar
+ 
+
+563
+00:08:28,840 --> 00:08:30,950
+nuvem, dentro da nossa infra e gerenciar
+ela lá. Então, ele já vai gerar aqui. O
+
+564
+00:08:30,950 --> 00:08:30,960
+ela lá. Então, ele já vai gerar aqui. O
+ 
+
+565
+00:08:30,960 --> 00:08:32,350
+ela lá. Então, ele já vai gerar aqui. O
+que você vai fazer? Pode deixar ela
+
+566
+00:08:32,350 --> 00:08:32,360
+que você vai fazer? Pode deixar ela
+ 
+
+567
+00:08:32,360 --> 00:08:34,149
+que você vai fazer? Pode deixar ela
+aqui. Próximo passo é a gente vai ter
+
+568
+00:08:34,149 --> 00:08:34,159
+aqui. Próximo passo é a gente vai ter
+ 
+
+569
+00:08:34,159 --> 00:08:36,190
+aqui. Próximo passo é a gente vai ter
+que usar alguma LLM, né? A gente precisa
+
+570
+00:08:36,190 --> 00:08:36,200
+que usar alguma LLM, né? A gente precisa
+ 
+
+571
+00:08:36,200 --> 00:08:38,389
+que usar alguma LLM, né? A gente precisa
+usar alguma IA integrada ali. Nesse caso
+
+572
+00:08:38,389 --> 00:08:38,399
+usar alguma IA integrada ali. Nesse caso
+ 
+
+573
+00:08:38,399 --> 00:08:40,469
+usar alguma IA integrada ali. Nesse caso
+aqui, eu vou usar o da Open AI. Então
+
+574
+00:08:40,469 --> 00:08:40,479
+aqui, eu vou usar o da Open AI. Então
+ 
+
+575
+00:08:40,479 --> 00:08:42,630
+aqui, eu vou usar o da Open AI. Então
+vou pegar minha chave da Open AI. Acessa
+
+576
+00:08:42,630 --> 00:08:42,640
+vou pegar minha chave da Open AI. Acessa
+ 
+
+577
+00:08:42,640 --> 00:08:45,590
+vou pegar minha chave da Open AI. Acessa
+lá o nosso platform. Aiii aqui. Então
+
+578
+00:08:45,590 --> 00:08:45,600
+lá o nosso platform. Aiii aqui. Então
+ 
+
+579
+00:08:45,600 --> 00:08:47,590
+lá o nosso platform. Aiii aqui. Então
+acessa aqui, faz o seu login dentro aqui
+
+580
+00:08:47,590 --> 00:08:47,600
+acessa aqui, faz o seu login dentro aqui
+ 
+
+581
+00:08:47,600 --> 00:08:49,550
+acessa aqui, faz o seu login dentro aqui
+da platform. Openii. A gente vai vir
+
+582
+00:08:49,550 --> 00:08:49,560
+da platform. Openii. A gente vai vir
+ 
+
+583
+00:08:49,560 --> 00:08:52,470
+da platform. Openii. A gente vai vir
+aqui obviamente em API CAS. Você precisa
+
+584
+00:08:52,470 --> 00:08:52,480
+aqui obviamente em API CAS. Você precisa
+ 
+
+585
+00:08:52,480 --> 00:08:54,269
+aqui obviamente em API CAS. Você precisa
+ter a sua chave. Se você nunca criou a
+
+586
+00:08:54,269 --> 00:08:54,279
+ter a sua chave. Se você nunca criou a
+ 
+
+587
+00:08:54,279 --> 00:08:55,910
+ter a sua chave. Se você nunca criou a
+sua chave, você precisa criar aqui
+
+588
+00:08:55,910 --> 00:08:55,920
+sua chave, você precisa criar aqui
+ 
+
+589
+00:08:55,920 --> 00:08:57,590
+sua chave, você precisa criar aqui
+primeiro a Open Ai. Acho que precisa
+
+590
+00:08:57,590 --> 00:08:57,600
+primeiro a Open Ai. Acho que precisa
+ 
+
+591
+00:08:57,600 --> 00:08:59,269
+primeiro a Open Ai. Acho que precisa
+colocar acho que é 5, né? Vai dar uns R$
+
+592
+00:08:59,269 --> 00:08:59,279
+colocar acho que é 5, né? Vai dar uns R$
+ 
+
+593
+00:08:59,279 --> 00:09:00,949
+colocar acho que é 5, né? Vai dar uns R$
+15 ali. Você precisa ter algum valor
+
+594
+00:09:00,949 --> 00:09:00,959
+15 ali. Você precisa ter algum valor
+ 
+
+595
+00:09:00,959 --> 00:09:03,110
+15 ali. Você precisa ter algum valor
+para conseguir usar os modelos da Openi
+
+596
+00:09:03,110 --> 00:09:03,120
+para conseguir usar os modelos da Openi
+ 
+
+597
+00:09:03,120 --> 00:09:04,630
+para conseguir usar os modelos da Openi
+vai usar tranquilo ali. Então você
+
+598
+00:09:04,630 --> 00:09:04,640
+vai usar tranquilo ali. Então você
+ 
+
+599
+00:09:04,640 --> 00:09:07,509
+vai usar tranquilo ali. Então você
+coloca ali no mínimo 5 ali. Perfeito. E
+
+600
+00:09:07,509 --> 00:09:07,519
+coloca ali no mínimo 5 ali. Perfeito. E
+ 
+
+601
+00:09:07,519 --> 00:09:09,110
+coloca ali no mínimo 5 ali. Perfeito. E
+aí você gera sua chave nova. Então você
+
+602
+00:09:09,110 --> 00:09:09,120
+aí você gera sua chave nova. Então você
+ 
+
+603
+00:09:09,120 --> 00:09:10,790
+aí você gera sua chave nova. Então você
+vem aqui em criar uma nova chave. Vou
+
+604
+00:09:10,790 --> 00:09:10,800
+vem aqui em criar uma nova chave. Vou
+ 
+
+605
+00:09:10,800 --> 00:09:14,190
+vem aqui em criar uma nova chave. Vou
+gerar aqui aula open claw. Beleza? Então
+
+606
+00:09:14,190 --> 00:09:14,200
+gerar aqui aula open claw. Beleza? Então
+ 
+
+607
+00:09:14,200 --> 00:09:15,910
+gerar aqui aula open claw. Beleza? Então
+ele vai gerencial. Gerou minha chave.
+
+608
+00:09:15,910 --> 00:09:15,920
+ele vai gerencial. Gerou minha chave.
+ 
+
+609
+00:09:15,920 --> 00:09:17,790
+ele vai gerencial. Gerou minha chave.
+Vou copiar minha chave aqui. Posso dar
+
+610
+00:09:17,790 --> 00:09:17,800
+Vou copiar minha chave aqui. Posso dar
+ 
+
+611
+00:09:17,800 --> 00:09:21,389
+Vou copiar minha chave aqui. Posso dar
+um down aqui. Vou voltar aqui, ó. Openi
+
+612
+00:09:21,389 --> 00:09:21,399
+um down aqui. Vou voltar aqui, ó. Openi
+ 
+
+613
+00:09:21,399 --> 00:09:24,030
+um down aqui. Vou voltar aqui, ó. Openi
+ke cola a minha chave da openeni aqui. E
+
+614
+00:09:24,030 --> 00:09:24,040
+ke cola a minha chave da openeni aqui. E
+ 
+
+615
+00:09:24,040 --> 00:09:25,230
+ke cola a minha chave da openeni aqui. E
+agora a gente vai vir aqui embaixo. Não
+
+616
+00:09:25,230 --> 00:09:25,240
+agora a gente vai vir aqui embaixo. Não
+ 
+
+617
+00:09:25,240 --> 00:09:26,790
+agora a gente vai vir aqui embaixo. Não
+vou usar nada o Telegram pra gente
+
+618
+00:09:26,790 --> 00:09:26,800
+vou usar nada o Telegram pra gente
+ 
+
+619
+00:09:26,800 --> 00:09:28,230
+vou usar nada o Telegram pra gente
+gerenciar o bote. A gente vai fazer isso
+
+620
+00:09:28,230 --> 00:09:28,240
+gerenciar o bote. A gente vai fazer isso
+ 
+
+621
+00:09:28,240 --> 00:09:29,829
+gerenciar o bote. A gente vai fazer isso
+mais pra frente, né? Então vou dar aqui
+
+622
+00:09:29,829 --> 00:09:29,839
+mais pra frente, né? Então vou dar aqui
+ 
+
+623
+00:09:29,839 --> 00:09:31,790
+mais pra frente, né? Então vou dar aqui
+um implantar. E agora ele vai
+
+624
+00:09:31,790 --> 00:09:31,800
+um implantar. E agora ele vai
+ 
+
+625
+00:09:31,800 --> 00:09:33,870
+um implantar. E agora ele vai
+basicamente baixar a imagem do Docker e
+
+626
+00:09:33,870 --> 00:09:33,880
+basicamente baixar a imagem do Docker e
+ 
+
+627
+00:09:33,880 --> 00:09:35,550
+basicamente baixar a imagem do Docker e
+instalar ela aqui. Então vamos aguardar
+
+628
+00:09:35,550 --> 00:09:35,560
+instalar ela aqui. Então vamos aguardar
+ 
+
+629
+00:09:35,560 --> 00:09:36,949
+instalar ela aqui. Então vamos aguardar
+que a gente vai ver o processo para que
+
+630
+00:09:36,949 --> 00:09:36,959
+que a gente vai ver o processo para que
+ 
+
+631
+00:09:36,959 --> 00:09:38,509
+que a gente vai ver o processo para que
+você entenda para depois você conseguir
+
+632
+00:09:38,509 --> 00:09:38,519
+você entenda para depois você conseguir
+ 
+
+633
+00:09:38,519 --> 00:09:40,069
+você entenda para depois você conseguir
+gerenciar tudo isso aqui de uma forma
+
+634
+00:09:40,069 --> 00:09:40,079
+gerenciar tudo isso aqui de uma forma
+ 
+
+635
+00:09:40,079 --> 00:09:41,949
+gerenciar tudo isso aqui de uma forma
+muito simples. Olha que massa, né? Já
+
+636
+00:09:41,949 --> 00:09:41,959
+muito simples. Olha que massa, né? Já
+ 
+
+637
+00:09:41,959 --> 00:09:43,710
+muito simples. Olha que massa, né? Já
+apareceu aqui que o nosso open cloud tá
+
+638
+00:09:43,710 --> 00:09:43,720
+apareceu aqui que o nosso open cloud tá
+ 
+
+639
+00:09:43,720 --> 00:09:45,630
+apareceu aqui que o nosso open cloud tá
+rodando, mas uma das coisas que a gente
+
+640
+00:09:45,630 --> 00:09:45,640
+rodando, mas uma das coisas que a gente
+ 
+
+641
+00:09:45,640 --> 00:09:47,630
+rodando, mas uma das coisas que a gente
+precisa fazer é ter o try fic aqui
+
+642
+00:09:47,630 --> 00:09:47,640
+precisa fazer é ter o try fic aqui
+ 
+
+643
+00:09:47,640 --> 00:09:48,990
+precisa fazer é ter o try fic aqui
+dentro pra gente poder acessar com o
+
+644
+00:09:48,990 --> 00:09:49,000
+dentro pra gente poder acessar com o
+ 
+
+645
+00:09:49,000 --> 00:09:51,630
+dentro pra gente poder acessar com o
+certificado https, tá? Que senão o open
+
+646
+00:09:51,630 --> 00:09:51,640
+certificado https, tá? Que senão o open
+ 
+
+647
+00:09:51,640 --> 00:09:53,269
+certificado https, tá? Que senão o open
+cloud ele vai barrar. Então ele até
+
+648
+00:09:53,269 --> 00:09:53,279
+cloud ele vai barrar. Então ele até
+ 
+
+649
+00:09:53,279 --> 00:09:55,190
+cloud ele vai barrar. Então ele até
+aparece aqui, né? A gente poderia vir em
+
+650
+00:09:55,190 --> 00:09:55,200
+aparece aqui, né? A gente poderia vir em
+ 
+
+651
+00:09:55,200 --> 00:09:57,030
+aparece aqui, né? A gente poderia vir em
+catálogo aqui, por exemplo, pesquisar
+
+652
+00:09:57,030 --> 00:09:57,040
+catálogo aqui, por exemplo, pesquisar
+ 
+
+653
+00:09:57,040 --> 00:09:59,310
+catálogo aqui, por exemplo, pesquisar
+try fic, né? A gente poderia até
+
+654
+00:09:59,310 --> 00:09:59,320
+try fic, né? A gente poderia até
+ 
+
+655
+00:09:59,320 --> 00:10:01,110
+try fic, né? A gente poderia até
+implementar dessa forma. ou aqui nos
+
+656
+00:10:01,110 --> 00:10:01,120
+implementar dessa forma. ou aqui nos
+ 
+
+657
+00:10:01,120 --> 00:10:02,949
+implementar dessa forma. ou aqui nos
+nossos projetos, ó, ele já até fala:
+
+658
+00:10:02,949 --> 00:10:02,959
+nossos projetos, ó, ele já até fala:
+ 
+
+659
+00:10:02,959 --> 00:10:04,550
+nossos projetos, ó, ele já até fala:
+"Olha, a gente pode habilitar o Trific
+
+660
+00:10:04,550 --> 00:10:04,560
+"Olha, a gente pode habilitar o Trific
+ 
+
+661
+00:10:04,560 --> 00:10:06,509
+"Olha, a gente pode habilitar o Trific
+aqui pra gente ter o certificado SSL
+
+662
+00:10:06,509 --> 00:10:06,519
+aqui pra gente ter o certificado SSL
+ 
+
+663
+00:10:06,519 --> 00:10:08,110
+aqui pra gente ter o certificado SSL
+gratuito aqui dentro, sem nenhuma
+
+664
+00:10:08,110 --> 00:10:08,120
+gratuito aqui dentro, sem nenhuma
+ 
+
+665
+00:10:08,120 --> 00:10:09,710
+gratuito aqui dentro, sem nenhuma
+configuração. Então, só vou implantar
+
+666
+00:10:09,710 --> 00:10:09,720
+configuração. Então, só vou implantar
+ 
+
+667
+00:10:09,720 --> 00:10:11,430
+configuração. Então, só vou implantar
+aqui o Trific. Aqui é legal que você
+
+668
+00:10:11,430 --> 00:10:11,440
+aqui o Trific. Aqui é legal que você
+ 
+
+669
+00:10:11,440 --> 00:10:13,110
+aqui o Trific. Aqui é legal que você
+coloque um e-mail ali, tá? Para ser
+
+670
+00:10:13,110 --> 00:10:13,120
+coloque um e-mail ali, tá? Para ser
+ 
+
+671
+00:10:13,120 --> 00:10:14,949
+coloque um e-mail ali, tá? Para ser
+notificado ali. Maravilha. E eu vou
+
+672
+00:10:14,949 --> 00:10:14,959
+notificado ali. Maravilha. E eu vou
+ 
+
+673
+00:10:14,959 --> 00:10:17,350
+notificado ali. Maravilha. E eu vou
+implantar esse nosso TR também. Então
+
+674
+00:10:17,350 --> 00:10:17,360
+implantar esse nosso TR também. Então
+ 
+
+675
+00:10:17,360 --> 00:10:18,750
+implantar esse nosso TR também. Então
+agora aguarda novamente, ele vai
+
+676
+00:10:18,750 --> 00:10:18,760
+agora aguarda novamente, ele vai
+ 
+
+677
+00:10:18,760 --> 00:10:20,550
+agora aguarda novamente, ele vai
+implementar e aí a gente já pode começar
+
+678
+00:10:20,550 --> 00:10:20,560
+implementar e aí a gente já pode começar
+ 
+
+679
+00:10:20,560 --> 00:10:22,350
+implementar e aí a gente já pode começar
+a sair utilizando e configurar todo o
+
+680
+00:10:22,350 --> 00:10:22,360
+a sair utilizando e configurar todo o
+ 
+
+681
+00:10:22,360 --> 00:10:24,269
+a sair utilizando e configurar todo o
+nosso OpenCloud. Olha que massa, foi
+
+682
+00:10:24,269 --> 00:10:24,279
+nosso OpenCloud. Olha que massa, foi
+ 
+
+683
+00:10:24,279 --> 00:10:25,750
+nosso OpenCloud. Olha que massa, foi
+implementado. Uma coisa que eu vou
+
+684
+00:10:25,750 --> 00:10:25,760
+implementado. Uma coisa que eu vou
+ 
+
+685
+00:10:25,760 --> 00:10:27,230
+implementado. Uma coisa que eu vou
+fazer, eu vou vir no nosso OpenCloud,
+
+686
+00:10:27,230 --> 00:10:27,240
+fazer, eu vou vir no nosso OpenCloud,
+ 
+
+687
+00:10:27,240 --> 00:10:28,910
+fazer, eu vou vir no nosso OpenCloud,
+vou clicar aqui nas três pontinhos e vou
+
+688
+00:10:28,910 --> 00:10:28,920
+vou clicar aqui nas três pontinhos e vou
+ 
+
+689
+00:10:28,920 --> 00:10:31,110
+vou clicar aqui nas três pontinhos e vou
+clicar em atualizar aqui, ó. Tá? Só para
+
+690
+00:10:31,110 --> 00:10:31,120
+clicar em atualizar aqui, ó. Tá? Só para
+ 
+
+691
+00:10:31,120 --> 00:10:32,550
+clicar em atualizar aqui, ó. Tá? Só para
+ele atualizar agora que a gente tá com o
+
+692
+00:10:32,550 --> 00:10:32,560
+ele atualizar agora que a gente tá com o
+ 
+
+693
+00:10:32,560 --> 00:10:34,670
+ele atualizar agora que a gente tá com o
+TRFC que tá legal, tá configurado, ó.
+
+694
+00:10:34,670 --> 00:10:34,680
+TRFC que tá legal, tá configurado, ó.
+ 
+
+695
+00:10:34,680 --> 00:10:36,230
+TRFC que tá legal, tá configurado, ó.
+Foi atualizado. Agora a gente vai fazer
+
+696
+00:10:36,230 --> 00:10:36,240
+Foi atualizado. Agora a gente vai fazer
+ 
+
+697
+00:10:36,240 --> 00:10:38,069
+Foi atualizado. Agora a gente vai fazer
+o quê? Clica aqui em token. Então a
+
+698
+00:10:38,069 --> 00:10:38,079
+o quê? Clica aqui em token. Então a
+ 
+
+699
+00:10:38,079 --> 00:10:39,790
+o quê? Clica aqui em token. Então a
+gente vai copiar o nosso token. Clica
+
+700
+00:10:39,790 --> 00:10:39,800
+gente vai copiar o nosso token. Clica
+ 
+
+701
+00:10:39,800 --> 00:10:41,550
+gente vai copiar o nosso token. Clica
+aqui em abrir e ele já vai abrir. Vou
+
+702
+00:10:41,550 --> 00:10:41,560
+aqui em abrir e ele já vai abrir. Vou
+ 
+
+703
+00:10:41,560 --> 00:10:43,790
+aqui em abrir e ele já vai abrir. Vou
+colar o meu token. Vou logar e a gente
+
+704
+00:10:43,790 --> 00:10:43,800
+colar o meu token. Vou logar e a gente
+ 
+
+705
+00:10:43,800 --> 00:10:45,870
+colar o meu token. Vou logar e a gente
+já vai logar no gateway do OpenCloud,
+
+706
+00:10:45,870 --> 00:10:45,880
+já vai logar no gateway do OpenCloud,
+ 
+
+707
+00:10:45,880 --> 00:10:47,629
+já vai logar no gateway do OpenCloud,
+que é basicamente a interface web, mas a
+
+708
+00:10:47,629 --> 00:10:47,639
+que é basicamente a interface web, mas a
+ 
+
+709
+00:10:47,639 --> 00:10:49,150
+que é basicamente a interface web, mas a
+gente vai usar bem pouco ela aqui. A
+
+710
+00:10:49,150 --> 00:10:49,160
+gente vai usar bem pouco ela aqui. A
+ 
+
+711
+00:10:49,160 --> 00:10:50,910
+gente vai usar bem pouco ela aqui. A
+gente vai gerenciar ela mais via
+
+712
+00:10:50,910 --> 00:10:50,920
+gente vai gerenciar ela mais via
+ 
+
+713
+00:10:50,920 --> 00:10:52,430
+gente vai gerenciar ela mais via
+Telegram ou qualquer outra forma que
+
+714
+00:10:52,430 --> 00:10:52,440
+Telegram ou qualquer outra forma que
+ 
+
+715
+00:10:52,440 --> 00:10:54,750
+Telegram ou qualquer outra forma que
+você quer é utilizar o seu OpenCloud.
+
+716
+00:10:54,750 --> 00:10:54,760
+você quer é utilizar o seu OpenCloud.
+ 
+
+717
+00:10:54,760 --> 00:10:56,389
+você quer é utilizar o seu OpenCloud.
+Então só aguardar aqui. E olha que
+
+718
+00:10:56,389 --> 00:10:56,399
+Então só aguardar aqui. E olha que
+ 
+
+719
+00:10:56,399 --> 00:10:58,269
+Então só aguardar aqui. E olha que
+sensacional, já abriu aqui para mim. Eu
+
+720
+00:10:58,269 --> 00:10:58,279
+sensacional, já abriu aqui para mim. Eu
+ 
+
+721
+00:10:58,279 --> 00:10:59,910
+sensacional, já abriu aqui para mim. Eu
+já tenho uma interface de chat com o
+
+722
+00:10:59,910 --> 00:10:59,920
+já tenho uma interface de chat com o
+ 
+
+723
+00:10:59,920 --> 00:11:01,310
+já tenho uma interface de chat com o
+nosso OpenCloud, que a gente já vai
+
+724
+00:11:01,310 --> 00:11:01,320
+nosso OpenCloud, que a gente já vai
+ 
+
+725
+00:11:01,320 --> 00:11:03,230
+nosso OpenCloud, que a gente já vai
+configurar ele aqui. E se a gente olhar
+
+726
+00:11:03,230 --> 00:11:03,240
+configurar ele aqui. E se a gente olhar
+ 
+
+727
+00:11:03,240 --> 00:11:04,710
+configurar ele aqui. E se a gente olhar
+aqui também, ó, a gente tem uma
+
+728
+00:11:04,710 --> 00:11:04,720
+aqui também, ó, a gente tem uma
+ 
+
+729
+00:11:04,720 --> 00:11:06,150
+aqui também, ó, a gente tem uma
+interface que a gente chama de gateway
+
+730
+00:11:06,150 --> 00:11:06,160
+interface que a gente chama de gateway
+ 
+
+731
+00:11:06,160 --> 00:11:07,870
+interface que a gente chama de gateway
+aqui dentro. Então eu posso gerenciar
+
+732
+00:11:07,870 --> 00:11:07,880
+aqui dentro. Então eu posso gerenciar
+ 
+
+733
+00:11:07,880 --> 00:11:09,310
+aqui dentro. Então eu posso gerenciar
+aqui tanto os nossos agentes, que por
+
+734
+00:11:09,310 --> 00:11:09,320
+aqui tanto os nossos agentes, que por
+ 
+
+735
+00:11:09,320 --> 00:11:11,230
+aqui tanto os nossos agentes, que por
+enquanto eu só tenho o principal, e cada
+
+736
+00:11:11,230 --> 00:11:11,240
+enquanto eu só tenho o principal, e cada
+ 
+
+737
+00:11:11,240 --> 00:11:12,990
+enquanto eu só tenho o principal, e cada
+agente ela vai ter alguns processos ali,
+
+738
+00:11:12,990 --> 00:11:13,000
+agente ela vai ter alguns processos ali,
+ 
+
+739
+00:11:13,000 --> 00:11:14,389
+agente ela vai ter alguns processos ali,
+por exemplo, que a gente vai poder ter,
+
+740
+00:11:14,389 --> 00:11:14,399
+por exemplo, que a gente vai poder ter,
+ 
+
+741
+00:11:14,399 --> 00:11:16,069
+por exemplo, que a gente vai poder ter,
+que é o que que é o agente. A gente pode
+
+742
+00:11:16,069 --> 00:11:16,079
+que é o que que é o agente. A gente pode
+ 
+
+743
+00:11:16,079 --> 00:11:18,230
+que é o que que é o agente. A gente pode
+ter as o que é a alma dele, as
+
+744
+00:11:18,230 --> 00:11:18,240
+ter as o que é a alma dele, as
+ 
+
+745
+00:11:18,240 --> 00:11:20,069
+ter as o que é a alma dele, as
+ferramentas, a identidade desse nosso
+
+746
+00:11:20,069 --> 00:11:20,079
+ferramentas, a identidade desse nosso
+ 
+
+747
+00:11:20,079 --> 00:11:21,710
+ferramentas, a identidade desse nosso
+agente, o que que é, quem que é esse
+
+748
+00:11:21,710 --> 00:11:21,720
+agente, o que que é, quem que é esse
+ 
+
+749
+00:11:21,720 --> 00:11:22,710
+agente, o que que é, quem que é esse
+nosso agente. Como eu falei, a gente
+
+750
+00:11:22,710 --> 00:11:22,720
+nosso agente. Como eu falei, a gente
+ 
+
+751
+00:11:22,720 --> 00:11:24,910
+nosso agente. Como eu falei, a gente
+pode ter mais de um, né? As habilidades
+
+752
+00:11:24,910 --> 00:11:24,920
+pode ter mais de um, né? As habilidades
+ 
+
+753
+00:11:24,920 --> 00:11:26,750
+pode ter mais de um, né? As habilidades
+aqui também, como o próprio Pencloud
+
+754
+00:11:26,750 --> 00:11:26,760
+aqui também, como o próprio Pencloud
+ 
+
+755
+00:11:26,760 --> 00:11:28,269
+aqui também, como o próprio Pencloud
+fala que a gente pode integrar com
+
+756
+00:11:28,269 --> 00:11:28,279
+fala que a gente pode integrar com
+ 
+
+757
+00:11:28,279 --> 00:11:31,350
+fala que a gente pode integrar com
+skills e plugins. Então, por exemplo, eu
+
+758
+00:11:31,350 --> 00:11:31,360
+skills e plugins. Então, por exemplo, eu
+ 
+
+759
+00:11:31,360 --> 00:11:33,509
+skills e plugins. Então, por exemplo, eu
+posso ter aqui, ó, várias skills aqui
+
+760
+00:11:33,509 --> 00:11:33,519
+posso ter aqui, ó, várias skills aqui
+ 
+
+761
+00:11:33,519 --> 00:11:35,310
+posso ter aqui, ó, várias skills aqui
+que a gente já vem algumas instaladas,
+
+762
+00:11:35,310 --> 00:11:35,320
+que a gente já vem algumas instaladas,
+ 
+
+763
+00:11:35,320 --> 00:11:37,310
+que a gente já vem algumas instaladas,
+algumas precisa configurar. Por exemplo,
+
+764
+00:11:37,310 --> 00:11:37,320
+algumas precisa configurar. Por exemplo,
+ 
+
+765
+00:11:37,320 --> 00:11:39,350
+algumas precisa configurar. Por exemplo,
+às vezes você quer usar o o One
+
+766
+00:11:39,350 --> 00:11:39,360
+às vezes você quer usar o o One
+ 
+
+767
+00:11:39,360 --> 00:11:41,590
+às vezes você quer usar o o One
+Password, né, que é para salvar todas as
+
+768
+00:11:41,590 --> 00:11:41,600
+Password, né, que é para salvar todas as
+ 
+
+769
+00:11:41,600 --> 00:11:43,150
+Password, né, que é para salvar todas as
+chaves do seu OpenCloud de uma forma
+
+770
+00:11:43,150 --> 00:11:43,160
+chaves do seu OpenCloud de uma forma
+ 
+
+771
+00:11:43,160 --> 00:11:45,230
+chaves do seu OpenCloud de uma forma
+mais, sei lá, segura num aplicativo
+
+772
+00:11:45,230 --> 00:11:45,240
+mais, sei lá, segura num aplicativo
+ 
+
+773
+00:11:45,240 --> 00:11:47,110
+mais, sei lá, segura num aplicativo
+externo. Você pode usar o Oneepassword,
+
+774
+00:11:47,110 --> 00:11:47,120
+externo. Você pode usar o Oneepassword,
+ 
+
+775
+00:11:47,120 --> 00:11:48,470
+externo. Você pode usar o Oneepassword,
+então é só você instalá-lo aqui. No
+
+776
+00:11:48,470 --> 00:11:48,480
+então é só você instalá-lo aqui. No
+ 
+
+777
+00:11:48,480 --> 00:11:50,350
+então é só você instalá-lo aqui. No
+caso, não vou utilizar. A gente pode só
+
+778
+00:11:50,350 --> 00:11:50,360
+caso, não vou utilizar. A gente pode só
+ 
+
+779
+00:11:50,360 --> 00:11:52,190
+caso, não vou utilizar. A gente pode só
+salvar uma variável ambiente. A gente
+
+780
+00:11:52,190 --> 00:11:52,200
+salvar uma variável ambiente. A gente
+ 
+
+781
+00:11:52,200 --> 00:11:54,670
+salvar uma variável ambiente. A gente
+tem aqui, ó, code agent. Discord, tem
+
+782
+00:11:54,670 --> 00:11:54,680
+tem aqui, ó, code agent. Discord, tem
+ 
+
+783
+00:11:54,680 --> 00:11:56,269
+tem aqui, ó, code agent. Discord, tem
+várias outras que já vem instalado. A
+
+784
+00:11:56,269 --> 00:11:56,279
+várias outras que já vem instalado. A
+ 
+
+785
+00:11:56,279 --> 00:11:57,710
+várias outras que já vem instalado. A
+gente pode ver aqui também algumas que
+
+786
+00:11:57,710 --> 00:11:57,720
+gente pode ver aqui também algumas que
+ 
+
+787
+00:11:57,720 --> 00:12:00,550
+gente pode ver aqui também algumas que
+já estão prontas, ó. Já vem. Legal. Por
+
+788
+00:12:00,550 --> 00:12:00,560
+já estão prontas, ó. Já vem. Legal. Por
+ 
+
+789
+00:12:00,560 --> 00:12:03,110
+já estão prontas, ó. Já vem. Legal. Por
+exemplo, aqui, ó, essas aqui já vem.
+
+790
+00:12:03,110 --> 00:12:03,120
+exemplo, aqui, ó, essas aqui já vem.
+ 
+
+791
+00:12:03,120 --> 00:12:05,269
+exemplo, aqui, ó, essas aqui já vem.
+Então, a gente pode a partir do
+
+792
+00:12:05,269 --> 00:12:05,279
+Então, a gente pode a partir do
+ 
+
+793
+00:12:05,279 --> 00:12:06,910
+Então, a gente pode a partir do
+OpenCloud também criar outras, falar
+
+794
+00:12:06,910 --> 00:12:06,920
+OpenCloud também criar outras, falar
+ 
+
+795
+00:12:06,920 --> 00:12:08,389
+OpenCloud também criar outras, falar
+para ele criar uma. E aqui também
+
+796
+00:12:08,389 --> 00:12:08,399
+para ele criar uma. E aqui também
+ 
+
+797
+00:12:08,399 --> 00:12:09,670
+para ele criar uma. E aqui também
+algumas que precisam de configuração,
+
+798
+00:12:09,670 --> 00:12:09,680
+algumas que precisam de configuração,
+ 
+
+799
+00:12:09,680 --> 00:12:11,190
+algumas que precisam de configuração,
+né? O Oneepassword, por exemplo, e
+
+800
+00:12:11,190 --> 00:12:11,200
+né? O Oneepassword, por exemplo, e
+ 
+
+801
+00:12:11,200 --> 00:12:12,790
+né? O Oneepassword, por exemplo, e
+outras aqui, tá? Então, isso que é
+
+802
+00:12:12,790 --> 00:12:12,800
+outras aqui, tá? Então, isso que é
+ 
+
+803
+00:12:12,800 --> 00:12:14,230
+outras aqui, tá? Então, isso que é
+legal. Se a gente vir aqui no chat, por
+
+804
+00:12:14,230 --> 00:12:14,240
+legal. Se a gente vir aqui no chat, por
+ 
+
+805
+00:12:14,240 --> 00:12:15,990
+legal. Se a gente vir aqui no chat, por
+exemplo, e eu vou mandar aqui um oi
+
+806
+00:12:15,990 --> 00:12:16,000
+exemplo, e eu vou mandar aqui um oi
+ 
+
+807
+00:12:16,000 --> 00:12:18,310
+exemplo, e eu vou mandar aqui um oi
+apenas, só pra gente ver, eu consigo ver
+
+808
+00:12:18,310 --> 00:12:18,320
+apenas, só pra gente ver, eu consigo ver
+ 
+
+809
+00:12:18,320 --> 00:12:19,750
+apenas, só pra gente ver, eu consigo ver
+algumas coisas aqui. Primeiro eu
+
+810
+00:12:19,750 --> 00:12:19,760
+algumas coisas aqui. Primeiro eu
+ 
+
+811
+00:12:19,760 --> 00:12:21,629
+algumas coisas aqui. Primeiro eu
+configurei a chave da Open AI. Então, só
+
+812
+00:12:21,629 --> 00:12:21,639
+configurei a chave da Open AI. Então, só
+ 
+
+813
+00:12:21,639 --> 00:12:23,629
+configurei a chave da Open AI. Então, só
+coloquei a chave lá. Não configuramos o
+
+814
+00:12:23,629 --> 00:12:23,639
+coloquei a chave lá. Não configuramos o
+ 
+
+815
+00:12:23,639 --> 00:12:25,670
+coloquei a chave lá. Não configuramos o
+modelo ainda nem nada. Então, você pode
+
+816
+00:12:25,670 --> 00:12:25,680
+modelo ainda nem nada. Então, você pode
+ 
+
+817
+00:12:25,680 --> 00:12:26,790
+modelo ainda nem nada. Então, você pode
+ver que ele até mostra aqui por
+
+818
+00:12:26,790 --> 00:12:26,800
+ver que ele até mostra aqui por
+ 
+
+819
+00:12:26,800 --> 00:12:28,069
+ver que ele até mostra aqui por
+enquanto, ó. Ele mostra qual que ele tá
+
+820
+00:12:28,069 --> 00:12:28,079
+enquanto, ó. Ele mostra qual que ele tá
+ 
+
+821
+00:12:28,079 --> 00:12:30,389
+enquanto, ó. Ele mostra qual que ele tá
+usando, ó. GPT 5.4. Já já a gente vai
+
+822
+00:12:30,389 --> 00:12:30,399
+usando, ó. GPT 5.4. Já já a gente vai
+ 
+
+823
+00:12:30,399 --> 00:12:31,710
+usando, ó. GPT 5.4. Já já a gente vai
+ver isso aqui. E olha que massa, ele
+
+824
+00:12:31,710 --> 00:12:31,720
+ver isso aqui. E olha que massa, ele
+ 
+
+825
+00:12:31,720 --> 00:12:33,470
+ver isso aqui. E olha que massa, ele
+fala aqui: "Tô por aqui, pelo que vejo,
+
+826
+00:12:33,470 --> 00:12:33,480
+fala aqui: "Tô por aqui, pelo que vejo,
+ 
+
+827
+00:12:33,480 --> 00:12:34,949
+fala aqui: "Tô por aqui, pelo que vejo,
+você ainda tá bem no começo, então vou
+
+828
+00:12:34,949 --> 00:12:34,959
+você ainda tá bem no começo, então vou
+ 
+
+829
+00:12:34,959 --> 00:12:36,509
+você ainda tá bem no começo, então vou
+começar com a pergunta certa." Então,
+
+830
+00:12:36,509 --> 00:12:36,519
+começar com a pergunta certa." Então,
+ 
+
+831
+00:12:36,519 --> 00:12:37,750
+começar com a pergunta certa." Então,
+fala: "Quem sou eu para você?". Então,
+
+832
+00:12:37,750 --> 00:12:37,760
+fala: "Quem sou eu para você?". Então,
+ 
+
+833
+00:12:37,760 --> 00:12:39,150
+fala: "Quem sou eu para você?". Então,
+basicamente, você vai dar o nome para
+
+834
+00:12:39,150 --> 00:12:39,160
+basicamente, você vai dar o nome para
+ 
+
+835
+00:12:39,160 --> 00:12:40,790
+basicamente, você vai dar o nome para
+ele, você vai falar quem que é ele de
+
+836
+00:12:40,790 --> 00:12:40,800
+ele, você vai falar quem que é ele de
+ 
+
+837
+00:12:40,800 --> 00:12:42,470
+ele, você vai falar quem que é ele de
+uma forma bem simples aqui pra gente
+
+838
+00:12:42,470 --> 00:12:42,480
+uma forma bem simples aqui pra gente
+ 
+
+839
+00:12:42,480 --> 00:12:44,350
+uma forma bem simples aqui pra gente
+poder começar. Então, vou colocar aqui e
+
+840
+00:12:44,350 --> 00:12:44,360
+poder começar. Então, vou colocar aqui e
+ 
+
+841
+00:12:44,360 --> 00:12:46,470
+poder começar. Então, vou colocar aqui e
+meu nome é Mateus. Então, uma forma bem
+
+842
+00:12:46,470 --> 00:12:46,480
+meu nome é Mateus. Então, uma forma bem
+ 
+
+843
+00:12:46,480 --> 00:12:48,470
+meu nome é Mateus. Então, uma forma bem
+simples aqui, só para ele mandar quem
+
+844
+00:12:48,470 --> 00:12:48,480
+simples aqui, só para ele mandar quem
+ 
+
+845
+00:12:48,480 --> 00:12:50,310
+simples aqui, só para ele mandar quem
+que sou eu, quem que ele é também. Ele
+
+846
+00:12:50,310 --> 00:12:50,320
+que sou eu, quem que ele é também. Ele
+ 
+
+847
+00:12:50,320 --> 00:12:51,790
+que sou eu, quem que ele é também. Ele
+vai salvar isso dentro da memória,
+
+848
+00:12:51,790 --> 00:12:51,800
+vai salvar isso dentro da memória,
+ 
+
+849
+00:12:51,800 --> 00:12:53,829
+vai salvar isso dentro da memória,
+dentro da identidade. Por enquanto a
+
+850
+00:12:53,829 --> 00:12:53,839
+dentro da identidade. Por enquanto a
+ 
+
+851
+00:12:53,839 --> 00:12:55,550
+dentro da identidade. Por enquanto a
+gente não configurou com o Telegram,
+
+852
+00:12:55,550 --> 00:12:55,560
+gente não configurou com o Telegram,
+ 
+
+853
+00:12:55,560 --> 00:12:57,509
+gente não configurou com o Telegram,
+então eu só consigo gerenciar o meu open
+
+854
+00:12:57,509 --> 00:12:57,519
+então eu só consigo gerenciar o meu open
+ 
+
+855
+00:12:57,519 --> 00:12:59,670
+então eu só consigo gerenciar o meu open
+cloud por aqui. Cara, eu não uso muito,
+
+856
+00:12:59,670 --> 00:12:59,680
+cloud por aqui. Cara, eu não uso muito,
+ 
+
+857
+00:12:59,680 --> 00:13:01,189
+cloud por aqui. Cara, eu não uso muito,
+né? É legal, a gente pode, obviamente,
+
+858
+00:13:01,189 --> 00:13:01,199
+né? É legal, a gente pode, obviamente,
+ 
+
+859
+00:13:01,199 --> 00:13:02,750
+né? É legal, a gente pode, obviamente,
+tá no começo aqui, eu falaria qual que é
+
+860
+00:13:02,750 --> 00:13:02,760
+tá no começo aqui, eu falaria qual que é
+ 
+
+861
+00:13:02,760 --> 00:13:04,590
+tá no começo aqui, eu falaria qual que é
+a vibe dele, configuraria, né? Passar
+
+862
+00:13:04,590 --> 00:13:04,600
+a vibe dele, configuraria, né? Passar
+ 
+
+863
+00:13:04,600 --> 00:13:06,310
+a vibe dele, configuraria, né? Passar
+qual que é o promptente dele, que que
+
+864
+00:13:06,310 --> 00:13:06,320
+qual que é o promptente dele, que que
+ 
+
+865
+00:13:06,320 --> 00:13:07,990
+qual que é o promptente dele, que que
+ele vai gerenciar para mim. Claro, isso
+
+866
+00:13:07,990 --> 00:13:08,000
+ele vai gerenciar para mim. Claro, isso
+ 
+
+867
+00:13:08,000 --> 00:13:10,230
+ele vai gerenciar para mim. Claro, isso
+aí é prompt. Cada caso é um caso. Mas o
+
+868
+00:13:10,230 --> 00:13:10,240
+aí é prompt. Cada caso é um caso. Mas o
+ 
+
+869
+00:13:10,240 --> 00:13:11,629
+aí é prompt. Cada caso é um caso. Mas o
+que que é legal, né? Se a gente olhar
+
+870
+00:13:11,629 --> 00:13:11,639
+que que é legal, né? Se a gente olhar
+ 
+
+871
+00:13:11,639 --> 00:13:13,389
+que que é legal, né? Se a gente olhar
+aqui dentro, por exemplo, dentro dos
+
+872
+00:13:13,389 --> 00:13:13,399
+aqui dentro, por exemplo, dentro dos
+ 
+
+873
+00:13:13,399 --> 00:13:15,910
+aqui dentro, por exemplo, dentro dos
+canais, tá? Eu tenho vários canais que a
+
+874
+00:13:15,910 --> 00:13:15,920
+canais, tá? Eu tenho vários canais que a
+ 
+
+875
+00:13:15,920 --> 00:13:17,470
+canais, tá? Eu tenho vários canais que a
+gente pode integrar o Telegram. Isso que
+
+876
+00:13:17,470 --> 00:13:17,480
+gente pode integrar o Telegram. Isso que
+ 
+
+877
+00:13:17,480 --> 00:13:19,870
+gente pode integrar o Telegram. Isso que
+é sensacional. Então, por exemplo, aqui,
+
+878
+00:13:19,870 --> 00:13:19,880
+é sensacional. Então, por exemplo, aqui,
+ 
+
+879
+00:13:19,880 --> 00:13:22,550
+é sensacional. Então, por exemplo, aqui,
+ó, WhatsApp, Telegram, a gente pode
+
+880
+00:13:22,550 --> 00:13:22,560
+ó, WhatsApp, Telegram, a gente pode
+ 
+
+881
+00:13:22,560 --> 00:13:24,790
+ó, WhatsApp, Telegram, a gente pode
+falar aqui, mas o mais legal também que
+
+882
+00:13:24,790 --> 00:13:24,800
+falar aqui, mas o mais legal também que
+ 
+
+883
+00:13:24,800 --> 00:13:26,590
+falar aqui, mas o mais legal também que
+eu posso falar para ele fazer isso para
+
+884
+00:13:26,590 --> 00:13:26,600
+eu posso falar para ele fazer isso para
+ 
+
+885
+00:13:26,600 --> 00:13:28,470
+eu posso falar para ele fazer isso para
+mim. Então, vou falar aqui, por exemplo,
+
+886
+00:13:28,470 --> 00:13:28,480
+mim. Então, vou falar aqui, por exemplo,
+ 
+
+887
+00:13:28,480 --> 00:13:31,110
+mim. Então, vou falar aqui, por exemplo,
+eh, vamos configurar o, vamos configurar
+
+888
+00:13:31,110 --> 00:13:31,120
+eh, vamos configurar o, vamos configurar
+ 
+
+889
+00:13:31,120 --> 00:13:35,310
+eh, vamos configurar o, vamos configurar
+o Telegram, o que você precisa.
+
+890
+00:13:35,310 --> 00:13:35,320
+o Telegram, o que você precisa.
+ 
+
+891
+00:13:35,320 --> 00:13:36,550
+o Telegram, o que você precisa.
+Vamos mandar isso aqui, então. Vamos ver
+
+892
+00:13:36,550 --> 00:13:36,560
+Vamos mandar isso aqui, então. Vamos ver
+ 
+
+893
+00:13:36,560 --> 00:13:37,910
+Vamos mandar isso aqui, então. Vamos ver
+o que que ele vai fazer. A gente pode
+
+894
+00:13:37,910 --> 00:13:37,920
+o que que ele vai fazer. A gente pode
+ 
+
+895
+00:13:37,920 --> 00:13:39,230
+o que que ele vai fazer. A gente pode
+fazer tanto pelo bot, quanto a gente
+
+896
+00:13:39,230 --> 00:13:39,240
+fazer tanto pelo bot, quanto a gente
+ 
+
+897
+00:13:39,240 --> 00:13:41,110
+fazer tanto pelo bot, quanto a gente
+pode fazer via terminal também. falou:
+
+898
+00:13:41,110 --> 00:13:41,120
+pode fazer via terminal também. falou:
+ 
+
+899
+00:13:41,120 --> 00:13:43,230
+pode fazer via terminal também. falou:
+"Ó, vai lá no no bot do Telegram, acessa
+
+900
+00:13:43,230 --> 00:13:43,240
+"Ó, vai lá no no bot do Telegram, acessa
+ 
+
+901
+00:13:43,240 --> 00:13:45,389
+"Ó, vai lá no no bot do Telegram, acessa
+sua conta lá, vai no bot father", envia
+
+902
+00:13:45,389 --> 00:13:45,399
+sua conta lá, vai no bot father", envia
+ 
+
+903
+00:13:45,399 --> 00:13:46,829
+sua conta lá, vai no bot father", envia
+o new bot. Vamos fazer isso aqui, então.
+
+904
+00:13:46,829 --> 00:13:46,839
+o new bot. Vamos fazer isso aqui, então.
+ 
+
+905
+00:13:46,839 --> 00:13:48,550
+o new bot. Vamos fazer isso aqui, então.
+Vou vir aqui então no nosso, ó, vem aqui
+
+906
+00:13:48,550 --> 00:13:48,560
+Vou vir aqui então no nosso, ó, vem aqui
+ 
+
+907
+00:13:48,560 --> 00:13:50,949
+Vou vir aqui então no nosso, ó, vem aqui
+na pesquisa, pesquisa aí o bot father. E
+
+908
+00:13:50,949 --> 00:13:50,959
+na pesquisa, pesquisa aí o bot father. E
+ 
+
+909
+00:13:50,959 --> 00:13:52,310
+na pesquisa, pesquisa aí o bot father. E
+aí aqui basicamente, então vou dar aqui
+
+910
+00:13:52,310 --> 00:13:52,320
+aí aqui basicamente, então vou dar aqui
+ 
+
+911
+00:13:52,320 --> 00:13:54,670
+aí aqui basicamente, então vou dar aqui
+um barra new, vamos criar um novo bot,
+
+912
+00:13:54,670 --> 00:13:54,680
+um barra new, vamos criar um novo bot,
+ 
+
+913
+00:13:54,680 --> 00:13:56,269
+um barra new, vamos criar um novo bot,
+vamos dar o nome para esse bot. E esse e
+
+914
+00:13:56,269 --> 00:13:56,279
+vamos dar o nome para esse bot. E esse e
+ 
+
+915
+00:13:56,279 --> 00:13:58,550
+vamos dar o nome para esse bot. E esse e
+esse bot precisa finalizar com o bot,
+
+916
+00:13:58,550 --> 00:13:58,560
+esse bot precisa finalizar com o bot,
+ 
+
+917
+00:13:58,560 --> 00:14:00,150
+esse bot precisa finalizar com o bot,
+com nome e bot. Então vou colocar aqui,
+
+918
+00:14:00,150 --> 00:14:00,160
+com nome e bot. Então vou colocar aqui,
+ 
+
+919
+00:14:00,160 --> 00:14:03,949
+com nome e bot. Então vou colocar aqui,
+por exemplo, sujeito cloud_line bot. Vai
+
+920
+00:14:03,949 --> 00:14:03,959
+por exemplo, sujeito cloud_line bot. Vai
+ 
+
+921
+00:14:03,959 --> 00:14:06,710
+por exemplo, sujeito cloud_line bot. Vai
+ser isso aí. Esse vai ser o nome.
+
+922
+00:14:06,710 --> 00:14:06,720
+ser isso aí. Esse vai ser o nome.
+ 
+
+923
+00:14:06,720 --> 00:14:09,069
+ser isso aí. Esse vai ser o nome.
+Ã, beleza. Ah, ele falou aqui. Deixa eu
+
+924
+00:14:09,069 --> 00:14:09,079
+Ã, beleza. Ah, ele falou aqui. Deixa eu
+ 
+
+925
+00:14:09,079 --> 00:14:11,030
+Ã, beleza. Ah, ele falou aqui. Deixa eu
+copiar aqui, ver se ele já vai deixar
+
+926
+00:14:11,030 --> 00:14:11,040
+copiar aqui, ver se ele já vai deixar
+ 
+
+927
+00:14:11,040 --> 00:14:15,389
+copiar aqui, ver se ele já vai deixar
+sujeito cloudine bot. Beleza, ele criou
+
+928
+00:14:15,389 --> 00:14:15,399
+sujeito cloudine bot. Beleza, ele criou
+ 
+
+929
+00:14:15,399 --> 00:14:17,189
+sujeito cloudine bot. Beleza, ele criou
+aqui para mim, ó. Ele vai gerar o token
+
+930
+00:14:17,189 --> 00:14:17,199
+aqui para mim, ó. Ele vai gerar o token
+ 
+
+931
+00:14:17,199 --> 00:14:18,670
+aqui para mim, ó. Ele vai gerar o token
+para vocês. Então, vai gerar o seu
+
+932
+00:14:18,670 --> 00:14:18,680
+para vocês. Então, vai gerar o seu
+ 
+
+933
+00:14:18,680 --> 00:14:20,550
+para vocês. Então, vai gerar o seu
+token. Clica aqui para copiar o seu
+
+934
+00:14:20,550 --> 00:14:20,560
+token. Clica aqui para copiar o seu
+ 
+
+935
+00:14:20,560 --> 00:14:23,110
+token. Clica aqui para copiar o seu
+token. Volta no nosso OpenCloud, show de
+
+936
+00:14:23,110 --> 00:14:23,120
+token. Volta no nosso OpenCloud, show de
+ 
+
+937
+00:14:23,120 --> 00:14:27,269
+token. Volta no nosso OpenCloud, show de
+bola. E fala que aqui é o token. Beleza,
+
+938
+00:14:27,269 --> 00:14:27,279
+bola. E fala que aqui é o token. Beleza,
+ 
+
+939
+00:14:27,279 --> 00:14:29,269
+bola. E fala que aqui é o token. Beleza,
+mandei o token para ele. Ele tá chamando
+
+940
+00:14:29,269 --> 00:14:29,279
+mandei o token para ele. Ele tá chamando
+ 
+
+941
+00:14:29,279 --> 00:14:31,389
+mandei o token para ele. Ele tá chamando
+as ferramentas e executando as ações lá
+
+942
+00:14:31,389 --> 00:14:31,399
+as ferramentas e executando as ações lá
+ 
+
+943
+00:14:31,399 --> 00:14:33,470
+as ferramentas e executando as ações lá
+dentro. Então, não tô fazendo nada. Ele
+
+944
+00:14:33,470 --> 00:14:33,480
+dentro. Então, não tô fazendo nada. Ele
+ 
+
+945
+00:14:33,480 --> 00:14:35,030
+dentro. Então, não tô fazendo nada. Ele
+consegue gerenciar arquivo, ele consegue
+
+946
+00:14:35,030 --> 00:14:35,040
+consegue gerenciar arquivo, ele consegue
+ 
+
+947
+00:14:35,040 --> 00:14:37,470
+consegue gerenciar arquivo, ele consegue
+gerenciar tudo isso e configurar. Ó lá
+
+948
+00:14:37,470 --> 00:14:37,480
+gerenciar tudo isso e configurar. Ó lá
+ 
+
+949
+00:14:37,480 --> 00:14:38,629
+gerenciar tudo isso e configurar. Ó lá
+que tá falando que vai plugar isso no
+
+950
+00:14:38,629 --> 00:14:38,639
+que tá falando que vai plugar isso no
+ 
+
+951
+00:14:38,639 --> 00:14:40,470
+que tá falando que vai plugar isso no
+OpenCloud e reiniciar o gate. Então ele
+
+952
+00:14:40,470 --> 00:14:40,480
+OpenCloud e reiniciar o gate. Então ele
+ 
+
+953
+00:14:40,480 --> 00:14:41,870
+OpenCloud e reiniciar o gate. Então ele
+vai reiniciar aqui a nossa interface,
+
+954
+00:14:41,870 --> 00:14:41,880
+vai reiniciar aqui a nossa interface,
+ 
+
+955
+00:14:41,880 --> 00:14:43,470
+vai reiniciar aqui a nossa interface,
+tudo. Então vamos aguardar aqui um
+
+956
+00:14:43,470 --> 00:14:43,480
+tudo. Então vamos aguardar aqui um
+ 
+
+957
+00:14:43,480 --> 00:14:45,269
+tudo. Então vamos aguardar aqui um
+pouquinho. Tá acionando as ferramentas.
+
+958
+00:14:45,269 --> 00:14:45,279
+pouquinho. Tá acionando as ferramentas.
+ 
+
+959
+00:14:45,279 --> 00:14:47,230
+pouquinho. Tá acionando as ferramentas.
+Maravilha. Ó, gerenciou. Então me
+
+960
+00:14:47,230 --> 00:14:47,240
+Maravilha. Ó, gerenciou. Então me
+ 
+
+961
+00:14:47,240 --> 00:14:49,189
+Maravilha. Ó, gerenciou. Então me
+deslogou aqui sem nenhum problema. E ele
+
+962
+00:14:49,189 --> 00:14:49,199
+deslogou aqui sem nenhum problema. E ele
+ 
+
+963
+00:14:49,199 --> 00:14:51,030
+deslogou aqui sem nenhum problema. E ele
+falou pra gente ir lá no nosso bote, né?
+
+964
+00:14:51,030 --> 00:14:51,040
+falou pra gente ir lá no nosso bote, né?
+ 
+
+965
+00:14:51,040 --> 00:14:52,189
+falou pra gente ir lá no nosso bote, né?
+Porque eu não fui ainda. Então vou lá no
+
+966
+00:14:52,189 --> 00:14:52,199
+Porque eu não fui ainda. Então vou lá no
+ 
+
+967
+00:14:52,199 --> 00:14:53,509
+Porque eu não fui ainda. Então vou lá no
+meu bot, ó. Tá vendo aqui o nome que eu
+
+968
+00:14:53,509 --> 00:14:53,519
+meu bot, ó. Tá vendo aqui o nome que eu
+ 
+
+969
+00:14:53,519 --> 00:14:55,269
+meu bot, ó. Tá vendo aqui o nome que eu
+criei? Eu tenho que dar o start, né?
+
+970
+00:14:55,269 --> 00:14:55,279
+criei? Eu tenho que dar o start, né?
+ 
+
+971
+00:14:55,279 --> 00:14:57,350
+criei? Eu tenho que dar o start, né?
+Para inicializar o meu bote aqui.
+
+972
+00:14:57,350 --> 00:14:57,360
+Para inicializar o meu bote aqui.
+ 
+
+973
+00:14:57,360 --> 00:14:59,509
+Para inicializar o meu bote aqui.
+Maravilha. E agora deixa eu ver se ele
+
+974
+00:14:59,509 --> 00:14:59,519
+Maravilha. E agora deixa eu ver se ele
+ 
+
+975
+00:14:59,519 --> 00:15:00,430
+Maravilha. E agora deixa eu ver se ele
+já reiniciou, que ele falou que ia
+
+976
+00:15:00,430 --> 00:15:00,440
+já reiniciou, que ele falou que ia
+ 
+
+977
+00:15:00,440 --> 00:15:01,550
+já reiniciou, que ele falou que ia
+reiniciar para mim aqui. Deixa eu dar um
+
+978
+00:15:01,550 --> 00:15:01,560
+reiniciar para mim aqui. Deixa eu dar um
+ 
+
+979
+00:15:01,560 --> 00:15:02,949
+reiniciar para mim aqui. Deixa eu dar um
+F5 aqui, que às vezes demora um
+
+980
+00:15:02,949 --> 00:15:02,959
+F5 aqui, que às vezes demora um
+ 
+
+981
+00:15:02,959 --> 00:15:04,710
+F5 aqui, que às vezes demora um
+pouquinho, né? A VPS ela reinicia ali o
+
+982
+00:15:04,710 --> 00:15:04,720
+pouquinho, né? A VPS ela reinicia ali o
+ 
+
+983
+00:15:04,720 --> 00:15:06,230
+pouquinho, né? A VPS ela reinicia ali o
+nosso gateway. Então, ó, vou dar um
+
+984
+00:15:06,230 --> 00:15:06,240
+nosso gateway. Então, ó, vou dar um
+ 
+
+985
+00:15:06,240 --> 00:15:08,189
+nosso gateway. Então, ó, vou dar um
+connect aqui novamente. Vamos aguardar.
+
+986
+00:15:08,189 --> 00:15:08,199
+connect aqui novamente. Vamos aguardar.
+ 
+
+987
+00:15:08,199 --> 00:15:10,150
+connect aqui novamente. Vamos aguardar.
+Ó, já abri aqui, voltei aqui. Ele já até
+
+988
+00:15:10,150 --> 00:15:10,160
+Ó, já abri aqui, voltei aqui. Ele já até
+ 
+
+989
+00:15:10,160 --> 00:15:11,829
+Ó, já abri aqui, voltei aqui. Ele já até
+mandou aqui alguma coisa. E deixa eu ver
+
+990
+00:15:11,829 --> 00:15:11,839
+mandou aqui alguma coisa. E deixa eu ver
+ 
+
+991
+00:15:11,839 --> 00:15:14,870
+mandou aqui alguma coisa. E deixa eu ver
+se ele sincronizou aqui. Já dei start no
+
+992
+00:15:14,870 --> 00:15:14,880
+se ele sincronizou aqui. Já dei start no
+ 
+
+993
+00:15:14,880 --> 00:15:18,949
+se ele sincronizou aqui. Já dei start no
+bote. Verifica e sincroniza com o nosso
+
+994
+00:15:18,949 --> 00:15:18,959
+bote. Verifica e sincroniza com o nosso
+ 
+
+995
+00:15:18,959 --> 00:15:21,150
+bote. Verifica e sincroniza com o nosso
+bot Telegram. Ó, eu mandei e ele mandou
+
+996
+00:15:21,150 --> 00:15:21,160
+bot Telegram. Ó, eu mandei e ele mandou
+ 
+
+997
+00:15:21,160 --> 00:15:23,269
+bot Telegram. Ó, eu mandei e ele mandou
+aqui que tá checando. Ele tá restartando
+
+998
+00:15:23,269 --> 00:15:23,279
+aqui que tá checando. Ele tá restartando
+ 
+
+999
+00:15:23,279 --> 00:15:25,590
+aqui que tá checando. Ele tá restartando
+aqui. Então, vou checar aqui o se ele tá
+
+1000
+00:15:25,590 --> 00:15:25,600
+aqui. Então, vou checar aqui o se ele tá
+ 
+
+1001
+00:15:25,600 --> 00:15:27,430
+aqui. Então, vou checar aqui o se ele tá
+pareado, né? E vou aprovar. Então, deixa
+
+1002
+00:15:27,430 --> 00:15:27,440
+pareado, né? E vou aprovar. Então, deixa
+ 
+
+1003
+00:15:27,440 --> 00:15:29,949
+pareado, né? E vou aprovar. Então, deixa
+eu ver aqui. Vamos mandar aqui. Oi.
+
+1004
+00:15:29,949 --> 00:15:29,959
+eu ver aqui. Vamos mandar aqui. Oi.
+ 
+
+1005
+00:15:29,959 --> 00:15:32,269
+eu ver aqui. Vamos mandar aqui. Oi.
+Vamos ver se ele tá aqui. Opa, agora que
+
+1006
+00:15:32,269 --> 00:15:32,279
+Vamos ver se ele tá aqui. Opa, agora que
+ 
+
+1007
+00:15:32,279 --> 00:15:33,710
+Vamos ver se ele tá aqui. Opa, agora que
+eu mandei oi, ele já mandou aqui para
+
+1008
+00:15:33,710 --> 00:15:33,720
+eu mandei oi, ele já mandou aqui para
+ 
+
+1009
+00:15:33,720 --> 00:15:34,990
+eu mandei oi, ele já mandou aqui para
+mim. Então, vou fazer o quê? Vou copiar
+
+1010
+00:15:34,990 --> 00:15:35,000
+mim. Então, vou fazer o quê? Vou copiar
+ 
+
+1011
+00:15:35,000 --> 00:15:37,509
+mim. Então, vou fazer o quê? Vou copiar
+aqui o nosso código de pain, o código de
+
+1012
+00:15:37,509 --> 00:15:37,519
+aqui o nosso código de pain, o código de
+ 
+
+1013
+00:15:37,519 --> 00:15:39,309
+aqui o nosso código de pain, o código de
+pareamento. Vou voltar no OpenCloud e
+
+1014
+00:15:39,309 --> 00:15:39,319
+pareamento. Vou voltar no OpenCloud e
+ 
+
+1015
+00:15:39,319 --> 00:15:41,030
+pareamento. Vou voltar no OpenCloud e
+vou mandar aqui o código para ele. Ó,
+
+1016
+00:15:41,030 --> 00:15:41,040
+vou mandar aqui o código para ele. Ó,
+ 
+
+1017
+00:15:41,040 --> 00:15:42,949
+vou mandar aqui o código para ele. Ó,
+mandei o código para ele. Vamos ver aqui
+
+1018
+00:15:42,949 --> 00:15:42,959
+mandei o código para ele. Vamos ver aqui
+ 
+
+1019
+00:15:42,959 --> 00:15:44,790
+mandei o código para ele. Vamos ver aqui
+agora. Vamos esperar. Leva às vezes um
+
+1020
+00:15:44,790 --> 00:15:44,800
+agora. Vamos esperar. Leva às vezes um
+ 
+
+1021
+00:15:44,800 --> 00:15:45,870
+agora. Vamos esperar. Leva às vezes um
+pouquinho até ele acionar as
+
+1022
+00:15:45,870 --> 00:15:45,880
+pouquinho até ele acionar as
+ 
+
+1023
+00:15:45,880 --> 00:15:47,990
+pouquinho até ele acionar as
+ferramentas. Vamos aguardar. Opa,
+
+1024
+00:15:47,990 --> 00:15:48,000
+ferramentas. Vamos aguardar. Opa,
+ 
+
+1025
+00:15:48,000 --> 00:15:49,509
+ferramentas. Vamos aguardar. Opa,
+devolveu aqui para mim, ó. Lá. Vou
+
+1026
+00:15:49,509 --> 00:15:49,519
+devolveu aqui para mim, ó. Lá. Vou
+ 
+
+1027
+00:15:49,519 --> 00:15:51,829
+devolveu aqui para mim, ó. Lá. Vou
+checar o pé. Vou checar o pareamento.
+
+1028
+00:15:51,829 --> 00:15:51,839
+checar o pé. Vou checar o pareamento.
+ 
+
+1029
+00:15:51,839 --> 00:15:53,870
+checar o pé. Vou checar o pareamento.
+Foi, falou que foi pareado com sucesso.
+
+1030
+00:15:53,870 --> 00:15:53,880
+Foi, falou que foi pareado com sucesso.
+ 
+
+1031
+00:15:53,880 --> 00:15:56,470
+Foi, falou que foi pareado com sucesso.
+Maravilha. Ele deu ali. Show de bola.
+
+1032
+00:15:56,470 --> 00:15:56,480
+Maravilha. Ele deu ali. Show de bola.
+ 
+
+1033
+00:15:56,480 --> 00:15:58,430
+Maravilha. Ele deu ali. Show de bola.
+Deixa eu voltar lá agora. Opa, deu aqui.
+
+1034
+00:15:58,430 --> 00:15:58,440
+Deixa eu voltar lá agora. Opa, deu aqui.
+ 
+
+1035
+00:15:58,440 --> 00:16:00,749
+Deixa eu voltar lá agora. Opa, deu aqui.
+Então o que eu vou fazer aqui? Você tá
+
+1036
+00:16:00,749 --> 00:16:00,759
+Então o que eu vou fazer aqui? Você tá
+ 
+
+1037
+00:16:00,759 --> 00:16:02,910
+Então o que eu vou fazer aqui? Você tá
+aí. E olha que massa, né? Tô sim. Chegou
+
+1038
+00:16:02,910 --> 00:16:02,920
+aí. E olha que massa, né? Tô sim. Chegou
+ 
+
+1039
+00:16:02,920 --> 00:16:04,790
+aí. E olha que massa, né? Tô sim. Chegou
+certinho. Maravilha. E agora tá
+
+1040
+00:16:04,790 --> 00:16:04,800
+certinho. Maravilha. E agora tá
+ 
+
+1041
+00:16:04,800 --> 00:16:06,470
+certinho. Maravilha. E agora tá
+sincronizado. Agora a gente consegue
+
+1042
+00:16:06,470 --> 00:16:06,480
+sincronizado. Agora a gente consegue
+ 
+
+1043
+00:16:06,480 --> 00:16:08,309
+sincronizado. Agora a gente consegue
+fazer qualquer coisa aqui, por exemplo.
+
+1044
+00:16:08,309 --> 00:16:08,319
+fazer qualquer coisa aqui, por exemplo.
+ 
+
+1045
+00:16:08,319 --> 00:16:10,110
+fazer qualquer coisa aqui, por exemplo.
+Então, sem nenhum problema. Por exemplo,
+
+1046
+00:16:10,110 --> 00:16:10,120
+Então, sem nenhum problema. Por exemplo,
+ 
+
+1047
+00:16:10,120 --> 00:16:14,550
+Então, sem nenhum problema. Por exemplo,
+quais as últimas três notícias sobre Iá
+
+1048
+00:16:14,550 --> 00:16:14,560
+quais as últimas três notícias sobre Iá
+ 
+
+1049
+00:16:14,560 --> 00:16:17,150
+quais as últimas três notícias sobre Iá
+no Hacker News, por exemplo, né? Quero
+
+1050
+00:16:17,150 --> 00:16:17,160
+no Hacker News, por exemplo, né? Quero
+ 
+
+1051
+00:16:17,160 --> 00:16:18,350
+no Hacker News, por exemplo, né? Quero
+perguntar para ele entrar lá no Hacker
+
+1052
+00:16:18,350 --> 00:16:18,360
+perguntar para ele entrar lá no Hacker
+ 
+
+1053
+00:16:18,360 --> 00:16:20,710
+perguntar para ele entrar lá no Hacker
+News e pedir as três últimas notícias.
+
+1054
+00:16:20,710 --> 00:16:20,720
+News e pedir as três últimas notícias.
+ 
+
+1055
+00:16:20,720 --> 00:16:22,110
+News e pedir as três últimas notícias.
+Vamos ver se ele já vai pegar aqui. Olha
+
+1056
+00:16:22,110 --> 00:16:22,120
+Vamos ver se ele já vai pegar aqui. Olha
+ 
+
+1057
+00:16:22,120 --> 00:16:24,030
+Vamos ver se ele já vai pegar aqui. Olha
+que sensacional, né? E ele vai pegar lá
+
+1058
+00:16:24,030 --> 00:16:24,040
+que sensacional, né? E ele vai pegar lá
+ 
+
+1059
+00:16:24,040 --> 00:16:25,749
+que sensacional, né? E ele vai pegar lá
+do Hacker News. Obviamente aqui eu ainda
+
+1060
+00:16:25,749 --> 00:16:25,759
+do Hacker News. Obviamente aqui eu ainda
+ 
+
+1061
+00:16:25,759 --> 00:16:27,269
+do Hacker News. Obviamente aqui eu ainda
+não passei parâmetro, tô dando um prompt
+
+1062
+00:16:27,269 --> 00:16:27,279
+não passei parâmetro, tô dando um prompt
+ 
+
+1063
+00:16:27,279 --> 00:16:29,030
+não passei parâmetro, tô dando um prompt
+bem simples, mas só para mostrar o poder
+
+1064
+00:16:29,030 --> 00:16:29,040
+bem simples, mas só para mostrar o poder
+ 
+
+1065
+00:16:29,040 --> 00:16:30,910
+bem simples, mas só para mostrar o poder
+disso, né? E ele tem acesso ao browser e
+
+1066
+00:16:30,910 --> 00:16:30,920
+disso, né? E ele tem acesso ao browser e
+ 
+
+1067
+00:16:30,920 --> 00:16:32,710
+disso, né? E ele tem acesso ao browser e
+a gente pode plugar ferramentas externas
+
+1068
+00:16:32,710 --> 00:16:32,720
+a gente pode plugar ferramentas externas
+ 
+
+1069
+00:16:32,720 --> 00:16:36,189
+a gente pode plugar ferramentas externas
+como o Tavly Search, eh, passar a nossa
+
+1070
+00:16:36,189 --> 00:16:36,199
+como o Tavly Search, eh, passar a nossa
+ 
+
+1071
+00:16:36,199 --> 00:16:38,189
+como o Tavly Search, eh, passar a nossa
+chave, passar a chave do Brave, por
+
+1072
+00:16:38,189 --> 00:16:38,199
+chave, passar a chave do Brave, por
+ 
+
+1073
+00:16:38,199 --> 00:16:39,910
+chave, passar a chave do Brave, por
+exemplo, para ajudar nas pesquisas e ter
+
+1074
+00:16:39,910 --> 00:16:39,920
+exemplo, para ajudar nas pesquisas e ter
+ 
+
+1075
+00:16:39,920 --> 00:16:41,389
+exemplo, para ajudar nas pesquisas e ter
+mais autonomia também quando ele for
+
+1076
+00:16:41,389 --> 00:16:41,399
+mais autonomia também quando ele for
+ 
+
+1077
+00:16:41,399 --> 00:16:43,870
+mais autonomia também quando ele for
+buscar na internet, né? Evitar bloqueios
+
+1078
+00:16:43,870 --> 00:16:43,880
+buscar na internet, né? Evitar bloqueios
+ 
+
+1079
+00:16:43,880 --> 00:16:45,910
+buscar na internet, né? Evitar bloqueios
+também. E aí tem alguns alguns sites que
+
+1080
+00:16:45,910 --> 00:16:45,920
+também. E aí tem alguns alguns sites que
+ 
+
+1081
+00:16:45,920 --> 00:16:48,069
+também. E aí tem alguns alguns sites que
+t aquelas capt, aqueles bloqueios, então
+
+1082
+00:16:48,069 --> 00:16:48,079
+t aquelas capt, aqueles bloqueios, então
+ 
+
+1083
+00:16:48,079 --> 00:16:50,949
+t aquelas capt, aqueles bloqueios, então
+já vai ajudar demais. Mas isso aqui, só
+
+1084
+00:16:50,949 --> 00:16:50,959
+já vai ajudar demais. Mas isso aqui, só
+ 
+
+1085
+00:16:50,959 --> 00:16:52,110
+já vai ajudar demais. Mas isso aqui, só
+da gente ter isso aqui, a gente já tem
+
+1086
+00:16:52,110 --> 00:16:52,120
+da gente ter isso aqui, a gente já tem
+ 
+
+1087
+00:16:52,120 --> 00:16:53,870
+da gente ter isso aqui, a gente já tem
+toda a autonomia aqui dentro do bote.
+
+1088
+00:16:53,870 --> 00:16:53,880
+toda a autonomia aqui dentro do bote.
+ 
+
+1089
+00:16:53,880 --> 00:16:55,790
+toda a autonomia aqui dentro do bote.
+Obviamente ele vai mandando aqui também.
+
+1090
+00:16:55,790 --> 00:16:55,800
+Obviamente ele vai mandando aqui também.
+ 
+
+1091
+00:16:55,800 --> 00:16:56,990
+Obviamente ele vai mandando aqui também.
+Então se a gente olhar aqui, só
+
+1092
+00:16:56,990 --> 00:16:57,000
+Então se a gente olhar aqui, só
+ 
+
+1093
+00:16:57,000 --> 00:16:58,550
+Então se a gente olhar aqui, só
+aguardar, ele deve estar pesquisando lá,
+
+1094
+00:16:58,550 --> 00:16:58,560
+aguardar, ele deve estar pesquisando lá,
+ 
+
+1095
+00:16:58,560 --> 00:16:59,870
+aguardar, ele deve estar pesquisando lá,
+já vai trazer aqui de volta. Enquanto
+
+1096
+00:16:59,870 --> 00:16:59,880
+já vai trazer aqui de volta. Enquanto
+ 
+
+1097
+00:16:59,880 --> 00:17:01,829
+já vai trazer aqui de volta. Enquanto
+ele vai fazendo isso, uma coisa legal
+
+1098
+00:17:01,829 --> 00:17:01,839
+ele vai fazendo isso, uma coisa legal
+ 
+
+1099
+00:17:01,839 --> 00:17:03,749
+ele vai fazendo isso, uma coisa legal
+também é dentro dos agentes aqui, a
+
+1100
+00:17:03,749 --> 00:17:03,759
+também é dentro dos agentes aqui, a
+ 
+
+1101
+00:17:03,759 --> 00:17:05,309
+também é dentro dos agentes aqui, a
+gente pode ter, por exemplo, tarefas
+
+1102
+00:17:05,309 --> 00:17:05,319
+gente pode ter, por exemplo, tarefas
+ 
+
+1103
+00:17:05,319 --> 00:17:07,110
+gente pode ter, por exemplo, tarefas
+Chrome, né? Então ele já tá ativo aqui,
+
+1104
+00:17:07,110 --> 00:17:07,120
+Chrome, né? Então ele já tá ativo aqui,
+ 
+
+1105
+00:17:07,120 --> 00:17:08,630
+Chrome, né? Então ele já tá ativo aqui,
+por exemplo, e a gente pode pedir lá
+
+1106
+00:17:08,630 --> 00:17:08,640
+por exemplo, e a gente pode pedir lá
+ 
+
+1107
+00:17:08,640 --> 00:17:10,909
+por exemplo, e a gente pode pedir lá
+pelo Telegram mesmo, ah, configura todo
+
+1108
+00:17:10,909 --> 00:17:10,919
+pelo Telegram mesmo, ah, configura todo
+ 
+
+1109
+00:17:10,919 --> 00:17:13,549
+pelo Telegram mesmo, ah, configura todo
+dia às 8 da manhã para você pesquisar as
+
+1110
+00:17:13,549 --> 00:17:13,559
+dia às 8 da manhã para você pesquisar as
+ 
+
+1111
+00:17:13,559 --> 00:17:15,590
+dia às 8 da manhã para você pesquisar as
+últimas cinco notícias em, sei lá, tal
+
+1112
+00:17:15,590 --> 00:17:15,600
+últimas cinco notícias em, sei lá, tal
+ 
+
+1113
+00:17:15,600 --> 00:17:17,789
+últimas cinco notícias em, sei lá, tal
+site ou sei lá, pesquisar liberado, né?
+
+1114
+00:17:17,789 --> 00:17:17,799
+site ou sei lá, pesquisar liberado, né?
+ 
+
+1115
+00:17:17,799 --> 00:17:19,189
+site ou sei lá, pesquisar liberado, né?
+as últimas cinco notícias sobre
+
+1116
+00:17:19,189 --> 00:17:19,199
+as últimas cinco notícias sobre
+ 
+
+1117
+00:17:19,199 --> 00:17:21,870
+as últimas cinco notícias sobre
+tecnologia, sobre programação, trazer
+
+1118
+00:17:21,870 --> 00:17:21,880
+tecnologia, sobre programação, trazer
+ 
+
+1119
+00:17:21,880 --> 00:17:24,150
+tecnologia, sobre programação, trazer
+elas para mim aqui dentro com o link e
+
+1120
+00:17:24,150 --> 00:17:24,160
+elas para mim aqui dentro com o link e
+ 
+
+1121
+00:17:24,160 --> 00:17:26,189
+elas para mim aqui dentro com o link e
+apenas as melhores ou que estão mais em
+
+1122
+00:17:26,189 --> 00:17:26,199
+apenas as melhores ou que estão mais em
+ 
+
+1123
+00:17:26,199 --> 00:17:28,390
+apenas as melhores ou que estão mais em
+alta. Ele vai ativar um Chrome e essa
+
+1124
+00:17:28,390 --> 00:17:28,400
+alta. Ele vai ativar um Chrome e essa
+ 
+
+1125
+00:17:28,400 --> 00:17:30,510
+alta. Ele vai ativar um Chrome e essa
+tarefa aqui ele vai executar conforme
+
+1126
+00:17:30,510 --> 00:17:30,520
+tarefa aqui ele vai executar conforme
+ 
+
+1127
+00:17:30,520 --> 00:17:32,310
+tarefa aqui ele vai executar conforme
+você pediu ali. Então isso é muito legal
+
+1128
+00:17:32,310 --> 00:17:32,320
+você pediu ali. Então isso é muito legal
+ 
+
+1129
+00:17:32,320 --> 00:17:33,750
+você pediu ali. Então isso é muito legal
+e a gente consegue gerenciar tudo aqui.
+
+1130
+00:17:33,750 --> 00:17:33,760
+e a gente consegue gerenciar tudo aqui.
+ 
+
+1131
+00:17:33,760 --> 00:17:34,950
+e a gente consegue gerenciar tudo aqui.
+Então uma coisa, deixa eu ver se ele
+
+1132
+00:17:34,950 --> 00:17:34,960
+Então uma coisa, deixa eu ver se ele
+ 
+
+1133
+00:17:34,960 --> 00:17:36,590
+Então uma coisa, deixa eu ver se ele
+devolveu, ó, ele não devolveu aqui. Eu
+
+1134
+00:17:36,590 --> 00:17:36,600
+devolveu, ó, ele não devolveu aqui. Eu
+ 
+
+1135
+00:17:36,600 --> 00:17:40,029
+devolveu, ó, ele não devolveu aqui. Eu
+vou mandar aqui quais as notícias
+
+1136
+00:17:40,029 --> 00:17:40,039
+vou mandar aqui quais as notícias
+ 
+
+1137
+00:17:40,039 --> 00:17:42,029
+vou mandar aqui quais as notícias
+que eu pedi. Ah, ele tava buscando lá.
+
+1138
+00:17:42,029 --> 00:17:42,039
+que eu pedi. Ah, ele tava buscando lá.
+ 
+
+1139
+00:17:42,039 --> 00:17:43,830
+que eu pedi. Ah, ele tava buscando lá.
+Eu que fui ansioso mesmo. Não tem
+
+1140
+00:17:43,830 --> 00:17:43,840
+Eu que fui ansioso mesmo. Não tem
+ 
+
+1141
+00:17:43,840 --> 00:17:45,270
+Eu que fui ansioso mesmo. Não tem
+problema. Então ele trouxe aqui, poderia
+
+1142
+00:17:45,270 --> 00:17:45,280
+problema. Então ele trouxe aqui, poderia
+ 
+
+1143
+00:17:45,280 --> 00:17:47,190
+problema. Então ele trouxe aqui, poderia
+pedir para ele trazer apenas em
+
+1144
+00:17:47,190 --> 00:17:47,200
+pedir para ele trazer apenas em
+ 
+
+1145
+00:17:47,200 --> 00:17:49,310
+pedir para ele trazer apenas em
+português, trazer os links. Então pra
+
+1146
+00:17:49,310 --> 00:17:49,320
+português, trazer os links. Então pra
+ 
+
+1147
+00:17:49,320 --> 00:17:50,830
+português, trazer os links. Então pra
+gente finalizar aqui, uma das coisas
+
+1148
+00:17:50,830 --> 00:17:50,840
+gente finalizar aqui, uma das coisas
+ 
+
+1149
+00:17:50,840 --> 00:17:52,430
+gente finalizar aqui, uma das coisas
+legal, por exemplo, barra model, eu
+
+1150
+00:17:52,430 --> 00:17:52,440
+legal, por exemplo, barra model, eu
+ 
+
+1151
+00:17:52,440 --> 00:17:53,909
+legal, por exemplo, barra model, eu
+posso dar aqui e ele vai devolver qual
+
+1152
+00:17:53,909 --> 00:17:53,919
+posso dar aqui e ele vai devolver qual
+ 
+
+1153
+00:17:53,919 --> 00:17:55,669
+posso dar aqui e ele vai devolver qual
+modelo de LLM que a gente tá aqui, por
+
+1154
+00:17:55,669 --> 00:17:55,679
+modelo de LLM que a gente tá aqui, por
+ 
+
+1155
+00:17:55,679 --> 00:17:57,190
+modelo de LLM que a gente tá aqui, por
+exemplo, configurado com a minha chave,
+
+1156
+00:17:57,190 --> 00:17:57,200
+exemplo, configurado com a minha chave,
+ 
+
+1157
+00:17:57,200 --> 00:17:59,710
+exemplo, configurado com a minha chave,
+ó, tenho a Openi e dentro da Openi aqui,
+
+1158
+00:17:59,710 --> 00:17:59,720
+ó, tenho a Openi e dentro da Openi aqui,
+ 
+
+1159
+00:17:59,720 --> 00:18:01,310
+ó, tenho a Openi e dentro da Openi aqui,
+eu posso escolher a que eu quero
+
+1160
+00:18:01,310 --> 00:18:01,320
+eu posso escolher a que eu quero
+ 
+
+1161
+00:18:01,320 --> 00:18:03,789
+eu posso escolher a que eu quero
+utilizar. Ele tá usando a GPT 5.4, ou
+
+1162
+00:18:03,789 --> 00:18:03,799
+utilizar. Ele tá usando a GPT 5.4, ou
+ 
+
+1163
+00:18:03,799 --> 00:18:06,070
+utilizar. Ele tá usando a GPT 5.4, ou
+seja, ele tá usando via API kei, que é
+
+1164
+00:18:06,070 --> 00:18:06,080
+seja, ele tá usando via API kei, que é
+ 
+
+1165
+00:18:06,080 --> 00:18:09,029
+seja, ele tá usando via API kei, que é
+aquela chave que a gente usou aqui, tá?
+
+1166
+00:18:09,029 --> 00:18:09,039
+aquela chave que a gente usou aqui, tá?
+ 
+
+1167
+00:18:09,039 --> 00:18:10,350
+aquela chave que a gente usou aqui, tá?
+A gente tem outras formas até de
+
+1168
+00:18:10,350 --> 00:18:10,360
+A gente tem outras formas até de
+ 
+
+1169
+00:18:10,360 --> 00:18:12,110
+A gente tem outras formas até de
+utilizar. Se vocês quiserem eu trago
+
+1170
+00:18:12,110 --> 00:18:12,120
+utilizar. Se vocês quiserem eu trago
+ 
+
+1171
+00:18:12,120 --> 00:18:13,909
+utilizar. Se vocês quiserem eu trago
+para vocês aqui. E também eu posso falar
+
+1172
+00:18:13,909 --> 00:18:13,919
+para vocês aqui. E também eu posso falar
+ 
+
+1173
+00:18:13,919 --> 00:18:15,990
+para vocês aqui. E também eu posso falar
+para ele, por exemplo, é usar modelos
+
+1174
+00:18:15,990 --> 00:18:16,000
+para ele, por exemplo, é usar modelos
+ 
+
+1175
+00:18:16,000 --> 00:18:17,789
+para ele, por exemplo, é usar modelos
+menores. Por exemplo, ah, vou colocar
+
+1176
+00:18:17,789 --> 00:18:17,799
+menores. Por exemplo, ah, vou colocar
+ 
+
+1177
+00:18:17,799 --> 00:18:22,310
+menores. Por exemplo, ah, vou colocar
+aqui para tarefas simples rotineiras,
+
+1178
+00:18:22,310 --> 00:18:22,320
+aqui para tarefas simples rotineiras,
+ 
+
+1179
+00:18:22,320 --> 00:18:25,310
+aqui para tarefas simples rotineiras,
+use o modelo GPT
+
+1180
+00:18:25,310 --> 00:18:25,320
+use o modelo GPT
+ 
+
+1181
+00:18:25,320 --> 00:18:26,990
+use o modelo GPT
+5.4
+
+1182
+00:18:26,990 --> 00:18:27,000
+5.4
+ 
+
+1183
+00:18:27,000 --> 00:18:31,029
+5.4
+mini. E para tarefas maiores e
+
+1184
+00:18:31,029 --> 00:18:31,039
+mini. E para tarefas maiores e
+ 
+
+1185
+00:18:31,039 --> 00:18:35,390
+mini. E para tarefas maiores e
+complexas, use o GPT 5.4, né, que daí é
+
+1186
+00:18:35,390 --> 00:18:35,400
+complexas, use o GPT 5.4, né, que daí é
+ 
+
+1187
+00:18:35,400 --> 00:18:37,110
+complexas, use o GPT 5.4, né, que daí é
+um mais complexo ali, melhor e também um
+
+1188
+00:18:37,110 --> 00:18:37,120
+um mais complexo ali, melhor e também um
+ 
+
+1189
+00:18:37,120 --> 00:18:38,510
+um mais complexo ali, melhor e também um
+pouco mais caro. Então a gente pode
+
+1190
+00:18:38,510 --> 00:18:38,520
+pouco mais caro. Então a gente pode
+ 
+
+1191
+00:18:38,520 --> 00:18:40,310
+pouco mais caro. Então a gente pode
+falar isso para ele e ele vai ele vai
+
+1192
+00:18:40,310 --> 00:18:40,320
+falar isso para ele e ele vai ele vai
+ 
+
+1193
+00:18:40,320 --> 00:18:42,310
+falar isso para ele e ele vai ele vai
+colocar ali, ó, ele vai fazer isso aqui.
+
+1194
+00:18:42,310 --> 00:18:42,320
+colocar ali, ó, ele vai fazer isso aqui.
+ 
+
+1195
+00:18:42,320 --> 00:18:43,909
+colocar ali, ó, ele vai fazer isso aqui.
+Então aqui a gente já consegue gerenciar
+
+1196
+00:18:43,909 --> 00:18:43,919
+Então aqui a gente já consegue gerenciar
+ 
+
+1197
+00:18:43,919 --> 00:18:45,830
+Então aqui a gente já consegue gerenciar
+tudo aqui o nosso bote. Não precisa
+
+1198
+00:18:45,830 --> 00:18:45,840
+tudo aqui o nosso bote. Não precisa
+ 
+
+1199
+00:18:45,840 --> 00:18:47,470
+tudo aqui o nosso bote. Não precisa
+basicamente mais dessa interface. Vamos
+
+1200
+00:18:47,470 --> 00:18:47,480
+basicamente mais dessa interface. Vamos
+ 
+
+1201
+00:18:47,480 --> 00:18:49,390
+basicamente mais dessa interface. Vamos
+voltar aqui na nossa VPS e olha isso
+
+1202
+00:18:49,390 --> 00:18:49,400
+voltar aqui na nossa VPS e olha isso
+ 
+
+1203
+00:18:49,400 --> 00:18:50,870
+voltar aqui na nossa VPS e olha isso
+aqui. A gente pode acessar aqui o nosso
+
+1204
+00:18:50,870 --> 00:18:50,880
+aqui. A gente pode acessar aqui o nosso
+ 
+
+1205
+00:18:50,880 --> 00:18:52,390
+aqui. A gente pode acessar aqui o nosso
+terminal, por exemplo. Então vamos
+
+1206
+00:18:52,390 --> 00:18:52,400
+terminal, por exemplo. Então vamos
+ 
+
+1207
+00:18:52,400 --> 00:18:54,510
+terminal, por exemplo. Então vamos
+acessar o terminal, pode ser via SSH ou
+
+1208
+00:18:54,510 --> 00:18:54,520
+acessar o terminal, pode ser via SSH ou
+ 
+
+1209
+00:18:54,520 --> 00:18:56,110
+acessar o terminal, pode ser via SSH ou
+acessar via terminal aqui do navegador,
+
+1210
+00:18:56,110 --> 00:18:56,120
+acessar via terminal aqui do navegador,
+ 
+
+1211
+00:18:56,120 --> 00:18:58,230
+acessar via terminal aqui do navegador,
+já que a Holinger fornece pra gente, que
+
+1212
+00:18:58,230 --> 00:18:58,240
+já que a Holinger fornece pra gente, que
+ 
+
+1213
+00:18:58,240 --> 00:19:00,190
+já que a Holinger fornece pra gente, que
+é muito massa. Então aqui dentro, ó, eu
+
+1214
+00:19:00,190 --> 00:19:00,200
+é muito massa. Então aqui dentro, ó, eu
+ 
+
+1215
+00:19:00,200 --> 00:19:02,549
+é muito massa. Então aqui dentro, ó, eu
+vou vir aqui e eu vou dar um Docker PS.
+
+1216
+00:19:02,549 --> 00:19:02,559
+vou vir aqui e eu vou dar um Docker PS.
+ 
+
+1217
+00:19:02,559 --> 00:19:03,909
+vou vir aqui e eu vou dar um Docker PS.
+Então, se a gente der um docker PS,
+
+1218
+00:19:03,909 --> 00:19:03,919
+Então, se a gente der um docker PS,
+ 
+
+1219
+00:19:03,919 --> 00:19:05,750
+Então, se a gente der um docker PS,
+deixa eu tirar aqui. Basicamente a gente
+
+1220
+00:19:05,750 --> 00:19:05,760
+deixa eu tirar aqui. Basicamente a gente
+ 
+
+1221
+00:19:05,760 --> 00:19:07,630
+deixa eu tirar aqui. Basicamente a gente
+vai ver aqui que eu tenho dois Docker
+
+1222
+00:19:07,630 --> 00:19:07,640
+vai ver aqui que eu tenho dois Docker
+ 
+
+1223
+00:19:07,640 --> 00:19:09,630
+vai ver aqui que eu tenho dois Docker
+rodando, né? Eu tenho o Trific pra gente
+
+1224
+00:19:09,630 --> 00:19:09,640
+rodando, né? Eu tenho o Trific pra gente
+ 
+
+1225
+00:19:09,640 --> 00:19:11,390
+rodando, né? Eu tenho o Trific pra gente
+fazer ali o nosso proxy reverse, pra
+
+1226
+00:19:11,390 --> 00:19:11,400
+fazer ali o nosso proxy reverse, pra
+ 
+
+1227
+00:19:11,400 --> 00:19:13,789
+fazer ali o nosso proxy reverse, pra
+gente ter ali o https, tudo certinho. A
+
+1228
+00:19:13,789 --> 00:19:13,799
+gente ter ali o https, tudo certinho. A
+ 
+
+1229
+00:19:13,799 --> 00:19:15,510
+gente ter ali o https, tudo certinho. A
+gente tem outro docker rodando com o
+
+1230
+00:19:15,510 --> 00:19:15,520
+gente tem outro docker rodando com o
+ 
+
+1231
+00:19:15,520 --> 00:19:17,270
+gente tem outro docker rodando com o
+open cloud. Então eu posso ter mais
+
+1232
+00:19:17,270 --> 00:19:17,280
+open cloud. Então eu posso ter mais
+ 
+
+1233
+00:19:17,280 --> 00:19:19,350
+open cloud. Então eu posso ter mais
+docker ali, botar um post ali, sem
+
+1234
+00:19:19,350 --> 00:19:19,360
+docker ali, botar um post ali, sem
+ 
+
+1235
+00:19:19,360 --> 00:19:21,230
+docker ali, botar um post ali, sem
+problema, colocar qualquer coisa ali e a
+
+1236
+00:19:21,230 --> 00:19:21,240
+problema, colocar qualquer coisa ali e a
+ 
+
+1237
+00:19:21,240 --> 00:19:23,110
+problema, colocar qualquer coisa ali e a
+VPS tá tranquila. E se a gente quiser
+
+1238
+00:19:23,110 --> 00:19:23,120
+VPS tá tranquila. E se a gente quiser
+ 
+
+1239
+00:19:23,120 --> 00:19:25,669
+VPS tá tranquila. E se a gente quiser
+acessar o nosso OpenCloud, copia o nome
+
+1240
+00:19:25,669 --> 00:19:25,679
+acessar o nosso OpenCloud, copia o nome
+ 
+
+1241
+00:19:25,679 --> 00:19:27,590
+acessar o nosso OpenCloud, copia o nome
+do seu Open Cloud aqui, por exemplo, ó.
+
+1242
+00:19:27,590 --> 00:19:27,600
+do seu Open Cloud aqui, por exemplo, ó.
+ 
+
+1243
+00:19:27,600 --> 00:19:29,710
+do seu Open Cloud aqui, por exemplo, ó.
+Copia aqui, ó. Botão direito, copiar,
+
+1244
+00:19:29,710 --> 00:19:29,720
+Copia aqui, ó. Botão direito, copiar,
+ 
+
+1245
+00:19:29,720 --> 00:19:31,590
+Copia aqui, ó. Botão direito, copiar,
+não dá contrl C. E aí você vai vir aqui
+
+1246
+00:19:31,590 --> 00:19:31,600
+não dá contrl C. E aí você vai vir aqui
+ 
+
+1247
+00:19:31,600 --> 00:19:37,789
+não dá contrl C. E aí você vai vir aqui
+e digitar docker exec espaço traço ito,
+
+1248
+00:19:37,789 --> 00:19:37,799
+e digitar docker exec espaço traço ito,
+ 
+
+1249
+00:19:37,799 --> 00:19:40,270
+e digitar docker exec espaço traço ito,
+clica com o botão direito, colar, que é
+
+1250
+00:19:40,270 --> 00:19:40,280
+clica com o botão direito, colar, que é
+ 
+
+1251
+00:19:40,280 --> 00:19:42,909
+clica com o botão direito, colar, que é
+o nome aqui do seu docker, espaço bash e
+
+1252
+00:19:42,909 --> 00:19:42,919
+o nome aqui do seu docker, espaço bash e
+ 
+
+1253
+00:19:42,919 --> 00:19:44,590
+o nome aqui do seu docker, espaço bash e
+ele vai entrar aqui dentro dele. Se a
+
+1254
+00:19:44,590 --> 00:19:44,600
+ele vai entrar aqui dentro dele. Se a
+ 
+
+1255
+00:19:44,600 --> 00:19:46,830
+ele vai entrar aqui dentro dele. Se a
+gente digitar aqui open claw, olha quem
+
+1256
+00:19:46,830 --> 00:19:46,840
+gente digitar aqui open claw, olha quem
+ 
+
+1257
+00:19:46,840 --> 00:19:48,310
+gente digitar aqui open claw, olha quem
+que nós está aqui agora. A gente tá na
+
+1258
+00:19:48,310 --> 00:19:48,320
+que nós está aqui agora. A gente tá na
+ 
+
+1259
+00:19:48,320 --> 00:19:51,630
+que nós está aqui agora. A gente tá na
+configuração do nosso opencal,
+
+1260
+00:19:51,630 --> 00:19:51,640
+configuração do nosso opencal,
+ 
+
+1261
+00:19:51,640 --> 00:19:53,230
+configuração do nosso opencal,
+então tá, deixa ele só carregar aqui.
+
+1262
+00:19:53,230 --> 00:19:53,240
+então tá, deixa ele só carregar aqui.
+ 
+
+1263
+00:19:53,240 --> 00:19:55,070
+então tá, deixa ele só carregar aqui.
+Olha que sensacional. Agora eu tenho
+
+1264
+00:19:55,070 --> 00:19:55,080
+Olha que sensacional. Agora eu tenho
+ 
+
+1265
+00:19:55,080 --> 00:19:56,549
+Olha que sensacional. Agora eu tenho
+toda a configuração do open cloud via
+
+1266
+00:19:56,549 --> 00:19:56,559
+toda a configuração do open cloud via
+ 
+
+1267
+00:19:56,559 --> 00:19:58,470
+toda a configuração do open cloud via
+terminal e não pelo gateway. Aqui eu
+
+1268
+00:19:58,470 --> 00:19:58,480
+terminal e não pelo gateway. Aqui eu
+ 
+
+1269
+00:19:58,480 --> 00:20:00,070
+terminal e não pelo gateway. Aqui eu
+posso, por exemplo, dar aqui um open
+
+1270
+00:20:00,070 --> 00:20:00,080
+posso, por exemplo, dar aqui um open
+ 
+
+1271
+00:20:00,080 --> 00:20:03,110
+posso, por exemplo, dar aqui um open
+claw config. E aí, meu amigo, a gente
+
+1272
+00:20:03,110 --> 00:20:03,120
+claw config. E aí, meu amigo, a gente
+ 
+
+1273
+00:20:03,120 --> 00:20:06,549
+claw config. E aí, meu amigo, a gente
+pode configurar as coisas via OpenC aqui
+
+1274
+00:20:06,549 --> 00:20:06,559
+pode configurar as coisas via OpenC aqui
+ 
+
+1275
+00:20:06,559 --> 00:20:08,350
+pode configurar as coisas via OpenC aqui
+pelo terminal. Por exemplo, eu posso
+
+1276
+00:20:08,350 --> 00:20:08,360
+pelo terminal. Por exemplo, eu posso
+ 
+
+1277
+00:20:08,360 --> 00:20:09,549
+pelo terminal. Por exemplo, eu posso
+falar: "Olha, eu quero configurar aqui
+
+1278
+00:20:09,549 --> 00:20:09,559
+falar: "Olha, eu quero configurar aqui
+ 
+
+1279
+00:20:09,559 --> 00:20:11,430
+falar: "Olha, eu quero configurar aqui
+na nossa máquina, então local, dou um
+
+1280
+00:20:11,430 --> 00:20:11,440
+na nossa máquina, então local, dou um
+ 
+
+1281
+00:20:11,440 --> 00:20:13,510
+na nossa máquina, então local, dou um
+enter aqui. Eu quero configurar, por
+
+1282
+00:20:13,510 --> 00:20:13,520
+enter aqui. Eu quero configurar, por
+ 
+
+1283
+00:20:13,520 --> 00:20:15,990
+enter aqui. Eu quero configurar, por
+exemplo, web tools, que seria as
+
+1284
+00:20:15,990 --> 00:20:16,000
+exemplo, web tools, que seria as
+ 
+
+1285
+00:20:16,000 --> 00:20:17,990
+exemplo, web tools, que seria as
+ferramentas ali, por exemplo, de web
+
+1286
+00:20:17,990 --> 00:20:18,000
+ferramentas ali, por exemplo, de web
+ 
+
+1287
+00:20:18,000 --> 00:20:20,070
+ferramentas ali, por exemplo, de web
+search, né, navegador. Vou dar aqui y
+
+1288
+00:20:20,070 --> 00:20:20,080
+search, né, navegador. Vou dar aqui y
+ 
+
+1289
+00:20:20,080 --> 00:20:22,270
+search, né, navegador. Vou dar aqui y
+que eu quero habilitar o web search.
+
+1290
+00:20:22,270 --> 00:20:22,280
+que eu quero habilitar o web search.
+ 
+
+1291
+00:20:22,280 --> 00:20:23,990
+que eu quero habilitar o web search.
+Sensacional. Ele já vem por padrão ali,
+
+1292
+00:20:23,990 --> 00:20:24,000
+Sensacional. Ele já vem por padrão ali,
+ 
+
+1293
+00:20:24,000 --> 00:20:25,470
+Sensacional. Ele já vem por padrão ali,
+mas a gente pode habilitar. E a gente
+
+1294
+00:20:25,470 --> 00:20:25,480
+mas a gente pode habilitar. E a gente
+ 
+
+1295
+00:20:25,480 --> 00:20:27,230
+mas a gente pode habilitar. E a gente
+tem outras formas de fazer com que ele
+
+1296
+00:20:27,230 --> 00:20:27,240
+tem outras formas de fazer com que ele
+ 
+
+1297
+00:20:27,240 --> 00:20:28,909
+tem outras formas de fazer com que ele
+busque, como eu falei para vocês, usando
+
+1298
+00:20:28,909 --> 00:20:28,919
+busque, como eu falei para vocês, usando
+ 
+
+1299
+00:20:28,919 --> 00:20:31,149
+busque, como eu falei para vocês, usando
+o Brave Search, olha que legal. Eh,
+
+1300
+00:20:31,149 --> 00:20:31,159
+o Brave Search, olha que legal. Eh,
+ 
+
+1301
+00:20:31,159 --> 00:20:33,029
+o Brave Search, olha que legal. Eh,
+posso usar o Fire Craw, posso usar
+
+1302
+00:20:33,029 --> 00:20:33,039
+posso usar o Fire Craw, posso usar
+ 
+
+1303
+00:20:33,039 --> 00:20:35,310
+posso usar o Fire Craw, posso usar
+também o Gemini com API, posso usar aqui
+
+1304
+00:20:35,310 --> 00:20:35,320
+também o Gemini com API, posso usar aqui
+ 
+
+1305
+00:20:35,320 --> 00:20:38,110
+também o Gemini com API, posso usar aqui
+também o o Tav Search, então tem várias,
+
+1306
+00:20:38,110 --> 00:20:38,120
+também o o Tav Search, então tem várias,
+ 
+
+1307
+00:20:38,120 --> 00:20:39,830
+também o o Tav Search, então tem várias,
+né? Deixa eu dar um skip aqui. Então, o
+
+1308
+00:20:39,830 --> 00:20:39,840
+né? Deixa eu dar um skip aqui. Então, o
+ 
+
+1309
+00:20:39,840 --> 00:20:41,310
+né? Deixa eu dar um skip aqui. Então, o
+que que vocês acharam do vídeo
+
+1310
+00:20:41,310 --> 00:20:41,320
+que que vocês acharam do vídeo
+ 
+
+1311
+00:20:41,320 --> 00:20:43,230
+que que vocês acharam do vídeo
+conhecendo aí o Open Claw, todo o poder
+
+1312
+00:20:43,230 --> 00:20:43,240
+conhecendo aí o Open Claw, todo o poder
+ 
+
+1313
+00:20:43,240 --> 00:20:44,750
+conhecendo aí o Open Claw, todo o poder
+dele? Agora a gente pode gerenciar todo
+
+1314
+00:20:44,750 --> 00:20:44,760
+dele? Agora a gente pode gerenciar todo
+ 
+
+1315
+00:20:44,760 --> 00:20:46,710
+dele? Agora a gente pode gerenciar todo
+ele por aqui, configurar qual que é o
+
+1316
+00:20:46,710 --> 00:20:46,720
+ele por aqui, configurar qual que é o
+ 
+
+1317
+00:20:46,720 --> 00:20:48,070
+ele por aqui, configurar qual que é o
+nosso agente, o que que ele vai fazer,
+
+1318
+00:20:48,070 --> 00:20:48,080
+nosso agente, o que que ele vai fazer,
+ 
+
+1319
+00:20:48,080 --> 00:20:50,110
+nosso agente, o que que ele vai fazer,
+qual que é a alma dele, né? a identidade
+
+1320
+00:20:50,110 --> 00:20:50,120
+qual que é a alma dele, né? a identidade
+ 
+
+1321
+00:20:50,120 --> 00:20:51,789
+qual que é a alma dele, né? a identidade
+desse agente ou até criar mais agentes
+
+1322
+00:20:51,789 --> 00:20:51,799
+desse agente ou até criar mais agentes
+ 
+
+1323
+00:20:51,799 --> 00:20:54,310
+desse agente ou até criar mais agentes
+em paralelo ali, ter canais separados,
+
+1324
+00:20:54,310 --> 00:20:54,320
+em paralelo ali, ter canais separados,
+ 
+
+1325
+00:20:54,320 --> 00:20:56,830
+em paralelo ali, ter canais separados,
+agendar tarefas e automatizar processos.
+
+1326
+00:20:56,830 --> 00:20:56,840
+agendar tarefas e automatizar processos.
+ 
+
+1327
+00:20:56,840 --> 00:20:58,390
+agendar tarefas e automatizar processos.
+Se vocês querem mais vídeos sobre como
+
+1328
+00:20:58,390 --> 00:20:58,400
+Se vocês querem mais vídeos sobre como
+ 
+
+1329
+00:20:58,400 --> 00:20:59,830
+Se vocês querem mais vídeos sobre como
+que eu utilizo o OpenCloud aqui dentro
+
+1330
+00:20:59,830 --> 00:20:59,840
+que eu utilizo o OpenCloud aqui dentro
+ 
+
+1331
+00:20:59,840 --> 00:21:01,390
+que eu utilizo o OpenCloud aqui dentro
+dos meus projetos, deixa o seu
+
+1332
+00:21:01,390 --> 00:21:01,400
+dos meus projetos, deixa o seu
+ 
+
+1333
+00:21:01,400 --> 00:21:03,549
+dos meus projetos, deixa o seu
+comentário. E lembrando, tá? Usa o
+
+1334
+00:21:03,549 --> 00:21:03,559
+comentário. E lembrando, tá? Usa o
+ 
+
+1335
+00:21:03,559 --> 00:21:05,789
+comentário. E lembrando, tá? Usa o
+cupom, o link que tá na descrição aqui
+
+1336
+00:21:05,789 --> 00:21:05,799
+cupom, o link que tá na descrição aqui
+ 
+
+1337
+00:21:05,799 --> 00:21:07,669
+cupom, o link que tá na descrição aqui
+para você pegar a VPS e ter um desconto
+
+1338
+00:21:07,669 --> 00:21:07,679
+para você pegar a VPS e ter um desconto
+ 
+
+1339
+00:21:07,679 --> 00:21:09,669
+para você pegar a VPS e ter um desconto
+a mais. E além disso, né, do custo
+
+1340
+00:21:09,669 --> 00:21:09,679
+a mais. E além disso, né, do custo
+ 
+
+1341
+00:21:09,679 --> 00:21:11,510
+a mais. E além disso, né, do custo
+benefício que a Hostinger traz de ser,
+
+1342
+00:21:11,510 --> 00:21:11,520
+benefício que a Hostinger traz de ser,
+ 
+
+1343
+00:21:11,520 --> 00:21:14,190
+benefício que a Hostinger traz de ser,
+cara, uma VPS de qualidade, você tem um
+
+1344
+00:21:14,190 --> 00:21:14,200
+cara, uma VPS de qualidade, você tem um
+ 
+
+1345
+00:21:14,200 --> 00:21:16,149
+cara, uma VPS de qualidade, você tem um
+suporte aqui 24 horas, basicamente,
+
+1346
+00:21:16,149 --> 00:21:16,159
+suporte aqui 24 horas, basicamente,
+ 
+
+1347
+00:21:16,159 --> 00:21:17,630
+suporte aqui 24 horas, basicamente,
+tanto com o chat quanto abrir, se você
+
+1348
+00:21:17,630 --> 00:21:17,640
+tanto com o chat quanto abrir, se você
+ 
+
+1349
+00:21:17,640 --> 00:21:19,789
+tanto com o chat quanto abrir, se você
+tiver algum problema. Então eu utilizo
+
+1350
+00:21:19,789 --> 00:21:19,799
+tiver algum problema. Então eu utilizo
+ 
+
+1351
+00:21:19,799 --> 00:21:21,430
+tiver algum problema. Então eu utilizo
+dentro dos meus projetos, dentro dos
+
+1352
+00:21:21,430 --> 00:21:21,440
+dentro dos meus projetos, dentro dos
+ 
+
+1353
+00:21:21,440 --> 00:21:23,230
+dentro dos meus projetos, dentro dos
+clientes aqui que a gente tem muito a
+
+1354
+00:21:23,230 --> 00:21:23,240
+clientes aqui que a gente tem muito a
+ 
+
+1355
+00:21:23,240 --> 00:21:25,789
+clientes aqui que a gente tem muito a
+VPS da Hosinger, a parte dos domínios, a
+
+1356
+00:21:25,789 --> 00:21:25,799
+VPS da Hosinger, a parte dos domínios, a
+ 
+
+1357
+00:21:25,799 --> 00:21:27,710
+VPS da Hosinger, a parte dos domínios, a
+parte das hospedagens e ela é parceira
+
+1358
+00:21:27,710 --> 00:21:27,720
+parte das hospedagens e ela é parceira
+ 
+
+1359
+00:21:27,720 --> 00:21:29,390
+parte das hospedagens e ela é parceira
+aqui do canal. Então, se você for pegar,
+
+1360
+00:21:29,390 --> 00:21:29,400
+aqui do canal. Então, se você for pegar,
+ 
+
+1361
+00:21:29,400 --> 00:21:31,950
+aqui do canal. Então, se você for pegar,
+o link tá na descrição, pega aí a VPS da
+
+1362
+00:21:31,950 --> 00:21:31,960
+o link tá na descrição, pega aí a VPS da
+ 
+
+1363
+00:21:31,960 --> 00:21:33,549
+o link tá na descrição, pega aí a VPS da
+Hosinger e ainda tem um desconto para
+
+1364
+00:21:33,549 --> 00:21:33,559
+Hosinger e ainda tem um desconto para
+ 
+
+1365
+00:21:33,559 --> 00:21:35,110
+Hosinger e ainda tem um desconto para
+vocês. Então comenta aqui embaixo se
+
+1366
+00:21:35,110 --> 00:21:35,120
+vocês. Então comenta aqui embaixo se
+ 
+
+1367
+00:21:35,120 --> 00:21:36,669
+vocês. Então comenta aqui embaixo se
+você quer mais um vídeo aqui no canal
+
+1368
+00:21:36,669 --> 00:21:36,679
+você quer mais um vídeo aqui no canal
+ 
+
+1369
+00:21:36,679 --> 00:21:38,230
+você quer mais um vídeo aqui no canal
+sobre que eu traga como utilizar e como
+
+1370
+00:21:38,230 --> 00:21:38,240
+sobre que eu traga como utilizar e como
+ 
+
+1371
+00:21:38,240 --> 00:21:40,070
+sobre que eu traga como utilizar e como
+que eu tô utilizando o OpenCloud, deixa
+
+1372
+00:21:40,070 --> 00:21:40,080
+que eu tô utilizando o OpenCloud, deixa
+ 
+
+1373
+00:21:40,080 --> 00:21:41,789
+que eu tô utilizando o OpenCloud, deixa
+o seu comentário que eu vou trazer para
+
+1374
+00:21:41,789 --> 00:21:41,799
+o seu comentário que eu vou trazer para
+ 
+
+1375
+00:21:41,799 --> 00:21:45,120
+o seu comentário que eu vou trazer para
+vocês. Até o próximo vídeo.
+
