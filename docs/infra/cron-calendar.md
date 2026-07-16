@@ -1,6 +1,6 @@
 # Cron Calendar — Todos os Agentes
 
-> Última atualização: 2026-07-01
+> Última atualização: 2026-07-15
 > Ω · Denalth
 
 ## Regras de escalonamento
@@ -16,19 +16,23 @@
 | Cron | ID | Horário (BRT) | Modelo | Frequência | Status |
 |------|----|--------------|--------|------------|--------|
 | Memory Dreaming Promotion | dec6d229 | **04:00** | default | diário | ✅ OK |
-| omega:git-autosave | 2f49e8ef | **08:50, 22:50** | glm-4.5-flash | 2x/dia | ✅ OK |
-| omega:docs-sync | 9a2fbf1d | **08:50, 22:50** | glm-4.5-flash | 2x/dia | ✅ NOVO |
-| omega:auto-melhoria | 59182433 | **Sáb 07:00** | glm-4.5-flash | semanal | ✅ OK |
-| omega:docs-review | 42711a59 | **Dom 07:00** | glm-4.5-flash | semanal | ✅ OK |
-| omega:security-audit | 0bf46e12 | **Dia 1/15 07:00** | glm-4.5-flash | quinzenal | ✅ OK |
+| omega:git-autosave | 2f49e8ef | **08:50, 22:50** | glm-4.7-flash | 2x/dia | ✅ OK |
+| omega:docs-sync | 9a2fbf1d | **08:50, 22:50** | glm-4.7-flash | 2x/dia | ✅ OK |
+| omega:auto-melhoria | 59182433 | **Sáb 07:00** | glm-4.7-flash | semanal | ✅ OK |
+| omega:docs-review | 42711a59 | **Dom 07:00** | glm-4.7-flash | semanal | ✅ OK |
+| omega:security-audit | 0bf46e12 | **Dia 1/15 07:00** | glm-4.7-flash | quinzenal | ✅ OK |
+| omega:autoresearch-memory | 53190ff9 | **03:00** | glm-4.7-flash | diário | ✅ NOVO |
+| omega:autoresearch-agents | 1ed6c04f | **04:00** | glm-4.7-flash | diário | ✅ NOVO |
+| omega:autoresearch-tools | 71ad1666 | **05:00** | glm-4.7-flash | diário | ✅ NOVO |
 
 ### Google Calendar — Omega Cron
 - **ID:** fbd4cbd83fc92f1ee6addb54333199f33342f9f23578ed27d53de7b8a85f5aa0@group.calendar.google.com
 - **Acesso:** `gog calendar events "Omega Cron" --account aleph.ai.code@gmail.com`
 
-### Status Atual (2026-06-15)
-- ✅ **Todos os crons OK** — migrados para Ollama local (ollama/qwen2.5-coder:3b + fallback ollama/qwen3:4b)
-- ✅ **Timeouts resolvidos** — payload 300s
+### Status Atual (2026-07-15)
+- ✅ **Todos os crons OK** — migrados para zai/glm-4.7-flash (grátis, na allowlist)
+- ✅ **AutoResearch v2.0** — 3 crons nativos adicionados (memory, agents, tools)
+- ✅ **Modelos corrigidos** — todos crons agora usam glm-4.7-flash (não mais ollama)
 - ✅ **Watchdog** removido (função absorvida por crons individuais)
 
 ## Atlas (info-d1454ns — Windows, porta 18790)
@@ -99,7 +103,9 @@
 |------|-------|-------|--------|
 | 02:00 | **Backup Diário** ⭐ | — | ✅ NOVO |
 | 03:00 | Memory Dreaming | — | ✅ OK |
-| 04:00 | — | Memory Dreaming | ✅ OK |
+| 03:00 | — | AutoResearch Memory | ✅ NOVO |
+| 04:00 | — | Memory Dreaming + AutoResearch Agents | ✅ OK |
+| 05:00 | — | AutoResearch Tools | ✅ NOVO |
 | 06:00 | Auto-melhoria (Sáb) / Docs (Dom) | — | ✅ OK |
 | 06:35 | Security Audit | — | ✅ OK |
 | 07:00 | — | Auto/Docs/Security | ✅ OK |
