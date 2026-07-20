@@ -1,6 +1,6 @@
 # Cron Calendar — Todos os Agentes
 
-> Última atualização: 2026-07-18
+> Última atualização: 2026-07-19
 > Ω · Denalth
 
 ## Regras de escalonamento
@@ -17,6 +17,8 @@
 |------|----|--------------|--------|------------|--------|
 | Memory Dreaming Promotion | 21a59bbc | **03:00** | default | diário | ✅ OK |
 | omega:autoresearch-v2 | f0458b99 | **03:00** | glm-4.7 | diário | ✅ NOVO v2 |
+| omega:memory-ingestion | 415b4469 | **04:00** | glm-4.7-flash | diário | ✅ NOVO |
+| omega:wiki-self-healing | c2058451 | **Seg 05:00** | glm-4.7-flash | semanal | ✅ NOVO |
 | omega:git-autosave | 2f49e8ef | **08:50, 22:50** | glm-4.7-flash | 2x/dia | ✅ OK |
 | omega:docs-sync | 9a2fbf1d | **08:50, 22:50** | glm-4.7-flash | 2x/dia | ✅ OK |
 | omega:auto-melhoria | 59182433 | **Sáb 07:00** | glm-4.7-flash | semanal | ✅ OK |
